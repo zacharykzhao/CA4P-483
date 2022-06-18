@@ -1,0 +1,1865 @@
+[
+    {
+        "classId": "e_16",
+        "classId_name": "其他",
+        "text": "# 阳光养猪场隐私政策\n（生效时间2020年11月25日）\n您在使用阳光养猪场服务时，阳光养猪场将按照法律法规的规定，保护您的个人信息及隐私安全。因阳光养猪场的成功取决于建立与维护对用户的良好信誉，我们会坚定的实施隐私政策。\n**如您未满18周岁，请您在监护人陪同下仔细阅读并充分理解本隐私政策，并征得监护人的同意后使用我们的服务或向我们提供信息。**\n希望您在使用阳光养猪场服务前仔细阅读并理解本隐私政策，在阅读完本政策之后，如您对本《隐私政策》或与本《隐私政策》相关的事宜有任何问题，请联系邮箱：hogfarmgame@021.com。\n**您使用或继续使用阳光养猪场，都表示您同意我们按照本《隐私政策》收集、使用、储存和分享您的信息。有关您个人信息权益的条款重要内容我们已用加粗形式提示，请特别关注。*",
+        "start": 32,
+        "end": 386,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_1",
+        "classId_name": "App或网站收集使用处理个人信息",
+        "text": "## 一、我们如何收集和使用信息\n我们会按照如下方式收集您在使用服务时主动提供的，以及通过自动化手段收集您在使用功能或接受服务过程中产生的信息：\n### （一）注册、登录\n为了帮助您注册阳光养猪场账号，以便于您使用阳光养猪场的软件功能，我们需要收集您的如下信息：\n1\\. 当您注册阳光养猪场时，您可以通过手机号创建账号， **我们需要收集您的手机号码，** 将通过向您的注册手机号发送短信验证码来验证您的身份是否有效。\n2\\. 您也可以通过第三方账号登录进入阳光养猪场， **我们将获取您在第三方平台注册的信息（头像、昵称、地区、性别）。**\n目前支持第三方登录的账号为：腾讯QQ、微信。",
+        "start": 399,
+        "end": 693,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_1",
+        "classId_name": "App或网站收集使用处理个人信息",
+        "text": "### （二）业务功能\n我们产品涉及的功能及模块如下：\n1、分享功能\n您在使用阳光养猪场分享功能时，基于您的明确同意，我们将唤醒您的微信或QQ，您可以自行决定使用您的微信或QQ进行好友邀请，我们在此过程中不会收集您的任何信息。如您拒绝唤醒您的微信或QQ功能，您将无法使用好友邀请功能，但不影响您使用阳光养猪场产品的其他功能。\n您在使用微信或QQ应用时，请注意关注微信《隐私保护指引》或QQ《隐私政策》中关于使用您个人信息的规则。\n2、猪币提现\n在您使用猪币提现功能时，基于风控的考虑， **我们会绑定您的本机电话号码、微信或京东金融账号，**\n您的猪币会根据阳光养猪场的提现规则折算对应的人民币提现到您的微信或京东金融账户中，若您未能绑定本机号码及 微信、京东金融账号，将无法实现提现功能。\n当您选择提现到微信账户时，若您非通过微信账户登录，则需要您的明确授权绑定微信账户。\n京东金融账户提现仅限于未注册京东金融的用户，\n**我们会通过加密传输的方式将您注册阳光养猪场的手机号分享至京东金融，该分享仅用于核实您的手机号码是否注册过京东金融，**\n这个过程中我们进行了去标识化处理，不会识别您的其他个人信息。选择使用京东金融方式提现的用户，我们会将页面跳转至京东金融注册界面，您可依照京东金融的要求，自行注册京东金融账户后会提现至京东金融账户。但您在使用京东金融应用时，请注意关注京东金融《隐私隐私政策》中关于使用您个人信息的规则。\n在您提现金额大于等于800元时，为申报个人所得税的目的， **您需要提供您的身份证号码进行实名认证。**\n身份证号码属于您的敏感信息，我们仅将该信息用户申报您的个人所得税，并对该信息进行高度加密。\n如您通过手机号码创建阳光养猪场账户，当您账户中的猪币达到一定数量时，我们会通过短信通知的形式告知您当前猪币数量，并提醒您可以进行商品兑换。\n3、实名认证\n当您注册登录时或您的游戏时间到达一小时时，您需要进行实名认证。 **您在进行实名认证时，我们将收集您的真实姓名和真实有效的身份证号码信息，**\n上述信息属于您的敏感信息，我们仅用作实名认证，并进行高度加密。如您拒绝提供上述信息，将无法进行实名认证，但不影响您使用阳光养猪场产品的其他功能。\n4、参与活动送奖品\n您在使用参与活动功能时，若您获奖，我们将基于您的主动提供 **收集您的收件地址、收件人姓名、收件人联系方式，以便于奖品或礼品的邮寄。**\n如您拒绝提供，我们将无法寄出产品，但不影响您使用阳光养猪场产品的其他功能。",
+        "start": 705,
+        "end": 1758,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_1",
+        "classId_name": "App或网站收集使用处理个人信息",
+        "text": "5、接受消息推送服务\n在您授权接受通知权限后，我们将向您提供阳光养猪场的推送消息服务。\n您可以通过点击“我的—设置—推送通知”关闭提供、推送服务。关闭此功能后，我司将不再向您推送任何信息。",
+        "start": 1759,
+        "end": 1853,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_1",
+        "classId_name": "App或网站收集使用处理个人信息",
+        "text": "2.基于您的同意，我们收集您的地理位置信息仅用于大数据分析以及安全风险防控。",
+        "start": 1997,
+        "end": 2035,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_1",
+        "classId_name": "App或网站收集使用处理个人信息",
+        "text": "### （四）设备信息和日志信息\n1.基于以下原因，我们需要收集您的设备信息、日志信息：\n（1）检测用户的账号是否安全，防止用户遇到盗用、欺诈等行为。\n（2）保障网络安全和运营安全，杜绝恶意作弊的行为。\n（3）为了帮助我们进行故障分析.\n**2.设备信息是指：是指您使用本软件时使用的设备的信息。我们会收集您的设备品牌、设备型号、屏幕分辨率、设备识别码（IMEI）、系统版本、应用识别码、IP地址、设备MAC地址、应用列表、IDFV、IDFV信息。**\n3.日志信息内容包括：\n（1）本软件的使用信息：您使用本软件的版本号、软件的总体运行情况、使用情况及频率。该类数据都是匿名的，我们不会对该等信息进行一一匹配、也不会与您的个人身份信息进行匹配。\n（2）网络安全事件相关日志信息，例如网络崩溃、系统活动等信息。此类信息为法律规定要求收集的信息，如您不想此等信息被我们收集，则请您不要使用本软件。\n**4、为了预防恶意程序、确保运营质量及效率，我们需要收集您的应用列表信息，包括安装的应用信息或正在运行的进程信息、应用程序的总体运行、使用情况与频率、应用崩溃情况、总体安装使用情况、性能数据、应用来源情况，以更好地优化我们的移动软件在您的手机中的功能，从而为您提供更好的服务。**\n5、请您谅解，设备信息的收集是我们服务提供的前提和基础，您安装并打开本软件之后，我们将通过“授权弹窗”的方式征求您的同意。\n6、单独的设备信息无法识别特定自然人身份，且该等信息我们均进行了去标识化、匿名化处理。",
+        "start": 2047,
+        "end": 2692,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_1",
+        "classId_name": "App或网站收集使用处理个人信息",
+        "text": "## 二、依法豁免征得同意收集和使用的个人信息\n请您理解，在下列情形中，根据法律法规及相关国家标准，我们收集和使用您的个人信息无需征得您的授权同意：\n1.与个人信息控制者履行法律法规规定的义务相关的；\n2.与国家安全、国防安全直接相关的；\n3.与公共安全、公共卫生、重大公共利益直接相关的；\n4.与刑事侦查、起诉、审判和判决执行等直接相关的；\n5.出于维护个人信息主体或其他个人的生命、财产等重大合法权益但又很难得到本人授权同意的；\n6.所涉及的个人信息是个人信息主体自行向社会公众公开的；\n7.根据个人信息主体要求签订和履行合同所必需的；\n8.从合法公开披露的信息中收集个人信息的，如合法的新闻报道、政府信息公开等渠道；\n9.维护所提供产品或服务的安全稳定运行所必需的，如发现、处置产品或服务的故障；\n10.个人信息控制者为新闻单位，且其开展合法的新闻报道所必需的；\n11.个人信息控制者为学术研究机构，出于公共利益开展统计或学术研究所必要，且其对外提供学术研究或描述的结果时，对结果中所包含的个人信息进行去标识化处理的。",
+        "start": 2704,
+        "end": 3166,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 416,
+        "end": 418,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 517,
+        "end": 519,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 562,
+        "end": 564,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 637,
+        "end": 639,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 1541,
+        "end": 1543,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 1669,
+        "end": 1671,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "本软件",
+        "start": 1955,
+        "end": 1958,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 2006,
+        "end": 2008,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 2073,
+        "end": 2075,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 2468,
+        "end": 2470,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 2754,
+        "end": 2756,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 3224,
+        "end": 3226,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们的第三方合作伙伴",
+        "start": 3227,
+        "end": 3237,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 4209,
+        "end": 4211,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 4412,
+        "end": 4414,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "服务提供商",
+        "start": 4415,
+        "end": 4420,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 4888,
+        "end": 4890,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "北京数美时代科技有限公司",
+        "start": 5544,
+        "end": 5556,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "北京数美时代科技有限公司",
+        "start": 5708,
+        "end": 5720,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "他们",
+        "start": 5826,
+        "end": 5828,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "他们",
+        "start": 6127,
+        "end": 6129,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "他们",
+        "start": 6243,
+        "end": 6245,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "华为",
+        "start": 6472,
+        "end": 6474,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "小米",
+        "start": 6500,
+        "end": 6502,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "OPPO",
+        "start": 6531,
+        "end": 6535,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "vivo",
+        "start": 6561,
+        "end": 6565,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "魅族",
+        "start": 6591,
+        "end": 6593,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "他们",
+        "start": 6738,
+        "end": 6740,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "他们",
+        "start": 6854,
+        "end": 6856,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "他们",
+        "start": 6933,
+        "end": 6935,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "他们",
+        "start": 7041,
+        "end": 7043,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "他们",
+        "start": 7224,
+        "end": 7226,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "他们",
+        "start": 7354,
+        "end": 7356,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "他们",
+        "start": 7487,
+        "end": 7489,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "他们",
+        "start": 7617,
+        "end": 7619,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 425,
+        "end": 427,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 449,
+        "end": 451,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 521,
+        "end": 523,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 566,
+        "end": 568,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "获取",
+        "start": 640,
+        "end": 642,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 1544,
+        "end": 1546,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 1683,
+        "end": 1685,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 1978,
+        "end": 1980,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "处理",
+        "start": 1981,
+        "end": 1983,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 2008,
+        "end": 2010,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 2077,
+        "end": 2079,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 2472,
+        "end": 2474,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 2756,
+        "end": 2758,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "使用",
+        "start": 2759,
+        "end": 2761,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "获取",
+        "start": 3259,
+        "end": 3261,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "使用",
+        "start": 3262,
+        "end": 3264,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "保留、保存",
+        "start": 4900,
+        "end": 4905,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 5557,
+        "end": 5559,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 5721,
+        "end": 5723,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 5834,
+        "end": 5836,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 6135,
+        "end": 6137,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 6251,
+        "end": 6253,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 6480,
+        "end": 6482,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 6508,
+        "end": 6510,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 6541,
+        "end": 6543,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 6571,
+        "end": 6573,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 6599,
+        "end": 6601,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 6746,
+        "end": 6748,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 6862,
+        "end": 6864,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 6941,
+        "end": 6943,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 7049,
+        "end": 7051,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 7232,
+        "end": 7234,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 7362,
+        "end": 7364,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 7495,
+        "end": 7497,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 7625,
+        "end": 7627,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "您在使用服务时主动提供的",
+        "start": 427,
+        "end": 439,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "您在使用功能或接受服务过程中产生的信息",
+        "start": 451,
+        "end": 470,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "如下信息",
+        "start": 525,
+        "end": 529,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "手机号码",
+        "start": 570,
+        "end": 574,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "第三方平台注册的信息（头像、昵称、地区、性别）",
+        "start": 644,
+        "end": 667,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "您的真实姓名",
+        "start": 1546,
+        "end": 1552,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "真实有效的身份证号码信息",
+        "start": 1553,
+        "end": 1565,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "您的收件地址、收件人姓名、收件人联系方式",
+        "start": 1685,
+        "end": 1705,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "有关您实际所在位置的信息",
+        "start": 1983,
+        "end": 1995,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "地理位置信息",
+        "start": 2012,
+        "end": 2018,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "设备信息、日志信息",
+        "start": 2081,
+        "end": 2090,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "应用列表信息",
+        "start": 2476,
+        "end": 2482,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "安装的应用信息",
+        "start": 2485,
+        "end": 2492,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "正在运行的进程信息、应用程序的总体运行、使用情况与频率、应用崩溃情况、总体安装使用情况、性能数据、应用来源情况",
+        "start": 2493,
+        "end": 2548,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "个人信息",
+        "start": 2763,
+        "end": 2767,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "信息",
+        "start": 3266,
+        "end": 3268,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "日志信息",
+        "start": 3278,
+        "end": 3282,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "个人信息",
+        "start": 4230,
+        "end": 4234,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "必要的设备、账号",
+        "start": 4425,
+        "end": 4433,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "日志信息",
+        "start": 4434,
+        "end": 4438,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "产品使用情况（崩溃、闪退）的统计性数据",
+        "start": 4485,
+        "end": 4504,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "个人信息",
+        "start": 4910,
+        "end": 4914,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "设备相关的信息",
+        "start": 5563,
+        "end": 5570,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "设备MAC地址",
+        "start": 5579,
+        "end": 5586,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "唯一设备识别码（如IMEI、IDFA）、手机的基本配置信息",
+        "start": 5587,
+        "end": 5616,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "CPU、内存、屏幕、手机型号、操作系统",
+        "start": 5618,
+        "end": 5637,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "网络信息",
+        "start": 5640,
+        "end": 5644,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "WIFI及蜂窝网络信息、IP地址",
+        "start": 5646,
+        "end": 5662,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "安装软件列表及软件相关配置信息",
+        "start": 5665,
+        "end": 5680,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "事件行为",
+        "start": 5727,
+        "end": 5731,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "相应的用户系统账号唯一标识、手机号码、IP地址、时间戳",
+        "start": 5733,
+        "end": 5760,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "IMEI、IMSI",
+        "start": 5838,
+        "end": 5847,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "手机型号",
+        "start": 5848,
+        "end": 5852,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "系统版本信息、运营商信息",
+        "start": 5853,
+        "end": 5865,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "IMEI、IMSI信息、MAC地址信息",
+        "start": 6139,
+        "end": 6158,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "IMEI、设备ID、位置信息、IP信息、运营商信息、mac地址、用户手机号、应用列表信息",
+        "start": 6255,
+        "end": 6299,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "移动安全联盟的设备标识（AAID）",
+        "start": 6482,
+        "end": 6499,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "IMEI号、设备ID、设备型号、IP信息",
+        "start": 6510,
+        "end": 6530,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "移动安全联盟的设备标识（AAID）",
+        "start": 6543,
+        "end": 6560,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "移动安全联盟的设备标识（AAID）",
+        "start": 6573,
+        "end": 6590,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "设备识别码（IMEI号码",
+        "start": 6601,
+        "end": 6613,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "设备硬件信息、IP 地址、Mac 地址、应用列表、位置信息",
+        "start": 6616,
+        "end": 6645,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "IMEI、IMSI、手机型号",
+        "start": 6750,
+        "end": 6764,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "系统版本信息、运营商信息、应用安装列表信息",
+        "start": 6765,
+        "end": 6786,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "IMEI、IMSI信息",
+        "start": 6866,
+        "end": 6877,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "不能识别您个人身份的间接画像标签",
+        "start": 6943,
+        "end": 6959,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "去标识化或匿名化后的信息",
+        "start": 6960,
+        "end": 6972,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "去标识化的统计信息",
+        "start": 7051,
+        "end": 7060,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "imei/网络状态/mac地址/位置信息/应用列表信息",
+        "start": 7236,
+        "end": 7263,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "IMEI、IMSI和位置信息",
+        "start": 7366,
+        "end": 7380,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "IMEI、IMSI信息",
+        "start": 7499,
+        "end": 7510,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "IMEI、IMSI信息",
+        "start": 7629,
+        "end": 7640,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "为了帮助您注册阳光养猪场账号",
+        "start": 485,
+        "end": 499,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "以便于您使用阳光养猪场的软件功能",
+        "start": 500,
+        "end": 516,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "以便于奖品或礼品的邮寄。",
+        "start": 1706,
+        "end": 1718,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "大数据分析以及安全风险防控",
+        "start": 2021,
+        "end": 2034,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "基于以下原因",
+        "start": 2066,
+        "end": 2072,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "检测用户的账号是否安全，防止用户遇到盗用、欺诈等行为",
+        "start": 2095,
+        "end": 2121,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "保障网络安全和运营安全，杜绝恶意作弊的行为",
+        "start": 2126,
+        "end": 2147,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "为了帮助我们进行故障分析",
+        "start": 2152,
+        "end": 2164,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "为了预防恶意程序、确保运营质量及效率",
+        "start": 2449,
+        "end": 2467,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "以更好地优化我们的移动软件在您的手机中的功能，从而为您提供更好的服务",
+        "start": 2549,
+        "end": 2583,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "为保障您和其他用户的账号与财产安全，使您和我们的正当合法权益免受不法侵害",
+        "start": 4360,
+        "end": 4396,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "为了防止机器人对盗刷金币",
+        "start": 4399,
+        "end": 4411,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "为分析我们服务的使用情况，提升用户使用的体验",
+        "start": 4449,
+        "end": 4471,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "为以下原因",
+        "start": 4893,
+        "end": 4898,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "与国家安全、国防安全有关的",
+        "start": 4922,
+        "end": 4935,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "与公共安全、公共卫生、重大公共利益有关的",
+        "start": 4941,
+        "end": 4961,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "与犯罪侦查、起诉、审判和判决执行等有关的",
+        "start": 4967,
+        "end": 4987,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "出于维护您或其他个人的生命、财产等重大合法权益但又很难得到本人同意的",
+        "start": 4993,
+        "end": 5027,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "您自行向社会公众公开的个人信息",
+        "start": 5033,
+        "end": 5048,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "从合法公开披露的信息中收集个人信息的，",
+        "start": 5054,
+        "end": 5073,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "根据法律规定，共享、转让经去标识化处理的个人信息，且确保数据接收方无法复原并重新识别个人信息主体的",
+        "start": 5097,
+        "end": 5146,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "为了能够构建防篡改的设备指纹服务",
+        "start": 5527,
+        "end": 5543,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "为了提供准确实时的欺诈账号和欺诈行为识别服务",
+        "start": 5685,
+        "end": 5707,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "以帮助其在不识别您个人身份的前提下提升广告有效触达率",
+        "start": 6976,
+        "end": 7002,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "帮助我们分析、衡量广告和相关服务的有效性",
+        "start": 7085,
+        "end": 7105,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "当您注册阳光养猪场时，您可以通过手机号创建账号，",
+        "start": 535,
+        "end": 559,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "您也可以通过第三方账号登录进入阳光养猪场，",
+        "start": 613,
+        "end": 634,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "您在进行实名认证时",
+        "start": 1531,
+        "end": 1540,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "您在使用参与活动功能时，若您获奖",
+        "start": 1652,
+        "end": 1668,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "当您开启设备定位功能并使用本软件时",
+        "start": 1937,
+        "end": 1954,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "基于您的同意",
+        "start": 1999,
+        "end": 2005,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "在下列情形中",
+        "start": 2733,
+        "end": 2739,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "与个人信息控制者履行法律法规规定的义务相关的",
+        "start": 2781,
+        "end": 2803,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "与国家安全、国防安全直接相关的",
+        "start": 2807,
+        "end": 2822,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "与公共安全、公共卫生、重大公共利益直接相关的",
+        "start": 2826,
+        "end": 2848,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "与刑事侦查、起诉、审判和判决执行等直接相关的",
+        "start": 2852,
+        "end": 2874,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "于维护个人信息主体或其他个人的生命、财产等重大合法权益但又很难得到本人授权同意的",
+        "start": 2879,
+        "end": 2919,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "所涉及的个人信息是个人信息主体自行向社会公众公开",
+        "start": 2923,
+        "end": 2947,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "根据个人信息主体要求签订和履行合同所必需的",
+        "start": 2952,
+        "end": 2973,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "从合法公开披露的信息中收集个人信息的",
+        "start": 2977,
+        "end": 2995,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "维护所提供产品或服务的安全稳定运行所必需的，如发现、处置产品或服务的故障",
+        "start": 3018,
+        "end": 3054,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "个人信息控制者为新闻单位，且其开展合法的新闻报道所必需的",
+        "start": 3059,
+        "end": 3087,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "个人信息控制者为学术研究机构，出于公共利益开展统计或学术研究所必要，且其对外提供学术研究或描述的结果时，对结果中所包含的个人信息进行去标识化处理的",
+        "start": 3092,
+        "end": 3165,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "但以下情况除外",
+        "start": 4235,
+        "end": 4242,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "事先获得您明确的同意或授权",
+        "start": 4247,
+        "end": 4260,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "根据适用的法律法规、法律程序的要求、强制性的行政或司法要求所必须的情况下共享",
+        "start": 4265,
+        "end": 4303,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_3",
+        "classId_name": "用户提供个人信息",
+        "text": "在您提现金额大于等于800元时，为申报个人所得税的目的， **您需要提供您的身份证号码进行实名认证",
+        "start": 1321,
+        "end": 1370,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_3",
+        "classId_name": "用户提供个人信息",
+        "text": "当您注册登录时或您的游戏时间到达一小时时，您需要进行实名认证。 **您在进行实名认证时，我们将收集您的真实姓名和真实有效的身份证号码信息，**\n上述信息属于您的敏感信息，我们仅用作实名认证，并进行高度加密。如您拒绝提供上述信息，将无法进行实名认证，但不影响您使用阳光养猪场产品的其他功能。",
+        "start": 1497,
+        "end": 1641,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_3",
+        "classId_name": "用户提供个人信息",
+        "text": "您在使用参与活动功能时，若您获奖，我们将基于您的主动提供 **收集您的收件地址、收件人姓名、收件人联系方式，以便于奖品或礼品的邮寄。**\n如您拒绝提供，我们将无法寄出产品，但不影响您使用阳光养猪场产品的其他功能",
+        "start": 1652,
+        "end": 1757,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_8",
+        "classId_name": "信息定义",
+        "text": "### （三）位置信息\n1.位置信息，是指您开启设备定位功能并使用本软件基于位置提供的相关服务时， **收集的有关您位置的信息，**\n主要包括：当您开启设备定位功能并使用本软件时，本软件可能会使用GPS、WiFi或其他技术方式收集和处理有关您实际所在位置的信息。",
+        "start": 1865,
+        "end": 1996,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_15",
+        "classId_name": "网站Cookie及WebBeacon使用",
+        "text": "## 三、对COOKIES 和同类技术的使用\n### （一）COOKIES和同类技术的简介\n我们或我们的第三方合作伙伴可能通过COOKIES和WEB BEACON获取和使用您的信息，并将该等信息储存为日志信息。 COOKIES是指一种技术，当使用者访问设有COOKIES装置的本网站时，本网站之服务器会自动发送COOKIES至您浏览器内，并储存到您的移动设备内，此COOKIES便负责记录日后您到访本网站的种种活动、个人资料、浏览习惯、消费习惯甚至信用记录。 COOKIES技术能够使我们更好、更快地提供服务，并且能够使本平台能够更有针对性为您服务。",
+        "start": 3178,
+        "end": 3453,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_15",
+        "classId_name": "网站Cookie及WebBeacon使用",
+        "text": "### （二）COOKIES和同类技术的使用用途\n我们使用自己的COOKIES和WEB BEACON，用于以下用途：\n（1）记住您的身份；\n（2）就我们服务情况进行分析、优化；\n（3）广告优化。COOKIES和WEB BEACON有助于我们根据您的信息，优化您对广告的选择。",
+        "start": 3465,
+        "end": 3602,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_15",
+        "classId_name": "网站Cookie及WebBeacon使用",
+        "text": "### （三）COOKIES和WEB BEACON的授权使用\nCOOKIES 和设备信息标识等同类技术是互联网中普遍使用的技术。当您使用“阳光养猪场”及相关服务时，我们可能会使用相关技术向您的设备发送一个或多个 COOKIES 或匿名标识符，以收集、标识您访问、使用本产品时的信息。我们承诺，不会将COOKIES 用于本隐私政策所述目的之外的任何其他用途。我们使用COOKIES 和同类技术主要为了实现以下功能或服务：\n1、保障产品与服务的安全、高效运转\n我们可能会设置认证与保障安全性的COOKIES 或匿名标识符，使我们确认您是否安全登录服务，或者是否遇到盗用、欺诈及其他不法行为。这些技术还会帮助我们改进服务效率，提升登录和响应速度。\n2、数据分析及异常情况排查\na.我们可能会利用此类技术了解您的使用习惯，进行数据分析，以改善产品服务。\nb.在使用“阳光养猪场”中，我们可能会使用COOKIES对浏览活动进行记录，用于排查崩溃、延迟的相关异常情况以及探索更好的服务方式。\n3、COOKIES的清除\n大多数浏览器均为用户提供了清除浏览器缓存数据的功能，您可以在浏览器设置功能中进行相应的数据清除操作。如您进行清除，您可能无法使用由我们提供的、依赖于COOKIES的服务或相应功能。",
+        "start": 3614,
+        "end": 4157,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_2",
+        "classId_name": "第三方收集或共享个人信息",
+        "text": "## 四、我们可能分享、转让和披露的信息\n### （一）分享信息的前提条件\n1.我们不会与其他任何公司、组织和个人共享您的个人信息，但以下情况除外：\n1.1事先获得您明确的同意或授权；\n1.2根据适用的法律法规、法律程序的要求、强制性的行政或司法要求所必须的情况下共享；",
+        "start": 4169,
+        "end": 4304,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_2",
+        "classId_name": "第三方收集或共享个人信息",
+        "text": "### （二）为实现安全与分析统计的共享信息\n保障使用安全：我们非常重视账号与服务安全，为保障您和其他用户的账号与财产安全，使您和我们的正当合法权益免受不法侵害，同时为了防止机器人对盗刷金币，我们或服务提供商可能会共享必要的设备、账号及日志信息。\n分析产品使用情况：为分析我们服务的使用情况，提升用户使用的体验，可能会与关联方或第三方共享产品使用情况（崩溃、闪退）的统计性数据，这些数据难以与其他信息结合识别您的个人身份。\n对我们与之共享个人信息的公司、组织和个人，我们会与其签署严格的保密协议，要求他们按照我们的说明、本隐私政策以及其他相关的保密及安全措施来处理个人信息。同时我们仅会向第三方提供推广的覆盖面和有效性的信息，而不会提供可以识别您身份的信息，或者我们将这些信息进行汇总匿名化处理，以便它不会识别您个人。\n我们仅会出于正当、必要、特定的目的共享您的信息。",
+        "start": 4316,
+        "end": 4700,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_2",
+        "classId_name": "第三方收集或共享个人信息",
+        "text": "### （三）收购、兼并、重组时个人信息的转让\n随着我们业务的持续发展，我们有可能进行合并、收购、资产转让或类似的交易，而您的个人信息有可能作为此类交易的一部分而被转移。我们会要求新的持有您信息的公司、组织继续受本《隐私政策》的约束，否则,我们将要求该公司、组织重新向您征求授权同意。",
+        "start": 4712,
+        "end": 4854,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_2",
+        "classId_name": "第三方收集或共享个人信息",
+        "text": "### （四）基于其他原因的信息披露\n **我们还可能为以下原因需要保留、保存或披露您的个人信息：**\n1\\. 与国家安全、国防安全有关的；\n2\\. 与公共安全、公共卫生、重大公共利益有关的；\n3\\. 与犯罪侦查、起诉、审判和判决执行等有关的；\n4\\. 出于维护您或其他个人的生命、财产等重大合法权益但又很难得到本人同意的；\n5\\. 您自行向社会公众公开的个人信息；\n6\\. 从合法公开披露的信息中收集个人信息的，比如合法的新闻报道、政府信息公开等渠道。\n7\\.根据法律规定，共享、转让经去标识化处理的个人信息，且确保数据接收方无法复原并重新识别个人信息主体的，不属于个人信息的对外共享、转让及公开披露的行为，对此类数据的保存及处理将无需另行向您通知并征得您的同意。",
+        "start": 4866,
+        "end": 5199,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_2",
+        "classId_name": "第三方收集或共享个人信息",
+        "text": "## 五、我们如何接入合作伙伴的SDK\n请您知悉，我们的某些服务将由我们和授权合作伙伴共同提供。我们会接入合作伙伴的SDK，出于合法、正当、必要、特定、明确的目的，他们会通过SDK接口收集到实现产品功能和服务所必须的您的个人信息，以实现产品功能。我们在这个过程中不会收集您的任何信息。我们的合作伙伴无权将收集到的个人信息用于与产品或服务无关的其他用途。我们会向您展示接入合作伙伴SDK的目的；合作伙伴会通过SDK接口收集到实现产品功能和服务必须的您的个人信息；合作伙伴的类型或身份。目前，我们的授权合作伙伴包括以下类型：\n（1）基于反欺诈服务的SDK接入\n目前我们的反欺诈服务由北京数美时代科技有限公司提供，我们会接入数美的SDK，为了能够构建防篡改的设备指纹服务，北京数美时代科技有限公司会收集您的**设备相关的信息作为基础数据，包括设备MAC地址、唯一设备识别码（如IMEI、IDFA）、手机的基本配置信息（如CPU、内存、屏幕、手机型号、操作系统等）、网络信息（如WIFI及蜂窝网络信息、IP地址等）、安装软件列表及软件相关配置信息等。**\n为了提供准确实时的欺诈账号和欺诈行为识别服务，北京数美时代科技有限公司会收集您**的事件行为以及相应的用户系统账号唯一标识、手机号码、IP地址、时间戳等。**\n（2）基于统计崩溃日志的SDK接入\n目前我们的统计崩溃日志服务由腾讯科技（深圳）有限公司提供，我们会接入腾讯的SDK，**他们会通过SDK收集您的IMEI、IMSI和手机型号和系统版本信息、运营商信息。**\n（3）基于批量打包生成不同渠道号的apk包的SDK接入\n目前我们的批量打包生成不同渠道号的apk包服务由北京三快在线科技有限公司提供，我们会接入他们的的SDK，不会向他们共享您的任何信息。\n（4）基于加载图片工具的SDK接入\n目前我们的加载图片工具服务由3dfx Interactive（开源）提供，我们会接入他们的SDK，不会向他们共享您的任何信息。\n（5）基于加载网页，提高网页兼容性和性能的SDK接入\n目前我们的加载网页，提高网页兼容性和性能服务由腾讯科技（深圳）有限公司提供，我们会接入这些公司的SDK，**他们会通过SDK收集您的IMEI、IMSI信息、MAC地址信息。**\n（6）基于一键登录服务的SDK接入\n目前我们的一键登录服务由中国电信股份有限公司、中国移动通信集团有限公司和中国联合通信有限公司提供，我们会接入他们的SDK，**他们会通过SDK收集您的IMEI、设备ID、位置信息、IP信息、运营商信息、mac地址、用户手机号、应用列表信息。**\n如您拒绝提供，将无法使用一键登录相关服务，但不影响其他功能的正常使用。\n（7）基于厂商推送的SDK接入\n目前我们的厂商推送服务由华为技术有限公司（华为）、小米科技有限责任公司（小米）、OPPO广东移动通信有限公司（OPPO）、珠海市魅族通讯设备有限公司(魅族)和广东步步高电子工业有限公司（vivo）提供，我们会接入这些公司的SDK，**华为会通过SDK收集移动安全联盟的设备标识（AAID）；小米会通过SDK收集IMEI号、设备ID、设备型号、IP信息；OPPO会通过SDK收集移动安全联盟的设备标识（AAID）；vivo会通过SDK收集移动安全联盟的设备标识（AAID）；魅族会通过SDK收集设备识别码（IMEI号码等）、设备硬件信息、IP 地址、Mac 地址、应用列表、位置信息。** 如您拒绝提供，将无法使用厂商推送相关服务，但不影响其他功能的正常使用。\n（8）基于热修复的SDK接入\n目前我们的热修复由腾讯科技（深圳）有限公司提供，我们会接入腾讯的SDK，**他们会通过SDK收集您的IMEI、IMSI、手机型号和系统版本信息、运营商信息、应用安装列表信息。**\n（9）基于补充设备唯一标识的SDK接入\n目前我们的补充设备唯一标识服务由移动安全联盟提供，我们会接入移动安全联盟的SDK， **他们会通过SDK收集您的IMEI、IMSI信息。**\n（10）基于广告的SDK接入\na.广告推送：我们可能接入委托我们进行推广和广告投放合作伙伴的SDK，**他们会通过SDK收集不能识别您个人身份的间接画像标签及去标识化或匿名化后的信息，** 以帮助其在不识别您个人身份的前提下提升广告有效触达率。\nb.广告统计：我们可能接入业务服务商、供应商和其他合作伙伴的SDK， **他们会通过SDK收集去标识化的统计信息，**这些信息难以与您的身份信息相关联，这些信息将帮助我们分析、衡量广告和相关服务的有效性。\nc.基于广告的SDK接入。\n目前我们的广告由北京字节跳动科技有限公司、腾讯科技（深圳）有限公司、广州爱九游信息技术有限公司、北京万裕久鑫科技有限公司、北京快手广告有限公司和上海禾赞网络科技有限公司提供，我们会接入这些公司的SDK，**他们会通过SDK收集您的imei/网络状态/mac地址/位置信息/应用列表信息。**\n如您拒绝提供，将无法使用广告推荐相关服务，但不影响其他功能的正常使用。\n（11）基于位置的SDK接入\n目前我们的位置服务由高德软件有限公司提供，我们会接入高德的SDK， **他们会通过SDK收集您的IMEI、IMSI和位置信息。**\n如您拒绝提供，将无法使用地理位置相关服务，但不影响其他功能的正常使用。\n（12）基于微信登录、提现服务的SDK接入\n目前我们的微信登录、提现服务由腾讯科技（深圳）有限公司提供，我们会接入腾讯的SDK， **他们会通过SDK收集您的IMEI、IMSI信息。**\n如您拒绝提供，将无法使用微信登录、提现相关服务，但不影响其他功能的正常使用。\n（13）基于QQ登录服务的SDK接入\n目前我们的QQ登录、分享服务由腾讯科技（深圳）有限公司提供，我们会接入腾讯的SDK， **他们会通过SDK收集您的IMEI、IMSI信息。**\n如您拒绝提供，将无法使用QQ登录相关服务，但不影响其他功能的正常使用。",
+        "start": 5211,
+        "end": 7679,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "其他任何公司、组织",
+        "start": 4214,
+        "end": 4223,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "个人",
+        "start": 4224,
+        "end": 4226,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "关联方",
+        "start": 4476,
+        "end": 4479,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "第三方",
+        "start": 4480,
+        "end": 4483,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "共享",
+        "start": 4226,
+        "end": 4228,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "共享",
+        "start": 4423,
+        "end": 4425,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "共享",
+        "start": 4483,
+        "end": 4485,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "披露",
+        "start": 4906,
+        "end": 4908,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_5",
+        "classId_name": "数据保存",
+        "text": "## 六、我们如何存储、保护信息\n### （一）信息存储的地点\n我们仅在本《隐私政策》所述目的所必需期间和法律法规要求的时限内保留您的信息。我们在中华人民共和国境内运营中收集和产生的信息，存储在中国境内",
+        "start": 7691,
+        "end": 7792,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_5",
+        "classId_name": "数据保存",
+        "text": "### （二）信息存储的时间\n一般而言，我们仅在为实现产品目的所必需的时间内保留您的个人信息，在法律规定范围内最短期限保留您的个人信息，最长不超过5年。当上述期限届满或我们的产品、服务发生停止运营的情形时，我们将以推送通知、公告等形式通知您，并在合理的期限内删除您的个人信息或进行匿名化处理。\n您的个人信息经匿名化处理后将形成可以使用及流通的数据，我们对此类数据的保存及处理无需另行通知并征得您的同意。",
+        "start": 7827,
+        "end": 8028,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_12",
+        "classId_name": "数据迁移",
+        "text": "如需跨境传输，我们将会单独征得您的授权同意。",
+        "start": 7793,
+        "end": 7815,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_6",
+        "classId_name": "数据安全",
+        "text": "### （三）信息的保护方式\n1\\. 我们会使用不低于行业同行的加密技术、匿名化处理等合理可行的手段保护您的个人信息，并使用安全保护机制防止您的个人信息遭到恶意攻击。\n2\\. 我们会建立专门的安全部门、安全管理制度、数据安全流程保障您的个人信息安全。\n3\\. 我们采取严格的数据使用和访问制度，确保只有授权人员才可访问您的个人信息，并适时对数据和技术进行安全审计。\n4\\.为应对个人信息泄露、损毁和丢失等可能出现的风险，我们建立了专门的应急响应团队，按照公司有关安全事件处置规范要求，针对不同安全事件启动安全预案，进行止损、分析、制定补救措施、联合相关部门进行溯源和打击。同时我们将按照法律法规的要求，及时向您告知：安全事件的基本情况和可能的影响、我们已采取或将要采取的处置措施、您可自主防范和降低风险的建议、对您的补救措施等。同时我们会及时将事件相关情况以邮件、信函、电话、推送通知等方式告知您，难以逐一告知个人信息主体时，我们会采取合理、有效的方式发布公告。同时，我们还将按照监管部门要求，主动上报个人信息安全事件的处置情况。\n5\\.尽管已经采取了上述合理有效措施，并已经遵守了相关法律规定要求的标准，但请您理解，由于技术的限制以及可能存在的各种恶意手段，在互联网行业，即便竭尽所能加强安全措施，也不可能始终保证信息百分之百的安全，我们将尽力确保您提供给我们的个人信息的安全性。\n6\\.请您注意：您一旦离开本软件后，浏览或使用其他网站、服务及内容资源，我们将没有能力和直接义务保护您在本软件及相关服务之外的软件、网站提交的任何个人信息，无论您登录、浏览或使用上述软件、网站是否基于“本软件”的链接或引导。",
+        "start": 8040,
+        "end": 8744,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_4",
+        "classId_name": "用户权利增删改查",
+        "text": "## 七、用户如何管理信息\n### （一）访问、更新和删除\n您可通过收集“设置”-“应用”-“权限”-“阳光养猪场”查看您的系统授权权限，您需要查阅您在使用阳光养猪场过程中产生的个人信息，在合理要求下，我们会向您提供。若您无法通过上述方式访问、更正或删除您的个人信息，也可以发送邮件至hogfarmgame@021.com联系我们，我们会在15个工作日内回复您。",
+        "start": 8756,
+        "end": 8937,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_4",
+        "classId_name": "用户权利增删改查",
+        "text": "### （三）注销\n1.在您违反阳光养猪场的服务协议约定条件或国家相关法律法规规定的情况下，您的账号可能被注销或删除。当账号注销或被删除后，与该账号相关的全部服务资料和数据将被删除或者匿名化处理。\n2.您可以通过点击“左侧头像-设置-注销账号”进行在现在注销。但请您注意，您的账号注销后，账号内的所有收益将被清零。",
+        "start": 9031,
+        "end": 9188,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_4",
+        "classId_name": "用户权利增删改查",
+        "text": "### （四）投诉\n您可按照我们公司的联系方式进行投诉或举报。如果您认为您的个人信息权利可能受到侵害，或者发现侵害个人信息权利的线索，您可以通过《隐私政策》下方的联系方式（hogfarmgame@021.com）联系我们，我们会在收到后的15个工作日内反馈您的投诉与举报。",
+        "start": 9200,
+        "end": 9336,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_9",
+        "classId_name": "获取撤回同意",
+        "text": "### （二）关闭或者撤回授权\n您可以在设备本身操作系统 **“权限管理”** 中关闭存储、电话、位置、通知权限改变授权范围或撤回您的授权。",
+        "start": 8949,
+        "end": 9019,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_11",
+        "classId_name": "年龄限制条款",
+        "text": "## 八、年龄限制\n **1.本软件服务主要面向成人。我们的产品、网站和服务主要面向成人。若您是 14\n周岁以下的未成年人，在使用我们的产品和/或服务前，您应在监护人的陪同下阅读本隐私政策及 **《阳光养猪场儿童个人信息保护协议》**\n，并应确保已征得您的监护人同意后使用我们的服务并向我们提供您的信息。我们会根据国家相关法律法规的规定着重保护未成年人的个人信息。**\n **2.如您的监护人不同意您按照本本隐私政策及 **《阳光养猪场儿童个人信息保护协议》**\n使用我们的服务或向我们提供信息，请您立即终止使用我们的服务并及时通知我们。**\n **3.我们只会在受到法律允许、父母或监护人明确同意或者保护未成年人所必要的情况下使用或公开披露此信息。**\n**4.若您是未成年人的监护人，当您对您所监护的未成年人使用我们的服务或其向我们提供的用户信息有任何疑问时，请您及时与我们联系。我们将根据国家相关法律法规及本隐私政策及\n**《阳光养猪场儿童个人信息保护协议》**\n的规定保护未成年人用户信息。如果我们发现自己在未事先获得父母或法定监护人同意的情况下收集了未成年人的个人信息，则会设法尽快删除相关数据。**",
+        "start": 9348,
+        "end": 9853,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_7",
+        "classId_name": "隐私政策修改更新",
+        "text": "## 九、通知和修订\n1.我们可能根据国家法律法规要求及经营发展需要修改隐私协议，一般而言，我们会在“设置-关于我们-隐私政策”页面发布变更后的隐私政策，我们会在“个人中心-阳光邮箱”处通知您。\n2.对于重大变更，我们会提供更为显著的通知（包括我们会通过站内方式进行通知甚至向您提供弹窗提示）。本政策所指的重大变更包括但不限于：我们的服务模式发生重大变化，如处理个人信息的目的、处理的个人信息类型、个人信息的使用方式等；我们在控制权等方面发生重大变化，如并购重组等引起的所有者变更等；个人信息共享、转让或公开披露的主要对象发生变化；您参与个人信息处理方面的权利及行使方式发生重大变化；我们负责处理个人信息安全的责任部门、联系方式及投诉渠道发生变化时；个人信息安全影响评估报告表明存在高风险时。\n3.如您确认接受变更后的内容，则可正常使用本软件的相关服务；如您不同意变更后的内容，请您不要点击确认或继续使用本软件。",
+        "start": 9865,
+        "end": 10271,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_14",
+        "classId_name": "开发者公司名称联系方式",
+        "text": "## 十、如何联系我们\n如果您对本隐私政策有任何疑问、意见或建议，通过以下方式与我们联系：\n公司名称：上海嵩沃网络科技有限公司\n公司注册地址：上海市嘉定区真南路4268号2幢J8469室\n个人信息安全投诉、举报渠道：hogfarmgame@021.com，我们将在十五个工作日内回复。",
+        "start": 10283,
+        "end": 10425,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_14",
+        "classId_name": "开发者公司名称联系方式",
+        "text": "上海嵩沃网络科技有限公司",
+        "start": 10437,
+        "end": 10449,
+        "fields": [],
+        "sub_annotations": []
+    }
+]

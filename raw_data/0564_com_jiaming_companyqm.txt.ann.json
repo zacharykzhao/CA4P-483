@@ -1,0 +1,740 @@
+[
+    {
+        "classId": "e_16",
+        "classId_name": "其他",
+        "text": "我们依据本协议的规定提供服务，本协议具有合同效力。您必须完全同意以下所有条款，才能保证销售到更好的服务。本公司提醒您认真阅读并充分理解本协议各条款（未成年人应在监护人陪同下阅读），特別是免除或限制本公司的责任、限制您的权利、争议解决方式和法律适用的相关条款。您使用本服务的行为将枧为对本协议的接受，并同意接受本协议各项条款的约束。不得以任何理由包括但不限于未能认真阅读本协议等作为纠纷抗辩理由若您不同意本协议或对本协议条款存在任何疑问，请您立即停止使用本服务。",
+        "start": 87,
+        "end": 317,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_16",
+        "classId_name": "其他",
+        "text": "1.3本应用体系下相关应用为同一用户体系。用户手动注销（注销操作有多次确定操作的前提下）进行注销行为。导致帐号下所有信息销毁并不可恢复，对此造成的任何损失，本应用不承担任何责任。",
+        "start": 717,
+        "end": 806,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_16",
+        "classId_name": "其他",
+        "text": "1.4用户不应将其帐号转让、出借、销售或以任何脱离用户控制的形式交由他人使用。因黑客行为或用户的保管疏忽导致帐号遭他人非法使用，本应用不承担任何责任。\n    1.5本应用的帐号所有权归本应用，用户完成注册申请手续后，获得帐号的使用权，用户不得违反本协议约定将帐户用于其他目的。否则本应用有权随时单方限制、中止或终止向用户提供本服务。",
+        "start": 811,
+        "end": 978,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_16",
+        "classId_name": "其他",
+        "text": "二、用户须知\n    2.1用户在本服务上所传送分享的任何内容并不反映本应用的观点或政策，本应用对此不承担任何责任。\n    2.2用户须对在本服务所传送分享信息的真实性、合法性、无害性、有效性等全权负责，与用户所传播的信息相关的任何法律责任由用户自行承担，与本应用无关。\n    2.3用户不得利用本服务制作、上传、复制、发送任何包括但不限于以下的违反法规的内容：\n    a. 反对宪法所确定的基本原则的；\n    b. 危害国家安全，泄露国家秘密，颠覆国家政权，破坏国家统一的；\n    c. 损害国家荣誉和利益的；\n    d. 煽动民族仇恨、民族歧视，破坏民族团结的；\n    e. 破坏国家宗教政策，宣扬邪教和封建迷信的；\n    f. 散布谣言，扰乱社会秩序，破坏社会稳定的；\n    g. 散布淫秽、色情、赌博、暴力、凶杀、恐怖或者教唆犯罪的；\n    h. 侮辱或者诽谤他人，侵害他人合法权益的；\n    i. 含有法律、行政法规禁止的其他内容的信息。",
+        "start": 994,
+        "end": 1429,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_16",
+        "classId_name": "其他",
+        "text": "3.1本服务内容为，通过您设定的生辰信息，提供个性化信息内容服务。本软件内提供的服务分为免费服务和收费服务。收费服务，您可以通过付费方式购买收费服务。本应用会在相关界面上做出提示。如您拒绝支付收费服务内容，则不能使用该服务。对于本软件中的服务内您自行加以判断是否接纳，并承担因使用内容引起的所有风险和法律责任。本应用不对用户行为而导致的损失承担责任。\n    3.2本应用可能根据实际需要对收费服务的收费标准、方式进行修改、变更，前述修改、变更前，如果用户不同意上述修改、变更，则应停止使用相应服务，否则，用户的任何使用行为，即视为同意上述修改、变更。\n    3.3用户在使用本软件某一特定服务时，该服务可能会另有单独的协议、相关业务规则等，用户在使用该项服务前请阅读并同意相关的单独协议；用户使用前述特定服务，即视为您接受相关单独协议。",
+        "start": 1619,
+        "end": 1989,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_16",
+        "classId_name": "其他",
+        "text": "5此外，用户已知悉并同意：在现行法律法规允许的范围内，本应用可能会使用用户的个人电话号码用于市场营销，使用方式包括：\n    4.5.1在网页、app平台中向您展示或提供广告和促销资料，向用户通告或推荐服务或产品信息；",
+        "start": 2778,
+        "end": 2887,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_16",
+        "classId_name": "其他",
+        "text": "4.6在不透露单个用户隐私资料的前提下，本应用有权对整个用户数据库进行分析并对用户数据进行商业的使用，使用场景包括：\n    4.6.1市场调研报告需用户画像分析，便于提供更优质的服务和体验，用户画像分析的数据提取，数据分析仅对应特定的、无法直接关联用户身份的编码，无法也绝不会与您的真实身份相关联，并不会泄露用户隐私。",
+        "start": 3022,
+        "end": 3182,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_16",
+        "classId_name": "其他",
+        "text": "本协议适用中华人民共和国大陆地区法律，不包括其冲突法。因本公司与您就本协议的签订、履行或解释等任何事宜发生争议，双方应友好协商解决；如协商不成，双方一致同意交由本公司住所地有管辖权的法院诉讼解决。",
+        "start": 4139,
+        "end": 4237,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_16",
+        "classId_name": "其他",
+        "text": "在本协议中未声明的其他一切权利，仍归本应用所有。本应用保留对本协议的最终解释权利。",
+        "start": 4253,
+        "end": 4294,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_1",
+        "classId_name": "App或网站收集使用处理个人信息",
+        "text": "1.1用户在注册账号或使用本服务的过程中，需要填写一些必要的个人信息，为您提供注册登录服务或进行用户身份识别，需获取包括但不限于填写手机号码，用户身份识别，需获取包括但不限于填写手机号码，或系统获取微信号/昵称、微信头像等。为了更好的为用户服务，请保证提供这些个人信息的真实、准确、合法、有效并注意及时更新，若因填写的信息不完整或不准确，则可能无法使用本服务或在使用过程中受到限制。如因用户提供的个人资料不实或不准确，给用户自身造成任何性质的损失，均由用户自行承担。",
+        "start": 347,
+        "end": 580,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_1",
+        "classId_name": "App或网站收集使用处理个人信息",
+        "text": "4.1 用户在注册帐号或使用本服务的过程中，需要提供一些必要的信息：\n    4.1.1 提供宝宝起名，姓名打分，重名查询等名字类的的参考内容，需填写姓名、生辰（出生日期），出生地点等信息；\n    4.1.2 对于大师起名功能，需填写姓名、生辰（出生日期）信息、以及父母信息和起名愿望信息等；\n    4.1.3 为用户提供注册登录服务或进行用户身份识别，包括填写手机号码、系统获取微信号、QQ号、微博号、对应的昵称、第三方头像、手机设备号的获取。\n    4.1.4 保存图片需获取用户的手机的储存权限。\n    4.1.5 若国家法律法规或国家政策有特殊规定的，用户需提供真实的身份信息。如提供的信息不完整，则无法使用本服务或使用过程中受到限制。",
+        "start": 2018,
+        "end": 2344,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_1",
+        "classId_name": "App或网站收集使用处理个人信息",
+        "text": "4.7.3 当软件服务提供商、智能设备提供商或系统服务提供商与本应用联合为您提供服务时，例如您需要使用地理位置功能时，为实现这一功能，本应用可能会收集您的位置信息及相关设备信息（例如硬件型号、操作系统版本号、国际移动设备身份识别码（IMEI）、网络设备硬件地址（MAC））经过去标识化后并提供给前述提供商。\n    4.7.4 本应用为了更好地了解本应用及相关服务的运行情况，以便确保运行与提供服务的安全，本应用可能记录网络日志信息，以及使用软件及相关服务的频率、崩溃数据、总体安装、使用情况、性能数据等信息",
+        "start": 3413,
+        "end": 3667,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "用户",
+        "start": 350,
+        "end": 352,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "系统",
+        "start": 442,
+        "end": 444,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "用户",
+        "start": 2302,
+        "end": 2304,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "本应用",
+        "start": 2441,
+        "end": 2444,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "本应用",
+        "start": 2658,
+        "end": 2661,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "本应用",
+        "start": 3201,
+        "end": 3204,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "本应用",
+        "start": 3240,
+        "end": 3243,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "您",
+        "start": 3354,
+        "end": 3355,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "本应用",
+        "start": 3480,
+        "end": 3483,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "本应用",
+        "start": 3577,
+        "end": 3580,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "本应用",
+        "start": 3616,
+        "end": 3619,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "在注册账号或使用本服务的过程中",
+        "start": 352,
+        "end": 367,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "若国家法律法规或国家政策有特殊规定的",
+        "start": 2283,
+        "end": 2301,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "未经用户许可",
+        "start": 2435,
+        "end": 2441,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "由于政府要求、法律政策需要等原因除外",
+        "start": 2482,
+        "end": 2500,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "在提供本应用服务之目的所需的期间内",
+        "start": 2662,
+        "end": 2679,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "在下列情况下经过您的自主选择同意",
+        "start": 3224,
+        "end": 3240,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "当您参加营销活动时",
+        "start": 3338,
+        "end": 3347,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "根据活动需要",
+        "start": 3348,
+        "end": 3354,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "当软件服务提供商、智能设备提供商或系统服务提供商与本应用联合为您提供服务时",
+        "start": 3419,
+        "end": 3456,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "您需要使用地理位置功能时",
+        "start": 3459,
+        "end": 3471,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "填写",
+        "start": 370,
+        "end": 372,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "填写",
+        "start": 411,
+        "end": 413,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "填写",
+        "start": 434,
+        "end": 436,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "提供",
+        "start": 2305,
+        "end": 2307,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "公开、透露",
+        "start": 2469,
+        "end": 2474,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "共享、转让",
+        "start": 3210,
+        "end": 3215,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "共享",
+        "start": 3244,
+        "end": 3246,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "提供",
+        "start": 3355,
+        "end": 3357,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "提供",
+        "start": 3557,
+        "end": 3559,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "个人信息",
+        "start": 377,
+        "end": 381,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "手机号码",
+        "start": 413,
+        "end": 417,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "手机号码",
+        "start": 436,
+        "end": 440,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "微信号/昵称、微信头像",
+        "start": 446,
+        "end": 457,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "身份信息",
+        "start": 2310,
+        "end": 2314,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "个人信息",
+        "start": 2476,
+        "end": 2480,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "个人信息（昵称、头像、出生时间、性别、工作状况、婚姻状况、用户档案信息、账号下关联的所有订单信息",
+        "start": 2684,
+        "end": 2732,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "个人信息信息",
+        "start": 3217,
+        "end": 3223,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "个人信息",
+        "start": 3248,
+        "end": 3252,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "姓名、通信地址、联系方式",
+        "start": 3357,
+        "end": 3369,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "位置信息",
+        "start": 3490,
+        "end": 3494,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "设备信息",
+        "start": 3497,
+        "end": 3501,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "硬件型号、操作系统版本号、国际移动设备身份识别码（IMEI）、网络设备硬件地址（MAC））",
+        "start": 3504,
+        "end": 3549,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "网络日志信息",
+        "start": 3623,
+        "end": 3629,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "使用软件及相关服务的频率、崩溃数据、总体安装、使用情况、性能数据",
+        "start": 3632,
+        "end": 3664,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "为您提供注册登录服务或进行用户身份识别",
+        "start": 382,
+        "end": 401,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "，用户身份识别",
+        "start": 417,
+        "end": 424,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "为实现这一功能",
+        "start": 3472,
+        "end": 3479,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "为了更好地了解本应用及相关服务的运行情况，以便确保运行与提供服务的安全",
+        "start": 3580,
+        "end": 3615,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "获取",
+        "start": 403,
+        "end": 405,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "获取",
+        "start": 426,
+        "end": 428,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "获取",
+        "start": 444,
+        "end": 446,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "保留",
+        "start": 2679,
+        "end": 2681,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 3486,
+        "end": 3488,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "记录",
+        "start": 3621,
+        "end": 3623,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_4",
+        "classId_name": "用户权利增删改查",
+        "text": "1.2用户的帐号在丢失或遗忘密码后，可以通过绑定过帐号的手机帐号进行登录密码重置。本软件只负责核对验证信息是否与帐号相关信息一致，而不对信息提供者身份进行证实，不对冒名验证行为承担任何责任。同时，本应用不承诺通过帐号相关的个人信息进行验证一定能找回帐号。",
+        "start": 585,
+        "end": 712,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_4",
+        "classId_name": "用户权利增删改查",
+        "text": "4.9您可在本应用的八字紫微模块找到用户管理界面，对用户信息进行删除操作。",
+        "start": 3770,
+        "end": 3807,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_4",
+        "classId_name": "用户权利增删改查",
+        "text": "5.0您可通过设置修改帐号信息，包括：昵称、头像、出生时间、性别、工作状况、婚姻状况、密码修改。\n    5.1您可在设置进行注销账号，注销账号后，删除账号所有信息，包括昵称、头像、出生时间、性别、工作状况、婚姻状况、用户档案信息、账号下关联的所有订单信息。",
+        "start": 3823,
+        "end": 3952,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_12",
+        "classId_name": "数据迁移",
+        "text": "2.5为避免用户的终端信息丢失、更好的服务用户的目的，本应用将向注册用户提供数据备份服务、将储存于用户终端的数据库中的数据资料上传至本应用的服务器。若是您自行删除已添加的生辰信息或已付费的生辰信息，相应的备份在数据库中所有有关的信息也将无法恢复。本应用会有明确的提示您是否确定删除，对此造成的任何损失，您自行承担。",
+        "start": 1434,
+        "end": 1591,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_6",
+        "classId_name": "数据安全",
+        "text": "4.2保护用户个人信息是本应用的一项基本原则，本应用运用各种安全技术和程序建立完善的管理制度来保护用户的个人信息，以免遭受未经授权的访问、使用或披露。未经用户许可本应用不会向第三方（本应用控股或关联、运营合作单位除外）公开、透露用户个人信息，但由于政府要求、法律政策需要等原因除外。\n    4.3在用户发送信息的过程中和本服务收到信息后，本应用将遵守行业通用的标准来保护用户的私人信息。但是任何通过因特网发送的信息或电子版本的存储方式都无法确保100%的安全性。因此，本公司会尽力使用商业上可接受的方式来保护用户的个人信息，但不对用户信息的安全作任何担保。",
+        "start": 2360,
+        "end": 2639,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "第三方",
+        "start": 2447,
+        "end": 2450,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "第三方",
+        "start": 3207,
+        "end": 3210,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "前述提供商",
+        "start": 3560,
+        "end": 3565,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_3",
+        "classId_name": "用户提供个人信息",
+        "text": "4.4本应用仅在提供本应用服务之目的所需的期间内保留用户的个人信息（昵称、头像、出生时间、性别、工作状况、婚姻状况、用户档案信息、账号下关联的所有订单信息），在用户未删除或未注销账号期间，本应用会保留相关信息。",
+        "start": 2655,
+        "end": 2760,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_13",
+        "classId_name": "通知联系用户",
+        "text": "4.5.2向您的电子邮件、短信的联系渠道推送，根据您使用本应用服务或产品的情况所认为您可能会感兴趣的信息",
+        "start": 2892,
+        "end": 2944,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_13",
+        "classId_name": "通知联系用户",
+        "text": "如果您还有其他问题和建议，可以通过电子邮件jiamingqm@126.com或者电话400-960-6728联系本应用。\n==========",
+        "start": 4299,
+        "end": 4370,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_14",
+        "classId_name": "开发者公司名称联系方式",
+        "text": "如果上述行为令您感到不适，您可以通过者电话400-960-6728或电子邮件jiamingqm@126.com联系本应用。",
+        "start": 2945,
+        "end": 3006,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_2",
+        "classId_name": "第三方收集或共享个人信息",
+        "text": "4.7本应用不会向第三方共享、转让您的个人信息信息。在下列情况下经过您的自主选择同意本应用会共享您的个人信息：\n    4.7.1 为实现相关功能或服务与关联方共享，当使用大师咨询服务的情况下，需把个人信息（出生时间、性别、出生地址）提供给大师进行测算服务。\n    4.7.2 当您参加营销活动时，根据活动需要您提供姓名、通信地址、联系方式等信息，经过您的同意，本应用会将上述信息进行共享，以便能及时向您提供活动奖品。",
+        "start": 3198,
+        "end": 3408,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_9",
+        "classId_name": "获取撤回同意",
+        "text": "4.8您可改变或撤回敏感信息权限，更改隐私设置以及在设置本身操作系统中关闭地理位置、通讯录、摄像头、麦克风的等权限改变同意范围或撤回您的授权。",
+        "start": 3683,
+        "end": 3754,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_7",
+        "classId_name": "隐私政策修改更新",
+        "text": "本公司有权在必要时修改本协议，本协议一旦发生变动，将会在本应用的重要页面上提示修改内容或向您发送电子邮件或以其他方式通知您，用户如不同意新的修改内容，须立即停止使用本协议约定的服务，否则视为用户完全同意并接受新的修改内容。根据客观情况及经营方针的变化，本公司有中断或停止服务的权利，用户对此表示理解并完全认同。",
+        "start": 3968,
+        "end": 4123,
+        "fields": [],
+        "sub_annotations": []
+    }
+]

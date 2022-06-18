@@ -1,0 +1,1721 @@
+[
+    {
+        "classId": "e_16",
+        "classId_name": "其他",
+        "text": "Apkid:com.mygolbs.mybus\n==========\n法律声明及隐私权政策\n2020年07月20日版本\n2020年07月20日生效\n欢迎您使用掌上公交服务！我们非常重视您的隐私保护和个人信息保护。本隐私政策适用于您通过任何方式对掌上公交各项服务的访问和使用。\n需要特别说明的是，本政策不适用于其他第三方向您提供的服务，也不适用于掌上公交中已另行独立设置法律声明及隐私权政策的产品或服务。在使用掌上公交各项产品或服务前，请您务必仔细阅读并透彻理解本政策，在确认充分理解并同意后使用相关产品或服务。一旦您开始使用掌上公交各项产品或服务，即表示您已充分理解并同意本政策。如对本政策内容有任何疑问、意见或建议，您可通过掌上公交提供的各种联系方式与我们联系。\n本隐私权政策将帮助您了解以下内容：",
+        "start": 0,
+        "end": 350,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_16",
+        "classId_name": "其他",
+        "text": "6.设备权限调用\n掌上公交在提供服务过程中，会调用您的一些设备权限。以下是掌上公交调用权限对应的业务功能、调用权限的目的以及调用权限前向您询问的情况。",
+        "start": 3242,
+        "end": 3317,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_1",
+        "classId_name": "App或网站收集使用处理个人信息",
+        "text": "一、我们如何收集和使用您的个人信息\n个人信息是指以电子或者其他方式记录的能够单独或者与其他信息结合识别特定自然人身份或者反映特定自然人活动情况的各种信息。地图数据等与您个人无关的信息不属于您的个人信息。\n为了向您提供更好、更个性化的产品和服务，当您使用以下服务、功能或设置时，我们会以下列方式收集和使用您的个人信息：",
+        "start": 362,
+        "end": 520,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_1",
+        "classId_name": "App或网站收集使用处理个人信息",
+        "text": "1.您直接提供和我们自动采集的个人信息\n1）掌上公交业务功能分为核心业务功能、附加业务功能和第三方提供的服务。\n核心业务功能包括定位服务、搜索服务、出行服务（公交服务、用车服务）。附加业务功能包括使用报错、购买产品或服务。第三方服务包括第三方提供的出行用车服务、共享单车服务、票务服务、导购服务、支付服务等。",
+        "start": 532,
+        "end": 686,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_1",
+        "classId_name": "App或网站收集使用处理个人信息",
+        "text": "掌上公交会不时针对新推出的服务和功能发起运营活动，如果您参加相关运营活动，我们会通过运营活动界面收集包括但不限于您的身份信息、联系方式、交易账号类信息，以便与您取得联系，向您发运营奖励等。若您不参加相关运营活动则无需提供前述信息。",
+        "start": 972,
+        "end": 1087,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_1",
+        "classId_name": "App或网站收集使用处理个人信息",
+        "text": "3）位置信息：当您开启设备定位功能并使用我们基于位置提供的相关服务时，我们可能会收集和处理有关您的设备信息、位置信息、行踪轨迹、网络身份标识信息，以使得您不需要手动输入自身地理坐标就可获得相关服务。我们会使用各种技术进行定位，这些技术包括IP 地址、GPS以及能够提供相关信息的其他传感器（比如可能会为掌上公交提供附近设备、WLAN接入点和基站的信息）。",
+        "start": 1088,
+        "end": 1265,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_1",
+        "classId_name": "App或网站收集使用处理个人信息",
+        "text": "为了向您和其他掌上公交用户提供实时路况和路况预测，我们会对掌上公交用户的位置信息进行数据统计分析，并基于此对交通拥堵状况作判断。\n为了方便您快捷地发现您周边的餐饮、酒店、景点、银行等生活服务信息，我们会基于您的地理位置为您优选您附近的服务和信息。",
+        "start": 1335,
+        "end": 1458,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_1",
+        "classId_name": "App或网站收集使用处理个人信息",
+        "text": "为了给您提供更优质的历史数据记录服务，我们会根据您使用掌上公交时累计的查询和定位信息进行可视化分析与展示",
+        "start": 1459,
+        "end": 1511,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_1",
+        "classId_name": "App或网站收集使用处理个人信息",
+        "text": "除非您主动与他人分享，前述可视化分析及展示仅对您单独可见。\n为了给您规划路线及智能推荐公交线路，我们为您提供常用地址（例如家和公司）服务，您可自行设置常用地址或由我们根据您使用软件时的定位信息进行推测并与您确认，您可对上述地址进行修订。您的常用地址仅对您自己可见。",
+        "start": 1512,
+        "end": 1644,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_1",
+        "classId_name": "App或网站收集使用处理个人信息",
+        "text": "4）日志信息：当您使用掌上公交的公交搜索服务时，我们的服务器会自动记录您的日志信息，例如您输入的搜索关键词信息，您发布的报错信息、反馈和评论信息，您上传的图片信息、您的IP地址、浏览器的类型和使用的语言、硬件设备信息、操作系统的版本、网络运营商的信息、您访问服务的日期、时间、时长等。为了给您带来更便捷的搜索服务并不断完善掌上公交产品及服务，我们可能会使用浏览器网络存储等机制（包括HTML5）和应用数据缓存，收集您设备上的信息并进行本地存储。\n我们会基于前述信息以及您的收藏数据（例如您收藏的线路、坐标）对您的偏好、习惯、位置作特征分析和用户画像，以便为您提供更适合您的定制化服务，例如向您展现或推荐相关程度更高（而非普遍推送）的搜索结果、信息流或者广告/推广信息结果。",
+        "start": 1645,
+        "end": 1981,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_1",
+        "classId_name": "App或网站收集使用处理个人信息",
+        "text": "2.我们间接收集的您的信息\n1）如您使用掌上公交间接提供的公务专车/包车租车/打车服务时，我们会收集您或者服务使用人的身份信息和位置信息，您授权我们将该信息提供给为您提供服务的第三方，以便第三方获知您的请求，为您提供相关车辆服务，并授权我们间接向第三方获取您的订单信息（包括但不限于您选择的车辆、行程信息、手机号码、交易状态及信息、IP地址、设备信息），以方便您在掌上公交查询您的订单。\n2）如您使用掌上公交票务服务、导购服务时，我们会收集您的身份信息和位置信息，您授权我们将该信息提供给为您提供服务的第三方，并授权我们间接向第三方获取相关订单信息，以方便您在掌上公交查询您的订单。\n3）如您使用付款码、刷卡乘车时，我们会收集您的身份信息和位置信息，您授权我们将该信息提供给为您提供服务的第三方，并授权我们间接向第三方获取相关订单信息，以方便您在掌上公交查询您的订单。您在第三方提供的账户系统中完成支付、充值等行为，如有账户或交易异常，请与第三方服务提供商联系，掌上公交不对此负责。如需协助，请联系掌上公交。\n若您拒绝我们收集上述信息，请不要使用相应的掌上公交的相关附加功能和服务，您不提供相关信息不会影响您对掌上公交核心业务功能的使用。",
+        "start": 1993,
+        "end": 2512,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_1",
+        "classId_name": "App或网站收集使用处理个人信息",
+        "text": "我们将按照法律法规的规定或基于您的授权从关联公司、合作伙伴及其他受信任的第三方供应商处接收您的个人信息及其他信息，并依照您与第三方的约定或本隐私政策使用您的个人信息，两者出现冲突以本隐私政策为准。",
+        "start": 2564,
+        "end": 2662,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_1",
+        "classId_name": "App或网站收集使用处理个人信息",
+        "text": "3.事先征得授权同意的例外\n请注意：在以下情形中，收集、使用个人信息无需事先征得您的授权同意：\n1）与国家安全、国防安全直接相关的；\n2）与公共安全、公共卫生、重大公共利益直接相关的；\n3）与犯罪侦查、起诉、审判和判决执行等直接有关的；\n4）出于维护您或其他个人的生命、财产等重大合法权益但又很难得到本人同意的；\n5）所收集的个人信息是您自行向社会公众公开的；\n6）从合法公开披露的信息中收集个人信息的，如合法的新闻报道、政府信息公开等渠道；\n7）根据您的要求向您提供产品或服务所必需的；\n8）用于维护所提供的产品或服务的安全稳定运行所必需的，例如发现、处置产品或服务的故障；\n9）法律法规规定的其他情形。",
+        "start": 2674,
+        "end": 2977,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_1",
+        "classId_name": "App或网站收集使用处理个人信息",
+        "text": "4.个人信息的匿名化处理\n在收集到您的个人信息后，我们将通过技术手段及时对数据进行匿名化处理。在不泄露您个人信息的前提下，掌上公交有权对匿名化处理后的用户数据库进行挖掘、分析和利用（包括商业性使用）。",
+        "start": 2989,
+        "end": 3089,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_1",
+        "classId_name": "App或网站收集使用处理个人信息",
+        "text": "7.我们可能使用您的信息用于安全防范和诈骗监测等，以预防、发现、调查欺诈、危害安全、非法或违反与我们的协议、政策或规则的行为，以保护您、我们或我们的关联公司、合作伙伴及社会公众的合法权益。\n==========\n8.当我们要将信息用于本隐私政策未载明的其它用途时，会事先征求您的同意。当我们要将基于特定目的收集而来的信息用于其他目的时，会事先征求您的同意。",
+        "start": 3416,
+        "end": 3594,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_8",
+        "classId_name": "信息定义",
+        "text": "个人信息是指以电子或者其他方式记录的能够单独或者与其他信息结合识别特定自然人身份或者反映特定自然人活动情况的各种信息。地图数据等与您个人无关的信息不属于您的个人信息。",
+        "start": 380,
+        "end": 463,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_3",
+        "classId_name": "用户提供个人信息",
+        "text": "2）注册信息：您使用掌上公交服务，可以登录经注册的掌上公交账号。当注册掌上公交账号时，您需向我们提供手机号码、拟使用的会员名和密码。当然，您不登录掌上公交，并不会妨碍您使用掌上公交的定位服务及搜索服务等核心业务功能，但可能会影响到您使用报错、评论等需要经过实名认证才能使用的附加业务功能。",
+        "start": 687,
+        "end": 831,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_3",
+        "classId_name": "用户提供个人信息",
+        "text": "当您使用掌上公交特定附加业务功能时（如申请出行用车、定制公交、购买产品或服务、付款码、刷卡乘车等），为满足向您提供该产品和服务之目的，除注册信息外，您还需要进一步向我们提供包括但不限于您的个人身份信息及其他为您提供服务所必须信息，如果您不使用特定产品和服务，则无需提供相关信息。",
+        "start": 832,
+        "end": 971,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "您",
+        "start": 730,
+        "end": 731,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "您",
+        "start": 906,
+        "end": 907,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 1009,
+        "end": 1011,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 1123,
+        "end": 1125,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 1669,
+        "end": 1671,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "服务器",
+        "start": 1672,
+        "end": 1675,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 2038,
+        "end": 2040,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 2065,
+        "end": 2067,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 2111,
+        "end": 2113,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 2208,
+        "end": 2210,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 2228,
+        "end": 2230,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 2251,
+        "end": 2253,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 2301,
+        "end": 2303,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 2321,
+        "end": 2323,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 2344,
+        "end": 2346,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 2564,
+        "end": 2566,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 4258,
+        "end": 4260,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 4313,
+        "end": 4315,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 4391,
+        "end": 4393,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 4525,
+        "end": 4527,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "掌上公交",
+        "start": 4804,
+        "end": 4808,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "您",
+        "start": 4854,
+        "end": 4855,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 4962,
+        "end": 4964,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "第三方合作方",
+        "start": 5103,
+        "end": 5109,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 5412,
+        "end": 5414,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 5472,
+        "end": 5474,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 5622,
+        "end": 5624,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "我们",
+        "start": 733,
+        "end": 735,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "我们",
+        "start": 914,
+        "end": 916,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "第三方",
+        "start": 2081,
+        "end": 2084,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "第三方",
+        "start": 2116,
+        "end": 2119,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "第三方",
+        "start": 2244,
+        "end": 2247,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "第三方",
+        "start": 2256,
+        "end": 2259,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "第三方",
+        "start": 2337,
+        "end": 2340,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "第三方",
+        "start": 2349,
+        "end": 2352,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "关联公司",
+        "start": 2584,
+        "end": 2588,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "合作伙伴",
+        "start": 2589,
+        "end": 2593,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "第三方供应商",
+        "start": 2600,
+        "end": 2606,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "公司",
+        "start": 4275,
+        "end": 4277,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "组织",
+        "start": 4278,
+        "end": 4280,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "个人",
+        "start": 4281,
+        "end": 4283,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "其他方",
+        "start": 4395,
+        "end": 4398,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "关联公司",
+        "start": 4506,
+        "end": 4510,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "服务提供商",
+        "start": 4517,
+        "end": 4522,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "系统",
+        "start": 4843,
+        "end": 4845,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "广告服务商",
+        "start": 4979,
+        "end": 4984,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "公司",
+        "start": 5428,
+        "end": 5430,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "组织",
+        "start": 5431,
+        "end": 5433,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "个人",
+        "start": 5434,
+        "end": 5436,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "其他方",
+        "start": 5476,
+        "end": 5479,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "提供",
+        "start": 735,
+        "end": 737,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "提供",
+        "start": 916,
+        "end": 918,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "提供",
+        "start": 2071,
+        "end": 2073,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "提供",
+        "start": 2234,
+        "end": 2236,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "提供",
+        "start": 2327,
+        "end": 2329,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "共享",
+        "start": 4283,
+        "end": 4285,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "共享",
+        "start": 4355,
+        "end": 4357,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "共享",
+        "start": 4398,
+        "end": 4400,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "共享",
+        "start": 4522,
+        "end": 4524,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "提供",
+        "start": 4840,
+        "end": 4842,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "填写",
+        "start": 4857,
+        "end": 4859,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "共享",
+        "start": 4984,
+        "end": 4986,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "转让",
+        "start": 5423,
+        "end": 5425,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "披露",
+        "start": 5635,
+        "end": 5637,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "共享",
+        "start": 5734,
+        "end": 5736,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "转让",
+        "start": 5737,
+        "end": 5739,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "披露",
+        "start": 5742,
+        "end": 5744,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "手机号码",
+        "start": 737,
+        "end": 741,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "会员名",
+        "start": 746,
+        "end": 749,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "密码",
+        "start": 750,
+        "end": 752,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "个人身份信息",
+        "start": 926,
+        "end": 932,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "身份信息、联系方式、交易账号类信息",
+        "start": 1030,
+        "end": 1047,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "设备信息、位置信息、行踪轨迹、网络身份标识信息",
+        "start": 1137,
+        "end": 1160,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "日志信息",
+        "start": 1682,
+        "end": 1686,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "搜索关键词信息",
+        "start": 1693,
+        "end": 1700,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "报错信息、反馈和评论信息",
+        "start": 1705,
+        "end": 1717,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "图片信息",
+        "start": 1722,
+        "end": 1726,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "IP地址、浏览器的类型",
+        "start": 1729,
+        "end": 1740,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "使用的语言、硬件设备信息、操作系统的版本、网络运营商的信息",
+        "start": 1741,
+        "end": 1770,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "访问服务的日期、时间、时长",
+        "start": 1772,
+        "end": 1785,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "身份信息",
+        "start": 2052,
+        "end": 2056,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "位置信息",
+        "start": 2057,
+        "end": 2061,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "该信息",
+        "start": 2068,
+        "end": 2071,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "订单信息",
+        "start": 2123,
+        "end": 2127,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "选择的车辆、行程信息、手机号码、交易状态及信息、IP地址、设备信息",
+        "start": 2135,
+        "end": 2168,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "身份信息",
+        "start": 2215,
+        "end": 2219,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "位置信息",
+        "start": 2220,
+        "end": 2224,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "该信息",
+        "start": 2231,
+        "end": 2234,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "相关订单信息",
+        "start": 2261,
+        "end": 2267,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "身份信息",
+        "start": 2308,
+        "end": 2312,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "位置信息",
+        "start": 2313,
+        "end": 2317,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "该信息",
+        "start": 2324,
+        "end": 2327,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "相关订单信息",
+        "start": 2354,
+        "end": 2360,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "个人信息",
+        "start": 2611,
+        "end": 2615,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "其他信息",
+        "start": 2616,
+        "end": 2620,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "个人信息",
+        "start": 2704,
+        "end": 2708,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "个人信息",
+        "start": 4287,
+        "end": 4291,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "个人信息",
+        "start": 4359,
+        "end": 4363,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "个人信息",
+        "start": 4402,
+        "end": 4406,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "个人信息",
+        "start": 4495,
+        "end": 4499,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "位置信息",
+        "start": 4830,
+        "end": 4834,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "设备信息",
+        "start": 4835,
+        "end": 4839,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "联系信息",
+        "start": 4860,
+        "end": 4864,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "用户画像",
+        "start": 4974,
+        "end": 4978,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "个人信息",
+        "start": 5122,
+        "end": 5126,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "个人信息",
+        "start": 5419,
+        "end": 5423,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "个人信息",
+        "start": 5483,
+        "end": 5487,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "个人信息",
+        "start": 5639,
+        "end": 5643,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "个人信息",
+        "start": 5746,
+        "end": 5750,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "使用报错、评论等需要经过实名认证才能使用的附加业务功能",
+        "start": 803,
+        "end": 830,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "满足向您提供该产品和服务之目的",
+        "start": 883,
+        "end": 898,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "与您取得联系，向您发运营奖励",
+        "start": 1050,
+        "end": 1064,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "为您提供更适合您的定制化服务",
+        "start": 1922,
+        "end": 1936,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "向您展现或推荐相关程度更高（而非普遍推送）的搜索结果、信息流或者广告/推广信息结果",
+        "start": 1939,
+        "end": 1980,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "第三方获知您的请求，为您提供相关车辆服务，",
+        "start": 2087,
+        "end": 2108,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "方便您在掌上公交查询您的订单",
+        "start": 2171,
+        "end": 2185,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "方便您在掌上公交查询您的订单",
+        "start": 2269,
+        "end": 2283,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "方便您在掌上公交查询您的订单",
+        "start": 2362,
+        "end": 2376,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "共同向您提供产品/服务或改进产品服务的质量和个性化程度或出于对产品和服务安全性的考量等合理需要",
+        "start": 2516,
+        "end": 2563,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "基于掌上公交账户向您提供产品和服务，推荐您可能感兴趣的信息，识别会员账号异常，保护掌上公交关联公司或其他用户或公众的人身财产安全免遭侵害",
+        "start": 4424,
+        "end": 4492,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "帮助其在不识别您个人的前提下提升广告有效触达率",
+        "start": 4988,
+        "end": 5011,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "实现功能",
+        "start": 5127,
+        "end": 5131,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 1020,
+        "end": 1022,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 1128,
+        "end": 1130,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "处理",
+        "start": 1131,
+        "end": 1133,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "记录",
+        "start": 1678,
+        "end": 1680,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 2041,
+        "end": 2043,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "获取",
+        "start": 2119,
+        "end": 2121,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 2211,
+        "end": 2213,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "获取",
+        "start": 2259,
+        "end": 2261,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 2304,
+        "end": 2306,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "获取",
+        "start": 2352,
+        "end": 2354,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "接收",
+        "start": 2607,
+        "end": 2609,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 2699,
+        "end": 2701,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "使用",
+        "start": 2702,
+        "end": 2704,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收取",
+        "start": 4826,
+        "end": 4828,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 5118,
+        "end": 5120,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_10",
+        "classId_name": "用户隐私设置选择",
+        "text": "您可以通过系统授权关闭定位功能，停止我们对您的地理位置信息的收集，但之后您可能将无法使用相关服务或功能，或者无法达到相关服务拟达到的效果。",
+        "start": 1265,
+        "end": 1334,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_10",
+        "classId_name": "用户隐私设置选择",
+        "text": "可以在设备的设置功能中选择关闭部分或全部权限，从而拒绝掌上公交收集相应的个人信息。在不同设备中，权限显示方式及关闭方式可能有所不同，具体请参考设备及系统开发方说明或指引。",
+        "start": 3319,
+        "end": 3404,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "按照法律法规的规定",
+        "start": 2567,
+        "end": 2576,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "您的授权",
+        "start": 2579,
+        "end": 2583,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "以下情形",
+        "start": 2693,
+        "end": 2697,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "以下情况",
+        "start": 4293,
+        "end": 4297,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "根据法律法规规定、诉讼争议解决需要",
+        "start": 4318,
+        "end": 4335,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "行政、司法机关依法提出的要求",
+        "start": 4338,
+        "end": 4352,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "获得您的明确同意",
+        "start": 4381,
+        "end": 4389,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "只会共享必要的个人信息",
+        "start": 4527,
+        "end": 4538,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "受本隐私政策中所声明目的的约束",
+        "start": 4540,
+        "end": 4555,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "特殊情境下",
+        "start": 4846,
+        "end": 4851,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "以下情况",
+        "start": 5438,
+        "end": 5442,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "获得您的明确同意",
+        "start": 5462,
+        "end": 5470,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "以下情况",
+        "start": 5627,
+        "end": 5631,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "以下情形",
+        "start": 5728,
+        "end": 5732,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_4",
+        "classId_name": "用户权利增删改查",
+        "text": "5.您授权我们在您使用掌上公交产品及服务的期间使用您的个人信息。您随时可在我的页-个人资料中注销账户。若您注销账号，我们将停止使用并删除您的个人信息。注销账户可能会造成付款码、刷卡乘车、定制公交、公交云卡等功能无法使用，其中的资产和权益无法找回，请慎重操作。",
+        "start": 3101,
+        "end": 3230,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_4",
+        "classId_name": "用户权利增删改查",
+        "text": "六、您如何管理您的信息\n您可以在使用我们服务的过程中，访问、修改和删除您提供的注册信息和其他个人信息，也可按照通知指引与我们联系。您访问、修改和删除个人信息的范围和方式将取决于您使用的具体服务。",
+        "start": 6750,
+        "end": 6847,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_4",
+        "classId_name": "用户权利增删改查",
+        "text": "例",
+        "start": 6848,
+        "end": 6849,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_4",
+        "classId_name": "用户权利增删改查",
+        "text": "如，若您在使用地理位置相关服务时，希望停止分享您的地理位置信息，您可通过手机定位关闭功能、软硬件服务商及通讯服务提供商的关闭方式停止分享，建议您仔细阅读相关指引。",
+        "start": 6849,
+        "end": 6930,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_4",
+        "classId_name": "用户权利增删改查",
+        "text": "如您发现我们违反法律、行政法规的规定或者双方的约定收集、使用您的个人信息，您可以要求我们删除。",
+        "start": 6968,
+        "end": 7015,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_4",
+        "classId_name": "用户权利增删改查",
+        "text": "如",
+        "start": 7016,
+        "end": 7017,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_4",
+        "classId_name": "用户权利增删改查",
+        "text": "您发现我们收集、存储的您的个人信息有错误的，您也可以要求我们更正。",
+        "start": 7017,
+        "end": 7050,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_4",
+        "classId_name": "用户权利增删改查",
+        "text": "您随时可注销此前注册的账户。您可以通过登录掌上公交APP，选择我的-个人资料-手机-其他账号设置注销您的掌上公交帐号。一旦您注销掌上公交账号，将无法使用掌上公交全线用户产品的服务，因此请您谨慎操作。我们为了保护您或他人的合法权益会结合您对掌上公交各产品的使用情况判断是否支持您的注销请求。例如若您在掌上公交里有未提现的现金资产，或您在掌上公交里有未消费的红包，则我们不会立即支持您的请求。除法律法规另有规定外，注销帐号之后我们将停止为您提供产品和服务，并根据您的要求删除您的个人信息。您通过第三方帐号（如微信、微博、QQ等）授权登录掌上公交时，需要向第三方申请注销账号。\n请通过本政策列明的联系方式与我们联系。\n在您访问、修改和删除相关信息时，我们可能会要求您进行身份验证，以保障账号的安全。\n请您理解，由于技术所限、法律或监管要求，我们可能无法满足您的所有要求，我们会在合理的期限内答复您的请求。",
+        "start": 7234,
+        "end": 7633,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_15",
+        "classId_name": "网站Cookie及WebBeacon使用",
+        "text": "1. Cookie \n为确保软件正常运转、为您获得更轻松的访问体验，我们会在您的移动设备上存储Cookie、Flash Cookie，或关联应用程序提供的其他通常包含标识符、站点名称以及一些号码和字符的本地存储（统称\"Cookie\"）。借助于Cookie，我们能够存储您的搜索历史或收藏的线路、站点或地点等数据。\n2.Cookie 同类技术\n除 Cookie外，我们还会使用网站信标、像素标签、ETag等其他同类技术。\n1）Web beacon（网络信标）\nWeb beacon是装嵌在网站或电邮内的电子图像文件案或其他技术，可用于计算访客数目、记录您是否及何时阅览电邮或网站，或用以使用某些Cookie。\n2）Log files（日志文件）\nLog files储存自动收集的若干数据。该等数据包括互联网协议（IP）地址、浏览器类型、互联网服务提供商（ISP）、引用/退出页面、操作系统、日期/时间戳和点击流数据等。\n3）ET Tag（实体标签）\nET Tag是在互联网浏览器与互联网服务器之间背后传送的HTTP协议标头，可代替Cookie，用以追踪个别使用者，使我们可更深入地了解和改善我们的服务。\n4）JavaScript\nJavaScript是一种编程语言，用于制作更具互动性和动态的网页。JavaScript可以设定Cookie、阅读Cookie及删除Cookie。",
+        "start": 3628,
+        "end": 4215,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_2",
+        "classId_name": "第三方收集或共享个人信息",
+        "text": "四、我们如何共享、转让、公开披露您的信息\n1.共享\n     我们不会与掌上公交服务提供者以外的公司、组织和个人共享您的个人信息，但以下情况除外：\n1）在法定情形下的共享：我们可能会根据法律法规规定、诉讼争议解决需要，或按行政、司法机关依法提出的要求，对外共享您的个人信息。\n2）在获取明确同意的情况下共享：获得您的明确同意后，我们会与其他方共享您的个人信息。\n3）与关联公司间共享：为便于我们基于掌上公交账户向您提供产品和服务，推荐您可能感兴趣的信息，识别会员账号异常，保护掌上公交关联公司或其他用户或公众的人身财产安全免遭侵害，您的个人信息可能会与我们的关联公司和/或其指定的服务提供商共享。我们只会共享必要的个人信息，且受本隐私政策中所声明目的的约束，如果我们共享您的个人敏感信息或关联公司改变个人信息的使用及处理目的，将再次征求您的授权同意。\n4）与授权合作伙伴共享：我们可能委托授权合作伙伴为您提供某些服务或代表我们履行职能，我们仅会出于本隐私权政策声明的合法、正当、必要、特定、明确的目的共享您的信息，授权合作伙伴只能接触到其履行职责所需信息，且不得将此信息用于其他任何目的。\n目前，我们的授权合作伙伴包括以下类型：\na)软件服务提供商、智能设备提供商或系统服务提供商。当第三方软件、设备系统与掌上公交产品或服务结合为您提供基于位置的服务时，掌上公交可能会基于您对系统定位的授权及设定，收取您的位置信息及设备信息并提供给系统，特殊情境下会包含您另行填写的联系信息。如您拒绝此类信息收集及使用，您需要在设备系统中进行设置或关闭提供服务的软件，掌上公交中无法自动或手动设置关闭相关服务。\nb)广告服务商。未经您授权，我们不会将您的个人信息与提供广告服务商共享。但我们可能会将您的匿名化的用户画像与广告服务商共享，以帮助其在不识别您个人的前提下提升广告有效触达率。\nc)其他第三方合作方。为了使您能够接收信息推送、在第三方平台分享信息及完成支付，我们接入了第三方合作方。包括部分使用安卓系统的手机厂商、社交平台和第三方支付机构。为了给您提供服务，第三方合作方可能会调用部分权限收集您的个人信息以实现功能，第三方所调用的权限类型可能包括获取您的位置信息、读/写您的外部存储卡、读取您的手机状态和身份、查看WLAN连接等。\nd)掌上公交部分产品中可能涉及第三方提供的自动化工具（如代码、接口、开发工具包（SDK）等）嵌入或接入。如基于终端厂商的要求嵌入通知类SDK，基于统计分析的需求嵌入数据处理服务商的SDK，基于二维码乘车、NFC刷卡乘车需求嵌入服务商的SDK等。我们会通过协议等形式明确信息收集的范围，并要求对方遵守法律法规的规定，保护您的个人信息。",
+        "start": 4227,
+        "end": 5356,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_2",
+        "classId_name": "第三方收集或共享个人信息",
+        "text": "2.转让\n我们不会将您的个人信息转让给任何公司、组织和个人，但以下情况除外：\n1）在获取明确同意的情况下转让：获得您的明确同意后，我们会向其他方转让您的个人信息；\n2）在掌上公交服务提供者发生合并、收购或破产清算情形，或其他涉及合并、收购或破产清算情形时，如涉及到个人信息转让，我们会要求新的持有您个人信息的公司、组织继续受本政策的约束，否则我们将要求该公司、组织和个人重新向您征求授权同意。",
+        "start": 5407,
+        "end": 5603,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_2",
+        "classId_name": "第三方收集或共享个人信息",
+        "text": "3.公开披露\n我们仅会在以下情况下，公开披露您的个人信息：\n1）获得您的明确同意；\n2）基于法律法规、法律程序、诉讼或政府主管部门强制性要求下。\n==========",
+        "start": 5615,
+        "end": 5698,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_2",
+        "classId_name": "第三方收集或共享个人信息",
+        "text": "4.共享、转让、公开披露个人信息时事先征得授权同意的例外\n以下情形中，共享、转让、公开披露您的个人信息无需事先征得您的授权同意：\n1）与国家安全、国防安全有关的；\n2）与公共安全、公共卫生、重大公共利益有关的；\n3）与犯罪侦查、起诉、审判和判决执行等司法或行政执法有关的；\n4）出于维护您或其他个人的生命、财产等重大合法权益但又很难得到本人同意的；\n5）您自行向社会公众公开的个人信息；\n6）从合法公开披露的信息中收集个人信息的，如合法的新闻报道、政府信息公开等渠道。\n请知悉，根据适用的法律，若我们对个人信息采取技术措施和其他必要措施进行处理，使得数据接收方无法重新识别特定个人且不能复原，则此类处理后数据的共享、转让、公开披露无需另行向您通知并征得您的同意。",
+        "start": 5699,
+        "end": 6030,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_5",
+        "classId_name": "数据保存",
+        "text": "五、我们如何保存您的信息\n1.保存地域\n我们依照法律法规的规定，将您的个人信息存储于中华人民共和国境内。目前，我们不会将上述信息传输至境外，如果我们向境外传输，将会遵循相关法律法规的规定，向您告知出境的个人信息类型、目的、接收方、安全保障措施和安全风险，并单独征得您的授权同意。\n2.保存期限\n我们综合考虑以下三个要素来确定保存您的个人信息期限：\n1）法律规定的最低存储期限，如《网络安全法》、《电子商务法》等规定的最低保存时间。\n2）为提供掌上公交产品/服务之目的所必需的期限，如在您使用手机号码注册/登录后使用掌上公交相应的功能时，我们会在您提供且使用该功能期间，持续保存您的手机号码，以向您正常提供该功能。\n3）履行其他法定义务而保存的期限，如根据《信息网络传播保护条例》第十三条规定，我们需向著作权行政管理部门提供涉嫌侵权服务对象的姓名（名称）、联系方式等信息。\n超出上述个人信息保存期限后，我们会将您的个人信息删除或匿名化处理。",
+        "start": 6042,
+        "end": 6461,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_6",
+        "classId_name": "数据安全",
+        "text": "3.保存方法\n1）我们为您的信息提供相应的安全保障，以防止信息的丢失、不当使用、未经授权访问或披露。\n2）我们严格遵守法律法规保护用户的通信安全。\n3）我们将在合理的安全水平内使用各种安全保护措施以保障信息的安全。\n例如，我们使用加密技术（例如，TLS、SSL）、匿名化处理等手段来保护您的个人信息。\n4）我们建立专门的管理制度、流程和组织确保信息安全。\n例如，我们严格限制访问信息的人员范围，要求他们遵守保密义务，并进行审查。\n若发生个人信息泄露等安全事件，我们会启动应急预案，阻止安全事件扩大，并以推送通知、公告等形式告知您。\n==========",
+        "start": 6473,
+        "end": 6749,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_9",
+        "classId_name": "获取撤回同意",
+        "text": "由于每个业务功能需要一些基本的个人信息才能得以完成。对于额外收集的个人信息的收集和使用，您可以随时通过我的-设置功能给予或收回您的授权同意。当您撤回同意或授权后，我们无法继续为您提供撤回同意或授权所对应的服务，也将不再处理您相应的个人信息。\n带格式的字体（默认）宋体（中文）宋体磅无下 但您撤回同意或授权的决定，不会影响此前基于您的同意或授权而开展的个人信息处理。",
+        "start": 7051,
+        "end": 7233,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_11",
+        "classId_name": "年龄限制条款",
+        "text": "七、我们如何处理未成年人的信息\n掌上公交非常重视对未成年人信息的保护。\n我们的产品、网站和服务主要面向成人。如果没有父母或监护人的同意，儿童不得创建自己的用户账户。对于经父母同意而收集儿童个人信息的情况，我们只会在受到法律允许、父母或监护人明确同意或者保护儿童所必要的情况下使用或公开披露此信息。\n我们将不满 14 周岁的任何人均视为儿童。如果我们发现自己在未事先获得可证实的父母同意的情况下收集了儿童的个人信息，则会设法尽快删除相关数据。\n若您是14周岁以下的未成年人，建议您请您的监护人仔细阅读本隐私政策，并在征得您的监护人同意的前提下使用我们的产品和/或服务或向我们提供信息。",
+        "start": 7645,
+        "end": 7936,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_7",
+        "classId_name": "隐私政策修改更新",
+        "text": "八、 本隐私权政策如何更新\n我们的隐私权政策可能变更。\n未经您明确同意，我们不会限制您按照本隐私权政策所应享有的权利。我们会在专门页面上发布对隐私权政策所做的任何变更。\n在该种情况下，若您继续使用我们的服务，即表示同意受经修订的政策约束。\n==========",
+        "start": 7948,
+        "end": 8078,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_14",
+        "classId_name": "开发者公司名称联系方式",
+        "text": "九、如何联系我们\n您可以通过在微信公众号（掌上公交）留言、“掌上公交APP-我的-意见反馈”与我们联系，我们将在15天内回复您的请求。如对本政策内容有任何疑问、意见或建议，您可通过掌上公交客服及在线客服与我们联系。为保障我们高效处理您的问题并及时向您反馈，需要您提交身份证明、有效联系方式和书面请求及相关证据，我们会在验证您的身份处理您的请求。",
+        "start": 8079,
+        "end": 8251,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_14",
+        "classId_name": "开发者公司名称联系方式",
+        "text": "再次感谢您对掌上公交的信任和使用！\n厦门搜谷信息科技有限公司",
+        "start": 8252,
+        "end": 8282,
+        "fields": [],
+        "sub_annotations": []
+    }
+]

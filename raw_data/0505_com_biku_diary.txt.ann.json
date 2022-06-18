@@ -1,0 +1,1793 @@
+[
+    {
+        "classId": "e_16",
+        "classId_name": "其他",
+        "text": "比酷网络深知个人信息（含个人敏感信息）对你的重要性，并会全力保护你的个人信息安全。我们致力于维持你对我们的信任，恪守以下原则，保护你的个人信息：权责一致原则、目的明确原则、选择同意原则、最小必要原则、公开透明原则、确保安全原则、主体参与原则等。同时，比酷网络承诺，我们将按业界成熟的安全标准，采取相应的安全保护措施来保护你的个人信息。",
+        "start": 41,
+        "end": 208,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_16",
+        "classId_name": "其他",
+        "text": "本隐私政策（以下简称“本政策”）适用于比酷网络的所有相关产品与/或服务。如比酷网络及关联公司的产品与/或服务中使用了比酷网络提供的产品与/或服务但未设立独立的隐私政策的，则本政策同样适用于该产品与/或服务。如比酷网络及关联公司就其向你提供的产品与/或服务单独设立有隐私政策的，则相应的产品与/或服务适用于相应隐私政策。在使用比酷网络各项产品与/或服务前，请你务必仔细阅读并透彻理解本政策，并做出你认为适当的选择。一旦你开始使用比酷网络的各项产品与/或服务，即表示你已充分理解并同意本政策。需要提醒你注意，本隐私政策仅适用于我们所收集的信息，不适用于通过我们的产品与/或服务而接入的第三方产品与/或服务（包括任何第三方网站）收集的信息以及通过在我们产品与/或服务中进行广告服务的其他公司或机构所收集的信息。",
+        "start": 224,
+        "end": 576,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_16",
+        "classId_name": "其他",
+        "text": "本政策将帮助你了解以下内容：\n    1、我们如何收集和使用你的个人信息\n    2、我们如何使用Cookie 和同类技术\n    3、我们如何共享、转让、公开披露你的个人信息\n    4、我们如何保护你的个人信息\n    5、你的权利\n    6、关于儿童的个人信息\n    7、你的个人信息如何在全球范围转移\n    8、本政策如何更新\n    9、如何联系我们\n    10、争议解决",
+        "start": 592,
+        "end": 787,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_16",
+        "classId_name": "其他",
+        "text": "(七)  约束信息系统自动决策\n    在某些业务功能中，我们可能仅依据信息系统、算法等在内的非人工自动决策机制做出决定。如果这些决定显著影响你的合法权益，你有权要求我们做出解释，我们也将提供适当的救济方式。",
+        "start": 9723,
+        "end": 9827,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_8",
+        "classId_name": "信息定义",
+        "text": "相关术语及定义\n    1、比酷网络：指比酷网络网或对比酷网络网享有所有权或运营权的主体珠海比酷网络科技有限公司及其关联公司。\n    2、个人信息：指以电子或者其他方式记录的能够单独或者与其他信息结合识别特定自然人身份或者反映特定自然人活动情况的各种信息，包括个人基本资料（姓名、出生日期）、个人身份信息（身份证、军官证、护照、工作证）、个人生物识别信息（个人基因、指纹）、网络身份标识信息（系统账号、IP地址、邮箱地址及前述有关的密码、口令、口令保护答案）、个人健康生理信息、个人教育工作信息（个人职业、职位、工作单位、学历、学位、教育经历）、个人财产信息（银行账号、存款信息、交易和消费记录、财产信息、征信信息）、个人通信信息（通信通讯联系方式、通信记录和内容）、联系人信息（通讯录、好友列表、群列表）、个人上网记录（指通过日志存储的用户操作记录）、个人常用设备记录（包括硬件序列号、设备MAC地址、软件列表、唯一设备识别码）、个人位置信息（包括行踪轨迹、精准定位信息、住宿信息等）其他信息（婚史、宗教信息、性取向、未公开的违法犯罪记录等）。本定义出自于GB/T 35273-2017《信息安全技术 个人信息安全规范》。\n    3、个人敏感信息：指一旦泄露、非法提供或滥用可能危害人身和财产安全，极易导致个人名誉、身心健康受到损害或歧视性待遇等的个人信息。包括个人财产信息（银行账号、鉴别信息、交易和消费记录、流水记录等）、个人生物识别信息、个人身份信息（如身份证、军官证、护照、工作证）、网络身份标识信息（如系统账号、邮箱地址及前述有关的密码、口令、口令保护答案）、其他信息（个人电话号码、性取向、婚史、行踪轨迹、网页浏览记录、精确定位信息）等，我们将在本隐私政策中对全部个人敏感信息加粗斜体处理。本定义出自于GB/T 35273-2017《信息安全技术 个人信息安全规范》。\n    4、收集：指获得对个人信息的控制权的行为，包括由个人信息主体主动提供、通过与个人信息主体交互或记录个人信息主体行为等自动采集，以及通过共享、转让、搜集公开信息间接获取等方式。\n    5、删除：指在实现日常业务功能所涉及的系统中去除个人信息的行为，使其保持不可被检索、访问的状态。\n    6、公开披露：指向社会或不特定人群发布信息的行为。\n    7、转让：指将个人信息控制权由一个控制者向另一个控制者转移的过程。\n    8、共享：指个人信息控制者向其他控制者提供个人信息，且双方分别对个人信息拥有独立控制权的过程。\n    9、匿名化：指通过对个人信息的技术处理，使得个人信息主体无法被识别，且处理后的信息不能被复原的过程。注：个人信息经匿名化处理后所得的信息不属于个人信息。\n    10、去标识化：指通过对个人信息的技术处理，使其在不借助额外信息的情况下，无法识别个人信息主体的过程。\n    11、关联公司：指相互之间存在关联关系的公司，关联关系是指公司控股股东、实际控制人、董事、监事、高级管理人员与其直接或者间接控制的企业之间的关系，以及可能导致公司利益转移的其他关系。",
+        "start": 803,
+        "end": 2094,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_1",
+        "classId_name": "App或网站收集使用处理个人信息",
+        "text": "一、我们如何收集和使用你的个人信息\n    (一)  我们如何收集你的个人信息\n    你在使用比酷网络提供的产品与/或服务时，为了更好地实现你的目的，我们可能收集和使用你的个人信息。包括：",
+        "start": 2110,
+        "end": 2205,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_1",
+        "classId_name": "App或网站收集使用处理个人信息",
+        "text": "2、在你使用产品与/或服务的过程中收集的信息\n    使用本隐私政策“（二）我们如何使用你的个人信息”中所列举的比酷网络产品与/或服务时，我们可能会收集你使用的设备信息（包括操作系统、软件版本、语言设置、IP地址），浏览信息（包括搜索关键词、访问页面链接和访问时间），发表信息（包括文字、图片、视频），位置信息（包括搜索热映电影、同城活动），交易信息（包括交易记录、购买需要邮寄的物品时提供的地址信息），身份信息（包括认证阅读作者、音乐人、创作者时需要提供的身份证号码、手机号码）。\n    3、第三方向比酷网络提供的信息：\n    你在第三方产品与/或服务中使用比酷网络的时候，我们会收集第三方产品与/或服务向我们提供的有关信息。\n    你提供的上述信息，将在你使用本产品与/或服务期间持续授权我们使用。在你注销账号时，我们将停止使用并删除上述信息。",
+        "start": 2352,
+        "end": 2729,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_1",
+        "classId_name": "App或网站收集使用处理个人信息",
+        "text": "提供上述信息，尤其是个人敏感信息，你可能面临用户信息泄露或用户账号被盗、个人隐私及财产安全难以保障等风险，但我们将尽最大努力避免上述风险发生。",
+        "start": 2766,
+        "end": 2837,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_1",
+        "classId_name": "App或网站收集使用处理个人信息",
+        "text": "如你选择不提供上述信息，你可能无法注册成为我们的用户或无法享受我们提供的某些产品与/或服务，或者无法达到相关产品与/或服务拟达到的效果。",
+        "start": 2842,
+        "end": 2910,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_1",
+        "classId_name": "App或网站收集使用处理个人信息",
+        "text": "(二)  我们如何使用你的个人信息\n    我们会在下列情况下使用你的个人信息：\n    1、向你提供你使用的各项产品与/或服务，并维护、改进这些服务。\n    (1)  发布功能：你可以发布文字、图片、视频，我们需要收集你发布的信息，并展示你的昵称、头像、发布内容。\n    (2)  个性化功能：你可以浏览、关注、收藏你感兴趣的动态、日记、长评、相册、小组帖、条目，我们需要结合你的操作行为并通过算法分析，向你进行个性化推荐、展示或推送你可能感兴趣的特定信息。有的信息可能不是你喜欢的信息。\n    (3)  搜索功能：你可以使用对关键字进行查询的服务，我们需要使用网络存储机制和应用数据缓存，收集你设备上的信息并进行本地存储，以提供更便捷的搜索服务。\n    (4)  定位功能：你可以使用与地理位置相关的服务，比酷网络同城、比酷网络电影产品需要收集你的位置信息来提供所在区域的商品或服务。\n    (5)  认证功能：你可以使用身份认证的服务。当你申请“比酷网络创作者”时，我们需要收集你的姓名、有效身份证件验证身份信息。信息审核通过后，我们会为你的个人账号提供认证标识。\n    (6)  交易功能：你可以开通“赞赏功能”以使用收款服务。当你希望购买商品、线上课程、电子书、专栏，或使用需付费的官方同城服务时，你需要使用“支付功能”。在收付款的过程中，我们需要收集你提供的身份证号码、收款方式、第三方支付账号（包括支付宝账号、Apple Pay 账号或其他形式的银行卡信息）以提供高效的交易服务。\n    (7)  营销活动：你可以参加由我们或第三方举办的线上或线下的营销活动，包括提前观影、线下沙龙、展览、市集，我们会征得你的同意后，收集你的手机号码、用户ID、真实姓名以提供更好的活动体验。\n    (8)  客服功能：你可以向客服发起投诉、申诉或咨询，我们需要你提供真实姓名、手机号码、电子邮件。以及时地向你反馈投诉、申诉或咨询结果，如以个人名义进行投诉，还需要提供身份证件。\n    (9)  经你同意的其他目的，包括但不限于向你发出产品和服务信息，或通过系统向你展示个性化的第三方推广信息，或在征得你同意的情况下与我们的合作伙伴共享信息以便他们向你发送有关其产品和服务的信息。有的信息有可能是你不希望接收的信息。\n    2、需要提醒你注意，以下情形中，使用你的个人信息无需你的同意：\n    (1)  与个人信息控制者履行法律法规规定的义务相关的；\n    (2)  与国家安全、国防安全直接相关的；\n    (3)  与公共安全、公共卫生、重大公共利益直接相关的；\n    (4)  与刑事侦查、起诉、审判和判决执行等直接相关的；\n    (5)  出于维护个人信息主体或其他个人的生命、财产等重大合法权益但又很难得到本人同意的；\n    (6)  所收集的个人信息是你自行向社会公众公开的；\n    (7)  从合法公开披露的信息中收集的你的个人信息的，如合法的新闻报道、政府信息公开等渠道；\n    (8)  根据你的要求签订和履行合同所必需的；\n    (9)  用于维护所提供的产品与/或服务的安全稳定运行所必需的，例如发现、处置产品与/或服务的故障；\n    (10)  出于公共利益开展统计或学术研究所必要，且对外提供学术研究或描述的结果时，对结果中所包含的个人信息进行去标识化处理的。",
+        "start": 2926,
+        "end": 4337,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "更好地实现你的目的",
+        "start": 2176,
+        "end": 2185,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "提供所在区域的商品或服务",
+        "start": 3311,
+        "end": 3323,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "验证身份信息",
+        "start": 3384,
+        "end": 3390,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "供高效的交易服务",
+        "start": 3570,
+        "end": 3578,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "提供更好的活动体验",
+        "start": 3668,
+        "end": 3677,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "及时地向你反馈投诉、申诉或咨询结果",
+        "start": 3733,
+        "end": 3750,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "实现本政策中声明的目的",
+        "start": 5495,
+        "end": 5506,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "提供更好的客户服务和用户体验",
+        "start": 5552,
+        "end": 5566,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "合法、正当、必要、特定、明确的目的",
+        "start": 5573,
+        "end": 5590,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "帮助你实现产品或服务的购买（包括你在比酷网络读书、伴宠乐园上选购产品）或者为你提供售后服务",
+        "start": 5734,
+        "end": 5779,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "给你提供第三方账号登录的功能",
+        "start": 6009,
+        "end": 6023,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "给你提供位置服务（包括定位、购票和同城服务）",
+        "start": 6165,
+        "end": 6187,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "向你推送附近内容的服务",
+        "start": 6223,
+        "end": 6234,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "保证你能顺利购买平台的商品以及服务",
+        "start": 6250,
+        "end": 6267,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "给你提供及时的消息推送",
+        "start": 6365,
+        "end": 6376,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "推送你可能更感兴趣的信息",
+        "start": 6420,
+        "end": 6432,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 2186,
+        "end": 2188,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "你",
+        "start": 2248,
+        "end": 2249,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "你",
+        "start": 2311,
+        "end": 2312,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 2421,
+        "end": 2423,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 2948,
+        "end": 2950,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 3031,
+        "end": 3033,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "展示",
+        "start": 3045,
+        "end": 3047,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "比酷网络同城",
+        "start": 3285,
+        "end": 3291,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "比酷网络电影产品",
+        "start": 3292,
+        "end": 3300,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 3367,
+        "end": 3369,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 3507,
+        "end": 3509,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "你",
+        "start": 3513,
+        "end": 3514,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 3638,
+        "end": 3640,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "你",
+        "start": 3714,
+        "end": 3715,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 5266,
+        "end": 5268,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 5321,
+        "end": 5323,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 5415,
+        "end": 5417,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 5530,
+        "end": 5532,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 5567,
+        "end": 5569,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 5780,
+        "end": 5782,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "第三方服务商",
+        "start": 6024,
+        "end": 6030,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "第三方地理位置服务商",
+        "start": 6188,
+        "end": 6198,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "高德SDK",
+        "start": 6198,
+        "end": 6203,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "微信SDK",
+        "start": 6268,
+        "end": 6273,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "支付宝支付",
+        "start": 6274,
+        "end": 6279,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 6315,
+        "end": 6317,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "友盟SDK",
+        "start": 6320,
+        "end": 6325,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "第三方推送服务商",
+        "start": 6377,
+        "end": 6385,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "Vivo Push",
+        "start": 6441,
+        "end": 6450,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "OPPO Push",
+        "start": 6464,
+        "end": 6473,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "华为推送",
+        "start": 6486,
+        "end": 6490,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "小米",
+        "start": 6499,
+        "end": 6501,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "Bugly",
+        "start": 6537,
+        "end": 6542,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "Crashlytics",
+        "start": 6543,
+        "end": 6554,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "相关功能",
+        "start": 6557,
+        "end": 6561,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 6597,
+        "end": 6599,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 6661,
+        "end": 6663,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 6881,
+        "end": 6883,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 10490,
+        "end": 10492,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 2190,
+        "end": 2192,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "使用",
+        "start": 2193,
+        "end": 2195,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 2426,
+        "end": 2428,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "使用",
+        "start": 2957,
+        "end": 2959,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 3035,
+        "end": 3037,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 3302,
+        "end": 3304,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 3371,
+        "end": 3373,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 3511,
+        "end": 3513,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 3649,
+        "end": 3651,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "获取",
+        "start": 6033,
+        "end": 6035,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 6204,
+        "end": 6206,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 6282,
+        "end": 6284,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "记录",
+        "start": 6328,
+        "end": 6330,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "获取",
+        "start": 6388,
+        "end": 6390,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "获取",
+        "start": 6564,
+        "end": 6566,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "使用",
+        "start": 10532,
+        "end": 10534,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "个人信息",
+        "start": 2197,
+        "end": 2201,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "手机号码、电子邮箱",
+        "start": 2251,
+        "end": 2260,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "第三方账号",
+        "start": 2261,
+        "end": 2266,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "微信、QQ、微博",
+        "start": 2267,
+        "end": 2275,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "个人信息",
+        "start": 2323,
+        "end": 2327,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "头像、昵称、简介、性别、城市、生日",
+        "start": 2328,
+        "end": 2345,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "设备信息",
+        "start": 2432,
+        "end": 2436,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "操作系统、软件版本、语言设置、IP地址",
+        "start": 2439,
+        "end": 2458,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "浏览信息",
+        "start": 2460,
+        "end": 2464,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "搜索关键词、访问页面链接",
+        "start": 2467,
+        "end": 2479,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "访问时间",
+        "start": 2480,
+        "end": 2484,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "发表信息",
+        "start": 2486,
+        "end": 2490,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "文字、图片、视频",
+        "start": 2493,
+        "end": 2501,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "位置信息",
+        "start": 2503,
+        "end": 2507,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "搜索热映电影、同城活动",
+        "start": 2510,
+        "end": 2521,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "交易信息",
+        "start": 2523,
+        "end": 2527,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "交易记录",
+        "start": 2530,
+        "end": 2534,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "地址信息",
+        "start": 2548,
+        "end": 2552,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "身份信息",
+        "start": 2554,
+        "end": 2558,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "身份证号码、手机号码",
+        "start": 2581,
+        "end": 2591,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "个人信息",
+        "start": 2961,
+        "end": 2965,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "昵称、头像、发布内容",
+        "start": 3049,
+        "end": 3059,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "位置信息",
+        "start": 3306,
+        "end": 3310,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "姓名、有效身份证件",
+        "start": 3375,
+        "end": 3384,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "身份证号码、收款方式、第三方支付账号",
+        "start": 3517,
+        "end": 3535,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "支付宝账号、Apple Pay 账号",
+        "start": 3538,
+        "end": 3556,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "银行卡信息",
+        "start": 3562,
+        "end": 3567,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "手机号码、用户ID、真实姓名",
+        "start": 3653,
+        "end": 3667,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "真实姓名、手机号码、电子邮件",
+        "start": 3717,
+        "end": 3731,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "身份证件",
+        "start": 3767,
+        "end": 3771,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "个人信息",
+        "start": 3917,
+        "end": 3921,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "个人信息",
+        "start": 5370,
+        "end": 5374,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "个人信息",
+        "start": 5395,
+        "end": 5399,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "个人信息",
+        "start": 5424,
+        "end": 5428,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "个人信息",
+        "start": 5546,
+        "end": 5550,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "个人信息",
+        "start": 5594,
+        "end": 5598,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "订单",
+        "start": 5796,
+        "end": 5798,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "交易相关信息",
+        "start": 5799,
+        "end": 5805,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "必要设备信息、网络相关信息",
+        "start": 6037,
+        "end": 6050,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "设备信息",
+        "start": 6208,
+        "end": 6212,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "地理位置信息",
+        "start": 6213,
+        "end": 6219,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "设备信息、网络相关信息",
+        "start": 6288,
+        "end": 6299,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "活跃情况、设备信息、网络相关信息",
+        "start": 6334,
+        "end": 6350,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "设备信息、手机状态信息、地理位置信息、网络相关信息",
+        "start": 6393,
+        "end": 6418,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "设备信息",
+        "start": 6568,
+        "end": 6572,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "网络相关信息",
+        "start": 6573,
+        "end": 6579,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "个人信息",
+        "start": 6604,
+        "end": 6608,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "个人信息",
+        "start": 6672,
+        "end": 6676,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "中奖/获胜者名单",
+        "start": 6851,
+        "end": 6859,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "相关信息",
+        "start": 6862,
+        "end": 6866,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "个人信息",
+        "start": 6901,
+        "end": 6905,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "个人信息",
+        "start": 6972,
+        "end": 6976,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "未成年个人信息",
+        "start": 10479,
+        "end": 10486,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_3",
+        "classId_name": "用户提供个人信息",
+        "text": "1、你在注册比酷网络账号时提供的信息\n    注册并登录比酷网络账号时，需要你提供手机号码、电子邮箱或第三方账号（微信、QQ、微博 ）的信息，我们将通过发送短信验证码或邮件的方式来验证你的账号是否有效。你可根据自身需求补充填写个人信息（头像、昵称、简介、性别、城市、生日）。",
+        "start": 2210,
+        "end": 2347,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_3",
+        "classId_name": "用户提供个人信息",
+        "text": "(6)  交易功能：你可以开通“赞赏功能”以使用收款服务。当你希望购买商品、线上课程、电子书、专栏，或使用需付费的官方同城服务时，你需要使用“支付功能”。在收付款的过程中，我们需要收集你提供的身份证号码、收款方式、第三方支付账号（包括支付宝账号、Apple Pay 账号或其他形式的银行卡信息）以提供高效的交易服务。\n    (7)  营销活动：你可以参加由我们或第三方举办的线上或线下的营销活动，包括提前观影、线下沙龙、展览、市集，我们会征得你的同意后，收集你的手机号码、用户ID、真实姓名以提供更好的活动体验。\n    (8)  客服功能：你可以向客服发起投诉、申诉或咨询，我们需要你提供真实姓名、手机号码、电子邮件。以及时地向你反馈投诉、申诉或咨询结果，如以个人名义进行投诉，还需要提供身份证件。",
+        "start": 3421,
+        "end": 3772,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "提供",
+        "start": 2249,
+        "end": 2251,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "填写",
+        "start": 2321,
+        "end": 2323,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "提供",
+        "start": 3514,
+        "end": 3516,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "提供",
+        "start": 3715,
+        "end": 3717,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "提供",
+        "start": 3765,
+        "end": 3767,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "使用",
+        "start": 3913,
+        "end": 3915,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "分享",
+        "start": 5281,
+        "end": 5283,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "共享",
+        "start": 5328,
+        "end": 5330,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "共享",
+        "start": 5366,
+        "end": 5368,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "共享",
+        "start": 5412,
+        "end": 5414,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "共享",
+        "start": 5419,
+        "end": 5421,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "共享",
+        "start": 5540,
+        "end": 5542,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "共享",
+        "start": 5590,
+        "end": 5592,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "共享",
+        "start": 5792,
+        "end": 5794,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "转让",
+        "start": 6608,
+        "end": 6610,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "转让",
+        "start": 6668,
+        "end": 6670,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "公布",
+        "start": 6849,
+        "end": 6851,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "展示",
+        "start": 6860,
+        "end": 6862,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "披露",
+        "start": 6897,
+        "end": 6899,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "共享",
+        "start": 6960,
+        "end": 6962,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "转让",
+        "start": 6963,
+        "end": 6965,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "披露",
+        "start": 6968,
+        "end": 6970,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "披露",
+        "start": 10537,
+        "end": 10539,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_5",
+        "classId_name": "数据保存",
+        "text": "上述信息将存储于中华人民共和国境内，",
+        "start": 2734,
+        "end": 2752,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_5",
+        "classId_name": "数据保存",
+        "text": "不会进行跨境传输。",
+        "start": 2752,
+        "end": 2761,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "征得你的同意",
+        "start": 3641,
+        "end": 3647,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "以下情形",
+        "start": 3907,
+        "end": 3911,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "以下情形",
+        "start": 5260,
+        "end": 5264,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "获得你的明确同意后",
+        "start": 5311,
+        "end": 5320,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "按照司法机关或行政机关的要求",
+        "start": 5349,
+        "end": 5363,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "受本隐私政策中所声明目的的约束",
+        "start": 5430,
+        "end": 5445,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "以下情况",
+        "start": 6623,
+        "end": 6627,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "获得你的明确同意",
+        "start": 6651,
+        "end": 6659,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "因比酷网络社区维护需要，对违规账号、欺诈、辱骂等严重损害比酷网络社区的行为进行处罚公告（如公布被处罚账号的主页链接）",
+        "start": 6788,
+        "end": 6846,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "获得你明确同意",
+        "start": 6886,
+        "end": 6893,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "根据法律法规的规定，在下述情况",
+        "start": 6943,
+        "end": 6958,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "经父母同意",
+        "start": 10471,
+        "end": 10476,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "司法机关或行政机关要求、父母或监护人明确同意或者保护未成年人所必要的情况下",
+        "start": 10495,
+        "end": 10532,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_15",
+        "classId_name": "网站Cookie及WebBeacon使用",
+        "text": "二、我们如何使用Cookie和同类技术\n    (一)  Cookie\n    使用 Cookie 能帮助你实现你的联机体验的个性化，你可以接受或拒绝 Cookie ，大多数 Web 浏览器会自动接受 Cookie，但你通常可根据自己的需要来修改浏览器的设置以拒绝 Cookie。为了让你在访问比酷网络时能得到更好的服务，比酷网络有时会使用 Cookie 以便知道哪些网站受欢迎。Cookie不会跟踪个人信息。\n    当你注册比酷网络时，比酷网络亦会使用 Cookie。在这种情况下，比酷网络会收集并存储有用信息，当你再次访问比酷网络时，我们可辨认你的身份。来自比酷网络的 Cookie 只能被比酷网络读取。如果你的浏览器被设置为拒绝 Cookie，你仍然能够访问比酷网络的大多数网页。\n    (二)  网站信标和像素标签\n    除 Cookie 外，我们还会在网站上使用网站信标和像素标签等其他同类技术。例如，我们向你发送的电子邮件可能含有链接至我们网站内容的点击 URL。如果你点击该链接，我们则会跟踪此次点击，帮助我们了解你的产品或服务偏好并改善客户服务。网站信标通常是一种嵌入到网站或电子邮件中的透明图像。借助于电子邮件中的像素标签，我们能够获知电子邮件是否被打开。如果你不希望自己的活动以这种方式被追踪，则可以随时从我们的寄信名单中退订。\n    (三)  Do Not Track(请勿追踪)\n    很多网络浏览器均设有 Do Not Track 功能，该功能可向网站发布 Do Not Track 请求。目前，主要互联网标准组织尚未设立相关政策来规定网站应如何应对此类请求。但如果你的浏览器启用了 Do Not Track，那么我们的网站都会尊重你的选择。",
+        "start": 4353,
+        "end": 5092,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_2",
+        "classId_name": "第三方收集或共享个人信息",
+        "text": "三、我们如何共享、转让、公开披露你的个人信息\n    我们充分知晓因违法共享、转让、公开披露个人信息对个人信息主体造成损害时所应承担的法律责任，对于你的个人信息的一切共享、转让、公开披露，我们将严格按照以下条款进行：\n    \n    (一)  共享\n    尊重用户个人隐私是比酷网络的一项基本原则。除以下情形外，我们不会与任何公司、组织和个人分享你的个人信息：\n    1、在获取明确同意的情况下共享：获得你的明确同意后，我们会与其他方共享你的个人信息；\n    2、我们可能会按照司法机关或行政机关的要求，对外共享你的个人信息；\n    3、与我们的关联公司共享：你的个人信息可能会与比酷网络的关联公司共享。我们只会共享必要的个人信息，且受本隐私政策中所声明目的的约束。关联公司如要改变个人信息的处理目的，将再次征求你的授权同意。\n    4、与授权合作伙伴共享：仅为实现本政策中声明的目的，我们的某些产品与/或服务将由授权合作伙伴提供。我们可能会与合作伙伴共享你的某些个人信息，以提供更好的客户服务和用户体验。我们仅会出于合法、正当、必要、特定、明确的目的共享你的个人信息，并且只会共享提供产品与/或服务所必要的个人信息，并对我们与之共享个人信息的公司、组织和个人签署严格的保密协定，要求他们按照我们的说明、本隐私政策以及其他任何相关的保密和安全措施来处理个人信息。\n    目前，我们的合作伙伴包括：\n    (1) 平台合作的第三方商家：为帮助你实现产品或服务的购买（包括你在比酷网络读书、伴宠乐园上选购产品）或者为你提供售后服务，我们会与平台的第三方商家共享你的订单和交易相关信息。\n    (2) 第三方物流服务商：当你成功下单后，如商品需要第三方配送的，我们为了准确、安全向你完成货物的交付与配送，将会与第三方物流公司以最小、必要原则共享你的信息。我们承诺，相关信息仅作配送之目的使用。",
+        "start": 5108,
+        "end": 5910,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_2",
+        "classId_name": "第三方收集或共享个人信息",
+        "text": "3) 合作的第三方SDK服务商：当你使用APP中由第三方提供的功能时，我们可能会接入由第三方提供的软件开发包（SDK）以实现相关功能。具体包括如下：\n    A. 第三方账号登录功能：为给你提供第三方账号登录的功能，第三方服务商可能会获取你的必要设备信息、网络相关信息，合作的SDK包括：微信登录、微博登录、QQ登录；\n    B. 广告投放服务：我们会使用优量汇SDK或者穿山甲SDK完成广告投放以及内容的个性化推荐服务，必要设备信息、网络相关信息和地理位置信息；\n    C. 地理位置服务：为给你提供位置服务（包括定位、购票和同城服务），第三方地理位置服务商高德SDK会收集你的设备信息及地理位置信息以便可以向你推送附近内容的服务；\n    D. 支付服务：为了保证你能顺利购买平台的商品以及服务，微信SDK、支付宝支付可能会收集你必要的设备信息、网络相关信息；\n    E. 数据统计功能：我们会使用友盟SDK以准确记录App的活跃情况、设备信息、网络相关信息。\n    F. 消息推送：为给你提供及时的消息推送，第三方推送服务商可能会获取你必要设备信息、手机状态信息、地理位置信息、网络相关信息以便推送你可能更感兴趣的信息，这些SDK包括：Vivo Push（仅对Vivo市场生效） 、OPPO Push（仅对OPPO市场生效）、华为推送（仅对华为生效）、小米（仅对小米生效）。\n    G. 其它功能：如App崩溃统计，我们使用了Bugly、Crashlytics 等，相关功能可能会获取你的设备信息和网络相关信息。\n    (二)  转让\n    我们不会将你的个人信息转让给任何公司、组织和个人，但以下情况除外：\n    1、在获取明确同意的情况下转让：获得你的明确同意后，我们会向其他方转让你的个人信息。\n    2、在涉及合并、收购或破产清算时，如涉及到个人信息转让，我们会在要求新的持有你个人信息的公司、组织继续受此隐私政策的约束，否则我们将要求该公司、组织重新向你征求授权同意。\n    (三)  公开披露\n    除了因比酷网络社区维护需要，对违规账号、欺诈、辱骂等严重损害比酷网络社区的行为进行处罚公告（如公布被处罚账号的主页链接），或者公布中奖/获胜者名单时展示相关信息等必要事宜而进行必要披露之外，我们仅会在获得你明确同意后，公开披露你的个人信息。\n    (四) 共享、转让、公开披露个人信息授权同意的例外情形\n    根据法律法规的规定，在下述情况下，共享、转让、公开披露你的个人信息无需事先征得你的授权同意：\n    1、与我们履行法律法规规定的义务相关的；\n    2、与国家安全、国防安全直接相关的；\n    3、与公共安全、公共卫生、重大公共利益直接相关的；\n    4、与刑事侦查、起诉、审判和判决执行等直接相关的；\n    5、出于维护你或其他个人的生命、财产等重大合法权益但又很难得到本人同意的；\n    6、你自行向社会公众公开的个人信息；\n    7、从合法公开披露的信息中收集个人信息的，如合法的新闻报道、政府信息公开等渠道。",
+        "start": 5916,
+        "end": 7207,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "公司",
+        "start": 5273,
+        "end": 5275,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "组织",
+        "start": 5276,
+        "end": 5278,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "个人",
+        "start": 5279,
+        "end": 5281,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "其他方",
+        "start": 5325,
+        "end": 5328,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "关联公司",
+        "start": 5386,
+        "end": 5390,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "关联公司",
+        "start": 5408,
+        "end": 5412,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "合作伙伴",
+        "start": 5536,
+        "end": 5540,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "第三方商家",
+        "start": 5787,
+        "end": 5792,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "公司",
+        "start": 6613,
+        "end": 6615,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "组织",
+        "start": 6616,
+        "end": 6618,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "个人",
+        "start": 6619,
+        "end": 6621,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "其他方",
+        "start": 6665,
+        "end": 6668,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_6",
+        "classId_name": "数据安全",
+        "text": "四、我们如何保护你的个人信息\n    (一)  我们已使用符合业界标准的安全防护措施保护你提供的个人信息， 防止数据遭到未经授权访问、公开披露、使用、修改、损坏或丢失。我们会采取一切合理可行的措施，保护你的个人信息。例如，在你的浏览器与 “服务”之间交换数据(如信用卡信息)时受SSL加密保护；我们同时对比酷网络网站提供 https 安全浏览方式；我们会使用加密技术确保数据的保密性；我们会使用受信赖的保护机制防止数据遭到恶意攻击；我们会部署访问控制机制，确保只有授权人员才可访问个人信息；以及我们会举办安全和隐私保护培训课程，加强员工对于保护个人信息重要性的认识。\n    (二)  我们会采取一切合理可行的措施，确保未收集无关的个人信息。除非取得你的书面许可，我们将在且仅在你删除或注销账户后36个月保留你的个人信息， 超出此期限后，我们将会对你的个人信息进行匿名化处理或销毁。\n    (三)  互联网并非绝对安全的环境，而且电子邮件、即时通讯以及与其他比酷网络用户的交流方式并未加密，我们强烈建议你不要通过此类方式发送个人信息。请使用复杂密码，协助我们保证你的账号安全。\n    (四)  互联网环境并非百分之百安全，我们将尽力确保你发送给我们的任何信息的安全性。如果我们的物理、技术或管理防护设施遭到破坏，导致信息被非授权访问、公开披露、篡改或毁坏，导致你的合法权益受损，我们将承担相应的法律责任。\n    (五)  在不幸发生个人信息安全事件后，我们将按照《网络安全法》第42条第二款之规定及时向你告知：安全事件的基本情况和可能的影响、我们已采取或将要采取的处置措施、你可自主防范和降低风险的建议、对你的补救措施等。我们将及时将事件相关情况以邮件、信函、电话、推送通知等方式告知你，难以逐一告知个人信息主体时，我们会采取合理、有效的方式发布公告。\n    同时，我们还将按照监管部门要求，主动上报个人信息安全事件的处置情况。",
+        "start": 7223,
+        "end": 8041,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_4",
+        "classId_name": "用户权利增删改查",
+        "text": "五、你的权利\n    无论你何时使用比酷网络的相关产品与/或服务，我们都会尽一切可能保证你可以顺利访问自己的账户信息。如果这些信息有误，我们会努力提供各种方式来让你快速更新或删除账户内信息。为了使你拥有充分的能力保障你的隐私和安全，你拥有如下权利：\n    (一)  访问你的个人信息\n    除司法机关或行政机关另有要求外，你有权随时访问你的个人信息。包括以下信息：\n    1、账户信息：\n    如果你希望访问或编辑你的账户中的名号/昵称、域名、头像、登录邮箱、手机号、隐私设置等，可以通过访问APP或者网站个人账号设置功能 执行此类操作。\n    2、使用信息：\n    你可以在相关产品页面随时查阅你的使用信息，包括：广播发布内容、书影音记录、小组讨论等。\n    如果你无法通过上述链接及方式访问，你可以随时联系我们，我们将尽快回复你的请求。\n    (二)  更正你的个人信息\n    当你发现你所填写的或者我们处理的关于你的个人信息有错误时，你有权自行更正。当你无法自行更正时，你可以随时联系我们，我们将尽快回复你的更正请求。\n    (三)  删除你的个人信息\n    你有权随时自行删除或者联系我们删除你的个人信息。在以下情形中，你可以向我们提出删除个人信息的请求：\n    1、我们处理个人信息的行为违反法律法规的；\n    2、我们收集、使用你的个人信息，却未征得你的同意；\n    3、我们处理个人信息的行为违反了与你的约定；\n    4、你不再使用我们的产品或服务，或你注销了账号；\n    5、我们不再为你提供产品或服务。\n    \n    若我们决定响应你的删除请求，我们还将同时通知以合作方式从比酷网络获得你的个人信息的实体，要求其及时删除，除非这些实体另行获得你的独立授权。但请知悉，若你在比酷网络的公开信息被其它用户或与我们没有合作、关联以及不受我们控制的独立第三方抓取、缓存、储存、复制，或通过其它用户在其它网站上传、保存时，相关信息将不受比酷网络的控制。\n    当你从我们的服务中删除你的个人信息后，我们也会从备份系统中删除相应的信息。\n    如因经营不善等原因，我们停止运营了，我们会立即停止对你对应个人信息的收集，并删除已收集的个人信息。",
+        "start": 8057,
+        "end": 9001,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_4",
+        "classId_name": "用户权利增删改查",
+        "text": "(五)  注销／删除账号\n    你可以选择注销／删除比酷网络账号，账号被注销／删除后将不可恢复，你的个人信息将被删除或匿名化处理，建议你做好备份。注销／删除后手机号可自动解除绑定，之后可以与其它比酷网络账号绑定。\n    如果你确定要注销账号，可以按照比酷网络网上提示通过「xxx的账号」-「账号管理」-「删除账号」操作即可注销账号，或在比酷网络App中通过「设置」-「账号与安全」-「比酷网络安全中心」-「注销账号」。",
+        "start": 9388,
+        "end": 9599,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_4",
+        "classId_name": "用户权利增删改查",
+        "text": "(八)  响应你的上述请求\n    为保障安全，你可能需要提供书面请求，或以其他方式证明你的身份。我们可能会先要求你验证自己的身份，然后再处理你的请求。\n    我们将在十五个工作日内做出答复。如你不满意，还可以通过以下途径投诉：发送邮件到operator@biku8.com。 对于你合理的请求，我们原则上不收取费用，但对多次重复、超出合理限度的请求，我们将视情收取一定成本费用。对于那些无端重复、需要过多技术手段(例如，需要开发新系统或从根本上改变现行惯例)、给他人合法权益带来风险或者非常不切实际(例如，涉及备份磁带上存放的信息)的请求，我们可能会予以拒绝。\n    \n    在以下情形中，按照法律法规要求，我们将无法响应你的请求：\n    1、与个人信息控制者履行法律法规规定的义务相关的；\n    2、与国家安全、国防安全直接相关的;\n    3、与公共安全、公共卫生、重大公共利益直接相关的;\n    4、与刑事侦查、起诉、审判和判决执行等直接相关的;\n    5、有充分证据表明你存在主观恶意或滥用权利的;\n    6、响应你的请求将导致你或其他个人、组织的合法权益受到严重损害的;\n    7、出于维护你或其他个人的生命、财产等重大合法权益但又很难得到本人授权同意的；\n    8、涉及商业秘密的。",
+        "start": 9832,
+        "end": 10390,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_9",
+        "classId_name": "获取撤回同意",
+        "text": "(四)  改变你授权同意的范围或撤回你的授权\n    每个业务功能需要一些基本的个人信息才能得以完成(见本政策“第一部分”)。对于额外收集的个人信息的收集和使用，你可以随时给予或收回你的授权同意。你可以通过删除信息、关闭移动设备对应功能（如使用iOS系统用户可通过“设置”-“比酷网络”App,从而改变或撤回对我们访问你的位置、照片、相机等的授权，如android系统用户可通过“设置”-“应用”-“管理权限”-“比酷网络”从而改变或撤回相应授权）、在比酷网络pc端及移动端中进行隐私设置（方式：在比酷网络app“设置”—“推送”，打开或关闭“兴趣精选”）等方式改变你授权同意的范围或撤回你的授权。当你收回同意后，我们将不再处理相应的个人信息。但你收回同意的决定，不会影响此前基于你的授权而开展的个人信息处理。",
+        "start": 9017,
+        "end": 9372,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_12",
+        "classId_name": "数据迁移",
+        "text": "(六)  获取你的个人信息副本\n    我们将根据你的书面请求，为你提供以下类型的个人信息副本：你的个人基本资料、个人身份信息。但请注意，我们为你提供的信息副本仅以我们收集的信息为限。",
+        "start": 9615,
+        "end": 9707,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_12",
+        "classId_name": "数据迁移",
+        "text": "七、你的个人信息如何在全球范围转移\n    我们在中华人民共和国境内收集和产生的个人信息，将存储在中华人民共和国境内，不会存在个人信息出境之情况。",
+        "start": 10673,
+        "end": 10746,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_11",
+        "classId_name": "年龄限制条款",
+        "text": "六、关于儿童的个人信息\n    我们的产品与/或服务主要面向成人。如果没有父母或监护人的同意，未成年人不得创建自己的用户账户。对于经父母同意而收集未成年个人信息的情况，我们只会在司法机关或行政机关要求、父母或监护人明确同意或者保护未成年人所必要的情况下使用或公开披露此信息。\n    \n    尽管当地法律和习俗对未成年人的定义不同，但我们将不满 16 周岁的任何人均视为未成年人。\n    \n    如果我们发现在未事先获得可证实的父母同意的情况下收集了未成年人的个人信息，则会设法尽快删除相关数据。",
+        "start": 10406,
+        "end": 10657,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_7",
+        "classId_name": "隐私政策修改更新",
+        "text": "八、本政策如何更新\n    我们的隐私政策将不定时更新。\n    \n    通常情况下，我们不会削减你按照本隐私政策所应享有的权利。我们会在本页面上发布更新后的版本并且以弹框或与弹框同等显著的方式通知你本政策所做的任何变更，你同意后，即表示同意受经修订的本政策的约束。\n    \n    我们还会将本政策的旧版本存档，供你查阅。",
+        "start": 10762,
+        "end": 10926,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_14",
+        "classId_name": "开发者公司名称联系方式",
+        "text": "九、如何联系我们\n    如果你对本隐私政策有任何疑问、意见或建议，请通过 http://diary.biku8.com/ 与我们联系，您也可将您的问题发送至operator@biku8.com，我们将在收到后做出回复处理。",
+        "start": 10942,
+        "end": 11054,
+        "fields": [],
+        "sub_annotations": []
+    }
+]

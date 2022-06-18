@@ -1,0 +1,893 @@
+[
+    {
+        "classId": "e_16",
+        "classId_name": "其他",
+        "text": "## 米聊隐私政策\n我们的隐私政策已于 2019 年 7 月 25 日更新。\n请花一些时间熟悉我们的隐私政策，如果您有任何问题，请联系我们。",
+        "start": 36,
+        "end": 106,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_16",
+        "classId_name": "其他",
+        "text": "**引言**\n米聊是由北京瓦力网络科技有限公司及其关联公司（以下简称“瓦力”或“我们”）为您提供文本、语音、视频等网络即时通讯，及群组聊天功能的平台。您还可以通过本应用添加手机联系人好友，查找附近群聊，找到自己熟悉的朋友以及感兴趣的人。\n我们非常重视您的隐私。本隐私政策是针对米聊做出的隐私方面的陈述与承诺，属于《小米隐私政策》的重要组成部分。涉及到米聊特殊约定的，若与《小米隐私政策》之间存在不一致的，以本隐私政策为准；若本隐私政策未约定的，以《小米隐私政策》为准。特别是关于“未成年人信息保护、安全措施、跨境传输”等部分的约定，建议您详细阅读[《小米隐私政策》](https://privacy.mi.com/all/zh_CN)。\n本隐私政策在制定时充分考虑到您的需求，您全面了解我们的个人信息收集和使用惯例，同时确保您最终能控制提供给我们的个人信息，这一点至关重要。本隐私政策规定我们如何收集、使用、披露、处理和存储您使用米聊时提供给我们的信息。本隐私政策下“个人信息”指通过信息本身或通过关联其他信息后能够识别特定个人的数据。我们将严格遵守本隐私政策来使用这些信息。\n最后，我们希望为用户带来最好的体验。如果您对本隐私政策中描述的个人信息处理实践有任何疑问，请通过\n[privacy@xiaomi.com](mailto:privacy@xiaomi.com) 联系我们，以便我们处理您的特殊需求。我们很高兴收到您的反馈。",
+        "start": 118,
+        "end": 734,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_1",
+        "classId_name": "App或网站收集使用处理个人信息",
+        "text": "一、 **我们收集哪些信息以及如何使用信息**\n（一）您须授权我们收集和使用您个人信息的情形\n收集个人信息的目的在于向您提供产品和/或服务，并且保证我们遵守适用的相关法律、法规及其他规范性文件。您有权自行选择是否提供该信息，但多数情况下，如果您不提供，我们可能无法向您提供相应的服务，也无法回应您遇到的问题。这些功能包括：\n1、账号登录\n为使用米聊的基本服务，您需要登录您的小米账号。为实现更加个性化的形象创建，您可以向您的账户选择添加其他信息，如个人签名、职业、学校、兴趣等。请您放心，如果您拒绝提供上述其他信息，并不会影响您使用米聊的基本功能。\n2、即时通讯\n当您使用米聊提供的即时通讯功能时，我们可能会收集您的设备标识符（IMEI/OAID）、网络类型、系统设置、应用版本信息，以提供即时通讯的基本服务。在聊天过程中，除了发送文本信息、文件、名片等消息内容，如果您选择开启录音权限，您还可以发送语音信息或进行语音通话，为此我们会收集您的语音内容。如果您选择开启相册权限，您可以发送图片消息，还可以基于相册权限完成拍照、扫码等功能，为此我们可能会收集您的上传的图片用于展示及发送给对方。如果您开启录音与相册权限，您还可以完成视频拍摄、发送视频消息或进行视频通话，为此，我们可能会收集您上传的视频。如果您选择开启定位权限，您还可以发送您所处的地理位置消息。我们可能会收集您的位置信息用于展示。请您放心，如果您拒绝开启录音、相机、定位权限，并不会影响您使用即时通讯的基本功能。我们会收集您发送的消息内容用于即时通讯，这些信息以及您的聊天会话列表将会与您的小米账号相关联。\n3、联系人功能\n为了让您更方便地与您的好友交谈，我们可能会收集您的联系人信息。这些信息将会与您的小米账号相关联。您也可以选择使用匹配联系人好友的功能，为此，我们可能会收集您的通讯录信息。请您放心，如果您拒绝提供通讯录信息，并不会影响您使用联系人的基本功能。\n4、群聊\n为了实现多方沟通且提供群聊搜索功能，我们可能会收集您加入的群聊名称、群聊ID、群聊头像、群聊简介、群聊公告、群聊成员、群聊消息，这些信息将会与您的小米账号相关联。您也可以选择使用查找附近群聊、摇一摇建群的功能，为此，我们可能会收集您的地理位置信息。请您放心，如果您拒绝提供地理位置信息，并不会影响您使用群聊的基本功能。\n5、发布广播\n当您使用发布广播功能时，我们可能会收集您发布的广播中的文字、图片、视频以及地理位置信息，以展示广播内容。\n6、附近动态\n您可以选择使用附近动态功能发布匿名动态，为此，我们可能会收集您的地理位置信息，以为您推荐附近的动态。\n7、红包功能\n米聊的红包功能可以支持单聊、群组多场景使用。在您使用米聊的红包收发功能时，我们将收集红包额度、发出方与接收方的账号信息。您可以选择米聊的关联方（包括小米钱包支付通道，以下称“支付机构”）所提供的支付服务进行支付或兑现。支付功能本身并不收集您的个人信息，但我们需要将您的订单信息与这些支付机构共享以实现其确认您的支付指令并完成支付。",
+        "start": 746,
+        "end": 2016,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_1",
+        "classId_name": "App或网站收集使用处理个人信息",
+        "text": "（二）您可选择是否授权我们收集和使用您的个人信息的情形\n1、为提升您在使用米聊时的用户体验，我们的以下附加功能中可能会收集和使用您的个人信息。如果您不提供这些个人信息，您依然可以使用米聊满足即时通讯等功能，但您可能无法使用这些可以为您带来乐趣的附加功能。这些附加功能包括：\n（1）基于位置信息的附加功能：我们会收集您的位置信息（我们仅收集您当时所处的地理位置，但不会将您各时段的位置信息进行结合以判断您的行踪轨迹）来判断您所处的地点，用于获取位置以实现查找附近群聊、附近动态、面对面建群，面对面加好友、显示广播位置、设置群聊位置等功能。\n（2）基于通讯录信息的附加功能：我们将收集您的通讯录信息以匹配手机联系人。\n2、上述附加功能可能需要您在您的设备中向我们开启您的地理位置（位置信息）以及通讯录的访问权限，以实现这些功能所涉及的信息的收集和使用。请您注意，您开启这些权限即代表您授权我们可以收集和使用这些个人信息来实现上述的功能，您关闭权限即代表您取消了这些授权，则我们将不再继续收集和使用您的这些个人信息，也无法为您提供上述与这些授权所对应的功能。您关闭权限的决定不会影响此前基于您的授权所进行的个人信息的处理。",
+        "start": 2028,
+        "end": 2536,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_1",
+        "classId_name": "App或网站收集使用处理个人信息",
+        "text": "（三）您充分知晓，以下情形中，我们收集、使用个人信息无需征得您的同意：\n1、与国家安全、国防安全有关的；\n2、与公共安全、公共卫生、重大公共利益有关的；\n3、与犯罪侦查、起诉、审判和判决执行等有关的；\n4、出于维护个人信息主体或其他个人的生命、财产等重大合法权益但又很难得到本人同意的；\n5、所收集的个人信息是个人信息主体自行向社会公众公开的；\n6、从合法公开披露的信息中收集的您的个人信息的，如合法的新闻报道、政府信息公开等渠道；\n7、根据您的要求签订合同所必需的；\n8、用于维护所提供的产品与/或服务的安全稳定运行所必需的，例如发现、处置产品与/或服务的故障；\n9、为合法的新闻报道所必需的；\n10、学术研究机构基于公共利益开展统计或学术研究所必要，且对外提供学术研究或描述的结果时，对结果中所包含的个人信息进行去标识化处理的；",
+        "start": 2548,
+        "end": 2914,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_1",
+        "classId_name": "App或网站收集使用处理个人信息",
+        "text": "（四） 非个人信息\n我们还可能收集其他无法识别到特定个人的信息（即不属于个人信息的信息），例如您使用特定服务时产生的统计类数据，如设备相关信息、日活事件、页面访问事件；网络监控数据如请求时长、请求与错误请求数等；用户行为数据以及应用崩溃事件。收集此类信息的目的在于改善我们向您提供的服务。所收集信息的类别和数量取决于您如何使用我们产品和/或服务。就本隐私政策而言，汇总数据被视为非个人信息。如果我们将非个人信息与个人信息结合使用，则在结合使用期间，此类信息将被视为个人信息。",
+        "start": 2926,
+        "end": 3163,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "您",
+        "start": 952,
+        "end": 953,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 1045,
+        "end": 1047,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 1160,
+        "end": 1162,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 1216,
+        "end": 1218,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "您",
+        "start": 1223,
+        "end": 1224,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 1282,
+        "end": 1284,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "您",
+        "start": 1289,
+        "end": 1290,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 1325,
+        "end": 1327,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 1456,
+        "end": 1458,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 1584,
+        "end": 1586,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 1745,
+        "end": 1747,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 1816,
+        "end": 1818,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 1888,
+        "end": 1890,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 2074,
+        "end": 2076,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 2180,
+        "end": 2182,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 2313,
+        "end": 2315,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 2563,
+        "end": 2565,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 2936,
+        "end": 2938,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 3223,
+        "end": 3225,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 3314,
+        "end": 3316,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "添加",
+        "start": 962,
+        "end": 964,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "上传",
+        "start": 1225,
+        "end": 1227,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "上传",
+        "start": 1290,
+        "end": 1292,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "个人签名、职业、学校、兴趣",
+        "start": 970,
+        "end": 983,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "设备标识符",
+        "start": 1054,
+        "end": 1059,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "IMEI/OAID",
+        "start": 1060,
+        "end": 1069,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "网络类型、系统设置、应用版本信息",
+        "start": 1071,
+        "end": 1087,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "语音内容",
+        "start": 1167,
+        "end": 1171,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "视频",
+        "start": 1293,
+        "end": 1295,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "位置信息",
+        "start": 1334,
+        "end": 1338,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "联系人信息",
+        "start": 1465,
+        "end": 1470,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "群聊名称、群聊ID、群聊头像、群聊简介、群聊公告、群聊成员、群聊消息",
+        "start": 1595,
+        "end": 1629,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "文字、图片、视频",
+        "start": 1760,
+        "end": 1768,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "地理位置信息",
+        "start": 1825,
+        "end": 1831,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "红包额度",
+        "start": 1893,
+        "end": 1897,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "发出方与接收方的账号信息",
+        "start": 1898,
+        "end": 1910,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "个人信息",
+        "start": 2094,
+        "end": 2098,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "位置信息",
+        "start": 2187,
+        "end": 2191,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "通讯录信息",
+        "start": 2320,
+        "end": 2325,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "个人信息",
+        "start": 2570,
+        "end": 2574,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "统计类数据",
+        "start": 2984,
+        "end": 2989,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "设备相关信息、日活事件、页面访问事件",
+        "start": 2991,
+        "end": 3009,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "网络监控数据",
+        "start": 3010,
+        "end": 3016,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "请求时长",
+        "start": 3017,
+        "end": 3021,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "请求与错误请求数",
+        "start": 3022,
+        "end": 3030,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "用户行为数据",
+        "start": 3032,
+        "end": 3038,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "应用崩溃事件",
+        "start": 3040,
+        "end": 3046,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "个人信息",
+        "start": 3242,
+        "end": 3246,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "地理位置信息",
+        "start": 3322,
+        "end": 3328,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 1050,
+        "end": 1052,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 1163,
+        "end": 1165,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 1221,
+        "end": 1223,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 1287,
+        "end": 1289,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 1330,
+        "end": 1332,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 1589,
+        "end": 1591,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 1750,
+        "end": 1752,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 1821,
+        "end": 1823,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 1891,
+        "end": 1893,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 2087,
+        "end": 2089,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "使用",
+        "start": 2090,
+        "end": 2092,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 2183,
+        "end": 2185,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 2316,
+        "end": 2318,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 2565,
+        "end": 2567,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "使用",
+        "start": 2568,
+        "end": 2570,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 2941,
+        "end": 2943,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "提供即时通讯的基本服务",
+        "start": 1089,
+        "end": 1100,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "发送语音信息或进行语音通话",
+        "start": 1144,
+        "end": 1157,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "完成拍照、扫码等功能",
+        "start": 1203,
+        "end": 1213,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "完成视频拍摄、发送视频消息或进行视频通话",
+        "start": 1258,
+        "end": 1278,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "发送您所处的地理位置消息",
+        "start": 1312,
+        "end": 1324,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "让您更方便地与您的好友交谈",
+        "start": 1442,
+        "end": 1455,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "实现多方沟通且提供群聊搜索功能",
+        "start": 1568,
+        "end": 1583,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "展示广播内容",
+        "start": 1778,
+        "end": 1784,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "为您推荐附近的动态",
+        "start": 1833,
+        "end": 1842,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "使用米聊的红包收发功能",
+        "start": 1875,
+        "end": 1886,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "提升您在使用米聊时的用户体验",
+        "start": 2059,
+        "end": 2073,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "判断您所处的地点",
+        "start": 2236,
+        "end": 2244,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "获取位置以实现查找附近群聊、附近动态、面对面建群，面对面加好友、显示广播位置、设置群聊位置等功能",
+        "start": 2247,
+        "end": 2295,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "匹配手机联系人",
+        "start": 2326,
+        "end": 2333,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "改善我们向您提供的服务",
+        "start": 3058,
+        "end": 3069,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "为您提供精准的定位服务",
+        "start": 3341,
+        "end": 3352,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "以下情形",
+        "start": 2557,
+        "end": 2561,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "下列情况",
+        "start": 3251,
+        "end": 3255,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_2",
+        "classId_name": "第三方收集或共享个人信息",
+        "text": "**二、与第三方服务提供商共享您的个人信息**\n本业务中部分服务内容由第三方服务提供商提供，为此我们需要向第三方服务提供商提供您的部分个人信息，例如，在下列情况下，我们可能会与第三方服务提供商共享您的个人信息：\n1、定位服务提供商：本业务中的定位服务由包括百度在内的第三方提供，我们可能会将您的地理位置信息提供给此类服务提供商，用于为您提供精准的定位服务。\n如我们与这些第三方分享您的个人信息，我们将采取加密等手段保障您的信息安全。对我们与之共享个人信息的公司、组织，我们会对其数据安全环境进行合理审查，并与其签署严格的数据处理协议，要求第三方对您的信息采取足够的保护措施，严格遵守相关法律法规与监管要求。",
+        "start": 3175,
+        "end": 3478,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_2",
+        "classId_name": "第三方收集或共享个人信息",
+        "text": "**五、第三方网站和服务**\n我们的隐私政策不适用于第三方提供的产品或服务。取决于您所使用的米聊的产品或服务，其中可能包括第三方的产品或服务，涉及定位等类型，其中一些会以第三方网站的链接形式提供，还有一些会以SDK、API等形式接入。当您使用这些产品或服务时，也可能收集您的信息。因此，我们强烈建议您花时间阅读该第三方的隐私政策，就像阅读我们的政策一样。我们不对第三方如何使用他们向您收集的个人信息负责，也不能控制其使用。我们的隐私政策不适用通过我们的服务链接的其他网站。\n以下提供了当您使用上述特定产品或服务时，适用于第三方条款和隐私政策的示例：\n·         第三方定位服务提供商的隐私政策：\no 百度的《百度地图隐私政策》：[https://map.baidu.com/zt/client/privacy/index.html](https://map.baidu.com/zt/client/privacy/index.html)",
+        "start": 5448,
+        "end": 5870,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "第三方服务提供商",
+        "start": 3228,
+        "end": 3236,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "服务提供商",
+        "start": 3333,
+        "end": 3338,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_5",
+        "classId_name": "数据保存",
+        "text": "**三、保留政策**\n我们基于本隐私政策中所述的信息收集的目的所必需的期间，或者遵守适用的相关法律要求保留个人信息。个人信息在完成收集目的，或在我们确认您的删除或注销申请后，或我们终止运营相应产品或服务后，我们将停止保留，并做删除或匿名化处理。如果是出于公众利益、科学、历史研究或统计的目的，我们将基于适用的法律继续保留相关数据，即使进一步的数据处理与原有的收集目的无关。\n您的信息将会保存至中华人民共和国境内。",
+        "start": 3490,
+        "end": 3696,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_4",
+        "classId_name": "用户权利增删改查",
+        "text": "**四、您的权利**\n**（一）** **控制设置**\n我们承认每个人对隐私权的关注各不相同。因此，我们提供了一些示例，说明米聊提供的各种方式，供您选择，以限制收集、使用、披露或处理您的个人信息，并控制您的隐私权设置：\n  * 打开或者关闭位置访问、拍照、相册、录音和读取通讯录等权限；\n  * 在米聊中点击“更多-编辑资料”修改您的个人信息，包括昵称、性别、年龄等；\n  * 在米聊中查询、删除您的聊天记录、广播、动态、联系人及群聊等；\n  * 登入或登出小米账户。\n如果您之前因为上述目的同意我们使用您的个人信息，您可以随时通过书面或者向 privacy@xiaomi.com 发送邮件的方式联系我们来改变您的决定。",
+        "start": 3708,
+        "end": 4018,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_4",
+        "classId_name": "用户权利增删改查",
+        "text": "**（二）您对您的个人信息享有的权利**\n根据您所适用的国家或地区法律法规，您有权要求访问、更正、删除我们持有的与您相关的任何个人信息（以下简称请求）。\n与您小米账号中的个人信息相关的更多详细信息，您可以通过 http://account.mi.com或者通过您的设备登入账号来访问和更改。其他信息，请致信或者通过以下电子邮箱地址联系我们。电子邮箱：[privacy@xiaomi.com](mailto:privacy@xiaomi.com)。\n大多数法律要求个人信息主体提出的请求应遵循特定要求，本隐私政策要求您的请求应当符合以下情形：\n·         通过我们专门的请求渠道，并且出于保护您的信息安全的考虑，您的请求应当是书面的（除非当地法律明确承认口头申请）；\n·         提供足够的信息使我们可以验证您的身份，确保请求人是所请求信息主体本人或合法授权人；\n一旦我们获得充分信息确认可处理您的请求时，我们将在适用数据保护法律规定的时间内对您的请求做出回应。具体而言：\n·         基于您的要求及适用法律规定，我们可免费提供一份我们已收集并处理的关于您的个人信息记录，\n如您提出对于相关信息的其他请求，我们可能会基于相关适用法律，并结合实际的管理成本向您收取一笔合理的费用。\n·         如果您认为我们持有的关于您的任何信息是不正确或不完整的，可要求基于使用目的更正或完善个人信息。\n·\n根据您适用的法律法规，您可能有权要求我们删除您的个人数据。我们将会根据您的删除请求进行评估，若满足相应规定，我们将会采取包括技术手段在内的相应步骤进行处理。\n**当您或我们协助您删除相关信息后，因为适用的法律和安全技术，我们可能无法立即从备份系统中删除相应的信息，我们将安全地存储您的个人信息并将其与任何进一步处理隔离，直到备份可以清除或实现匿名。**\n我们有权拒绝处理无实质意义/纠缠式重复的请求、损害他人隐私权的请求、极端不现实的请求，要求不相称的技术工作，以及根据当地法律无需给予的请求，已经公之于众的信息，保密条件下给出的信息。如果我们认为删除数据或访问数据的请求的某些方面可能会导致我们无法出于前述反欺诈和安全目的合法使用数据，可能也会予以拒绝。",
+        "start": 4030,
+        "end": 4969,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_4",
+        "classId_name": "用户权利增删改查",
+        "text": "**（四）注销服务或账号**\n如您希望注销具体产品或服务，您可以在客户端点击“设置-用户反馈”或通过发送邮件至mishu@xiaomi.com进行服务注销。\n如您希望注销小米账号，由于注销小米账号的操作将使您无法使用小米全线产品和服务，请您谨慎操作。我们为了保护您或他人的合法权益会结合您对小米各产品和服务的使用情况判断是否支持您的注销请求。",
+        "start": 5265,
+        "end": 5436,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_9",
+        "classId_name": "获取撤回同意",
+        "text": "（三） **撤销同意**\n·         您可以通过提交请求撤销同意，包括收集、使用和/或披露我们掌握或控制的您的个人信息。根据您所使用的具体服务，可以在客户端点击“设置-用户反馈”或通过发送邮件到mishu@xiaomi.com进行相关操作。我们将会在您做出请求后的合理时间内处理您的请求，并且会根据您的请求，在此后不再收集、使用和/或披露您的个人信息。\n·\n请注意，您撤销同意会导致某些法律后果。根据您授权我们处理信息的范围，这可能导致您不能享受我们的产品或服务。但您撤回同意或授权的决定，不会影响此前基于您的授权而开展的个人信息处理。",
+        "start": 4981,
+        "end": 5253,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_14",
+        "classId_name": "开发者公司名称联系方式",
+        "text": "**六、联系我们**\n如果您对本隐私政策有任何意见或问题，或者您对我们收集、使用或披露您的个人信息有任何问题，请通过下方地址联系我们，并提及“隐私政策”。针对您关于个人信息相关的权利请求、问题咨询等时，我们有专业的团队解决你的问题。如果你的问题本身涉及比较重大的事项，我们可能会要求你提供更多信息。如果您对收到的答复不满意，您可以将投诉移交给所在司法辖区的相关监管机构。如果您咨询我们，我们会根据您的实际情况，提供可能适用的相关投诉途径的信息。\n联系地址：  \n北京市石景山区实兴大街30号院3号楼2层A-0246房间  \n邮政编码 100043\n邮箱：privacy@xiaomi.com",
+        "start": 5882,
+        "end": 6177,
+        "fields": [],
+        "sub_annotations": []
+    }
+]
