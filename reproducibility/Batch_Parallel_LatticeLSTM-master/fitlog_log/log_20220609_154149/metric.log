@@ -1,0 +1,300 @@
+Step:3670	{"metric": {"SpanFPreRecMetric": {"f": 0.485813, "pre": 0.523091, "rec": 0.453496}, "AccuracyMetric": {"acc": 0.815614}, "step": 3670, "epoch": 1}, "step": 3670, "epoch": 1}
+Step:3670	{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.454489, "pre": 0.497295, "rec": 0.418469}, "AccuracyMetric": {"acc": 0.80968}}}, "step": 3670, "epoch": 1}
+Step:3670	{"metric": {"data_train": {"SpanFPreRecMetric": {"f": 0.468174, "pre": 0.509016, "rec": 0.4334}, "AccuracyMetric": {"acc": 0.806441}}}, "step": 3670, "epoch": 1}
+Step:7340	{"metric": {"SpanFPreRecMetric": {"f": 0.422073, "pre": 0.326562, "rec": 0.596551}, "AccuracyMetric": {"acc": 0.511075}}, "step": 7340, "epoch": 2}
+Step:7340	{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.393376, "pre": 0.305486, "rec": 0.552268}, "AccuracyMetric": {"acc": 0.520487}}}, "step": 7340, "epoch": 2}
+Step:7340	{"metric": {"data_train": {"SpanFPreRecMetric": {"f": 0.416256, "pre": 0.324267, "rec": 0.581106}, "AccuracyMetric": {"acc": 0.526986}}}, "step": 7340, "epoch": 2}
+Step:11010	{"metric": {"SpanFPreRecMetric": {"f": 0.217228, "pre": 0.826884, "rec": 0.125038}, "AccuracyMetric": {"acc": 0.800292}}, "step": 11010, "epoch": 3}
+Step:11010	{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.199203, "pre": 0.798176, "rec": 0.113803}, "AccuracyMetric": {"acc": 0.793713}}}, "step": 11010, "epoch": 3}
+Step:11010	{"metric": {"data_train": {"SpanFPreRecMetric": {"f": 0.22492, "pre": 0.812067, "rec": 0.130538}, "AccuracyMetric": {"acc": 0.795047}}}, "step": 11010, "epoch": 3}
+Step:14680	{"metric": {"SpanFPreRecMetric": {"f": 0.603299, "pre": 0.590447, "rec": 0.616723}, "AccuracyMetric": {"acc": 0.851407}, "step": 14680, "epoch": 4}, "step": 14680, "epoch": 4}
+Step:14680	{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.576917, "pre": 0.563673, "rec": 0.590798}, "AccuracyMetric": {"acc": 0.83861}}}, "step": 14680, "epoch": 4}
+Step:14680	{"metric": {"data_train": {"SpanFPreRecMetric": {"f": 0.594751, "pre": 0.581922, "rec": 0.608159}, "AccuracyMetric": {"acc": 0.84427}}}, "step": 14680, "epoch": 4}
+Step:18350	{"metric": {"SpanFPreRecMetric": {"f": 0.055547, "pre": 0.782427, "rec": 0.028796}, "AccuracyMetric": {"acc": 0.7843}}, "step": 18350, "epoch": 5}
+Step:18350	{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.052805, "pre": 0.792453, "rec": 0.027313}, "AccuracyMetric": {"acc": 0.779079}}}, "step": 18350, "epoch": 5}
+Step:18350	{"metric": {"data_train": {"SpanFPreRecMetric": {"f": 0.061001, "pre": 0.822615, "rec": 0.031675}, "AccuracyMetric": {"acc": 0.777838}}}, "step": 18350, "epoch": 5}
+Step:22020	{"metric": {"SpanFPreRecMetric": {"f": 0.506326, "pre": 0.788856, "rec": 0.372806}, "AccuracyMetric": {"acc": 0.844009}}, "step": 22020, "epoch": 6}
+Step:22020	{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.472349, "pre": 0.755, "rec": 0.343684}, "AccuracyMetric": {"acc": 0.837983}}}, "step": 22020, "epoch": 6}
+Step:22020	{"metric": {"data_train": {"SpanFPreRecMetric": {"f": 0.50473, "pre": 0.789021, "rec": 0.371041}, "AccuracyMetric": {"acc": 0.839904}}}, "step": 22020, "epoch": 6}
+Step:25690	{"metric": {"SpanFPreRecMetric": {"f": 0.0, "pre": 0.0, "rec": 0.0}, "AccuracyMetric": {"acc": 0.781275}}, "step": 25690, "epoch": 7}
+Step:25690	{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.0, "pre": 0.0, "rec": 0.0}, "AccuracyMetric": {"acc": 0.776356}}}, "step": 25690, "epoch": 7}
+Step:25690	{"metric": {"data_train": {"SpanFPreRecMetric": {"f": 0.0, "pre": 0.0, "rec": 0.0}, "AccuracyMetric": {"acc": 0.774655}}}, "step": 25690, "epoch": 7}
+Step:29360	{"metric": {"SpanFPreRecMetric": {"f": 0.665297, "pre": 0.713505, "rec": 0.623191}, "AccuracyMetric": {"acc": 0.878063}, "step": 29360, "epoch": 8}, "step": 29360, "epoch": 8}
+Step:29360	{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.624053, "pre": 0.67198, "rec": 0.582507}, "AccuracyMetric": {"acc": 0.867755}}}, "step": 29360, "epoch": 8}
+Step:29360	{"metric": {"data_train": {"SpanFPreRecMetric": {"f": 0.670777, "pre": 0.717476, "rec": 0.629785}, "AccuracyMetric": {"acc": 0.882066}}}, "step": 29360, "epoch": 8}
+Step:33030	{"metric": {"SpanFPreRecMetric": {"f": 0.546183, "pre": 0.431027, "rec": 0.745303}, "AccuracyMetric": {"acc": 0.606799}}, "step": 33030, "epoch": 9}
+Step:33030	{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.51398, "pre": 0.407824, "rec": 0.694846}, "AccuracyMetric": {"acc": 0.612493}}}, "step": 33030, "epoch": 9}
+Step:33030	{"metric": {"data_train": {"SpanFPreRecMetric": {"f": 0.544844, "pre": 0.431338, "rec": 0.739419}, "AccuracyMetric": {"acc": 0.625083}}}, "step": 33030, "epoch": 9}
+Step:36700	{"metric": {"SpanFPreRecMetric": {"f": 0.681731, "pre": 0.705301, "rec": 0.659686}, "AccuracyMetric": {"acc": 0.886404}, "step": 36700, "epoch": 10}, "step": 36700, "epoch": 10}
+Step:36700	{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.635719, "pre": 0.66105, "rec": 0.612258}, "AccuracyMetric": {"acc": 0.870094}}}, "step": 36700, "epoch": 10}
+Step:36700	{"metric": {"data_train": {"SpanFPreRecMetric": {"f": 0.689731, "pre": 0.713275, "rec": 0.667692}, "AccuracyMetric": {"acc": 0.890133}}}, "step": 36700, "epoch": 10}
+Step:40370	{"metric": {"SpanFPreRecMetric": {"f": 0.687401, "pre": 0.707099, "rec": 0.668771}, "AccuracyMetric": {"acc": 0.884613}, "step": 40370, "epoch": 11}, "step": 40370, "epoch": 11}
+Step:40370	{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.645086, "pre": 0.662554, "rec": 0.628516}, "AccuracyMetric": {"acc": 0.870559}}}, "step": 40370, "epoch": 11}
+Step:40370	{"metric": {"data_train": {"SpanFPreRecMetric": {"f": 0.7, "pre": 0.717137, "rec": 0.683663}, "AccuracyMetric": {"acc": 0.895607}}}, "step": 40370, "epoch": 11}
+Step:44040	{"metric": {"SpanFPreRecMetric": {"f": 0.604559, "pre": 0.783525, "rec": 0.492147}, "AccuracyMetric": {"acc": 0.865862}}, "step": 44040, "epoch": 12}
+Step:44040	{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.573819, "pre": 0.740931, "rec": 0.468217}, "AccuracyMetric": {"acc": 0.855616}}}, "step": 44040, "epoch": 12}
+Step:44040	{"metric": {"data_train": {"SpanFPreRecMetric": {"f": 0.616182, "pre": 0.794565, "rec": 0.503209}, "AccuracyMetric": {"acc": 0.864771}}}, "step": 44040, "epoch": 12}
+Step:47710	{"metric": {"SpanFPreRecMetric": {"f": 0.689381, "pre": 0.684051, "rec": 0.694795}, "AccuracyMetric": {"acc": 0.881999}, "step": 47710, "epoch": 13}, "step": 47710, "epoch": 13}
+Step:47710	{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.643296, "pre": 0.639268, "rec": 0.647374}, "AccuracyMetric": {"acc": 0.864344}}}, "step": 47710, "epoch": 13}
+Step:47710	{"metric": {"data_train": {"SpanFPreRecMetric": {"f": 0.708879, "pre": 0.701524, "rec": 0.71639}, "AccuracyMetric": {"acc": 0.895383}}}, "step": 47710, "epoch": 13}
+Step:51380	{"metric": {"SpanFPreRecMetric": {"f": 0.697999, "pre": 0.703125, "rec": 0.692947}, "AccuracyMetric": {"acc": 0.887859}, "step": 51380, "epoch": 14}, "step": 51380, "epoch": 14}
+Step:51380	{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.652813, "pre": 0.659695, "rec": 0.646074}, "AccuracyMetric": {"acc": 0.868335}}}, "step": 51380, "epoch": 14}
+Step:51380	{"metric": {"data_train": {"SpanFPreRecMetric": {"f": 0.713734, "pre": 0.718676, "rec": 0.708859}, "AccuracyMetric": {"acc": 0.898753}}}, "step": 51380, "epoch": 14}
+Step:55050	{"metric": {"SpanFPreRecMetric": {"f": 0.285052, "pre": 0.873618, "rec": 0.170311}, "AccuracyMetric": {"acc": 0.801678}}, "step": 55050, "epoch": 15}
+Step:55050	{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.269426, "pre": 0.857766, "rec": 0.159811}, "AccuracyMetric": {"acc": 0.795728}}}, "step": 55050, "epoch": 15}
+Step:55050	{"metric": {"data_train": {"SpanFPreRecMetric": {"f": 0.304133, "pre": 0.900294, "rec": 0.182972}, "AccuracyMetric": {"acc": 0.798283}}}, "step": 55050, "epoch": 15}
+Step:58720	{"metric": {"SpanFPreRecMetric": {"f": 0.701746, "pre": 0.717203, "rec": 0.686942}, "AccuracyMetric": {"acc": 0.888505}, "step": 58720, "epoch": 16}, "step": 58720, "epoch": 16}
+Step:58720	{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.657758, "pre": 0.676284, "rec": 0.640221}, "AccuracyMetric": {"acc": 0.871017}}}, "step": 58720, "epoch": 16}
+Step:58720	{"metric": {"data_train": {"SpanFPreRecMetric": {"f": 0.725555, "pre": 0.737669, "rec": 0.713832}, "AccuracyMetric": {"acc": 0.903904}}}, "step": 58720, "epoch": 16}
+Step:62390	{"metric": {"SpanFPreRecMetric": {"f": 0.707271, "pre": 0.699443, "rec": 0.715276}, "AccuracyMetric": {"acc": 0.885758}, "step": 62390, "epoch": 17}, "step": 62390, "epoch": 17}
+Step:62390	{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.658999, "pre": 0.656659, "rec": 0.661356}, "AccuracyMetric": {"acc": 0.865045}}}, "step": 62390, "epoch": 17}
+Step:62390	{"metric": {"data_train": {"SpanFPreRecMetric": {"f": 0.728078, "pre": 0.717021, "rec": 0.739481}, "AccuracyMetric": {"acc": 0.902203}}}, "step": 62390, "epoch": 17}
+Step:66060	{"metric": {"SpanFPreRecMetric": {"f": 0.648526, "pre": 0.55881, "rec": 0.772559}, "AccuracyMetric": {"acc": 0.787686}}, "step": 66060, "epoch": 18}
+Step:66060	{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.609706, "pre": 0.528165, "rec": 0.721021}, "AccuracyMetric": {"acc": 0.779983}}}, "step": 66060, "epoch": 18}
+Step:66060	{"metric": {"data_train": {"SpanFPreRecMetric": {"f": 0.661297, "pre": 0.573868, "rec": 0.780153}, "AccuracyMetric": {"acc": 0.810915}}}, "step": 66060, "epoch": 18}
+Step:69730	{"metric": {"SpanFPreRecMetric": {"f": 0.555487, "pre": 0.831695, "rec": 0.417}, "AccuracyMetric": {"acc": 0.842073}}, "step": 69730, "epoch": 19}
+Step:69730	{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.533913, "pre": 0.80551, "rec": 0.399285}, "AccuracyMetric": {"acc": 0.831741}}}, "step": 69730, "epoch": 19}
+Step:69730	{"metric": {"data_train": {"SpanFPreRecMetric": {"f": 0.585054, "pre": 0.85407, "rec": 0.444914}, "AccuracyMetric": {"acc": 0.84236}}}, "step": 69730, "epoch": 19}
+Step:73400	{"metric": {"SpanFPreRecMetric": {"f": 0.705014, "pre": 0.704147, "rec": 0.705882}, "AccuracyMetric": {"acc": 0.88686}}, "step": 73400, "epoch": 20}
+Step:73400	{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.653264, "pre": 0.654116, "rec": 0.652414}, "AccuracyMetric": {"acc": 0.866879}}}, "step": 73400, "epoch": 20}
+Step:73400	{"metric": {"data_train": {"SpanFPreRecMetric": {"f": 0.734274, "pre": 0.727164, "rec": 0.741524}, "AccuracyMetric": {"acc": 0.908832}}}, "step": 73400, "epoch": 20}
+Step:77070	{"metric": {"SpanFPreRecMetric": {"f": 0.688761, "pre": 0.766026, "rec": 0.625654}, "AccuracyMetric": {"acc": 0.88891}}, "step": 77070, "epoch": 21}
+Step:77070	{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.653805, "pre": 0.729621, "rec": 0.592261}, "AccuracyMetric": {"acc": 0.871031}}}, "step": 77070, "epoch": 21}
+Step:77070	{"metric": {"data_train": {"SpanFPreRecMetric": {"f": 0.72252, "pre": 0.790396, "rec": 0.66538}, "AccuracyMetric": {"acc": 0.899309}}}, "step": 77070, "epoch": 21}
+Step:80740	{"metric": {"SpanFPreRecMetric": {"f": 0.653356, "pre": 0.775661, "rec": 0.564367}, "AccuracyMetric": {"acc": 0.869064}}, "step": 80740, "epoch": 22}
+Step:80740	{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.62532, "pre": 0.748753, "rec": 0.536823}, "AccuracyMetric": {"acc": 0.854268}}}, "step": 80740, "epoch": 22}
+Step:80740	{"metric": {"data_train": {"SpanFPreRecMetric": {"f": 0.68236, "pre": 0.800022, "rec": 0.59487}, "AccuracyMetric": {"acc": 0.871877}}}, "step": 80740, "epoch": 22}
+Step:84410	{"metric": {"SpanFPreRecMetric": {"f": 0.709003, "pre": 0.741675, "rec": 0.679088}, "AccuracyMetric": {"acc": 0.898055}, "step": 84410, "epoch": 23}, "step": 84410, "epoch": 23}
+Step:84410	{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.66815, "pre": 0.705531, "rec": 0.634531}, "AccuracyMetric": {"acc": 0.879085}}}, "step": 84410, "epoch": 23}
+Step:84410	{"metric": {"data_train": {"SpanFPreRecMetric": {"f": 0.74774, "pre": 0.773344, "rec": 0.723778}, "AccuracyMetric": {"acc": 0.915957}}}, "step": 84410, "epoch": 23}
+Step:88080	{"metric": {"SpanFPreRecMetric": {"f": 0.716093, "pre": 0.708748, "rec": 0.723591}, "AccuracyMetric": {"acc": 0.893125}, "step": 88080, "epoch": 24}, "step": 88080, "epoch": 24}
+Step:88080	{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.664137, "pre": 0.659663, "rec": 0.668672}, "AccuracyMetric": {"acc": 0.869919}}}, "step": 88080, "epoch": 24}
+Step:88080	{"metric": {"data_train": {"SpanFPreRecMetric": {"f": 0.750644, "pre": 0.74117, "rec": 0.760364}, "AccuracyMetric": {"acc": 0.916213}}}, "step": 88080, "epoch": 24}
+Step:91750	{"metric": {"SpanFPreRecMetric": {"f": 0.706694, "pre": 0.668544, "rec": 0.749461}, "AccuracyMetric": {"acc": 0.878247}}, "step": 91750, "epoch": 25}
+Step:91750	{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.659668, "pre": 0.628013, "rec": 0.694684}, "AccuracyMetric": {"acc": 0.861237}}}, "step": 91750, "epoch": 25}
+Step:91750	{"metric": {"data_train": {"SpanFPreRecMetric": {"f": 0.743484, "pre": 0.704558, "rec": 0.786963}, "AccuracyMetric": {"acc": 0.906358}}}, "step": 91750, "epoch": 25}
+Step:95420	{"metric": {"SpanFPreRecMetric": {"f": 0.706684, "pre": 0.667671, "rec": 0.750539}, "AccuracyMetric": {"acc": 0.877171}}, "step": 95420, "epoch": 26}
+Step:95420	{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.657316, "pre": 0.62181, "rec": 0.697122}, "AccuracyMetric": {"acc": 0.853452}}}, "step": 95420, "epoch": 26}
+Step:95420	{"metric": {"data_train": {"SpanFPreRecMetric": {"f": 0.736559, "pre": 0.693827, "rec": 0.784899}, "AccuracyMetric": {"acc": 0.89668}}}, "step": 95420, "epoch": 26}
+Step:99090	{"metric": {"SpanFPreRecMetric": {"f": 0.702936, "pre": 0.747312, "rec": 0.663536}, "AccuracyMetric": {"acc": 0.894808}}, "step": 99090, "epoch": 27}
+Step:99090	{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.664364, "pre": 0.708471, "rec": 0.625427}, "AccuracyMetric": {"acc": 0.878755}}}, "step": 99090, "epoch": 27}
+Step:99090	{"metric": {"data_train": {"SpanFPreRecMetric": {"f": 0.750216, "pre": 0.785458, "rec": 0.718}, "AccuracyMetric": {"acc": 0.916101}}}, "step": 99090, "epoch": 27}
+Step:102760	{"metric": {"SpanFPreRecMetric": {"f": 0.705123, "pre": 0.751088, "rec": 0.66446}, "AccuracyMetric": {"acc": 0.897985}}, "step": 102760, "epoch": 28}
+Step:102760	{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.665218, "pre": 0.714659, "rec": 0.622175}, "AccuracyMetric": {"acc": 0.880353}}}, "step": 102760, "epoch": 28}
+Step:102760	{"metric": {"data_train": {"SpanFPreRecMetric": {"f": 0.755243, "pre": 0.788736, "rec": 0.724479}, "AccuracyMetric": {"acc": 0.919864}}}, "step": 102760, "epoch": 28}
+Step:106430	{"metric": {"SpanFPreRecMetric": {"f": 0.700555, "pre": 0.757565, "rec": 0.651524}, "AccuracyMetric": {"acc": 0.891929}}, "step": 106430, "epoch": 29}
+Step:106430	{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.66297, "pre": 0.722841, "rec": 0.612258}, "AccuracyMetric": {"acc": 0.873336}}}, "step": 106430, "epoch": 29}
+Step:106430	{"metric": {"data_train": {"SpanFPreRecMetric": {"f": 0.750949, "pre": 0.799166, "rec": 0.708219}, "AccuracyMetric": {"acc": 0.91216}}}, "step": 106430, "epoch": 29}
+Step:110100	{"metric": {"SpanFPreRecMetric": {"f": 0.692701, "pre": 0.634894, "rec": 0.762088}, "AccuracyMetric": {"acc": 0.845446}}, "step": 110100, "epoch": 30}
+Step:110100	{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.650696, "pre": 0.599863, "rec": 0.710941}, "AccuracyMetric": {"acc": 0.834572}}}, "step": 110100, "epoch": 30}
+Step:110100	{"metric": {"data_train": {"SpanFPreRecMetric": {"f": 0.73092, "pre": 0.677667, "rec": 0.793256}, "AccuracyMetric": {"acc": 0.881599}}}, "step": 110100, "epoch": 30}
+Step:113770	{"metric": {"SpanFPreRecMetric": {"f": 0.713655, "pre": 0.683291, "rec": 0.746843}, "AccuracyMetric": {"acc": 0.886012}}, "step": 113770, "epoch": 31}
+Step:113770	{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.664949, "pre": 0.639586, "rec": 0.692408}, "AccuracyMetric": {"acc": 0.863529}}}, "step": 113770, "epoch": 31}
+Step:113770	{"metric": {"data_train": {"SpanFPreRecMetric": {"f": 0.754677, "pre": 0.720323, "rec": 0.792472}, "AccuracyMetric": {"acc": 0.912249}}}, "step": 113770, "epoch": 31}
+Step:117440	{"metric": {"SpanFPreRecMetric": {"f": 0.716874, "pre": 0.694954, "rec": 0.740222}, "AccuracyMetric": {"acc": 0.888511}, "step": 117440, "epoch": 32}, "step": 117440, "epoch": 32}
+Step:117440	{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.669412, "pre": 0.652664, "rec": 0.687043}, "AccuracyMetric": {"acc": 0.866845}}}, "step": 117440, "epoch": 32}
+Step:117440	{"metric": {"data_train": {"SpanFPreRecMetric": {"f": 0.76101, "pre": 0.734862, "rec": 0.789088}, "AccuracyMetric": {"acc": 0.916548}}}, "step": 117440, "epoch": 32}
+Step:121110	{"metric": {"SpanFPreRecMetric": {"f": 0.719387, "pre": 0.730287, "rec": 0.708808}, "AccuracyMetric": {"acc": 0.899099}, "step": 121110, "epoch": 33}, "step": 121110, "epoch": 33}
+Step:121110	{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.667109, "pre": 0.680887, "rec": 0.653877}, "AccuracyMetric": {"acc": 0.875971}}}, "step": 121110, "epoch": 33}
+Step:121110	{"metric": {"data_train": {"SpanFPreRecMetric": {"f": 0.767826, "pre": 0.771086, "rec": 0.764594}, "AccuracyMetric": {"acc": 0.925052}}}, "step": 121110, "epoch": 33}
+Step:124780	{"metric": {"SpanFPreRecMetric": {"f": 0.714964, "pre": 0.734959, "rec": 0.696027}, "AccuracyMetric": {"acc": 0.898352}}, "step": 124780, "epoch": 34}
+Step:124780	{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.67296, "pre": 0.698757, "rec": 0.649}, "AccuracyMetric": {"acc": 0.878021}}}, "step": 124780, "epoch": 34}
+Step:124780	{"metric": {"data_train": {"SpanFPreRecMetric": {"f": 0.766092, "pre": 0.780825, "rec": 0.751904}, "AccuracyMetric": {"acc": 0.923658}}}, "step": 124780, "epoch": 34}
+Step:128450	{"metric": {"SpanFPreRecMetric": {"f": 0.715562, "pre": 0.716004, "rec": 0.715122}, "AccuracyMetric": {"acc": 0.894308}}, "step": 128450, "epoch": 35}
+Step:128450	{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.674386, "pre": 0.676538, "rec": 0.672248}, "AccuracyMetric": {"acc": 0.873376}}}, "step": 128450, "epoch": 35}
+Step:128450	{"metric": {"data_train": {"SpanFPreRecMetric": {"f": 0.766884, "pre": 0.763123, "rec": 0.770682}, "AccuracyMetric": {"acc": 0.919996}}}, "step": 128450, "epoch": 35}
+Step:132120	{"metric": {"SpanFPreRecMetric": {"f": 0.711909, "pre": 0.679206, "rec": 0.747921}, "AccuracyMetric": {"acc": 0.879316}}, "step": 132120, "epoch": 36}
+Step:132120	{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.66408, "pre": 0.635243, "rec": 0.695659}, "AccuracyMetric": {"acc": 0.856141}}}, "step": 132120, "epoch": 36}
+Step:132120	{"metric": {"data_train": {"SpanFPreRecMetric": {"f": 0.753655, "pre": 0.714489, "rec": 0.797363}, "AccuracyMetric": {"acc": 0.903023}}}, "step": 132120, "epoch": 36}
+Step:135790	{"metric": {"SpanFPreRecMetric": {"f": 0.710561, "pre": 0.670815, "rec": 0.755313}, "AccuracyMetric": {"acc": 0.877316}}, "step": 135790, "epoch": 37}
+Step:135790	{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.665025, "pre": 0.631225, "rec": 0.70265}, "AccuracyMetric": {"acc": 0.859505}}}, "step": 135790, "epoch": 37}
+Step:135790	{"metric": {"data_train": {"SpanFPreRecMetric": {"f": 0.758172, "pre": 0.716675, "rec": 0.804771}, "AccuracyMetric": {"acc": 0.910049}}}, "step": 135790, "epoch": 37}
+Step:139460	{"metric": {"SpanFPreRecMetric": {"f": 0.711483, "pre": 0.664838, "rec": 0.765168}, "AccuracyMetric": {"acc": 0.88205}}, "step": 139460, "epoch": 38}
+Step:139460	{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.66687, "pre": 0.627184, "rec": 0.711917}, "AccuracyMetric": {"acc": 0.861257}}}, "step": 139460, "epoch": 38}
+Step:139460	{"metric": {"data_train": {"SpanFPreRecMetric": {"f": 0.759533, "pre": 0.711397, "rec": 0.814655}, "AccuracyMetric": {"acc": 0.912153}}}, "step": 139460, "epoch": 38}
+Step:143130	{"metric": {"SpanFPreRecMetric": {"f": 0.718462, "pre": 0.717799, "rec": 0.719125}, "AccuracyMetric": {"acc": 0.894954}}, "step": 143130, "epoch": 39}
+Step:143130	{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.678545, "pre": 0.685468, "rec": 0.671761}, "AccuracyMetric": {"acc": 0.878883}}}, "step": 143130, "epoch": 39}
+Step:143130	{"metric": {"data_train": {"SpanFPreRecMetric": {"f": 0.775967, "pre": 0.769976, "rec": 0.782052}, "AccuracyMetric": {"acc": 0.92834}}}, "step": 143130, "epoch": 39}
+Step:146800	{"metric": {"SpanFPreRecMetric": {"f": 0.689622, "pre": 0.62995, "rec": 0.76178}, "AccuracyMetric": {"acc": 0.835789}}, "step": 146800, "epoch": 40}
+Step:146800	{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.649748, "pre": 0.597679, "rec": 0.711754}, "AccuracyMetric": {"acc": 0.824914}}}, "step": 146800, "epoch": 40}
+Step:146800	{"metric": {"data_train": {"SpanFPreRecMetric": {"f": 0.735175, "pre": 0.675612, "rec": 0.806257}, "AccuracyMetric": {"acc": 0.870087}}}, "step": 146800, "epoch": 40}
+Step:150470	{"metric": {"SpanFPreRecMetric": {"f": 0.710228, "pre": 0.743806, "rec": 0.67955}, "AccuracyMetric": {"acc": 0.896099}}, "step": 150470, "epoch": 41}
+Step:150470	{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.672134, "pre": 0.708191, "rec": 0.639571}, "AccuracyMetric": {"acc": 0.878081}}}, "step": 150470, "epoch": 41}
+Step:150470	{"metric": {"data_train": {"SpanFPreRecMetric": {"f": 0.76785, "pre": 0.792063, "rec": 0.745073}, "AccuracyMetric": {"acc": 0.921941}}}, "step": 150470, "epoch": 41}
+Step:154140	{"metric": {"SpanFPreRecMetric": {"f": 0.71705, "pre": 0.684247, "rec": 0.753157}, "AccuracyMetric": {"acc": 0.888878}}, "step": 154140, "epoch": 42}
+Step:154140	{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.67138, "pre": 0.64291, "rec": 0.702487}, "AccuracyMetric": {"acc": 0.866993}}}, "step": 154140, "epoch": 42}
+Step:154140	{"metric": {"data_train": {"SpanFPreRecMetric": {"f": 0.76599, "pre": 0.729638, "rec": 0.806153}, "AccuracyMetric": {"acc": 0.917111}}}, "step": 154140, "epoch": 42}
+Step:157810	{"metric": {"SpanFPreRecMetric": {"f": 0.710184, "pre": 0.666667, "rec": 0.759778}, "AccuracyMetric": {"acc": 0.875918}}, "step": 157810, "epoch": 43}
+Step:157810	{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.66621, "pre": 0.626019, "rec": 0.711917}, "AccuracyMetric": {"acc": 0.855697}}}, "step": 157810, "epoch": 43}
+Step:157810	{"metric": {"data_train": {"SpanFPreRecMetric": {"f": 0.757708, "pre": 0.713237, "rec": 0.808093}, "AccuracyMetric": {"acc": 0.906191}}}, "step": 157810, "epoch": 43}
+Step:161480	{"metric": {"SpanFPreRecMetric": {"f": 0.722975, "pre": 0.722975, "rec": 0.722975}, "AccuracyMetric": {"acc": 0.898574}, "step": 161480, "epoch": 44}, "step": 161480, "epoch": 44}
+Step:161480	{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.6769, "pre": 0.683635, "rec": 0.670298}, "AccuracyMetric": {"acc": 0.877009}}}, "step": 161480, "epoch": 44}
+Step:161480	{"metric": {"data_train": {"SpanFPreRecMetric": {"f": 0.779119, "pre": 0.775378, "rec": 0.782898}, "AccuracyMetric": {"acc": 0.929277}}}, "step": 161480, "epoch": 44}
+Step:165150	{"metric": {"SpanFPreRecMetric": {"f": 0.722021, "pre": 0.709361, "rec": 0.73514}, "AccuracyMetric": {"acc": 0.895403}}, "step": 165150, "epoch": 45}
+Step:165150	{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.675394, "pre": 0.667354, "rec": 0.683629}, "AccuracyMetric": {"acc": 0.87252}}}, "step": 165150, "epoch": 45}
+Step:165150	{"metric": {"data_train": {"SpanFPreRecMetric": {"f": 0.778053, "pre": 0.760031, "rec": 0.79695}, "AccuracyMetric": {"acc": 0.927169}}}, "step": 165150, "epoch": 45}
+Step:168820	{"metric": {"SpanFPreRecMetric": {"f": 0.719528, "pre": 0.715963, "rec": 0.723129}, "AccuracyMetric": {"acc": 0.895802}}, "step": 168820, "epoch": 46}
+Step:168820	{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.672054, "pre": 0.674807, "rec": 0.669322}, "AccuracyMetric": {"acc": 0.875021}}}, "step": 168820, "epoch": 46}
+Step:168820	{"metric": {"data_train": {"SpanFPreRecMetric": {"f": 0.778953, "pre": 0.771302, "rec": 0.786756}, "AccuracyMetric": {"acc": 0.929368}}}, "step": 168820, "epoch": 46}
+Step:172490	{"metric": {"SpanFPreRecMetric": {"f": 0.710852, "pre": 0.660412, "rec": 0.769634}, "AccuracyMetric": {"acc": 0.874076}}, "step": 172490, "epoch": 47}
+Step:172490	{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.662905, "pre": 0.616914, "rec": 0.716306}, "AccuracyMetric": {"acc": 0.853182}}}, "step": 172490, "epoch": 47}
+Step:172490	{"metric": {"data_train": {"SpanFPreRecMetric": {"f": 0.758796, "pre": 0.708607, "rec": 0.816636}, "AccuracyMetric": {"acc": 0.906899}}}, "step": 172490, "epoch": 47}
+Step:176160	{"metric": {"SpanFPreRecMetric": {"f": 0.71403, "pre": 0.722529, "rec": 0.705728}, "AccuracyMetric": {"acc": 0.89322}}, "step": 176160, "epoch": 48}
+Step:176160	{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.66489, "pre": 0.681756, "rec": 0.648838}, "AccuracyMetric": {"acc": 0.87122}}}, "step": 176160, "epoch": 48}
+Step:176160	{"metric": {"data_train": {"SpanFPreRecMetric": {"f": 0.777842, "pre": 0.776833, "rec": 0.778853}, "AccuracyMetric": {"acc": 0.92808}}}, "step": 176160, "epoch": 48}
+Step:179830	{"metric": {"SpanFPreRecMetric": {"f": 0.720178, "pre": 0.718467, "rec": 0.721897}, "AccuracyMetric": {"acc": 0.895365}}, "step": 179830, "epoch": 49}
+Step:179830	{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.673915, "pre": 0.682972, "rec": 0.665095}, "AccuracyMetric": {"acc": 0.874475}}}, "step": 179830, "epoch": 49}
+Step:179830	{"metric": {"data_train": {"SpanFPreRecMetric": {"f": 0.782388, "pre": 0.77652, "rec": 0.788345}, "AccuracyMetric": {"acc": 0.930191}}}, "step": 179830, "epoch": 49}
+Step:183500	{"metric": {"SpanFPreRecMetric": {"f": 0.715667, "pre": 0.677868, "rec": 0.75793}, "AccuracyMetric": {"acc": 0.87843}}, "step": 183500, "epoch": 50}
+Step:183500	{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.666306, "pre": 0.635532, "rec": 0.700211}, "AccuracyMetric": {"acc": 0.860287}}}, "step": 183500, "epoch": 50}
+Step:183500	{"metric": {"data_train": {"SpanFPreRecMetric": {"f": 0.770085, "pre": 0.732023, "rec": 0.812323}, "AccuracyMetric": {"acc": 0.914789}}}, "step": 183500, "epoch": 50}
+Step:187170	{"metric": {"SpanFPreRecMetric": {"f": 0.724798, "pre": 0.723852, "rec": 0.725747}, "AccuracyMetric": {"acc": 0.900099}, "step": 187170, "epoch": 51}, "step": 187170, "epoch": 51}
+Step:187170	{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.679783, "pre": 0.688511, "rec": 0.671273}, "AccuracyMetric": {"acc": 0.87858}}}, "step": 187170, "epoch": 51}
+Step:187170	{"metric": {"data_train": {"SpanFPreRecMetric": {"f": 0.785819, "pre": 0.778859, "rec": 0.792906}, "AccuracyMetric": {"acc": 0.932221}}}, "step": 187170, "epoch": 51}
+Step:190840	{"metric": {"SpanFPreRecMetric": {"f": 0.719704, "pre": 0.737437, "rec": 0.702803}, "AccuracyMetric": {"acc": 0.896504}}, "step": 190840, "epoch": 52}
+Step:190840	{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.676453, "pre": 0.703087, "rec": 0.651764}, "AccuracyMetric": {"acc": 0.878162}}}, "step": 190840, "epoch": 52}
+Step:190840	{"metric": {"data_train": {"SpanFPreRecMetric": {"f": 0.784179, "pre": 0.796746, "rec": 0.772002}, "AccuracyMetric": {"acc": 0.930168}}}, "step": 190840, "epoch": 52}
+Step:194510	{"metric": {"SpanFPreRecMetric": {"f": 0.721334, "pre": 0.700901, "rec": 0.742994}, "AccuracyMetric": {"acc": 0.890884}}, "step": 194510, "epoch": 53}
+Step:194510	{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.673979, "pre": 0.659306, "rec": 0.689319}, "AccuracyMetric": {"acc": 0.869743}}}, "step": 194510, "epoch": 53}
+Step:194510	{"metric": {"data_train": {"SpanFPreRecMetric": {"f": 0.778078, "pre": 0.755683, "rec": 0.801841}, "AccuracyMetric": {"acc": 0.925516}}}, "step": 194510, "epoch": 53}
+Step:198180	{"metric": {"SpanFPreRecMetric": {"f": 0.724673, "pre": 0.71596, "rec": 0.7336}, "AccuracyMetric": {"acc": 0.898207}}, "step": 198180, "epoch": 54}
+Step:198180	{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.681999, "pre": 0.681833, "rec": 0.682166}, "AccuracyMetric": {"acc": 0.876605}}}, "step": 198180, "epoch": 54}
+Step:198180	{"metric": {"data_train": {"SpanFPreRecMetric": {"f": 0.785735, "pre": 0.774382, "rec": 0.797425}, "AccuracyMetric": {"acc": 0.931149}}}, "step": 198180, "epoch": 54}
+Step:201850	{"metric": {"SpanFPreRecMetric": {"f": 0.720841, "pre": 0.69393, "rec": 0.749923}, "AccuracyMetric": {"acc": 0.890714}}, "step": 201850, "epoch": 55}
+Step:201850	{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.672879, "pre": 0.654277, "rec": 0.69257}, "AccuracyMetric": {"acc": 0.870478}}}, "step": 201850, "epoch": 55}
+Step:201850	{"metric": {"data_train": {"SpanFPreRecMetric": {"f": 0.77873, "pre": 0.747839, "rec": 0.812282}, "AccuracyMetric": {"acc": 0.925186}}}, "step": 201850, "epoch": 55}
+Step:205520	{"metric": {"SpanFPreRecMetric": {"f": 0.722252, "pre": 0.727614, "rec": 0.71697}, "AccuracyMetric": {"acc": 0.897055}}, "step": 205520, "epoch": 56}
+Step:205520	{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.681497, "pre": 0.696235, "rec": 0.667371}, "AccuracyMetric": {"acc": 0.880339}}}, "step": 205520, "epoch": 56}
+Step:205520	{"metric": {"data_train": {"SpanFPreRecMetric": {"f": 0.788414, "pre": 0.789352, "rec": 0.787479}, "AccuracyMetric": {"acc": 0.93163}}}, "step": 205520, "epoch": 56}
+Step:209190	{"metric": {"SpanFPreRecMetric": {"f": 0.722752, "pre": 0.72253, "rec": 0.722975}, "AccuracyMetric": {"acc": 0.899346}}, "step": 209190, "epoch": 57}
+Step:209190	{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.678471, "pre": 0.687531, "rec": 0.669647}, "AccuracyMetric": {"acc": 0.878243}}}, "step": 209190, "epoch": 57}
+Step:209190	{"metric": {"data_train": {"SpanFPreRecMetric": {"f": 0.787829, "pre": 0.782576, "rec": 0.793153}, "AccuracyMetric": {"acc": 0.932825}}}, "step": 209190, "epoch": 57}
+Step:212860	{"metric": {"SpanFPreRecMetric": {"f": 0.717937, "pre": 0.719994, "rec": 0.715892}, "AccuracyMetric": {"acc": 0.895568}}, "step": 212860, "epoch": 58}
+Step:212860	{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.674342, "pre": 0.68231, "rec": 0.666558}, "AccuracyMetric": {"acc": 0.875762}}}, "step": 212860, "epoch": 58}
+Step:212860	{"metric": {"data_train": {"SpanFPreRecMetric": {"f": 0.779968, "pre": 0.779928, "rec": 0.780009}, "AccuracyMetric": {"acc": 0.928293}}}, "step": 212860, "epoch": 58}
+Step:216530	{"metric": {"SpanFPreRecMetric": {"f": 0.718768, "pre": 0.683079, "rec": 0.758392}, "AccuracyMetric": {"acc": 0.885765}}, "step": 216530, "epoch": 59}
+Step:216530	{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.672446, "pre": 0.641749, "rec": 0.706227}, "AccuracyMetric": {"acc": 0.864702}}}, "step": 216530, "epoch": 59}
+Step:216530	{"metric": {"data_train": {"SpanFPreRecMetric": {"f": 0.778533, "pre": 0.741008, "rec": 0.820061}, "AccuracyMetric": {"acc": 0.92111}}}, "step": 216530, "epoch": 59}
+Step:220200	{"metric": {"SpanFPreRecMetric": {"f": 0.720278, "pre": 0.737964, "rec": 0.703419}, "AccuracyMetric": {"acc": 0.899624}}, "step": 220200, "epoch": 60}
+Step:220200	{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.677286, "pre": 0.703185, "rec": 0.653227}, "AccuracyMetric": {"acc": 0.880171}}}, "step": 220200, "epoch": 60}
+Step:220200	{"metric": {"data_train": {"SpanFPreRecMetric": {"f": 0.788729, "pre": 0.800055, "rec": 0.777718}, "AccuracyMetric": {"acc": 0.932713}}}, "step": 220200, "epoch": 60}
+Step:223870	{"metric": {"SpanFPreRecMetric": {"f": 0.717705, "pre": 0.682159, "rec": 0.75716}, "AccuracyMetric": {"acc": 0.88105}}, "step": 223870, "epoch": 61}
+Step:223870	{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.670182, "pre": 0.640718, "rec": 0.702487}, "AccuracyMetric": {"acc": 0.862733}}}, "step": 223870, "epoch": 61}
+Step:223870	{"metric": {"data_train": {"SpanFPreRecMetric": {"f": 0.776407, "pre": 0.739044, "rec": 0.81775}, "AccuracyMetric": {"acc": 0.918424}}}, "step": 223870, "epoch": 61}
+Step:227540	{"metric": {"SpanFPreRecMetric": {"f": 0.725706, "pre": 0.731612, "rec": 0.719895}, "AccuracyMetric": {"acc": 0.899048}, "step": 227540, "epoch": 62}, "step": 227540, "epoch": 62}
+Step:227540	{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.682761, "pre": 0.697103, "rec": 0.668997}, "AccuracyMetric": {"acc": 0.880609}}}, "step": 227540, "epoch": 62}
+Step:227540	{"metric": {"data_train": {"SpanFPreRecMetric": {"f": 0.790939, "pre": 0.79257, "rec": 0.789315}, "AccuracyMetric": {"acc": 0.933437}}}, "step": 227540, "epoch": 62}
+Step:231210	{"metric": {"SpanFPreRecMetric": {"f": 0.726426, "pre": 0.709318, "rec": 0.744379}, "AccuracyMetric": {"acc": 0.89646}, "step": 231210, "epoch": 63}, "step": 231210, "epoch": 63}
+Step:231210	{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.678752, "pre": 0.669886, "rec": 0.687856}, "AccuracyMetric": {"acc": 0.875264}}}, "step": 231210, "epoch": 63}
+Step:231210	{"metric": {"data_train": {"SpanFPreRecMetric": {"f": 0.788349, "pre": 0.768483, "rec": 0.809269}, "AccuracyMetric": {"acc": 0.932366}}}, "step": 231210, "epoch": 63}
+Step:234880	{"metric": {"SpanFPreRecMetric": {"f": 0.717691, "pre": 0.74409, "rec": 0.693101}, "AccuracyMetric": {"acc": 0.895985}}, "step": 234880, "epoch": 64}
+Step:234880	{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.677163, "pre": 0.714776, "rec": 0.64331}, "AccuracyMetric": {"acc": 0.87918}}}, "step": 234880, "epoch": 64}
+Step:234880	{"metric": {"data_train": {"SpanFPreRecMetric": {"f": 0.788835, "pre": 0.812774, "rec": 0.766266}, "AccuracyMetric": {"acc": 0.931586}}}, "step": 234880, "epoch": 64}
+Step:238550	{"metric": {"SpanFPreRecMetric": {"f": 0.709524, "pre": 0.759937, "rec": 0.665383}, "AccuracyMetric": {"acc": 0.892024}}, "step": 238550, "epoch": 65}
+Step:238550	{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.672846, "pre": 0.736141, "rec": 0.619574}, "AccuracyMetric": {"acc": 0.877286}}}, "step": 238550, "epoch": 65}
+Step:238550	{"metric": {"data_train": {"SpanFPreRecMetric": {"f": 0.780738, "pre": 0.827024, "rec": 0.739357}, "AccuracyMetric": {"acc": 0.921917}}}, "step": 238550, "epoch": 65}
+Step:242220	{"metric": {"SpanFPreRecMetric": {"f": 0.719573, "pre": 0.734638, "rec": 0.705112}, "AccuracyMetric": {"acc": 0.897327}}, "step": 242220, "epoch": 66}
+Step:242220	{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.679391, "pre": 0.703588, "rec": 0.656804}, "AccuracyMetric": {"acc": 0.879294}}}, "step": 242220, "epoch": 66}
+Step:242220	{"metric": {"data_train": {"SpanFPreRecMetric": {"f": 0.79009, "pre": 0.801307, "rec": 0.779183}, "AccuracyMetric": {"acc": 0.932836}}}, "step": 242220, "epoch": 66}
+Step:245890	{"metric": {"SpanFPreRecMetric": {"f": 0.724642, "pre": 0.709563, "rec": 0.740376}, "AccuracyMetric": {"acc": 0.895125}}, "step": 245890, "epoch": 67}
+Step:245890	{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.682923, "pre": 0.676175, "rec": 0.689807}, "AccuracyMetric": {"acc": 0.87554}}}, "step": 245890, "epoch": 67}
+Step:245890	{"metric": {"data_train": {"SpanFPreRecMetric": {"f": 0.790047, "pre": 0.772431, "rec": 0.808485}, "AccuracyMetric": {"acc": 0.93103}}}, "step": 245890, "epoch": 67}
+Step:249560	{"metric": {"SpanFPreRecMetric": {"f": 0.725219, "pre": 0.718802, "rec": 0.731752}, "AccuracyMetric": {"acc": 0.895878}}, "step": 249560, "epoch": 68}
+Step:249560	{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.681662, "pre": 0.685926, "rec": 0.677451}, "AccuracyMetric": {"acc": 0.878486}}}, "step": 249560, "epoch": 68}
+Step:249560	{"metric": {"data_train": {"SpanFPreRecMetric": {"f": 0.793475, "pre": 0.784631, "rec": 0.802522}, "AccuracyMetric": {"acc": 0.93392}}}, "step": 249560, "epoch": 68}
+Step:253230	{"metric": {"SpanFPreRecMetric": {"f": 0.725462, "pre": 0.711137, "rec": 0.740376}, "AccuracyMetric": {"acc": 0.896384}}, "step": 253230, "epoch": 69}
+Step:253230	{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.679522, "pre": 0.674515, "rec": 0.684604}, "AccuracyMetric": {"acc": 0.875965}}}, "step": 253230, "epoch": 69}
+Step:253230	{"metric": {"data_train": {"SpanFPreRecMetric": {"f": 0.78946, "pre": 0.770878, "rec": 0.80896}, "AccuracyMetric": {"acc": 0.932859}}}, "step": 253230, "epoch": 69}
+Step:256900	{"metric": {"SpanFPreRecMetric": {"f": 0.725878, "pre": 0.709393, "rec": 0.743148}, "AccuracyMetric": {"acc": 0.896333}}, "step": 256900, "epoch": 70}
+Step:256900	{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.681858, "pre": 0.675495, "rec": 0.688343}, "AccuracyMetric": {"acc": 0.876288}}}, "step": 256900, "epoch": 70}
+Step:256900	{"metric": {"data_train": {"SpanFPreRecMetric": {"f": 0.789768, "pre": 0.770772, "rec": 0.809723}, "AccuracyMetric": {"acc": 0.930722}}}, "step": 256900, "epoch": 70}
+Step:260570	{"metric": {"SpanFPreRecMetric": {"f": 0.724787, "pre": 0.715013, "rec": 0.734832}, "AccuracyMetric": {"acc": 0.896422}}, "step": 260570, "epoch": 71}
+Step:260570	{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.680329, "pre": 0.680605, "rec": 0.680052}, "AccuracyMetric": {"acc": 0.878115}}}, "step": 260570, "epoch": 71}
+Step:260570	{"metric": {"data_train": {"SpanFPreRecMetric": {"f": 0.793303, "pre": 0.779891, "rec": 0.807185}, "AccuracyMetric": {"acc": 0.934585}}}, "step": 260570, "epoch": 71}
+Step:264240	{"metric": {"SpanFPreRecMetric": {"f": 0.724679, "pre": 0.714222, "rec": 0.735448}, "AccuracyMetric": {"acc": 0.895764}}, "step": 264240, "epoch": 72}
+Step:264240	{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.678206, "pre": 0.677985, "rec": 0.678426}, "AccuracyMetric": {"acc": 0.875574}}}, "step": 264240, "epoch": 72}
+Step:264240	{"metric": {"data_train": {"SpanFPreRecMetric": {"f": 0.791391, "pre": 0.777523, "rec": 0.805761}, "AccuracyMetric": {"acc": 0.933549}}}, "step": 264240, "epoch": 72}
+Step:267910	{"metric": {"SpanFPreRecMetric": {"f": 0.724824, "pre": 0.720414, "rec": 0.729289}, "AccuracyMetric": {"acc": 0.898093}}, "step": 267910, "epoch": 73}
+Step:267910	{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.680771, "pre": 0.686797, "rec": 0.67485}, "AccuracyMetric": {"acc": 0.879908}}}, "step": 267910, "epoch": 73}
+Step:267910	{"metric": {"data_train": {"SpanFPreRecMetric": {"f": 0.793579, "pre": 0.786021, "rec": 0.801284}, "AccuracyMetric": {"acc": 0.935226}}}, "step": 267910, "epoch": 73}
+Step:271580	{"metric": {"SpanFPreRecMetric": {"f": 0.724107, "pre": 0.712243, "rec": 0.736372}, "AccuracyMetric": {"acc": 0.896099}}, "step": 271580, "epoch": 74}
+Step:271580	{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.678849, "pre": 0.675245, "rec": 0.682491}, "AccuracyMetric": {"acc": 0.874569}}}, "step": 271580, "epoch": 74}
+Step:271580	{"metric": {"data_train": {"SpanFPreRecMetric": {"f": 0.792625, "pre": 0.77648, "rec": 0.809455}, "AccuracyMetric": {"acc": 0.932887}}}, "step": 271580, "epoch": 74}
+Step:275250	{"metric": {"SpanFPreRecMetric": {"f": 0.723176, "pre": 0.699209, "rec": 0.748845}, "AccuracyMetric": {"acc": 0.893321}}, "step": 275250, "epoch": 75}
+Step:275250	{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.679452, "pre": 0.662801, "rec": 0.69696}, "AccuracyMetric": {"acc": 0.872595}}}, "step": 275250, "epoch": 75}
+Step:275250	{"metric": {"data_train": {"SpanFPreRecMetric": {"f": 0.790001, "pre": 0.763175, "rec": 0.818782}, "AccuracyMetric": {"acc": 0.931319}}}, "step": 275250, "epoch": 75}
+Step:278920	{"metric": {"SpanFPreRecMetric": {"f": 0.72589, "pre": 0.717163, "rec": 0.734832}, "AccuracyMetric": {"acc": 0.897245}}, "step": 278920, "epoch": 76}
+Step:278920	{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.67895, "pre": 0.680948, "rec": 0.676963}, "AccuracyMetric": {"acc": 0.877427}}}, "step": 278920, "epoch": 76}
+Step:278920	{"metric": {"data_train": {"SpanFPreRecMetric": {"f": 0.793563, "pre": 0.781089, "rec": 0.806442}, "AccuracyMetric": {"acc": 0.934722}}}, "step": 278920, "epoch": 76}
+Step:282590	{"metric": {"SpanFPreRecMetric": {"f": 0.724734, "pre": 0.710733, "rec": 0.739298}, "AccuracyMetric": {"acc": 0.89615}}, "step": 282590, "epoch": 77}
+Step:282590	{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.680851, "pre": 0.677617, "rec": 0.684116}, "AccuracyMetric": {"acc": 0.875891}}}, "step": 282590, "epoch": 77}
+Step:282590	{"metric": {"data_train": {"SpanFPreRecMetric": {"f": 0.793325, "pre": 0.77574, "rec": 0.811725}, "AccuracyMetric": {"acc": 0.934431}}}, "step": 282590, "epoch": 77}
+Step:286260	{"metric": {"SpanFPreRecMetric": {"f": 0.723896, "pre": 0.701909, "rec": 0.747305}, "AccuracyMetric": {"acc": 0.892637}}, "step": 286260, "epoch": 78}
+Step:286260	{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.677545, "pre": 0.663755, "rec": 0.69192}, "AccuracyMetric": {"acc": 0.871921}}}, "step": 286260, "epoch": 78}
+Step:286260	{"metric": {"data_train": {"SpanFPreRecMetric": {"f": 0.789762, "pre": 0.764094, "rec": 0.817214}, "AccuracyMetric": {"acc": 0.930598}}}, "step": 286260, "epoch": 78}
+Step:289930	{"metric": {"SpanFPreRecMetric": {"f": 0.724395, "pre": 0.702985, "rec": 0.747151}, "AccuracyMetric": {"acc": 0.893251}}, "step": 289930, "epoch": 79}
+Step:289930	{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.678125, "pre": 0.664121, "rec": 0.692733}, "AccuracyMetric": {"acc": 0.872662}}}, "step": 289930, "epoch": 79}
+Step:289930	{"metric": {"data_train": {"SpanFPreRecMetric": {"f": 0.790407, "pre": 0.765068, "rec": 0.817482}, "AccuracyMetric": {"acc": 0.930956}}}, "step": 289930, "epoch": 79}
+Step:293600	{"metric": {"SpanFPreRecMetric": {"f": 0.724372, "pre": 0.718178, "rec": 0.730674}, "AccuracyMetric": {"acc": 0.896042}}, "step": 293600, "epoch": 80}
+Step:293600	{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.681018, "pre": 0.68579, "rec": 0.676313}, "AccuracyMetric": {"acc": 0.877434}}}, "step": 293600, "epoch": 80}
+Step:293600	{"metric": {"data_train": {"SpanFPreRecMetric": {"f": 0.795621, "pre": 0.786165, "rec": 0.805307}, "AccuracyMetric": {"acc": 0.935891}}}, "step": 293600, "epoch": 80}
+Step:297270	{"metric": {"SpanFPreRecMetric": {"f": 0.726019, "pre": 0.714648, "rec": 0.737758}, "AccuracyMetric": {"acc": 0.896783}}, "step": 297270, "epoch": 81}
+Step:297270	{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.680613, "pre": 0.678907, "rec": 0.682328}, "AccuracyMetric": {"acc": 0.876059}}}, "step": 297270, "epoch": 81}
+Step:297270	{"metric": {"data_train": {"SpanFPreRecMetric": {"f": 0.794888, "pre": 0.77984, "rec": 0.810528}, "AccuracyMetric": {"acc": 0.935083}}}, "step": 297270, "epoch": 81}
+Step:300940	{"metric": {"SpanFPreRecMetric": {"f": 0.726164, "pre": 0.710643, "rec": 0.742378}, "AccuracyMetric": {"acc": 0.895833}}, "step": 300940, "epoch": 82}
+Step:300940	{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.680796, "pre": 0.674976, "rec": 0.686718}, "AccuracyMetric": {"acc": 0.875324}}}, "step": 300940, "epoch": 82}
+Step:300940	{"metric": {"data_train": {"SpanFPreRecMetric": {"f": 0.792502, "pre": 0.772915, "rec": 0.813107}, "AccuracyMetric": {"acc": 0.932609}}}, "step": 300940, "epoch": 82}
+Step:304610	{"metric": {"SpanFPreRecMetric": {"f": 0.719347, "pre": 0.74114, "rec": 0.698799}, "AccuracyMetric": {"acc": 0.896257}}, "step": 304610, "epoch": 83}
+Step:304610	{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.675683, "pre": 0.708527, "rec": 0.645749}, "AccuracyMetric": {"acc": 0.879045}}}, "step": 304610, "epoch": 83}
+Step:304610	{"metric": {"data_train": {"SpanFPreRecMetric": {"f": 0.797045, "pre": 0.813183, "rec": 0.781536}, "AccuracyMetric": {"acc": 0.935152}}}, "step": 304610, "epoch": 83}
+Step:308280	{"metric": {"SpanFPreRecMetric": {"f": 0.721853, "pre": 0.741794, "rec": 0.702957}, "AccuracyMetric": {"acc": 0.8992}}, "step": 308280, "epoch": 84}
+Step:308280	{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.673514, "pre": 0.704743, "rec": 0.644936}, "AccuracyMetric": {"acc": 0.88015}}}, "step": 308280, "epoch": 84}
+Step:308280	{"metric": {"data_train": {"SpanFPreRecMetric": {"f": 0.795893, "pre": 0.808316, "rec": 0.783847}, "AccuracyMetric": {"acc": 0.936826}}}, "step": 308280, "epoch": 84}
+Step:311950	{"metric": {"SpanFPreRecMetric": {"f": 0.728814, "pre": 0.722744, "rec": 0.734986}, "AccuracyMetric": {"acc": 0.898706}, "step": 311950, "epoch": 85}, "step": 311950, "epoch": 85}
+Step:311950	{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.680033, "pre": 0.684627, "rec": 0.6755}, "AccuracyMetric": {"acc": 0.876659}}}, "step": 311950, "epoch": 85}
+Step:311950	{"metric": {"data_train": {"SpanFPreRecMetric": {"f": 0.79675, "pre": 0.786288, "rec": 0.807495}, "AccuracyMetric": {"acc": 0.936418}}}, "step": 311950, "epoch": 85}
+Step:315620	{"metric": {"SpanFPreRecMetric": {"f": 0.724308, "pre": 0.704188, "rec": 0.745611}, "AccuracyMetric": {"acc": 0.893485}}, "step": 315620, "epoch": 86}
+Step:315620	{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.674972, "pre": 0.663318, "rec": 0.687043}, "AccuracyMetric": {"acc": 0.87157}}}, "step": 315620, "epoch": 86}
+Step:315620	{"metric": {"data_train": {"SpanFPreRecMetric": {"f": 0.79147, "pre": 0.767663, "rec": 0.816801}, "AccuracyMetric": {"acc": 0.930981}}}, "step": 315620, "epoch": 86}
+Step:319290	{"metric": {"SpanFPreRecMetric": {"f": 0.726772, "pre": 0.722459, "rec": 0.731136}, "AccuracyMetric": {"acc": 0.898637}}, "step": 319290, "epoch": 87}
+Step:319290	{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.681109, "pre": 0.687655, "rec": 0.674687}, "AccuracyMetric": {"acc": 0.878041}}}, "step": 319290, "epoch": 87}
+Step:319290	{"metric": {"data_train": {"SpanFPreRecMetric": {"f": 0.797563, "pre": 0.790205, "rec": 0.80506}, "AccuracyMetric": {"acc": 0.937163}}}, "step": 319290, "epoch": 87}
+Step:322960	{"metric": {"SpanFPreRecMetric": {"f": 0.72767, "pre": 0.713251, "rec": 0.742686}, "AccuracyMetric": {"acc": 0.896422}}, "step": 322960, "epoch": 88}
+Step:322960	{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.680634, "pre": 0.677347, "rec": 0.683954}, "AccuracyMetric": {"acc": 0.87643}}}, "step": 322960, "epoch": 88}
+Step:322960	{"metric": {"data_train": {"SpanFPreRecMetric": {"f": 0.795605, "pre": 0.778405, "rec": 0.813582}, "AccuracyMetric": {"acc": 0.935411}}}, "step": 322960, "epoch": 88}
+Step:326630	{"metric": {"SpanFPreRecMetric": {"f": 0.725968, "pre": 0.712254, "rec": 0.740222}, "AccuracyMetric": {"acc": 0.896409}}, "step": 326630, "epoch": 89}
+Step:326630	{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.680462, "pre": 0.676688, "rec": 0.684279}, "AccuracyMetric": {"acc": 0.876302}}}, "step": 326630, "epoch": 89}
+Step:326630	{"metric": {"data_train": {"SpanFPreRecMetric": {"f": 0.795242, "pre": 0.778712, "rec": 0.812488}, "AccuracyMetric": {"acc": 0.935291}}}, "step": 326630, "epoch": 89}
+Step:330300	{"metric": {"SpanFPreRecMetric": {"f": 0.724036, "pre": 0.734474, "rec": 0.71389}, "AccuracyMetric": {"acc": 0.897688}}, "step": 330300, "epoch": 90}
+Step:330300	{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.679564, "pre": 0.700812, "rec": 0.659568}, "AccuracyMetric": {"acc": 0.879955}}}, "step": 330300, "epoch": 90}
+Step:330300	{"metric": {"data_train": {"SpanFPreRecMetric": {"f": 0.798316, "pre": 0.804226, "rec": 0.792493}, "AccuracyMetric": {"acc": 0.93624}}}, "step": 330300, "epoch": 90}
+Step:333970	{"metric": {"SpanFPreRecMetric": {"f": 0.727778, "pre": 0.710638, "rec": 0.745765}, "AccuracyMetric": {"acc": 0.895947}}, "step": 333970, "epoch": 91}
+Step:333970	{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.679121, "pre": 0.672782, "rec": 0.68558}, "AccuracyMetric": {"acc": 0.874482}}}, "step": 333970, "epoch": 91}
+Step:333970	{"metric": {"data_train": {"SpanFPreRecMetric": {"f": 0.794504, "pre": 0.774542, "rec": 0.815522}, "AccuracyMetric": {"acc": 0.932902}}}, "step": 333970, "epoch": 91}
+Step:337640	{"metric": {"SpanFPreRecMetric": {"f": 0.72473, "pre": 0.697578, "rec": 0.754081}, "AccuracyMetric": {"acc": 0.893258}}, "step": 337640, "epoch": 92}
+Step:337640	{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.678995, "pre": 0.660618, "rec": 0.698423}, "AccuracyMetric": {"acc": 0.872574}}}, "step": 337640, "epoch": 92}
+Step:337640	{"metric": {"data_train": {"SpanFPreRecMetric": {"f": 0.792417, "pre": 0.764157, "rec": 0.822847}, "AccuracyMetric": {"acc": 0.932661}}}, "step": 337640, "epoch": 92}
+Step:341310	{"metric": {"SpanFPreRecMetric": {"f": 0.727641, "pre": 0.708985, "rec": 0.747305}, "AccuracyMetric": {"acc": 0.897232}}, "step": 341310, "epoch": 93}
+Step:341310	{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.679242, "pre": 0.670842, "rec": 0.687856}, "AccuracyMetric": {"acc": 0.875567}}}, "step": 341310, "epoch": 93}
+Step:341310	{"metric": {"data_train": {"SpanFPreRecMetric": {"f": 0.795409, "pre": 0.774089, "rec": 0.817936}, "AccuracyMetric": {"acc": 0.935064}}}, "step": 341310, "epoch": 93}
+Step:344980	{"metric": {"SpanFPreRecMetric": {"f": 0.727628, "pre": 0.709933, "rec": 0.746227}, "AccuracyMetric": {"acc": 0.896295}}, "step": 344980, "epoch": 94}
+Step:344980	{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.679045, "pre": 0.671542, "rec": 0.686718}, "AccuracyMetric": {"acc": 0.87519}}}, "step": 344980, "epoch": 94}
+Step:344980	{"metric": {"data_train": {"SpanFPreRecMetric": {"f": 0.795886, "pre": 0.775401, "rec": 0.817482}, "AccuracyMetric": {"acc": 0.93545}}}, "step": 344980, "epoch": 94}
+Step:348650	{"metric": {"SpanFPreRecMetric": {"f": 0.725054, "pre": 0.727301, "rec": 0.722821}, "AccuracyMetric": {"acc": 0.898207}}, "step": 348650, "epoch": 95}
+Step:348650	{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.677398, "pre": 0.691747, "rec": 0.663632}, "AccuracyMetric": {"acc": 0.878661}}}, "step": 348650, "epoch": 95}
+Step:348650	{"metric": {"data_train": {"SpanFPreRecMetric": {"f": 0.799061, "pre": 0.797525, "rec": 0.800603}, "AccuracyMetric": {"acc": 0.93797}}}, "step": 348650, "epoch": 95}
+Step:352320	{"metric": {"SpanFPreRecMetric": {"f": 0.727204, "pre": 0.711507, "rec": 0.743609}, "AccuracyMetric": {"acc": 0.896397}}, "step": 352320, "epoch": 96}
+Step:352320	{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.681683, "pre": 0.674682, "rec": 0.688831}, "AccuracyMetric": {"acc": 0.875695}}}, "step": 352320, "epoch": 96}
+Step:352320	{"metric": {"data_train": {"SpanFPreRecMetric": {"f": 0.797457, "pre": 0.777867, "rec": 0.81806}, "AccuracyMetric": {"acc": 0.93555}}}, "step": 352320, "epoch": 96}
+Step:355990	{"metric": {"SpanFPreRecMetric": {"f": 0.727218, "pre": 0.716829, "rec": 0.737912}, "AccuracyMetric": {"acc": 0.898105}}, "step": 355990, "epoch": 97}
+Step:355990	{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.680568, "pre": 0.6793, "rec": 0.68184}, "AccuracyMetric": {"acc": 0.876767}}}, "step": 355990, "epoch": 97}
+Step:355990	{"metric": {"data_train": {"SpanFPreRecMetric": {"f": 0.797989, "pre": 0.784037, "rec": 0.812447}, "AccuracyMetric": {"acc": 0.936364}}}, "step": 355990, "epoch": 97}
+Step:359660	{"metric": {"SpanFPreRecMetric": {"f": 0.726467, "pre": 0.709256, "rec": 0.744533}, "AccuracyMetric": {"acc": 0.895017}}, "step": 359660, "epoch": 98}
+Step:359660	{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.679185, "pre": 0.670575, "rec": 0.688018}, "AccuracyMetric": {"acc": 0.874462}}}, "step": 359660, "epoch": 98}
+Step:359660	{"metric": {"data_train": {"SpanFPreRecMetric": {"f": 0.79527, "pre": 0.774919, "rec": 0.816719}, "AccuracyMetric": {"acc": 0.934027}}}, "step": 359660, "epoch": 98}
+Step:363330	{"metric": {"SpanFPreRecMetric": {"f": 0.726414, "pre": 0.708041, "rec": 0.745765}, "AccuracyMetric": {"acc": 0.895036}}, "step": 363330, "epoch": 99}
+Step:363330	{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.679574, "pre": 0.66903, "rec": 0.690457}, "AccuracyMetric": {"acc": 0.87523}}}, "step": 363330, "epoch": 99}
+Step:363330	{"metric": {"data_train": {"SpanFPreRecMetric": {"f": 0.796585, "pre": 0.775913, "rec": 0.81839}, "AccuracyMetric": {"acc": 0.934341}}}, "step": 363330, "epoch": 99}
+Step:367000	{"metric": {"SpanFPreRecMetric": {"f": 0.727574, "pre": 0.712074, "rec": 0.743763}, "AccuracyMetric": {"acc": 0.896302}}, "step": 367000, "epoch": 100}
+Step:367000	{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.67875, "pre": 0.672681, "rec": 0.684929}, "AccuracyMetric": {"acc": 0.875736}}}, "step": 367000, "epoch": 100}
+Step:367000	{"metric": {"data_train": {"SpanFPreRecMetric": {"f": 0.796056, "pre": 0.775966, "rec": 0.817214}, "AccuracyMetric": {"acc": 0.935291}}}, "step": 367000, "epoch": 100}
