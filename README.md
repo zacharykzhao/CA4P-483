@@ -10,7 +10,7 @@ https://sites.google.com/view/ca4p483
 
 If you end up building on this research or code as part of a project or publication, please include a reference to the EMNLP paper:
 
-'''
+```
 @inproceedings{zhao2022ca4p483,
     title = "A Fine-grained Chinese Software Privacy Policy Dataset for Sequence Labeling and Regulation Compliant Identification",
     author = "Zhao, Kaifa  and
@@ -25,4 +25,4 @@ If you end up building on this research or code as part of a project or publicat
     year = "2022",
     publisher = "Association for Computational Linguistics",
 }
-'''
+```
