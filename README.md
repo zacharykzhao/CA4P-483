@@ -1,7 +1,7 @@
 #  CAP4-483
 ## **C**hinese **A**ndroid a**PP**lication **P**rivacy **P**olicy dataset -- 483
 
-The dataset for our ACL-ENMLP 2022 paper:  [A Fine-grained Chinese Software Privacy Policy Dataset for Sequence Labeling and Regulation Compliant Identification]("https://aclanthology.org/events/emnlp-2022/#2022-emnlp-main")
+The dataset for our ACL-ENMLP 2022 paper:  [A Fine-grained Chinese Software Privacy Policy Dataset for Sequence Labeling and Regulation Compliant Identification](https://aclanthology.org/events/emnlp-2022/#2022-emnlp-main)
 
 
 Implementations details can also be found on our website: 
