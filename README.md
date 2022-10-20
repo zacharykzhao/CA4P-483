@@ -1,7 +1,8 @@
 #  CAP4-483
+## **C**hinese **A**ndroid a**pp**lication **p**rivacy **p**olicy dataset -- 483
+
 NLP dataset: Chinese Android privacy policy dataset
 
-CSP3: Chinese Software aPlication Privacy Policy dataset
 
 
 
