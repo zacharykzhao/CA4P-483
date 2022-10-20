@@ -1,7 +1,5 @@
 #  CAP4-483
-## **C**hinese **A**ndroid a**pp**lication **p**rivacy **p**olicy dataset -- 483
-
-NLP dataset: Chinese Android privacy policy dataset
+## **C**hinese **A**ndroid a**PP**lication **P**rivacy **P**olicy dataset -- 483
 
 
 
