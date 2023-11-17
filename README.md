@@ -29,3 +29,5 @@ If you end up building on this research or code as part of a project or publicat
 If you end up building on this research or code as part of a project or publication, please help us fill in the following form to help us conduct statistics about our dataset:
 
 https://forms.gle/FbHQDXMbhhbj2KV19
+
+Please follow READEME.pdf to reproduce the baselines.
