@@ -1,0 +1,3 @@
+[console_scripts]
+bert-base-ner-train = bert_base.runs:train_ner
+bert-base-serving-start = bert_base.runs:start_server

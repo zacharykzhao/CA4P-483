@@ -1,0 +1,7 @@
+six~=1.16.0
+numpy~=1.19.2
+termcolor~=1.1.0
+setuptools~=59.6.0
+torch~=1.10.2
+tqdm~=4.62.3
+matplotlib

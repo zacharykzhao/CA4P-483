@@ -1,0 +1,218 @@
+[
+    {
+        "classId": "e_16",
+        "classId_name": "其他",
+        "text": "本隐私权保护政策适用于《秀色夜聊》互联网平台。\n尊重和保护用户个人隐私信息是我们我们的一贯制度，我们在做产品时会采取合理的措施保护用户的个人隐私信息。",
+        "start": 37,
+        "end": 112,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_16",
+        "classId_name": "其他",
+        "text": "**关于免责**\n发生下列事项导致用户信息或隐私信息泄漏的，我们不承担责任\n（1）由于法律政策的原因，或者由于政府、司法机关要求，导致您的信息被提供给相关单位。\n（2）由于您将用户密码告知他人或与他人共享注册帐户，由此导致的任何个人信息的泄漏；或其他因用户个人行为造成的泄漏。\n（3）任何由于黑客攻击、电脑病毒侵入、计算机系统崩溃造成的信息泄漏；发生前述事故，且该等事故现今的技术难以防御的。\n（4）紧急情况下，在危及公共安全、其他个人身体、财产安全情况下，因利益平衡做取舍时使用您的信息。若您因此权利收到损害的，您可以向收益人主张权利。\n（5）不可抗力事件以及其他一切非我们主观过错而导致的使用或泄漏。",
+        "start": 1346,
+        "end": 1648,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_3",
+        "classId_name": "用户提供个人信息",
+        "text": "**个人信息的搜集**\n当我们需要能识别您身份的信息或者通讯信息时，我们会征求您的同意。通常，在您注册《秀色夜聊》时，我们会请求您提供这些信息。我们搜集的信息通常仅限于您的性别、年龄、出生日期、兴趣爱好等。",
+        "start": 124,
+        "end": 227,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_1",
+        "classId_name": "App或网站收集使用处理个人信息",
+        "text": "**个人信息的使用**\n我们的产品可能在法律要求或符合《用户协议》约定的情况下透露您的个人信息\na、根据协议得到您的许可；\nb、在产品交互中得到您的许可；\nc、根据法律规定或政府、司法机关的要求；\nd、紧急情况下，在危及公共安全、其他个人更重要与您隐私的权利受到现实危险的。\n除此之外，我们不会向外界透漏您的隐私信息。",
+        "start": 239,
+        "end": 398,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们的产品",
+        "start": 251,
+        "end": 256,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 382,
+        "end": 384,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 1167,
+        "end": 1169,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "在法律要求",
+        "start": 258,
+        "end": 263,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "符合《用户协议》约定的情况下",
+        "start": 264,
+        "end": 278,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "除此之外",
+        "start": 377,
+        "end": 381,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "未经监护人事先同意",
+        "start": 1157,
+        "end": 1166,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "除非是法律的许可",
+        "start": 1200,
+        "end": 1208,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "为了向青少年提供服务之必要",
+        "start": 1209,
+        "end": 1222,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "透露",
+        "start": 278,
+        "end": 280,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "透漏",
+        "start": 389,
+        "end": 391,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "个人信息",
+        "start": 282,
+        "end": 286,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "隐私信息",
+        "start": 393,
+        "end": 397,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "个人信息",
+        "start": 1177,
+        "end": 1181,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "外界",
+        "start": 387,
+        "end": 389,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_6",
+        "classId_name": "数据安全",
+        "text": "**帐号的安全**\n您注册《秀色夜聊》的用户名、密码属于保密信息，我们将采取积极的技术措施和管理措施保护用户帐号、密码的安全。您尽可能按照我们提供的安全保护措施提升您帐号的安全性。\n==========",
+        "start": 410,
+        "end": 511,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_6",
+        "classId_name": "数据安全",
+        "text": "**个人信息的安全**\n请您注意勿在使用我们的服务中透露您自己的各类财产帐户、银行卡、信用卡、第三方支付账户及对应密码等重要资料。",
+        "start": 512,
+        "end": 577,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_15",
+        "classId_name": "网站Cookie及WebBeacon使用",
+        "text": "**Cookie** **的使用**\n我们使用Cookie来帮助您实现您的联机体验的个性化。Cookie是由网页服务器存放在您的硬盘中的文本文件。Cookie不能用来运行程序或将病毒递送到您的计算机中。指定给您的Cookie 是唯一的，它只能由将Cookie发布给您的域中的Web服务器读取。\nCookie的主要用途之一是提供一种节约时间的实用功能。例如，如果您将网页个性化，或在《秀色夜聊》上注册，Cookie会帮助您后续访问时调用您的特定信息。这样可以简化记录您的个人信息（例如帐单寄送地址、首选电子邮件地址等）的流程。当您返回到《秀色夜聊》时，网站可以调出您以前所提供的信息，使您能够容易地使用您自定义的功能。在进行与其产品及服务相关的工作时，会使用网络beacons进入我们的网站提取Cookie。\n您可以接受或拒绝Cookie。大多数Web浏览器会自动接受Cookie，但您通常可根据自己的需要来修改浏览器的设置以拒绝Cookie。如果选择拒绝Cookie，那么您可能无法完全体验所访问的网站的互动功能。",
+        "start": 589,
+        "end": 1046,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_11",
+        "classId_name": "年龄限制条款",
+        "text": "**对青少年个人信息的搜集和使用**\n我们非常重视对青少年个人信息搜集和使用的安全性和保护。我们建议，任何16岁以下的未成年人参加网上活动应事先取得家长或其法定监护人（以下简称\"监护人\"）的同意。\n未经监护人事先同意，我们不会使用青少年的个人信息，也不会向任何第三方透露可识别的信息，除非是法律的许可或为了向青少年提供服务之必要。\n经监护人同意，我们可能搜集青少年的个人信息，但监护人有权拒绝我们进一步搜集其子女或被监护人的个人信息，有权审阅或要求我们删除该青少年的个人信息。\n我们保证不会要求青少年提供额外的个人资料，以作为允许其参与网上活动的条件。",
+        "start": 1058,
+        "end": 1334,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "使用",
+        "start": 1171,
+        "end": 1173,
+        "fields": [],
+        "sub_annotations": []
+    }
+]

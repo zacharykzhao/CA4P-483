@@ -1,0 +1,1280 @@
+[
+    {
+        "classId": "e_16",
+        "classId_name": "其他",
+        "text": "# 隐私政策\n天津酷阅信息科技有限公司（以下或称“我们”）尊重并保护用户个人信息，用户（以下或称为“您”）在使用我们的产品和服务时，我们将按照本《隐私政策》（以下简称“本政策”）收集、使用及共享您的个人信息。本文所指我们的产品特指我们合法经营的“熊猫看书”平台，我们的服务指通过我们的平台向用户提供的各种服务，包括但不限于各类文学作品的下载、阅读、充值及消费服务等。本政策包含了我们收集、存储、保护、使用和共享您的个人信息的条款，请您务必完整地阅读本政策，以帮助您了解维护自己隐私权的方式。为了使您充分理解本政策的内容，本政策中与您的权益存在或可能存在重大关系的条款，我们已采用粗体字进行标注提示您注意理解本政策的内容，本政策中与您的权益存在或可能存在重大关系的条款，我们已采用粗体字进行标注提示您注意。\n**当您同意使用我们的产品和服务时，即表示您已同意我们按照本政策来合法使用和保护您的个人信息。**",
+        "start": 44,
+        "end": 446,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_16",
+        "classId_name": "其他",
+        "text": "## 本政策适用范围\n除某些特定服务外，我们所有的产品和服务均适用本政策。这些特定服务将适用特定的隐私政策。\n**针对某些特定服务的特定隐私政策，将更具体地说明我们在该等服务中如何使用您的信息。** 该特定服务的隐私政策构成本政策的一部分。\n**如相关特定服务的隐私政策与本政策有不一致之处，适用该特定服务的隐私政策。**  \n**本《隐私政策》不适用于以下情况：**  \n1\\. 通过我们的服务而接入的第三方产品和服务收集的信息。\n**本政策仅适用于我们所收集的信息，并不适用于任何第三方提供的产品和服务或第三方的信息使用规则，我们对任何第三方使用由您提供的信息不承担任何责任；**  \n2\\. 通过在我们服务中进行广告服务的其他公司或机构所收集的信息。",
+        "start": 7005,
+        "end": 7333,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_16",
+        "classId_name": "其他",
+        "text": "更新时间：2020年9月3日",
+        "start": 7493,
+        "end": 7507,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_1",
+        "classId_name": "App或网站收集使用处理个人信息",
+        "text": "## 我们可能收集的信息\n**您在使用我们的产品和服务时，我们可能会收集、储存和使用下列与您有关的信息。如果您不提供相关信息，可能无法注册成为我们的用户或无法享受我们提供的某些产品或服务，或者无法达到相关服务拟达到的效果。**",
+        "start": 458,
+        "end": 571,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_1",
+        "classId_name": "App或网站收集使用处理个人信息",
+        "text": "2.其他方分享的您的信息：  \n其他方使用我们的产品和服务时所提供有关您的共享信息。",
+        "start": 832,
+        "end": 874,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_1",
+        "classId_name": "App或网站收集使用处理个人信息",
+        "text": "3.我们获取的您的信息：  \n您使用产品和服务时我们可能收集如下信息。  \n3.1 日志信息：指您使用我们的产品和服务时，系统可能通过小型数据文件（这些数据文件可能是Cookie，Flash\nCookie，或您的浏览器或关联应用程序提供的其他本地存储（统称“Cookie”）、电子图象（称为“单像素GIF文件”或“网络Beacon”）以及内嵌技术等；  \n3.2终端设备信息：指您在使用本软件时，为提供、处理、维护、改善、开发我们提供给您的服务之目的，我们可能会获取您终端设备的如下权限：  \n3.2.1\n允许程序读取您所使用的设备相关信息，例如设备型号、操作系统版本、设备设置、IP地址、软件安装列表、设备MAC地址、唯一设备标识符等软件特征信息，以使本软件功能可以兼容不同系统和机型，确定未登陆前用户标识，判断程序崩溃原因，优化小说内容展示效果，提升阅读体验；  \n3.2.2 允许程序访问及改变设备的Wi-Fi状态以及WLAN热点的信息，以便于本软件根据网络状态提示阅读内容下载等功能；  \n3.2.3 允许程序写入和读写外部存储， 为了账号能够在安全环境中登录，以及确保接受到的文字图片内容能够正常浏览。熊猫看书申请写入和读取外部存储空间的权限；  \n3.2.4 允许程序访问摄像头进行拍照，使用户可以在更换头像时，正常拍摄新头像。  \n3.3\n在使用我们产品和服务时搜索或浏览的信息，例如您使用的页面搜索词语、访问的社交媒体页面url地址，以及您在使用我们产品和服务时浏览或要求提供的其他信息和内容详情；  \n3.4 您通过我们的产品和服务分享的内容所包含的信息（元数据）；  \n3.5\n您或其他用户提供的包含您所处地理位置的实时信息，例如您提供的账户信息中包含的您所在地区信息，您或其他人上传的显示您当前或曾经所处地理位置的共享信息，您或其他人共享的照片包含的地理标记信息；  \n您可以通过关闭定位功能，停止对您的上述信息的收集。  \n3.6 您对我们产品或服务的使用情况，如使用时长、阅读记录、订购记录和消费记录等数据信息。",
+        "start": 888,
+        "end": 1757,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_1",
+        "classId_name": "App或网站收集使用处理个人信息",
+        "text": "3.8\n除上述信息外，我们还可能为了提供服务及改进服务质量的合理需要而收集用户的其他信息，包括用户与我们的客户服务团队联系时提供的相关信息，用户与我们及我们的关联企业互动时收集的相关信息。与此同时，为提高用户使用我们提供的产品和服务的安全性，更准确地预防钓鱼网站欺诈和木马病毒，我们可能会通过了解一些用户的网络使用习惯、用户常用的软件信息等手段来判断用户账户的风险，并可能会记录一些我们认为有风险的URL。出于本协议之目的，“关联企业”系指现在或将来与我们构成一方控制、共同控制另一方或对另一方施加重大影响，以及两方或两方以上受同一方控制、共同控制或重大影响的关系的企业。",
+        "start": 3807,
+        "end": 4093,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_1",
+        "classId_name": "App或网站收集使用处理个人信息",
+        "text": "## 我们如何收集用户信息\n1\\. 通过产品内嵌入的日志保存功能可能收集用户的交互行为，并将该等信息储存为日志文本，并用于改善我们的产品和服务。",
+        "start": 4107,
+        "end": 4179,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_1",
+        "classId_name": "App或网站收集使用处理个人信息",
+        "text": "## 我们如何使用用户信息\n因收集您的信息是出于遵守国家法律法规的规定以及向您提供服务之目的，为了实现这一目的，我们会将您的信息用于下列用途：  \n**1\\. 向您提供我们的产品及服务；**  \n**2\\. 改善我们的产品或服务；**  \n**3\\. 在我们提供服务时，用于身份验证、客户服务、安全防范、诈骗监测、存档和备份用途，确保我们向您提供的产品和服务的安全性；**  \n**4\\. 为使您知晓自己使用我们服务的情况或了解我们的相关服务，向您发送服务状态的通知等信息；**  \n**5\\. 使我们更加了解您如何接入和使用我们的服务，从而针对性地回应您的个性化需求，例如语言设定、位置设定、个性化的帮助服务和指示；**  \n**6\\. 软件认证或管理软件升级；**  \n**7\\. 预防或禁止非法的活动；**  \n**8\\. 经您许可的其他用途。**",
+        "start": 5253,
+        "end": 5630,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_3",
+        "classId_name": "用户提供个人信息",
+        "text": "1.您提供的信息：  \n1.1 您在注册账户或使用我们的产品和服务时，向我们提供的相关个人信息，例如电话号码、创建的用户名和密码，还可能会提供您的生日，性别等相关信息。  \n1.2 您使用我们的特定服务时所提供的个人信息。  \n1.3 如您使用的我们的产品和服务需与您的银行账户或其他支付工具的账户关联方能实现时，您向我们提供您的银行账户信息或其他支付工具的账户信息。  \n1.4 您通过我们的产品和服务向其他方提供的共享信息，以及您使用我们的产品和服务时所储存的信息。",
+        "start": 583,
+        "end": 818,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "您",
+        "start": 599,
+        "end": 600,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "您",
+        "start": 674,
+        "end": 675,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "您",
+        "start": 702,
+        "end": 703,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "您",
+        "start": 740,
+        "end": 741,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 912,
+        "end": 914,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "程序",
+        "start": 1143,
+        "end": 1145,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "程序",
+        "start": 1281,
+        "end": 1283,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "您",
+        "start": 1587,
+        "end": 1588,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "其他用户",
+        "start": 1589,
+        "end": 1593,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "您",
+        "start": 1613,
+        "end": 1614,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "您",
+        "start": 1633,
+        "end": 1634,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "其他人",
+        "start": 1635,
+        "end": 1638,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "您",
+        "start": 1661,
+        "end": 1662,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "其他人",
+        "start": 1663,
+        "end": 1666,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 3946,
+        "end": 3948,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 4426,
+        "end": 4428,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 4528,
+        "end": 4530,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 4631,
+        "end": 4633,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "广告商",
+        "start": 4753,
+        "end": 4756,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "其他合作方",
+        "start": 4757,
+        "end": 4762,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "Cookie",
+        "start": 4765,
+        "end": 4771,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "网络Beacon",
+        "start": 4772,
+        "end": 4780,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 5697,
+        "end": 5699,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 5817,
+        "end": 5819,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "关联企业",
+        "start": 5824,
+        "end": 5828,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 5984,
+        "end": 5986,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "我们",
+        "start": 619,
+        "end": 621,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "我们",
+        "start": 742,
+        "end": 744,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "广告商",
+        "start": 4699,
+        "end": 4702,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "其他合作伙伴",
+        "start": 4703,
+        "end": 4709,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "公司",
+        "start": 5713,
+        "end": 5715,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "组织",
+        "start": 5716,
+        "end": 5718,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "个人",
+        "start": 5719,
+        "end": 5721,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "关联企业",
+        "start": 5842,
+        "end": 5846,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "合作伙伴",
+        "start": 5847,
+        "end": 5851,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "第三方服务供应商",
+        "start": 5852,
+        "end": 5860,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "承包商",
+        "start": 5861,
+        "end": 5864,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "代理",
+        "start": 5865,
+        "end": 5867,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "提供",
+        "start": 621,
+        "end": 623,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "创建",
+        "start": 638,
+        "end": 640,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "提供",
+        "start": 652,
+        "end": 654,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "提供",
+        "start": 686,
+        "end": 688,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "提供",
+        "start": 744,
+        "end": 746,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "提供",
+        "start": 1593,
+        "end": 1595,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "提供",
+        "start": 1614,
+        "end": 1616,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "上传",
+        "start": 1638,
+        "end": 1640,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "共享",
+        "start": 1666,
+        "end": 1668,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "提供",
+        "start": 4696,
+        "end": 4698,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "共享",
+        "start": 5721,
+        "end": 5723,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "分享",
+        "start": 5867,
+        "end": 5869,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "个人信息",
+        "start": 626,
+        "end": 630,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "电话号码",
+        "start": 633,
+        "end": 637,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "用户名",
+        "start": 641,
+        "end": 644,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "密码",
+        "start": 645,
+        "end": 647,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "生日",
+        "start": 656,
+        "end": 658,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "性别",
+        "start": 659,
+        "end": 661,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "个人信息",
+        "start": 689,
+        "end": 693,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "银行账户信息",
+        "start": 748,
+        "end": 754,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "其他支付工具的账户信息",
+        "start": 755,
+        "end": 766,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "日志信息",
+        "start": 930,
+        "end": 934,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "本地存储",
+        "start": 1009,
+        "end": 1013,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "电子图象",
+        "start": 1026,
+        "end": 1030,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "终端设备信息",
+        "start": 1069,
+        "end": 1075,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "设备相关信息",
+        "start": 1152,
+        "end": 1158,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "设备型号、操作系统版本、设备设置、IP地址、软件安装列表、设备MAC地址、唯一设备标识符",
+        "start": 1161,
+        "end": 1205,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "软件特征信息",
+        "start": 1206,
+        "end": 1212,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "Wi-Fi状态",
+        "start": 1291,
+        "end": 1298,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "WLAN热点的信息",
+        "start": 1300,
+        "end": 1309,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "搜索或浏览的信息",
+        "start": 1476,
+        "end": 1484,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "页面搜索词语",
+        "start": 1491,
+        "end": 1497,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "社交媒体页面url地址",
+        "start": 1501,
+        "end": 1512,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "元数据",
+        "start": 1575,
+        "end": 1578,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "所处地理位置的实时信息",
+        "start": 1599,
+        "end": 1610,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "账户信息",
+        "start": 1617,
+        "end": 1621,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "所在地区信息",
+        "start": 1626,
+        "end": 1632,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "当前或曾经所处地理位置的共享信息",
+        "start": 1644,
+        "end": 1660,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "地理标记信息",
+        "start": 1674,
+        "end": 1680,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "对我们产品或服务的使用情况",
+        "start": 1717,
+        "end": 1730,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "使用时长、阅读记录、订购记录",
+        "start": 1732,
+        "end": 1746,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "消费记录",
+        "start": 1747,
+        "end": 1751,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "数据信息",
+        "start": 1752,
+        "end": 1756,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "网络使用习惯",
+        "start": 3960,
+        "end": 3966,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "软件信息",
+        "start": 3972,
+        "end": 3976,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "URL",
+        "start": 4006,
+        "end": 4009,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "浏览页面活动的信息",
+        "start": 4442,
+        "end": 4451,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "访问的页面地址",
+        "start": 4455,
+        "end": 4462,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "访问的援引页面的位址",
+        "start": 4466,
+        "end": 4476,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "停留在页面的时间",
+        "start": 4478,
+        "end": 4486,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "浏览环境",
+        "start": 4489,
+        "end": 4493,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "显示设定",
+        "start": 4495,
+        "end": 4499,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "使用我们的产品和服务进行什么活动",
+        "start": 4543,
+        "end": 4559,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "哪些应用或服务最受您的欢迎",
+        "start": 4561,
+        "end": 4574,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "非个人身份信息",
+        "start": 4682,
+        "end": 4689,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "非个人身份信息",
+        "start": 4791,
+        "end": 4798,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "个人信息",
+        "start": 5725,
+        "end": 5729,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "个人信息",
+        "start": 5834,
+        "end": 5838,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "个人信息",
+        "start": 6041,
+        "end": 6045,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "设备信息",
+        "start": 6049,
+        "end": 6053,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "地理位置",
+        "start": 6054,
+        "end": 6058,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "网络信息",
+        "start": 6059,
+        "end": 6063,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "个人信息",
+        "start": 6099,
+        "end": 6103,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "设备信息、位置信息、网络信息、SDK认证相关请求结果、手机号码",
+        "start": 6107,
+        "end": 6138,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 916,
+        "end": 918,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "读取",
+        "start": 1145,
+        "end": 1147,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "访问",
+        "start": 1283,
+        "end": 1285,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "了解",
+        "start": 3953,
+        "end": 3955,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "记录",
+        "start": 3994,
+        "end": 3996,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 4439,
+        "end": 4441,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "了解",
+        "start": 4540,
+        "end": 4542,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 4679,
+        "end": 4681,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 4784,
+        "end": 4786,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 6039,
+        "end": 6041,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 6097,
+        "end": 6099,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "使本软件功能可以兼容不同系统和机型，确定未登陆前用户标识，判断程序崩溃原因，优化小说内容展示效果，提升阅读体验",
+        "start": 1214,
+        "end": 1269,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "便于本软件根据网络状态提示阅读内容下载等功能",
+        "start": 1311,
+        "end": 1333,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "判断用户账户的风险",
+        "start": 3980,
+        "end": 3989,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "分析用户如何使用我们的产品和服务，并用于广告服务",
+        "start": 4712,
+        "end": 4736,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "用于分析用户如何使用该等产品和服务、向您发送您可能感兴趣的广告，或用于评估广告服务的效果",
+        "start": 4800,
+        "end": 4844,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "下列用途",
+        "start": 5888,
+        "end": 5892,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "下列用途",
+        "start": 6003,
+        "end": 6007,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "实现消息推送（或其他推送）功能",
+        "start": 6021,
+        "end": 6036,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "实现App一键登录，号码认证的功能",
+        "start": 6077,
+        "end": 6094,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_2",
+        "classId_name": "第三方收集或共享个人信息",
+        "text": "3.7\n第三方SDK接入服务所需开通的权限。本政策所指产品和服务可能包括第三方的产品和服务，以及第三方网站的链接。当您使用这些产品或服务时，产品和服务提供方可能收集您的信息。目前我们接入的第三方SKD列明如下：\n序号 | SDK名称 | 场景描述 | 个人信息字段 | 隐私政策链接 | 第三方机构名称  \n---|---|---|---|---|---  \n1 | 极光 | 消息推送、一键登录 | 设备唯一标识码、 设备MAC 地址、软件列表 |\n<https://www.jiguang.cn/license/privacy> | 深圳市和讯华谷信息技术有限公司  \n2 | 个推 | 消息推送、一键登录 | 设备唯一标识码、 设备MAC 地址、软件列表 | <http://docs.getui.com/privacy/>\n| 浙江每日互动网络科技股份有限公司  \n3 | 穿山甲 | 广告投放 | 硬件型号、操作系统版本号、国际移动设备识别码 （IMEI）、 网络设备硬件地址 （MAC）、 IP地址、\n软件版本号、网络接入方式及类型、 操作日志等信息 | <https://partner.oceanengine.com/privacy> |\n湖北今日头条科技有限公司  \n4 | 广点通 | 广告投放 | 硬件型号、操作系统版本号、国际移动设备识别码 （IMEI）、 网络设备硬件地址 （MAC）、 IP地址、\n软件版本号、网络接入方式及类型、 操作日志等信息 | <https://e.qq.com/optout.html> | 深圳市腾讯计算机系统有限公司  \n5 | 快手 | 广告投放 | 硬件型号、操作系统版本号、国际移动设备识别码 （IMEI）、 网络设备硬件地址 （MAC）、 IP地址、\n软件版本号、网络接入方式及类型、 操作日志等信息 | <https://www.kuaishou.com/about/policy> |\n北京快手科技有限公司  \n6 | 中关互动 | 广告投放 | 硬件型号、操作系统版本号、国际移动设备识别码 （IMEI）、 网络设备硬件地址 （MAC）、 IP地址、\n软件版本号、网络接入方式及类型、 操作日志等信息 | <http://privacy.lysdad.com/privacy.html> |\n北京中关互动科技有限责任公司  \n7 | 百度广告 | 广告投放 | 硬件型号、操作系统版本号、国际移动设备识别码 （IMEI）、 网络设备硬件地址 （MAC）、 IP地址、\n软件版本号、网络接入方式及类型、 操作日志等信息 | <https://union.baidu.com/bqt#/policies> |\n北京百度网讯科技有限公司  \n8 | 百度TTS | 语音朗读 | 设备唯一标识码、 获取网络状态、访问Wi-Fi状态 |\n<https://www.baidu.com/duty/yinsiquan-policy.html> | 北京百度网讯科技有限公司  \n9 | 微信 | 登录、将页面分享至微信好友或朋友圈、使用微信支付 | 设备唯一标识码 |\n<https://www.wechat.com/zh_cn/privacy_policy.html> | 深圳市腾讯计算机系统有限公司  \n10 | 腾讯qq | 登录、将页面分享至QQ好友朋友圈 | 设备唯一标识码 | <https://www.tencent.com/zh-cn/privacy-policy.html> | 深圳市腾讯计算机系统有限公司  \n11 | 新浪微博 | 登录，将页面分享至新浪微博 | 设备唯一标识码 |\n[https://m.weibo.cn/c/privacy?display=0&retcode;=6102](https://m.weibo.cn/c/privacy?display=0&retcode=6102)\n| 北京微梦创科网络技术有限公司  \n12 | 友盟SDK | 数据统计 | 设备唯一标识码 | <https://www.umeng.com/policy> | 友盟同欣（北京）科技有限公司  \n13 | 支付宝 | 支付 | 设备唯一标识码 | <https://render.alipay.com/p/c/k2cx0tg8> |\n蚂蚁科技集团股份有限公司  \n14 | 神策 | 数据统计 | 设备唯一标识码 | <https://www.sensorsdata.cn/terms/privacy.html> |\n神策网络科技 (北京) 有限公司  \n15 | 变现猫sdk | 广告投放 | 硬件型号、操作系统版本... |\n<http://ssp.bianxianmao.com/#/aboutBxm/privacy> | 杭州微财网络科技有限公司",
+        "start": 1771,
+        "end": 3793,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_2",
+        "classId_name": "第三方收集或共享个人信息",
+        "text": "## 我们如何共享个人信息\n我们对您的信息承担保密义务，但我们有权在下列情况下将您的信息与第三方共享  \n我们不会与本产品服务提供者以外的公司、组织和个人共享您的个人信息，但以下情况除外：  \n**1\\. 获得您的同意或授权（包括用户本人或用户监护人授权）。**  \n**2\\. 应用户监护人合法要求而提供用户个人身份信息。**  \n**3\\.\n我们以及我们的关联企业，可能将您的个人信息与我们的关联企业、合作伙伴及第三方服务供应商、承包商及代理分享（他们可能并非位于您所在的法域），用作下列用途。  \n**3.1 向您提供我们的服务**  \n**3.2 实现“我们如何使用个人信息”部分所述目的**  \n**3.3 理解、维护和改善我们的服务**  \n**4\\. 您同意并理解，我们可能会集成极光等第三方SDK，用作下列用途：**  \n**4.1 用于实现消息推送（或其他推送）功能，涉及收集个人信息的类型：设备信息、地理位置、网络信息；**  \n**4.2 用于实现App一键登录，号码认证的功能，涉及收集个人信息的类型：设备信息、位置信息、网络信息、SDK认证相关请求结果、手机号码。**  \n**极光隐私政策链接为：<https://www.jiguang.cn/license/privacy>**  \n**5\\. 在不透露单个用户隐私资料的前提下，我们有权对整个用户数据库进行分析并对用户数据库进行商业上的利用；**  \n**6\\. 为了向您提供第三方服务；**  \n**例如，您的支付信息会与相关银行进行核实，并由银行进行转账的操作**  \n**7\\. 为维护熊猫看书和其他产品用户的合法权益;**  \n**8\\. 根据法律法规的规定或有权机关的要求。**  \n随着我们业务的持续发展，我们以及我们的关联企业有可能进行合并、收购、资产转让或类似的交易，您的个人信息有可能作为此类交易的一部分而被转移。",
+        "start": 5644,
+        "end": 6451,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_15",
+        "classId_name": "网站Cookie及WebBeacon使用",
+        "text": "2\\. 我们或我们的第三方合作伙伴，可能通过Cookie、网络Beacon收集和使用您的信息，并将该等信息储存为日志信息。  \n我们使用自己的Cookie、网络Beacon收集您的信息，目的是为您提供更个性化的用户体验和服务，并用于以下用途：  \n2.1 记住您的身份。例如：Cookie有助于我们辨认您作为我们的注册用户的身份，或保存您向我们提供的有关您的喜好或其他信息；  \n2.2\n使用网络Beacon可以帮助应用计算浏览网络页面的用户或访问某些Cookie，我们会通过网络Beacon收集您浏览页面活动的信息，例如您访问的页面地址、您先前访问的援引页面的位址、您停留在页面的时间、您的浏览环境以及显示设定等；  \n2.3 分析您使用我们的产品和服务的情况。例如，我们可利用Cookie来了解您使用我们的产品和服务进行什么活动，或哪些应用或服务最受您的欢迎；  \n2.4 广告优化。Cookie有助于我们根据您的信息，向您提供与您相关的广告而非进行普遍的广告投放。  \n我们为上述目的使用Cookie或网络Beacon的同时，可能将通过Cookie或网络Beacon收集的非个人身份信息，经统计加工后提供给广告商或其他合作伙伴，用于分析用户如何使用我们的产品和服务，并用于广告服务。  \n我们的产品和服务上可能会有广告商或其他合作方放置的Cookie或网络Beacon，可能会收集与您相关的非个人身份信息，以用于分析用户如何使用该等产品和服务、向您发送您可能感兴趣的广告，或用于评估广告服务的效果。这些第三方Cookie或网络Beacon收集和使用该等信息，不受本政策约束，而是受相关使用者的隐私政策约束，我们不对第三方的信息采集行为承担责任。",
+        "start": 4193,
+        "end": 4918,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_6",
+        "classId_name": "数据安全",
+        "text": "## 我们如何保护和存储用户信息",
+        "start": 4932,
+        "end": 4948,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_6",
+        "classId_name": "数据安全",
+        "text": "1\\.\n为保障您的信息安全，我们努力采取各种合理的物理、电子和管理方面的安全措施来保护您的信息，使您的信息不会被泄漏、毁损或者丢失，包括但不限于SSL、信息加密存储、数据中心的访问控制、专用的网络通道及代理。我们对可能接触到您的信息的员工或外包人员也采取了严格管理，包括但不限于根据岗位的不同采取不同的权限控制，与他们签署保密协议，监控他们的操作情况等措施。  \n**我们会按现有技术提供相应的安全措施来保护您的信息，提供合理的安全保障，我们将在任何时候尽力做到使您的信息不被泄漏、毁损或丢失。**",
+        "start": 4949,
+        "end": 5198,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_5",
+        "classId_name": "数据保存",
+        "text": "2\\. 我们仅在本政策所述目的所必需期间和法律法规要求的时限内保留您的信息。",
+        "start": 5201,
+        "end": 5239,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "以下情况",
+        "start": 5731,
+        "end": 5735,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_4",
+        "classId_name": "用户权利增删改查",
+        "text": "## 用户如何更正或投诉个人信息\n如果您需要查询、修改或更正您的个人信息，或对个人信息保护问题有任何疑问或投诉，您可以拨打电话400-628-9988周一至周五（ 9:00 –\n18:00）联系我们。。",
+        "start": 6465,
+        "end": 6566,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_4",
+        "classId_name": "用户权利增删改查",
+        "text": "## 用户账号注销及个人信息删除\n您随时可注销此前在我们的产品上注册的账号，您可以通过以下方式自行操作：  \n1\\. 进入平台后，点击“我的”；  \n2\\. 点击“设置”；  \n3\\. 点击“账号安全设置”；  \n4\\. 点击“注销账号；  \n5\\. 阅读注销须知后，可联系客服进行注销账号。  \n在注销账号之后，我们将停止为您提供产品或服务，并依据您的要求，删除您的个人信息，法律法规另有规定的除外。  \n在下列情形中，按照法律法规的要求，我们将无法响应您的请求：  \n1\\. 与国家安全、国防安全直接相关的；  \n2\\. 与公共安全、公共卫生、重大公共利益直接相关的；  \n3\\. 与犯罪侦查、起诉、审判或判决执行直接相关的；  \n4\\. 有充分证据证明您存在恶意或滥用权利的；  \n5\\. 响应您的请求将导致您或其他个人、组织的合法权益受到严重损害的；  \n6\\. 涉及商业秘密的；  \n7\\. 法律法规规定的其他情形。",
+        "start": 6580,
+        "end": 6993,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_7",
+        "classId_name": "隐私政策修改更新",
+        "text": "## 本政策的变更\n我们可能适时修订本政策的条款，该等修订内容构成本政策的一部分。\n**如该等修订造成您在本政策下权利的实质减少，我们将在修订生效前通过在主页上显著位置提示或向您发送电子邮件或以其他方式通知您。在该种情况下，若您继续使用我们的服务，即表示同意受经修订的本政策的约束。**",
+        "start": 7347,
+        "end": 7490,
+        "fields": [],
+        "sub_annotations": []
+    }
+]

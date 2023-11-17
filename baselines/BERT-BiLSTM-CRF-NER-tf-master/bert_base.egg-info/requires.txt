@@ -1,0 +1,17 @@
+numpy
+six
+pyzmq>=16.0.0
+GPUtil>=1.3.0
+termcolor>=1.1
+
+[cpu]
+tensorflow>=1.10.0
+
+[gpu]
+tensorflow-gpu>=1.10.0
+
+[http]
+flask
+flask-compress
+flask-cors
+flask-json

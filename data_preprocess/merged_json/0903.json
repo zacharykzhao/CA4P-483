@@ -1,0 +1,749 @@
+[
+    {
+        "classId": "e_16",
+        "classId_name": "其他",
+        "text": "# 隐私政策\n2019-03-12 16:27:44\n海豚软件产品尊重并保护所有使用服务用户的个人隐私权。为了给您提供更准确、更有个性化的服务，海豚软件产品会按照本隐私权政策的规定使用和披露您的个人信息。但海豚软件产品将以高度的勤勉、审慎义务对待这些信息。除本隐私权政策另有规定外，在未征得您事先许可的情况下，海豚软件产品不会将这些信息对外披露或向第三方（友盟等）提供。海豚软件产品会不时更新本隐私权政策。\n您在同意海豚软件产品服务使用协议之时，即视为您已经同意本隐私权政策全部内容。本隐私权政策属于海豚软件产品服务使用协议不可分割的一部分。",
+        "start": 40,
+        "end": 311,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_16",
+        "classId_name": "其他",
+        "text": "**1.适用范围**\n  \n(a) 在您注册海豚软件产品帐号时，您根据海豚软件产品要求提供的个人注册信息；\n  \n(b)在您使用海豚软件产品网络服务，或访问海豚软件产品平台网页时，海豚软件产品自动接收并记录的您的浏览器和计算机上的信息，包括但不限于您的IP地址、浏览器的类型、使用的语言、访问日期和时间、软硬件特征信息及您需求的网页记录等数据；\n  \n(c) 海豚软件产品通过合法途径从商业伙伴处取得的用户个人数据。\n  \n **您了解并同意，以下信息不适用本隐私权政策：**\n  \n(a) 您在使用海豚软件产品平台提供的搜索服务时输入的关键字信息；\n  \n(b) 海豚软件产品收集到的您在海豚软件产品发布的有关信息数据，包括但不限于参与活动、成交信息及评价详情；\n  \n(c) 违反法律规定或违反海豚软件产品规则行为及海豚软件产品已对您采取的措施。",
+        "start": 327,
+        "end": 702,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_16",
+        "classId_name": "其他",
+        "text": "(d)本隐私政策适用于您通过海豚应用程序供第三方网站和应用程序使用的海豚软件开发工具包（SDK）和应用程序编程接口（API）方式来访问和使用我们的产品和服务。",
+        "start": 1126,
+        "end": 1205,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_16",
+        "classId_name": "其他",
+        "text": "**7 .收集、使用个人信息目的变更**\n **  \n**\n请您了解，随着我们业务的发展，可能会对“海豚”的功能和提供的服务有所调整变化。原则上，当新功能或服务与我们当前提供的功能或服务相关时，收集与使用的个人信息将与原处理目的具有直接或合理关联。在与原处理目的无直接或合理关联的场景下，我们收集、使用您的个人信息，会再次进行告知，并征得您的同意。",
+        "start": 2358,
+        "end": 2532,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "海豚软件产品",
+        "start": 417,
+        "end": 423,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "海豚软件产品",
+        "start": 507,
+        "end": 513,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "海豚软件产品",
+        "start": 610,
+        "end": 616,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "您",
+        "start": 620,
+        "end": 621,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "海豚软件产品",
+        "start": 743,
+        "end": 749,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "海豚软件产品",
+        "start": 982,
+        "end": 988,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "海豚软件产品",
+        "start": 1250,
+        "end": 1256,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 2149,
+        "end": 2151,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 2275,
+        "end": 2277,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们的产品",
+        "start": 2573,
+        "end": 2578,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "友盟+SDK",
+        "start": 2587,
+        "end": 2593,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 2724,
+        "end": 2726,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 3185,
+        "end": 3187,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "接收",
+        "start": 425,
+        "end": 427,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "记录",
+        "start": 428,
+        "end": 430,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "取得",
+        "start": 525,
+        "end": 527,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 616,
+        "end": 618,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "使用",
+        "start": 992,
+        "end": 994,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 2152,
+        "end": 2154,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 2278,
+        "end": 2280,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 2595,
+        "end": 2597,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "P地址、浏览器的类型、使用的语言、访问日期和时间、软硬件特征信息",
+        "start": 454,
+        "end": 486,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "网页记录",
+        "start": 491,
+        "end": 495,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "个人数据",
+        "start": 530,
+        "end": 534,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "有关信息数据",
+        "start": 631,
+        "end": 637,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "参与活动、成交信息",
+        "start": 644,
+        "end": 653,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "评价详情",
+        "start": 654,
+        "end": 658,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "个人信息",
+        "start": 780,
+        "end": 784,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "个人信息",
+        "start": 996,
+        "end": 1000,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "个人信息",
+        "start": 1281,
+        "end": 1285,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "硬件型号、操作系统版本号、国际移动设备识别码、唯一设备标识符、网络设备硬件地址、IP地址、WLAN接入点、基站、软件版本号、网络接入方式、类型、状态、网络质量数据、操作、使用、服务日志",
+        "start": 2156,
+        "end": 2248,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "应用信息",
+        "start": 2283,
+        "end": 2287,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "进程信息",
+        "start": 2293,
+        "end": 2297,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "应用程序的总体运行、使用情况与频率、应用崩溃情况、总体安装使用情况、性能数据、应用来源",
+        "start": 2298,
+        "end": 2341,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "设备Mac地址、唯一设备识别码",
+        "start": 2599,
+        "end": 2614,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "IMEI/android ID/IDFA/OPENUDID/GUID",
+        "start": 2615,
+        "end": 2649,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "SIM 卡 IMSI 信息",
+        "start": 2650,
+        "end": 2663,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "个人信息",
+        "start": 2741,
+        "end": 2745,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "设备、帐号及日志信息",
+        "start": 3205,
+        "end": 3215,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "商业伙伴",
+        "start": 520,
+        "end": 524,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "无关第三方",
+        "start": 754,
+        "end": 759,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "友盟",
+        "start": 760,
+        "end": 762,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "关联方",
+        "start": 2727,
+        "end": 2730,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "第三方友盟",
+        "start": 2731,
+        "end": 2736,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "关联方",
+        "start": 3188,
+        "end": 3191,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "服务提供商",
+        "start": 3192,
+        "end": 3197,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "发布",
+        "start": 628,
+        "end": 630,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "提供",
+        "start": 764,
+        "end": 766,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "出售",
+        "start": 767,
+        "end": 769,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "出租",
+        "start": 770,
+        "end": 772,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "分享",
+        "start": 773,
+        "end": 775,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "交易",
+        "start": 776,
+        "end": 778,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "披露",
+        "start": 1277,
+        "end": 1279,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "共享",
+        "start": 2737,
+        "end": 2739,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "共享",
+        "start": 3200,
+        "end": 3202,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_2",
+        "classId_name": "第三方收集或共享个人信息",
+        "text": "a)海豚软件产品不会向任何无关第三方（友盟等）提供、出售、出租、分享或交易您的个人信息，除非事先得到您的许可，或该第三方和海豚软件产品（含海豚软件产品关联公司）单独或共同为您提供服务，且在该服务结束后，其将被禁止访问包括其以前能够访问的所有这些资料。\n  \n(b)海豚软件产品亦不允许任何第三方（友盟等）以任何手段收集、编辑、出售或者无偿传播您的个人信息。任何海豚软件产品平台用户如从事上述活动，一经发现，海豚软件产品有权立即终止与该用户的服务协议。",
+        "start": 741,
+        "end": 966,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_2",
+        "classId_name": "第三方收集或共享个人信息",
+        "text": "或者与海豚软件产品合作伙伴共享信息以便他们向您发送有关其产品和服务的信息（后者需要您的事先同意）",
+        "start": 1073,
+        "end": 1121,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_2",
+        "classId_name": "第三方收集或共享个人信息",
+        "text": "**3\\. 信息披露**\n **  \n**\n在如下情况下，海豚软件产品将依据您的个人意愿或法律的规定全部或部分的披露您的个人信息：\n  \n(a) 经您事先同意，向第三方披露；\n  \n(b)为提供您所要求的产品和服务，而必须和第三方分享您的个人信息；\n  \n(c) 根据法律的有关规定，或者行政或司法机构的要求，向第三方或者行政、司法机构披露；\n  \n(d) 如您出现违反中国有关法律、法规或者海豚软件产品服务协议或相关规则的情况，需要向第三方披露；\n  \n(e) 如您是适格的知识产权投诉人并已提起投诉，应被投诉人要求，向被投诉人披露，以便双方处理可能的权利纠纷；\n  \n(f)在海豚软件产品平台上创建的某一交易中，如交易任何一方履行或部分履行了交易义务并提出信息披露请求的，海豚软件产品有权决定向该用户提供其交易对方的联络方式等必要信息，以促成交易的完成或纠纷的解决。\n  \n(g) 其它海豚软件产品根据法律、法规或者网站政策认为合适的披露。",
+        "start": 1221,
+        "end": 1643,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_2",
+        "classId_name": "第三方收集或共享个人信息",
+        "text": "**8.共享原则**\n **  \n**\n(a)  我们的产品集成友盟+SDK，友盟+SDK需要收集您的设备Mac地址、唯一设备识别码（IMEI/android ID/IDFA/OPENUDID/GUID、SIM 卡 IMSI 信息）以提供统计分析服务，并通过地理位置校准报表数据准确性，提供基础反作弊能力。\n **  \n**\n(b) 授权同意原则：\n向我们的关联方、第三方友盟等共享您的个人信息，需经过您的授权同意，除非共享的个人信息是去标识化处理后的信息，且共享第三方无法重新识别此类信息的自然人主体。如果关联方、第三方使用信息的目的超越原授权同意范围，他们需要重新征得您的同意。\n  \n(c)合法正当与最小必要原则： 向关联方、第三方友盟等共享的数据必须具有合法正当目的，且共享的数据以达成目的必要为限。\n  \n(d)安全审慎原则：\n我们将审慎评估关联方、第三方友盟等数据使用共享信息的目的，对这些合作方的安全保障能力进行综合评估，并要求其遵循合作法律协议。我们会对合作方获取信息的软件工具开发包（[SDK](https://www.toutiao.com/ch/third_part_sdks/)）、应用程序接口（API）进行严格的安全监测，以保护数据安全。",
+        "start": 2548,
+        "end": 3080,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_2",
+        "classId_name": "第三方收集或共享个人信息",
+        "text": "**9.实现安全与分析统计的共享信息**\n  \n(a)\n保障使用安全：我们非常重视帐号、服务以及网络信息服务的良好环境。为保障您和其他用户的正当合法权益，维护信息网络环境，我们和关联方或服务提供商可能会共享必要的设备、帐号及日志信息。\n  \n(b)\n分析产品使用情况：为分析我们服务的使用情况，提升用户使用的体验，可能会与关联方或第三方共享产品来源与使用情况（崩溃、闪退、使用时长等）的去标识化数据，这些数据难以与其他信息结合识别您的个人身份。\n  \n(c)\n学术研究与科研：为提升相关领域的科研能力，促进科技发展水平，我们在确保数据安全与目的正当的前提下，可能会与科研院所、高校等机构共享去标识化或匿名化的数据。",
+        "start": 3099,
+        "end": 3406,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "事先得到您的许可",
+        "start": 787,
+        "end": 795,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "该第三方和海豚软件产品（含海豚软件产品关联公司）单独或共同为您提供服务",
+        "start": 797,
+        "end": 832,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "如下情况",
+        "start": 1244,
+        "end": 1248,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "个人意愿或法律的规定",
+        "start": 1261,
+        "end": 1271,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "经过您的授权同意",
+        "start": 2747,
+        "end": 2755,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_1",
+        "classId_name": "App或网站收集使用处理个人信息",
+        "text": "为服务用户的目的，海豚软件产品可能通过使用您的个人信息，向您提供您感兴趣的信息，包括但不限于向您发出产品和服务信息（即通过短信、邮件、电话等方式向您发送订单、活动、推广类信息或拨打回访，资讯类电话）",
+        "start": 973,
+        "end": 1072,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_1",
+        "classId_name": "App或网站收集使用处理个人信息",
+        "text": "**6.设备信息与日志信息**\n  \n(a) 为了保障软件服务的安全、运营的质量及效率，我们会收集您的硬件型号、操作系统版本号、国际移动设备识别码、唯一设备标识符、网络设备硬件地址、IP地址、WLAN接入点、基站、软件版本号、网络接入方式、类型、状态、网络质量数据、操作、使用、服务日志。\n  \n(b)为了预防恶意程序、确保运营质量及效率，我们会收集安装的应用信息或正在运行的进程信息、应用程序的总体运行、使用情况与频率、应用崩溃情况、总体安装使用情况、性能数据、应用来源。",
+        "start": 2105,
+        "end": 2342,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "服务用户",
+        "start": 974,
+        "end": 978,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "向您提供您感兴趣的信息",
+        "start": 1001,
+        "end": 1012,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "保障软件服务的安全、运营的质量及效率",
+        "start": 2130,
+        "end": 2148,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "预防恶意程序、确保运营质量及效率",
+        "start": 2258,
+        "end": 2274,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "提供统计分析服务，并通过地理位置校准报表数据准确性，提供基础反作弊能力",
+        "start": 2665,
+        "end": 2700,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "保障您和其他用户的正当合法权益，维护信息网络环境",
+        "start": 3160,
+        "end": 3184,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_13",
+        "classId_name": "通知联系用户",
+        "text": "向您发出产品和服务信息（即通过短信、邮件、电话等方式向您发送订单、活动、推广类信息或拨打回访，资讯类电话",
+        "start": 1019,
+        "end": 1071,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_5",
+        "classId_name": "数据保存",
+        "text": "**4\\. 信息存储和交换**\n **  \n**\n海豚软件产品收集的有关您的信息和资料将保存在海豚软件产品及（或）其关联公司的服务器上，这些信息和资料可能传送至您所在国家、地区或海豚软件产品收集信息和资料所在地的境外并在境外被访问、存储和展示。",
+        "start": 1659,
+        "end": 1781,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_15",
+        "classId_name": "网站Cookie及WebBeacon使用",
+        "text": "**5\\. Cookie的使用**\n  \n(a) 在您未拒绝接受cookies的情况下，海豚软件产品会在您的计算机上设定或取用cookies，以便您能登录或使用依赖于cookies的海豚软件产品平台服务或功能。海豚软件产品使用cookies可为您提供更加周到的个性化服务，包括推广服务。\n  \n(b)您有权选择接受或拒绝接受cookies。您可以通过修改浏览器设置的方式拒绝接受cookies。但如果您选择拒绝接受cookies，则您可能无法登录或使用依赖于cookies的海豚软件产品网络服务或功能。\n  \n(c) 通过海豚软件产品所设cookies所取得的有关信息，将适用本政策。",
+        "start": 1797,
+        "end": 2089,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_6",
+        "classId_name": "数据安全",
+        "text": "**10\\. 信息安全**\n(a)海豚软件产品帐号均有安全保护功能，请妥善保管您的用户名及密码信息。海豚软件产品将通过对用户密码进行加密等安全措施确保您的信息不丢失，不被滥用和变造。尽管有前述安全措施，但同时也请您注意在信息网络上不存在“完善的安全措施”。\n  \n(b) 在使用海豚软件产品网络服务进行网上交易时，您不可避免的要向交易对方或潜在的交易。",
+        "start": 3422,
+        "end": 3598,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_7",
+        "classId_name": "隐私政策修改更新",
+        "text": "**11.本隐私政策的更改**\n **  \n**\n(a)如果决定更改隐私政策，我们会在本政策中、本公司网站中以及我们认为适当的位置发布这些更改，以便您了解我们如何收集、使用您的个人信息，哪些人可以访问这些信息，以及在什么情况下我们会透露这些信息。\n  \n(b)本公司保留随时修改本政策的权利，因此请经常查看。如对本政策作出重大更改，本公司会通过网站通知的形式告知。方披露自己的个人信息，如联络方式或者邮政地址。请您妥善保护自己的个人信息，仅在必要的情形下向他人提供。如您发现自己的个人信息泄密，尤其是海豚软件产品用户名及密码发生泄露，请您立即联络海豚软件产品客服，以便海豚软件产品采取相应措施。",
+        "start": 3614,
+        "end": 3911,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_14",
+        "classId_name": "开发者公司名称联系方式",
+        "text": "####  **9.联系我们**\n(a)海豚软件产品由厦门享游网络科技有限公司提供（注册地址：厦门市思明区岭兜西路629号夜光汇文化科创园2号楼302室），如果您对个人信息保护问题有投诉、建议、疑问，您可以将问题发送至（邮箱：934838219@qq.com或电话：0592-5027471），我们核查并验证您的用户身份后会及时反馈您的投诉与举报。\n  \n(b)如对本隐私政策内容有任何疑问、意见或建议，您可通过登录“海豚软件产品app”客户端内的“意见反馈”页面入口与我们联系。",
+        "start": 3926,
+        "end": 4166,
+        "fields": [],
+        "sub_annotations": []
+    }
+]

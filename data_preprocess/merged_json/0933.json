@@ -1,0 +1,650 @@
+[
+    {
+        "classId": "e_16",
+        "classId_name": "其他",
+        "text": "# 隐私政策\nXMind Ltd. 非常重视你的隐私。因此我们制定了涵盖如何收集、使用以及存储你的信息的隐私政策。任何时候你与 XMind\n联系，都可能会要求你提供个人信息，如你购买我们的产品和服务、与我们的网站和在线论坛进行互动或与我们的销售或客户服务人员沟通时。",
+        "start": 36,
+        "end": 169,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_1",
+        "classId_name": "App或网站收集使用处理个人信息",
+        "text": "### 我们收集哪些个人信息\nXMind Ltd. 收集以下信息以便于向我们所有的用户提供更优质的产品和服务。\n  * 账户活动。当你创建 XMind 账户时，我们会收集某些个人信息，包括你的电子邮件地址以及密码等信息。此账户用于使用我们的网站（统称“网站”，包括通过 XMind.net 和 XMind.org 域名提供的所有内容和技术）提供的某些产品和服务，例如下载 XMind 软件和访问 XMind Share 服务。你的 XMind 帐号和密码将通过特定加密保存。没有你的授权，包括 XMind 在内的任何人都无法访问你的 XMind 帐户。当你购买我们的产品或在使用我们的服务时，我们还会收集必要的个人信息以完成交易，如你的联系方式和付款信息。  \n  \n  * 使用信息。我们可能会收集你的有关使用信息，这些信息包括你何时使用本网站、你的订阅频道、群组和收藏夹、你的通信联系人、你查看的内容、数据传输的频率和大小，以及你在网站上显示或点击的信息（包括UI元素、设置及其他信息）。如果你在登录状态下，我们可能会将这些信息与你的帐户关联。我们可能会在发送给用户的HTML格式的电子邮件中使用网络信标来了解收件人打开过哪些电子邮件。当你在通过电话与我们的客服人员联系、下载软件更新、参与我们的在线调研或注册产品信息时，我们也可能会要求你提供与使用我们的产品和服务相关的个人信息。  \n  \n  * 上传到网站的内容。一般情况下，你自愿在网上披露的任何个人信息或内容（讨论区、消息和聊天区域和你的个人资料页面中等）均将成为公开信息，任何人可收集使用（统称为“公共内容”）。若你使用“私密共享”功能上传内容时，XMind 将会限制该内容仅可被你的联系人列表中指定的用户访问。",
+        "start": 181,
+        "end": 920,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_1",
+        "classId_name": "App或网站收集使用处理个人信息",
+        "text": "### 我们如何使用你的个人信息\n  * 如果你通过本网站向我们提交个人身份信息，为了维护、优化以及提供本网站更好和更个性化的功能、处理你发送给我们的任何举报和邮件，我们可能会使用你的个人信息。  \n  \n  * 当你上传内容或通过网站发送消息时，你的帐户名称（而不是你的电子邮件地址）可能会被本网站的其他用户看到，其他用户可以通过消息和评论联系你。你提交到本网站的任何公开内容可能会通过互联网和其他媒体渠道进行重新分发，并可能被公众查看。  \n  \n  * 未经同意我们不会在发送商业或营销信息时使用你的电子邮件地址或其他个人身份信息，除非是你可以自愿选择加入或退出的特定计划或功能。出于非营销和管理目的（如通知你主要的网站更新或出于客户服务目的），我们可能会使用你的电子邮件地址。  \n  \n  * 我们使用你的个人身份信息和某些非个人身份信息（例如匿名和聚合用户使用数据、Cookie、IP地址、浏览器类型、点击流数据等）来提高网站和产品的质量和设计，并通过存储、跟踪、分析和处理用户偏好和趋势，以及用户活动和通信来开发新功能、实现促销和提高服务。",
+        "start": 1144,
+        "end": 1621,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 261,
+        "end": 263,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 477,
+        "end": 479,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 524,
+        "end": 526,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "你",
+        "start": 752,
+        "end": 753,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 1227,
+        "end": 1229,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 1470,
+        "end": 1472,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 1496,
+        "end": 1498,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 1631,
+        "end": 1633,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "第三方广告服务器或广告网络使用技术直接向你的浏览器发送网站上的广告和链接",
+        "start": 2510,
+        "end": 2546,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "他们",
+        "start": 2553,
+        "end": 2555,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "XMind",
+        "start": 2646,
+        "end": 2651,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 264,
+        "end": 266,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 481,
+        "end": 483,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 529,
+        "end": 531,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "使用",
+        "start": 1232,
+        "end": 1234,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "使用",
+        "start": 1475,
+        "end": 1477,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "使用",
+        "start": 1498,
+        "end": 1500,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "使用",
+        "start": 1633,
+        "end": 1635,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收到",
+        "start": 2558,
+        "end": 2560,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "个人信息",
+        "start": 268,
+        "end": 272,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "电子邮件地址",
+        "start": 277,
+        "end": 283,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "密码",
+        "start": 285,
+        "end": 287,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "个人信息",
+        "start": 486,
+        "end": 490,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "联系方式",
+        "start": 499,
+        "end": 503,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "付款信息",
+        "start": 504,
+        "end": 508,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "有关使用信息",
+        "start": 533,
+        "end": 539,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "何时使用本网站、你的订阅频道、群组和收藏夹、你的通信联系人、你查看的内容、数据传输的频率和大小",
+        "start": 547,
+        "end": 594,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "在网站上显示或点击的信息",
+        "start": 598,
+        "end": 610,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "UI元素、设置",
+        "start": 613,
+        "end": 620,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "其他信息",
+        "start": 621,
+        "end": 625,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "个人信息",
+        "start": 769,
+        "end": 773,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "个人信息",
+        "start": 1236,
+        "end": 1240,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "电子邮件地址",
+        "start": 1479,
+        "end": 1485,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "个人身份信息",
+        "start": 1502,
+        "end": 1508,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "非个人身份信息",
+        "start": 1511,
+        "end": 1518,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "用户使用数据、Cookie、IP地址、浏览器类型、点击流数据",
+        "start": 1526,
+        "end": 1556,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "Cookie",
+        "start": 1636,
+        "end": 1642,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "网络信标",
+        "start": 1643,
+        "end": 1647,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "IP地址",
+        "start": 2562,
+        "end": 2566,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "个人身份信息",
+        "start": 2676,
+        "end": 2682,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "日志文件信息",
+        "start": 1648,
+        "end": 1654,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "使用我们的网站（统称“网站”，包括通过 XMind.net 和 XMind.org 域名提供的所有内容和技术）提供的某些产品和服务，例如下载 XMind 软件和访问 XMind Share 服务",
+        "start": 296,
+        "end": 393,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "完成交易",
+        "start": 491,
+        "end": 495,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "维护、优化以及提供本网站更好和更个性化的功能、处理你发送给我们的任何举报和邮件",
+        "start": 1187,
+        "end": 1226,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "非营销和管理目的（如通知你主要的网站更新或出于客户服务目的）",
+        "start": 1439,
+        "end": 1469,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "提高网站和产品的质量和设计",
+        "start": 1559,
+        "end": 1572,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "存储、跟踪、分析和处理用户偏好和趋势",
+        "start": 1576,
+        "end": 1594,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "开发新功能、实现促销和提高服务",
+        "start": 1605,
+        "end": 1620,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "存储信息",
+        "start": 1659,
+        "end": 1663,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "便你在此次或下次访问本网站时不必重新输入信息",
+        "start": 1665,
+        "end": 1687,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "提供定制和个性化的内容和信息",
+        "start": 1692,
+        "end": 1706,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "监察营销活动的成效",
+        "start": 1711,
+        "end": 1720,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "监测汇总指标，如访客总数、浏览页面等",
+        "start": 1725,
+        "end": 1743,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "跟踪你的参赛作品、你提交的内容以及宣传、抽奖和比赛中的状态",
+        "start": 1750,
+        "end": 1779,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "你在通过电话与我们的客服人员联系、下载软件更新、参与我们的在线调研或注册产品信息时",
+        "start": 702,
+        "end": 743,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "经同意",
+        "start": 2642,
+        "end": 2645,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "你可以自主选择加入或退出的特定计划或功能",
+        "start": 2686,
+        "end": 2706,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "提供",
+        "start": 753,
+        "end": 755,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "提供",
+        "start": 2670,
+        "end": 2672,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_6",
+        "classId_name": "数据安全",
+        "text": "* XMind Cloud 数据存储和传输。上传到 XMind Cloud 的任何内容都会受到 XMind Ltd. 保护。行业标准加密（SSL）用于保护 XMind Cloud 的数据，以避免你的 XMind 文件（包括文件中的文本、照片和附件）在上传或下载期间未经你的授权被访问、篡改、泄露或损坏。我们要求文件存储服务公司严格履行数据保密义务。如未履行业务我们将追究其法律责任以及与其终止合作。",
+        "start": 928,
+        "end": 1127,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_15",
+        "classId_name": "网站Cookie及WebBeacon使用",
+        "text": "* 我们使用 Cookie，网络信标和日志文件信息来：（a）存储信息，以便你在此次或下次访问本网站时不必重新输入信息; （b）提供定制和个性化的内容和信息; （c）监察营销活动的成效; （d）监测汇总指标，如访客总数、浏览页面等; 以及（e）跟踪你的参赛作品、你提交的内容以及宣传、抽奖和比赛中的状态。",
+        "start": 1629,
+        "end": 1780,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_2",
+        "classId_name": "第三方收集或共享个人信息",
+        "text": "### 公开的信息\n  * 当你在本网站上创建帐户时，有关你的帐户和帐户活动的一些信息会被提供给其他用户。这可能包括你创建帐户的日期、最近登录帐户的日期、你的年龄（如果你选择公开）、国家以及你查看过的内容项目的数量。  \n  \n  * 当你在本网站上执行某些操作，如当你通过网站上传内容或发送消息时，你的帐户名称（而不是你的电子邮件地址）可能会被其他用户看到。 其他用户可以通过消息和评论与你联系。  \n  \n  * 你的主页上可能还会有一些个人信息会被其他用户看到（网站上你的帐户的公开页面）。这可能包括你的头像、姓名、公开发布的思维大图、性别或其他详情。  \n  \n  * 如果你在你的主页添加了某些功能，则这些功能和与这些功能相关的活动将会被其他用户看到，并可能会被与已确认添加的联系人或其他用户搜集和共享。此类共享活动可能包括你感兴趣的内容、你评论的内容以及你上传的内容。  \n  \n  * 你提交到本网站的任何公开内容可能会通过互联网和其他媒体渠道进行重新分发，并可能被公众查看。",
+        "start": 1794,
+        "end": 2239,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_2",
+        "classId_name": "第三方收集或共享个人信息",
+        "text": "### 第三方广告商，链接到其他网站\n  * XMind 允许其他公司，即第三方广告服务器或广告网络，在本网站内提供广告。这些第三方广告服务器或广告网络使用技术直接向你的浏览器发送网站上的广告和链接。这种情况下，他们会自动收到你的IP地址。他们可能还会使用其他技术（如 Cookie，JavaScript 或 网络信标）来衡量其广告的有效性并个性化你所看到的广告内容。  \n  \n  * 未经同意 XMind 不会向这些第三方广告服务器或广告网络提供你的任何个人身份信息，除非是你可以自主选择加入或退出的特定计划或功能。请注意，如果广告商要求 XMind 向某些受众（例如 18-34 岁的男性）或观众群体（例如 18-24 岁看过特定类别的内容的男性）向你显示广告，并且你也对该广告作出回应，广告商或广告服务器可能会断定你为目标受众。广告商可能还会使用有关你使用本网站的信息，例如你浏览广告的次数（不涉及任何个人身份信息），以确定要向你推送哪些广告。  \n  \n  * 你应该参考这些第三方广告服务器或广告网络的相应隐私政策，以获取有关其做法的更多信息以及获悉如何选择停用某些操作的说明。XMind 的隐私政策不适用于其他广告商及网站且我们不能控制他们的活动。由第三方广告服务器获取并与 XMind 共享的的任何数据均由 XMind 根据本隐私政策进行维护和处理。  \n  \n  * 本网站可能提供链接到其他网站。当你点击指向其他网站的链接时，我们建议你阅读其隐私政策。他们的标准可能与我们的不同。",
+        "start": 2447,
+        "end": 3097,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_10",
+        "classId_name": "用户隐私设置选择",
+        "text": "### 个人选择\n  * 你可以选择拒绝提交个人身份信息，在此情况下，你仍然可以查看并浏览本网站内容，但 XMind 可能无法为你提供某些服务。",
+        "start": 2256,
+        "end": 2328,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_4",
+        "classId_name": "用户权利增删改查",
+        "text": "* 你可以随时通过访问你的个人帐户页面修改或更正你的个人资料信息和电子邮件偏好设置。",
+        "start": 2336,
+        "end": 2378,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_4",
+        "classId_name": "用户权利增删改查",
+        "text": "* 你可以随时通过编辑你的帐户和主页中包含的功能来控制其他用户以及已确认联系人访问权限。",
+        "start": 2386,
+        "end": 2430,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "这些第三方广告服务器或广告网络",
+        "start": 2655,
+        "end": 2670,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_7",
+        "classId_name": "隐私政策修改更新",
+        "text": "### 隐私政策变更与问题解决\n  * XMind Ltd. 可能会不时修订本隐私政策。如果我们进行重组、合并、收购或出售我们的资产，你的信息可能会作为相关交易的一部分转移。在任何此类信息转移中，你的用户信息将遵守任何之前的隐私政策中的类似承诺。  \n  \n  * 如果对本隐私政策有任何问题或疑问，请通过以下方式与我们联系。",
+        "start": 3114,
+        "end": 3277,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_14",
+        "classId_name": "开发者公司名称联系方式",
+        "text": "### 联系我们\n  * 邮件: support@xmind.net",
+        "start": 3294,
+        "end": 3328,
+        "fields": [],
+        "sub_annotations": []
+    }
+]

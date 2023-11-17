@@ -1,0 +1,263 @@
+[
+    {
+        "classId": "e_16",
+        "classId_name": "其他",
+        "text": "多开分身非常重视用户个人隐私权利保护，我们详细制订了涵盖如何收集、存储、共享和保护用户信息的隐私政策。\n我们希望通过本隐私政策向您清晰的介绍我们对您个人信息的处理方式，该政策与您使用多开分身相关，请您在使用前，完整阅读并透彻理解该政策，并做出相应选择，如果您不同意该政策的任何内容，应该立即停止使用多开分身，否则当您继续使用多开分身时，则表示您完全理解本隐私政策全部内容并同意。",
+        "start": 32,
+        "end": 221,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_16",
+        "classId_name": "其他",
+        "text": "如果您还有其他问题和建议，请联系我们，我们严格按照该政策来保护用户的隐私信息，并为您提供更优质的体验和服务。",
+        "start": 849,
+        "end": 903,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_1",
+        "classId_name": "App或网站收集使用处理个人信息",
+        "text": "1、您同意多开分身在您使用的过程中收集如下信息:\n1)设备信息，为了提供更好的产品/服务，我们会收集手机相关的imei，品牌型号。\n   a.通过IMEI识别是否为会员\n   b.通过品牌型号方便快速解决分身兼容问题\n2)应用信息，为了提供相应的功能与服务，我们需要收集您在多开分身中制作的应用信息，包括应用包名，应用大小，应用图标，应用名称相关信息，但不包含涉及的账号、密码任何第三方应用内的信息。\n3)日志信息，当您使用多开分身时，我们的服务器会记录一些您使用多开分身相关的行为日志，包含一些日志的基础信息(ip地址、日期、制作的分身）。",
+        "start": 233,
+        "end": 504,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_1",
+        "classId_name": "App或网站收集使用处理个人信息",
+        "text": "3、您同意对于收集的相关数据如下使用：\n多开分身收集了您相关信息只是为了提供更好的产品与服务",
+        "start": 754,
+        "end": 800,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "为了提供更好的产品/服务",
+        "start": 265,
+        "end": 277,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "为了验证支付是否成功",
+        "start": 653,
+        "end": 663,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "为了提供相应的功能与服务",
+        "start": 349,
+        "end": 361,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 278,
+        "end": 280,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 362,
+        "end": 364,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 451,
+        "end": 453,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "服务器",
+        "start": 454,
+        "end": 457,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 624,
+        "end": 626,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "阿里巴巴旗下（友盟）数据统计SDK",
+        "start": 682,
+        "end": 699,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 281,
+        "end": 283,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 366,
+        "end": 368,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "记录",
+        "start": 458,
+        "end": 460,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 627,
+        "end": 629,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 705,
+        "end": 707,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "imei，品牌型号",
+        "start": 288,
+        "end": 297,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "应用信息",
+        "start": 378,
+        "end": 382,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "应用包名，应用大小，应用图标，应用名称相关信息",
+        "start": 385,
+        "end": 408,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "行为日志",
+        "start": 472,
+        "end": 476,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "基础信息",
+        "start": 484,
+        "end": 488,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "ip地址、日期、制作的分身",
+        "start": 489,
+        "end": 502,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "设备识别码，订单号，支付时间，金额",
+        "start": 632,
+        "end": 649,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "手机型号、安卓系统、多开分身版本，使用时长，手机设备码，品牌型号",
+        "start": 709,
+        "end": 741,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_2",
+        "classId_name": "第三方收集或共享个人信息",
+        "text": "2、关于多开分身使用第三方SDK如下：\n1)方便用户把多开分身推荐给好友，我们接入了微信/QQ分享的SDK，分享的过程中我们没有收集用户任何数据。\n2)方便用户在线支付，我们接入了微信和支付宝支付SDK，用户支付完后我们会收集用户的设备识别码，订单号，支付时间，金额，目的是为了验证支付是否成功。",
+        "start": 516,
+        "end": 664,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_2",
+        "classId_name": "第三方收集或共享个人信息",
+        "text": "3)为了提供更好的服务，我们接入了阿里巴巴旗下（友盟）数据统计SDK，该SDK会收集用户手机型号、安卓系统、多开分身版本，使用时长，手机设备码，品牌型号。",
+        "start": 665,
+        "end": 742,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_2",
+        "classId_name": "第三方收集或共享个人信息",
+        "text": "除我司关联公司以及第三方司法机关以外，不对任何第三方个人或机构在经您授权的情况下共享相关数据。",
+        "start": 801,
+        "end": 848,
+        "fields": [],
+        "sub_annotations": []
+    }
+]

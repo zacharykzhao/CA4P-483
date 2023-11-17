@@ -1,3 +1,4 @@
+import os
 
 from data import build_corpus
 from utils import extend_maps, prepocess_data_for_lstmcrf
@@ -7,7 +8,7 @@ from evaluate import hmm_train_eval, crf_train_eval, \
 
 def main():
     """训练模型，评估结果"""
-
+    os.getcwd()
     # 读取数据
     print("读取数据...")
     train_word_lists, train_tag_lists, word2id, tag2id = \

@@ -1,0 +1,2207 @@
+[
+    {
+        "classId": "e_16",
+        "classId_name": "其他",
+        "text": "### 微博个人信息保护政策\n\n更新日期：2020年12月14日\n生效日期：2020年12月15日",
+        "start": 41,
+        "end": 90,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_16",
+        "classId_name": "其他",
+        "text": "为切实保护微博用户个人信息，优化用户体验，微博（以下或称“我们”，指北京微梦创科网络技术有限公司）根据现行法规及政策，制定《微博个人信息保护政策》（以下简称“本政策”）。本政策将详细说明我们在获取、使用、管理及保护用户个人信息方面的政策及措施。\n我们努力用通俗易懂、简明扼要的文字进行表达，并对本政策中与您的权益密切相关的条款以及本政策中所涉及的个人敏感信息，采用粗体字进行标注以提示您注意。因此，在您使用微博前，请务必仔细阅读并充分理解本政策，在确认充分理解并同意后再使用微博服务。\n本政策适用于我们向您提供的所有服务，无论您是通过计算机设备、移动终端还是其他设备获得的微博服务。本政策不适用于：\n  * 通过微博接入的第三方产品或服务（包括任何第三方网站）收集的信息，可能包括在个性化推荐中向您显示的产品或服务和广告内容，或者微博中链接到的其他产品或服务；\n  * 帮助微博进行广告宣传的第三方收集的信息；以及\n  * 在微博中开展广告活动的第三方所收集的信息。\n您使用这些第三方服务（包括您向这些第三方提供的任何个人信息），将受这些第三方的服务条款及隐私政策约束（而非本政策），具体规定请您仔细阅读第三方的相关条款。请您妥善保护您的个人信息，仅在必要的情况下向第三方提供。\n请您了解，本政策中所述的客户端及相关服务可能会根据您装载客户端设备的型号、系统版本、软件应用程序版本等因素而有所不同。最终的产品和服务以您所使用的微博客户端为准。",
+        "start": 103,
+        "end": 724,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_16",
+        "classId_name": "其他",
+        "text": "本政策将帮助您了解以下内容：\n1、我们如何收集和使用您的个人信息\n2、Cookie及相关技术告知\n3、我们如何委托处理、共享、转让及公开披露您的个人信息\n4、我们如何保护您的个人信息\n5、我们如何存储您的个人信息\n6、您的个人信息主体权利\n7、我们如何收集和处理未成年人的个人信息\n8、本政策的更新\n9、如何联系我们",
+        "start": 737,
+        "end": 895,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_16",
+        "classId_name": "其他",
+        "text": "6.4.响应您的请求\n为保障安全，我们会在验证您身份后及时处理您的请求。对于无端重复、需要过多技术手段（例如，需要开发新系统或从根本上改变现行惯例）、给他人合法权益带来风险或者非常不切实际的请求，我们可能会予以拒绝。如存在以下情形之一时，按照法律法规要求，我们可能无法响应您的请求：\n  1. 与我们履行法律法规规定的义务相关的；\n  2. 与国家安全、国防安全直接相关的；\n  3. 与公共安全、公共卫生、重大公共利益直接相关的；\n  4. 与刑事侦查、起诉、审判和执行判决等直接相关的；\n  5. 我们有充分证据表明您存在主观恶意或滥用权利的；\n  6. 出于维护您或他人的生命、财产等重大合法权益但又很难得到本人授权同意的；\n  7. 响应您的请求将导致您或他人、组织的合法权益受到严重损害的；\n  8. 涉及商业秘密的。\n    5. 如果我们终止服务或运营，我们会至少提前三十日向您通知，并在终止服务或运营后对您的个人信息进行删除或匿名化处理。",
+        "start": 9983,
+        "end": 10410,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_1",
+        "classId_name": "App或网站收集使用处理个人信息",
+        "text": "1. 我们如何收集和使用您的个人信息\n    1. 您自愿向我们提供的个人信息\n  1. 在您注册微博账号或使用账号管理功能添加其他账号时，我们会通过注册和登录流程收集您的账户昵称、密码、密码保护选项、电子邮箱、手机号码。",
+        "start": 911,
+        "end": 1022,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_1",
+        "classId_name": "App或网站收集使用处理个人信息",
+        "text": "另外，如果您希望为您的孩子设置“青少年模式”，我们会收集您的孩子的账户昵称、出生年月信息。\n  2. 在您发布或转发微博、发表评论或与其他用户发送私信时，我们将收集您发布的内容（包括文字、图片或视频）。如您在发布微博时选择标记地理位置，我们会收集您的位置信息，如果您拒绝提供位置信息，您将无法在发布的内容上标记位置信息。\n  3. 在您使用地点签到分享功能时，我们将收集您的位置信息。如果您拒绝提供这些信息，您将无法使用此项功能。\n  4. 在您使用发现通讯录好友功能时，我们将收集您的通讯录信息，以便您可以发现和添加联系人为微博好友。如果您拒绝提供这些信息，您将无法使用此项功能。\n  5. 在您观看直播时，我们不会额外收集您的信息。",
+        "start": 1317,
+        "end": 1635,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_1",
+        "classId_name": "App或网站收集使用处理个人信息",
+        "text": "如您希望与所观看的主播进行互动，您可能需要开启您设备上的摄像头和麦克风；您在使用免流量观看直播功能时，我们可能还需要根据您的IMSI确认您的免流服务资格。如您计划创建直播预约，您还可以开启设备上的日历权限，以便我们创建日程并在直播开始前进行提醒，您还可以根据意愿调整您直播的封面图片或标注您直播的位置。如果您拒绝提供这些信息或开启相关权限，您将无法使用该等信息和权限相对应的功能，但不会影响您观看、发起或预约直播。",
+        "start": 1750,
+        "end": 1957,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_1",
+        "classId_name": "App或网站收集使用处理个人信息",
+        "text": "在您使用微博钱包功能时，您将需要绑定您的支付宝账号，我们将收集您的支付宝账号授权我们获取的信息（包括姓名、登录名、企业名称、昵称、头像、性别、地区和用户状态）以及支付宝账号与微博账号的绑定关系，以便您完成提现或者使用钱包余额支付。如果您拒绝进行绑定，您将无法使用微博钱包的提现和余额支付功能。",
+        "start": 1963,
+        "end": 2109,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_1",
+        "classId_name": "App或网站收集使用处理个人信息",
+        "text": "7. 在您使用视频创作和内容管理功能时，我们将收集和向您展示您的视频内容、视频封面、视频描述，与你有关的评论、互动等信息，以便您进行查阅和管理。如您需要上传视频，您需要授权我们访问相册或外部存储信息，否则我们将无法获取您设备中的视频内容。如您需要进行视频创作，您可能还需要开启设备上的摄像头和麦克风。",
+        "start": 2112,
+        "end": 2262,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_1",
+        "classId_name": "App或网站收集使用处理个人信息",
+        "text": "9. 当您使用微博认证功能（包括身份认证、兴趣认证、金V认证、超级话题认证、视频认证、文章/问答认证，以及我们不时新增的其他认证类型）时，我们会收集您的姓名、身份证信息、职业信息，在您申请认证时还需要收集您的面部识别特征。收集这些信息是为了帮助您完成身份认证。我们对您的这些个人信息会加以最大程度的保护，如果您不提供这些信息，我们将无法提供相关服务。\n其中，针对部分涉及公共信息传播的账号（例如实名官方账号），我们将强制收集主要责任人（例如账号运营人）的身份证信息，以维护公共传播秩序。除上述情形以外，我们一般不强制收集用户的身份证信息。\n  10. 在您使用微博“同城”服务时，我们会收集您的位置信息，以便我们基于您的地理位置为您展示“同城”用户的微博内容，您也可以手动切换至其他城市浏览相应的“同城”微博内容。如您拒绝提供位置信息，将会影响您使用该信息对应的功能，但不会影响您通过切换城市的方式浏览“同城”微博内容。同时，如您不希望您的微博在“同城”中展示，您可以在微博设置中将其关闭，不会影响您正常使用微博的其他功能。\n  11. 当您希望在微博运动的打卡贴纸或智能穿戴设备上显示您的行走步数（仅限iOS端），我们将需要获取您设备上“运动与健身”的授权以读取相关数据。如果您拒绝进行授权，我们将无法读取并为您显示步数信息，但是不影响您使用微博的其他功能。\n  12. 当您参加微博内的营销活动（例如，在微博积分乐园使用积分换取礼品）时，我们会收集您的姓名、手机号码、通讯地址。收集这些信息是为了向您寄送礼品，如果您拒绝提供这些信息，我们将无法向您发放礼品。\n  13. 在您使用客服中心管理账号时，根据您所使用的服务类型（包括但不限于找回登录名、找回密码、修改密码、绑定手机等），您可能需要向我们提供昵称、原密码、新的绑定手机号码等不同的信息，实现不同的账号管理功能。如果您拒绝提供这些信息，您将无法使用该项信息对应的功能，但是不会影响您使用微博的其他功能。\n  14. 在您使用我们提供的搜索服务时，我们会收集您搜索的关键字信息、搜索历史记录、设备信息。为了提供高效的搜索服务，部分信息会暂时存储在您的本地设备中。在此，您需要注意的是，单独的搜索关键字信息无法识别您的个人身份，其不属于您的个人信息，因此我们有权以其他的目的对其进行使用；只有当您的搜索关键字信息与您的其他信息互有联系并可以结合识别您的个人身份时，我们会将您的搜索关键字信息作为您的个人信息，与您的搜索历史记录一同按照本政策进行处理与保护。\n  15. 在您使用微博时，我们会根据您的设备信息、IP地址和地理位置信息向您推送个性化广告。在使用上述信息时，我们会进行去标识化处理，使得相关信息无法与您的真实身份直接关联。如果您拒绝个性化广告推送服务，可以在微博设置中将其关闭，但不影响您正常使用微博的其他功能。\n在某些特殊情况（如评估用户特定使用行为的合规性）下，我们可能会要求您提供相关书面证明的复印件或扫描件。我们会在收到您的材料后妥善处理您的信息并及时向您反馈。\n我们如在上述场景之外获得您的个人信息，将重新征得您的明示同意，并在获得您明示同意前向您充分说明应用场景与获取您相关信息的内容与范围。",
+        "start": 2466,
+        "end": 3803,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_1",
+        "classId_name": "App或网站收集使用处理个人信息",
+        "text": "1.2.我们间接收集的个人信息\n当您在微博中使用接入的第三方应用时，我们为提供对接技术支持等目的，可能从此类第三方应用的开发者及其技术服务提供商处获取您必要的个人信息，例如设备信息、操作行为日志信息。如果涉及您的个人敏感信息，我们将单独向您取得授权。如您拒绝我们收集相关个人信息，可能导致第三方应用的全部或部分功能无法实现，但是不影响您使用微博的其他功能。\n此外，此类第三方应用的开发者及技术服务提供商可能依据其提供的隐私政策直接收集、使用您的个人信息，但我们不会获取这些个人信息。我们建议您在接受相关服务和提供个人信息前阅读并确认理解该等隐私政策。\n1.3.我们自动收集的个人信息\n当您通过网站、客户端、小程序等服务入口使用我们的服务时，我们可能自动从您的设备处收集您的IP地址、设备型号、唯一设备识别码、浏览器型号、粗略位置信息（例如国家或者城市信息）、安装的应用信息以及其他的设备技术信息，我们也会收集一些您使用我们服务的日志信息，例如访问过的页面或者点击过的链接。\n收集该等信息主要为了保障服务的安全运行，也可以使我们更好地了解您，比如您来自哪里以及我们的服务有哪些吸引您的内容。我们将该等信息用于内部分析，以及为您提升服务质量和服务相关性（如向您推荐您可能会感兴趣的信息和内容）。我们同时也需要留存相应的日志来记录我们网站、移动客户端等服务入口的运行状态，以符合中国法律法规的规定。\n这些信息一般通过我们使用的cookie或者类似的追踪科技来进行收集，详情请见下方的“Cookie及相关技术告知”部分。",
+        "start": 3815,
+        "end": 4471,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_1",
+        "classId_name": "App或网站收集使用处理个人信息",
+        "text": "1.4.我们获取的设备权限\n为向您提供便捷、优质的服务，我们可能会调用您设备上的一些权限。在您使用相应功能时会看到弹窗提醒，询问您是否授权。您可以在客户端或设备的设置功能中选择关闭部分或全部权限。在不同设备中，上述权限的开启和关闭方式可能有所不同，具体请参考设备及系统开发方的说明或指引。\n关于微博调用权限的具体情况，请见《[设备权限清单](https://m.weibo.cn/c/privacy/zhdevicelist)》。",
+        "start": 4472,
+        "end": 4687,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_1",
+        "classId_name": "App或网站收集使用处理个人信息",
+        "text": "1.5.当涉及国家安全与利益、社会公共利益、与犯罪侦查有关的相关活动，或者涉及您或他人生命财产安全但在特殊情况下无法获得您的及时授权，以及能够从合法公开的渠道获取或法律法规规定的其他情形下，我们可能会在不经过您的同意情况下收集您的个人信息。\n1.6.请您注意，除非您删除或通过系统设置拒绝我们收集，在您使用微博期间，我们将在符合本政策所声明的范围内使用您的个人信息。但是，在法律法规允许的情形下，我们也会将您的个人信息用于与上述目的相关或者其他法律法规允许的用途，例如在对您的个人身份信息进行去标识化处理且不透露您的其他个人信息的前提下，对您去标识化处理后的个人信息进行分析和商业化利用",
+        "start": 4688,
+        "end": 4981,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "在您注册微博账号或使用账号管理功能添加其他账号时",
+        "start": 956,
+        "end": 980,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "当您使用QQ账号登录时",
+        "start": 1090,
+        "end": 1101,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "当您使用微信账号登录时",
+        "start": 1130,
+        "end": 1141,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "当您使用Apple ID登录时",
+        "start": 1170,
+        "end": 1185,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "如果您希望为您的孩子设置“青少年模式”",
+        "start": 1320,
+        "end": 1339,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "在您发布或转发微博、发表评论或与其他用户发送私信时",
+        "start": 1368,
+        "end": 1393,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "如您在发布微博时选择标记地理位置",
+        "start": 1418,
+        "end": 1434,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "在您使用地点签到分享功能时",
+        "start": 1483,
+        "end": 1496,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "在您使用发现通讯录好友功能时",
+        "start": 1538,
+        "end": 1552,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "在您发起直播时",
+        "start": 1635,
+        "end": 1642,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "在您使用微博钱包功能时",
+        "start": 1963,
+        "end": 1974,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "在您使用视频创作和内容管理功能时",
+        "start": 2115,
+        "end": 2131,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "如您需要结算视频在平台上的收益",
+        "start": 2263,
+        "end": 2278,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "当您编辑您的个人主页",
+        "start": 2359,
+        "end": 2369,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "当您使用微博认证功能（包括身份认证、兴趣认证、金V认证、超级话题认证、视频认证、文章/问答认证，以及我们不时新增的其他认证类型）时，",
+        "start": 2469,
+        "end": 2535,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "在您申请认证时",
+        "start": 2556,
+        "end": 2563,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "在您使用微博“同城”服务时",
+        "start": 2742,
+        "end": 2755,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "当您参加微博内的营销活动（例如，在微博积分乐园使用积分换取礼品）时",
+        "start": 3053,
+        "end": 3086,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "在您使用客服中心管理账号时，",
+        "start": 3154,
+        "end": 3168,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "在您使用我们提供的搜索服务时",
+        "start": 3305,
+        "end": 3319,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "为提供对接技术支持等目的",
+        "start": 3851,
+        "end": 3863,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "当您通过网站、客户端、小程序等服务入口使用我们的服务时",
+        "start": 4107,
+        "end": 4134,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "当涉及国家安全与利益、社会公共利益、与犯罪侦查有关的相关活动",
+        "start": 4692,
+        "end": 4722,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "涉及您或他人生命财产安全但在特殊情况下无法获得您的及时授权",
+        "start": 4725,
+        "end": 4754,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "从合法公开的渠道获取",
+        "start": 4759,
+        "end": 4769,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "法律法规规定的其他情形下",
+        "start": 4770,
+        "end": 4782,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "除非您删除或通过系统设置拒绝我们收集，在您使用微博期间",
+        "start": 4818,
+        "end": 4845,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "除非经过您本人事先授权同意",
+        "start": 5722,
+        "end": 5735,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "特定前提下",
+        "start": 5789,
+        "end": 5794,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "当第三方软件、设备系统与微博产品或服务结合为您提供基于位置的服务时",
+        "start": 6256,
+        "end": 6289,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "当您使用微博账号登录第三方产品或与第三方账号绑定时",
+        "start": 6427,
+        "end": 6452,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "当您选择参加我们举办的营销推广活动时",
+        "start": 6543,
+        "end": 6561,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "。经过您的明示同意",
+        "start": 6594,
+        "end": 6603,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "未经您授权",
+        "start": 6709,
+        "end": 6714,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "未经您本人同意",
+        "start": 7247,
+        "end": 7254,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "，下列情形除外",
+        "start": 7288,
+        "end": 7295,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "在使用微博服务过程中",
+        "start": 7556,
+        "end": 7566,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "在本政策所述目的所必需的期间",
+        "start": 9156,
+        "end": 9170,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "法律法规及监管规定要求的时限内",
+        "start": 9171,
+        "end": 9186,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 981,
+        "end": 983,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 1102,
+        "end": 1104,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 1142,
+        "end": 1144,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 1186,
+        "end": 1188,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 1340,
+        "end": 1342,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 1394,
+        "end": 1396,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "，我们",
+        "start": 1434,
+        "end": 1437,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 1497,
+        "end": 1499,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 1553,
+        "end": 1555,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "您",
+        "start": 1643,
+        "end": 1644,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 1989,
+        "end": 1991,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 2132,
+        "end": 2134,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "您",
+        "start": 2279,
+        "end": 2280,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "您",
+        "start": 2371,
+        "end": 2372,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 2535,
+        "end": 2537,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 2756,
+        "end": 2758,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 3087,
+        "end": 3089,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "您",
+        "start": 3209,
+        "end": 3210,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 3320,
+        "end": 3322,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 3849,
+        "end": 3851,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "此类第三方应用的开发者及技术服务提供商",
+        "start": 3997,
+        "end": 4016,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "，我们",
+        "start": 4134,
+        "end": 4137,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 4213,
+        "end": 4215,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 4783,
+        "end": 4785,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 4846,
+        "end": 4848,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 5736,
+        "end": 5738,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 5761,
+        "end": 5763,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 5795,
+        "end": 5797,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 5814,
+        "end": 5816,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "微博",
+        "start": 6290,
+        "end": 6292,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 6453,
+        "end": 6455,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "您",
+        "start": 6572,
+        "end": 6573,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "，我们",
+        "start": 6603,
+        "end": 6606,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 6715,
+        "end": 6717,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 6761,
+        "end": 6763,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 7007,
+        "end": 7009,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 7062,
+        "end": 7064,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 7255,
+        "end": 7257,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "您",
+        "start": 7555,
+        "end": 7556,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 9153,
+        "end": 9155,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 993,
+        "end": 995,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "获取",
+        "start": 1107,
+        "end": 1109,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "获取",
+        "start": 1145,
+        "end": 1147,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "获取",
+        "start": 1189,
+        "end": 1191,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 1343,
+        "end": 1345,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 1397,
+        "end": 1399,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 1438,
+        "end": 1440,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 1500,
+        "end": 1502,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 1556,
+        "end": 1558,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 1992,
+        "end": 1994,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 2135,
+        "end": 2137,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 2538,
+        "end": 2540,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 2566,
+        "end": 2568,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 2759,
+        "end": 2761,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 3090,
+        "end": 3092,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 3323,
+        "end": 3325,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "获取",
+        "start": 3888,
+        "end": 3890,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集、使用",
+        "start": 4030,
+        "end": 4035,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 4147,
+        "end": 4149,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 4217,
+        "end": 4219,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 4799,
+        "end": 4801,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "使用",
+        "start": 4862,
+        "end": 4864,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "获取",
+        "start": 6310,
+        "end": 6312,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "保留",
+        "start": 9186,
+        "end": 9188,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "账户昵称、密码、密码保护选项、电子邮箱、手机号码",
+        "start": 997,
+        "end": 1021,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "QQ头像、昵称、地区",
+        "start": 1111,
+        "end": 1121,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "性别信息",
+        "start": 1122,
+        "end": 1126,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "微信头像、微信昵称、性别",
+        "start": 1149,
+        "end": 1161,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "地区信息",
+        "start": 1162,
+        "end": 1166,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "Apple ID的电子邮箱地址",
+        "start": 1192,
+        "end": 1207,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "账户昵称、出生年月信息",
+        "start": 1350,
+        "end": 1361,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "发布的内容（包括文字、图片或视频）",
+        "start": 1400,
+        "end": 1417,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "位置信息",
+        "start": 1442,
+        "end": 1446,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "位置信息",
+        "start": 1504,
+        "end": 1508,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "通讯录信息",
+        "start": 1560,
+        "end": 1565,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "真实姓名",
+        "start": 1653,
+        "end": 1657,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "身份证号码",
+        "start": 1658,
+        "end": 1663,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "支付宝账号授权我们获取的信息",
+        "start": 1996,
+        "end": 2010,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "姓名、登录名、企业名称、昵称、头像、性别、地区",
+        "start": 2013,
+        "end": 2036,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "用户状态",
+        "start": 2037,
+        "end": 2041,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "支付宝账号与微博账号的绑定关系",
+        "start": 2044,
+        "end": 2059,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "视频内容、视频封面、视频描述，与你有关的评论、互动",
+        "start": 2144,
+        "end": 2169,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "真实姓名、支付宝账户、手机号码、身份证号码",
+        "start": 2289,
+        "end": 2310,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "昵称、性别、生日",
+        "start": 2378,
+        "end": 2386,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "所在地信息",
+        "start": 2387,
+        "end": 2392,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "简介、感情状况、家乡、学校、公司",
+        "start": 2405,
+        "end": 2421,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "姓名、身份证信息、职业信息",
+        "start": 2542,
+        "end": 2555,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "面部识别特征",
+        "start": 2570,
+        "end": 2576,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "位置信息",
+        "start": 2763,
+        "end": 2767,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "姓名、手机号码、通讯地址",
+        "start": 3094,
+        "end": 3106,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "昵称、原密码、新的绑定手机号码",
+        "start": 3219,
+        "end": 3234,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "关键字信息、搜索历史记录、设备信息",
+        "start": 3329,
+        "end": 3346,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "个人信息",
+        "start": 3894,
+        "end": 3898,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "设备信息、操作行为日志信息",
+        "start": 3901,
+        "end": 3914,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "个人信息",
+        "start": 4037,
+        "end": 4041,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "IP地址、设备型号、唯一设备识别码、浏览器型号、粗略位置信息（例如国家或者城市信息）、安装的应用信息",
+        "start": 4151,
+        "end": 4201,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "其他的设备技术信息",
+        "start": 4203,
+        "end": 4212,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "日志信息，",
+        "start": 4229,
+        "end": 4234,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "访问过的页面",
+        "start": 4236,
+        "end": 4242,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "点击过的链接",
+        "start": 4244,
+        "end": 4250,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "个人信息",
+        "start": 4803,
+        "end": 4807,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "个人信息",
+        "start": 4866,
+        "end": 4870,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "个人信息",
+        "start": 5756,
+        "end": 5760,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "经去标识化或匿名化处理后的个人信息",
+        "start": 5770,
+        "end": 5787,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "个人信息",
+        "start": 5802,
+        "end": 5806,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "个人信息",
+        "start": 5823,
+        "end": 5827,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "位置信息",
+        "start": 6314,
+        "end": 6318,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "设备信息",
+        "start": 6319,
+        "end": 6323,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "前述合作伙伴",
+        "start": 6336,
+        "end": 6342,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "微博账号的头像、昵称",
+        "start": 6458,
+        "end": 6468,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "其他您授权的信息",
+        "start": 6469,
+        "end": 6477,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "姓名、手机号码、通信地址",
+        "start": 6582,
+        "end": 6594,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "上述信息",
+        "start": 6608,
+        "end": 6612,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "个人身份信息",
+        "start": 6722,
+        "end": 6728,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "匿名化的用户画像",
+        "start": 6766,
+        "end": 6774,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "经加密处理的设备信息",
+        "start": 6775,
+        "end": 6785,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "设备信息、联网信息",
+        "start": 7027,
+        "end": 7036,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "微博使用行为情况信息",
+        "start": 7082,
+        "end": 7092,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "个人信息",
+        "start": 7284,
+        "end": 7288,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "照片、身份信息、位置信息等个人信息",
+        "start": 7576,
+        "end": 7593,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "照片、位置信息、身份信息等个人信息",
+        "start": 7614,
+        "end": 7631,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "个人信息",
+        "start": 9190,
+        "end": 9194,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_3",
+        "classId_name": "用户提供个人信息",
+        "text": "若您以其他方式关联登录微博，我们会向关联第三方请求您的个人信息，对于我们要求但第三方无法提供的个人信息，我们仍可能会要求您提供：（1）当您使用QQ账号登录时，我们会访问获取您的QQ头像、昵称、地区和性别信息；（2）当您使用微信账号登录时，我们会获取您的微信头像、微信昵称、性别和地区信息；（3）当您使用Apple ID登录时，我们会获取您Apple ID的电子邮箱地址。为了确保账号安全和落实网络实名制，在您使用其他方式关联登录、使用微博的某些功能时，您可能仍然需要绑定有效的手机号码。收集这些信息是为了帮您创建微博账号和对您进行实名验证，如果您拒绝提供这些信息，将影响您注册使用微博。",
+        "start": 1023,
+        "end": 1316,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_3",
+        "classId_name": "用户提供个人信息",
+        "text": "在您发起直播时，您需要向我们提供您的真实姓名和身份证号码，以便我们按照相关法律法规的要求对您进行实名认证，并开启设备上的摄像头和麦克风。在您发布直播预约时，您需要提供预约直播的介绍信息和指定开播时间，并拍摄或上传直播的预告视频。",
+        "start": 1635,
+        "end": 1749,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_3",
+        "classId_name": "用户提供个人信息",
+        "text": "如您需要结算视频在平台上的收益，您需要向我们提供您的真实姓名、支付宝账户、手机号码、身份证号码，以便我们验证您的身份并向您打款。如果您拒绝提供这些信息，我们将无法为您结算相关收益。",
+        "start": 2263,
+        "end": 2353,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_3",
+        "classId_name": "用户提供个人信息",
+        "text": "当您编辑您的个人主页时，您可以编辑您的昵称、性别、生日和所在地信息，可以根据实际情况主动填写简介、感情状况、家乡、学校、公司等拓展信息。如您拒绝提供拓展信息，不会影响您编辑您的个人主页或者使用微博的其他功能。",
+        "start": 2359,
+        "end": 2463,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_3",
+        "classId_name": "用户提供个人信息",
+        "text": "在您使用客服中心管理账号时，根据您所使用的服务类型（包括但不限于找回登录名、找回密码、修改密码、绑定手机等），您可能需要向我们提供昵称、原密码、新的绑定手机号码等不同的信息，实现不同的账号管理功能。如果您拒绝提供这些信息，您将无法使用该项信息对应的功能，但是不会影响您使用微博的其他功能",
+        "start": 3154,
+        "end": 3297,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "以便您可以发现和添加联系人为微博好友",
+        "start": 1566,
+        "end": 1584,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "以便我们按照相关法律法规的要求对您进行实名认证",
+        "start": 1664,
+        "end": 1687,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "以便您完成提现或者使用钱包余额支付",
+        "start": 2060,
+        "end": 2077,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "以便您进行查阅和管理",
+        "start": 2173,
+        "end": 2183,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "以便我们验证您的身份并向您打款。",
+        "start": 2311,
+        "end": 2327,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "以便我们基于您的地理位置为您展示“同城”用户的微博内容",
+        "start": 2768,
+        "end": 2795,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "实现不同的账号管理功能",
+        "start": 3241,
+        "end": 3252,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "以便第三方能及时向您提供服务",
+        "start": 6619,
+        "end": 6633,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "以帮助其在不识别您个人身份的前提下提升广告的有效触达率",
+        "start": 6795,
+        "end": 6822,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "为维护您和其他微博用户的正当合法权益，保障微博服务的稳定运行",
+        "start": 6976,
+        "end": 7006,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "为分析微博服务的使用情况，提升您的使用体验",
+        "start": 7040,
+        "end": 7061,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "我们",
+        "start": 1647,
+        "end": 1649,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "您",
+        "start": 2139,
+        "end": 2140,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "我们",
+        "start": 2283,
+        "end": 2285,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "我们",
+        "start": 3215,
+        "end": 3217,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "第三方",
+        "start": 5741,
+        "end": 5744,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "第三方",
+        "start": 5807,
+        "end": 5810,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "运营前述产品的第三方",
+        "start": 6480,
+        "end": 6490,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "我们",
+        "start": 6578,
+        "end": 6580,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "第三方",
+        "start": 6613,
+        "end": 6616,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "广告合作伙伴",
+        "start": 6752,
+        "end": 6758,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "广告合作伙伴",
+        "start": 6786,
+        "end": 6792,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "数据安全合作伙伴",
+        "start": 7011,
+        "end": 7019,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "数据分析合作伙伴",
+        "start": 7066,
+        "end": 7074,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "除关联方以外的任何第三方",
+        "start": 7260,
+        "end": 7272,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "特定的人",
+        "start": 7570,
+        "end": 7574,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "不特定人",
+        "start": 7605,
+        "end": 7609,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "提供",
+        "start": 1649,
+        "end": 1651,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "展示",
+        "start": 2140,
+        "end": 2142,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "提供",
+        "start": 2285,
+        "end": 2287,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "编辑",
+        "start": 2374,
+        "end": 2376,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "填写",
+        "start": 2403,
+        "end": 2405,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "提供",
+        "start": 3217,
+        "end": 3219,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "共享、转让",
+        "start": 5744,
+        "end": 5749,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "共享、转让",
+        "start": 5765,
+        "end": 5770,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "共享",
+        "start": 5810,
+        "end": 5812,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "共享",
+        "start": 5818,
+        "end": 5820,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "提供",
+        "start": 6333,
+        "end": 6335,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "共享",
+        "start": 6477,
+        "end": 6479,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "提供",
+        "start": 6580,
+        "end": 6582,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "共享",
+        "start": 6616,
+        "end": 6618,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "共享",
+        "start": 6758,
+        "end": 6760,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "共享",
+        "start": 6792,
+        "end": 6794,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "共享",
+        "start": 7019,
+        "end": 7021,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "共享",
+        "start": 7074,
+        "end": 7076,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "共享、转让、公开披露",
+        "start": 7272,
+        "end": 7282,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "发送",
+        "start": 7574,
+        "end": 7576,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "共享",
+        "start": 7609,
+        "end": 7611,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_15",
+        "classId_name": "网站Cookie及WebBeacon使用",
+        "text": "2. Cookie及相关技术告知\n    1. Cookie和相关技术可以帮助网站辨认注册用户，计算用户数量，通常被各网站用来判定完成注册的用户是否已经实现登录，我们使用cookie及相关技术主要为了实现以下功能或服务：\n  1. 保障产品或服务的安全、高效运转。我们可能会设置认证与保障安全性的cookie，以便确认您是否安全登录服务，或者是否遇到盗用、欺诈及其他不法行为。这些技术还会帮助我们改进服务效率，提升登录和响应速度。\n  2. 简化您的操作步骤。使用此类技术，可以帮助您省去重复填写个人信息、输入搜索内容的步骤和流程，帮您获得更轻松的访问体验。\n  3. 为您推荐、展示、推送您可能感兴趣的内容或账号。我们可能会利用此类技术了解您的偏好和使用习惯，进行数据分析，以改善产品服务、推荐您感兴趣的信息或功能，并优化您对广告的选择。\n  2. 如您不希望个人信息保留在cookies中，您可以对浏览器进行配置：选择\"拒绝cookies\"或\"当网站发送cookies时通知您\"。鉴于我们的服务是通过支持cookies来实现的，完成关闭cookies的操作后，您访问微博可能受到影响或不能充分获得我们的服务。您不禁用cookies时，可能会得到提示，例如是否在下一次进入此网站时保留用户信息以便简化登录手续（如自动登录）。",
+        "start": 4997,
+        "end": 5560,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_2",
+        "classId_name": "第三方收集或共享个人信息",
+        "text": "3. 我们如何委托处理、共享、转让及公开披露您的个人信息\n    1. 为了提升信息处理效率，我们可能会委托第三方代表我们处理您的个人信息。对我们委托处理个人信息的第三方，我们会与其签署严格的保密协定，要求其按照我们的要求、本政策以及法律法规要求的保密和安全措施来处理个人信息。\n    2. 除非经过您本人事先授权同意，我们不会向第三方共享、转让可识别您身份的个人信息。我们可能共享、转让经去标识化或匿名化处理后的个人信息。\n特定前提下，我们可能将您的个人信息与第三方共享，但我们只会共享必要的个人信息，且第三方受本政策中所声明的目的的约束。我们会按照法律法规及国家标准的要求以确认协议、具体场景下的文案确认、弹窗提示等形式征得您的同意，或确认第三方已经征得您的同意。第三方如要改变个人信息的处理目的，其将再次征求您的授权同意。\n对我们与之共享个人信息的第三方，我们会评估其收集信息的合法性、正当性和必要性，对其数据安全环境进行调查，并在可行的情况下与其签署严格的保密协定，要求他们按照法律法规规定、我们的说明、本政策以及其他任何相关的安全措施来处理个人信息。",
+        "start": 5575,
+        "end": 6056,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_2",
+        "classId_name": "第三方收集或共享个人信息",
+        "text": "3.3.您同意我们基于如下目的与第三方共享信息：\n  1. 实现微博的服务及功能的信息共享\n请您理解，微博的某些功能和服务由第三方（包括我们的关联方）提供，为实现该等功能和服务，我们可能会与相关第三方共享您必要的信息，以便这些第三方向您提供相关的功能和服务，向您展示或推送您可能感兴趣的信息和内容。目前这类第三方主要包括软件服务提供商、智能设备提供商或系统服务提供商。\n例如，当第三方软件、设备系统与微博产品或服务结合为您提供基于位置的服务时，微博可能会基于您对系统定位的授权及设定，获取您的位置信息及设备信息，并经过去标识化后提提供给前述合作伙伴。特殊情境下会包含您另行填写的联系信息。如您拒绝此类信息的收集及使用，您需要在设备系统中进行设置或关闭提供服务的软件，在微博内可能无法自动或手动设置关闭相关服务。\n另外，当您使用微博账号登录第三方产品或与第三方账号绑定时，我们会将您微博账号的头像、昵称及其他您授权的信息共享至运营前述产品的第三方。\n  2. 帮助您参加营销推广活动的信息共享\n为帮助您参加营销推广活动，我们可能会与第三方共享您的信息。当您选择参加我们举办的营销推广活动时，根据不同活动的需要，您可能需要向我们提供姓名、手机号码、通信地址。经过您的明示同意，我们会将上述信息与第三方共享，以便第三方能及时向您提供服务。\n  3. 实现广告相关的信息共享\n为实现程序化广告推送，我们可能会与广告合作伙伴（包括广告主和其他广告服务提供商）共享去标识化或匿名化处理后的信息。未经您授权，我们不会将您的个人身份信息（即可以识别您身份的信息，例如姓名或手机号码）与广告合作伙伴共享。我们只会将匿名化的用户画像和经加密处理的设备信息与广告合作伙伴共享，以帮助其在不识别您个人身份的前提下提升广告的有效触达率。\n例如，只有在广告合作伙伴同意遵守我们的广告发布规范后，我们才会告诉广告合作伙伴其广告的效果如何，或者有多少人看了他们广告或在看到广告后安装了应用，或者向这些合作伙伴提供不能识别您个人身份的统计信息（例如“女性，25-29岁，位于北京”），帮助他们了解其受众群体。\n  4. 实现安全与分析统计的信息共享\n为维护您和其他微博用户的正当合法权益，保障微博服务的稳定运行，我们会与数据安全合作伙伴共享脱敏后的您的设备信息、联网信息。此外，为分析微博服务的使用情况，提升您的使用体验，我们会与数据分析合作伙伴共享脱敏后的您的微博使用行为情况信息。",
+        "start": 6068,
+        "end": 7093,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_2",
+        "classId_name": "第三方收集或共享个人信息",
+        "text": "3.4.微博服务中某些功能的技术模块由第三方SDK协助提供，有关微博客户端中接入的第三方SDK收集和使用用户信息的具体情况，请见《[微博接入的第三方SDK清单](https://m.weibo.cn/c/privacy/zhsdklistlist)》。",
+        "start": 7105,
+        "end": 7231,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_2",
+        "classId_name": "第三方收集或共享个人信息",
+        "text": "3.5.未经您本人同意，我们不会向除关联方以外的任何第三方共享、转让、公开披露您的个人信息，下列情形除外：\n  1. 事先获得您的明确授权同意；\n  2. 与我们履行适用法律法规规定的义务相关的；\n  3. 与国家安全、国防安全直接相关的；\n  4. 与公共安全、公共卫生、重大公共利益直接相关的；\n  5. 与刑事侦查、起诉、审判和判决执行等直接相关的；\n  6. 出于维护您或其他个人的生命、财产等重大合法权益但又很难得到您本人同意的；\n  7. 您自行向社会公众公开的个人信息；以及\n  8. 从合法公开披露的信息中收集的您的个人信息，如合法的新闻报道、政府信息公开等渠道",
+        "start": 7243,
+        "end": 7532,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_2",
+        "classId_name": "第三方收集或共享个人信息",
+        "text": "6. 您应当理解，您在使用微博服务过程中，可以向特定的人发送照片、身份信息、位置信息等个人信息，也可以基于我们的服务向不特定人共享自己的照片、位置信息、身份信息等个人信息。您因为这些主动共享、披露行为导致您个人信息被他人知晓的，我们不承担相关责任。",
+        "start": 7546,
+        "end": 7670,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_6",
+        "classId_name": "数据安全",
+        "text": "4. 我们如何保护您的个人信息\n    1. 我们将尽一切合理努力保护我们获得的您的个人信息，并由专门的数据安全部门对个人信息进行保护，防止您的个人信息在意外的、未经授权的情况下被非法访问、复制、修改、传送、遗失、破坏、处理或使用。\n目前，微博已通过了国家网络安全等级保护（三级）的测评和备案，在信息安全方面已达到国内权威认证标准的要求，并已获得了相应的认证。",
+        "start": 7685,
+        "end": 7865,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_6",
+        "classId_name": "数据安全",
+        "text": "4.2.我们采取以下技术措施来保护您的个人信息：\n  1. 我们的网络服务采取了传输层安全协议等加密技术，通过https等方式提供浏览服务，确保用户个人信息在传输过程中的安全；\n  2. 通过采取加密技术对用户个人信息进行加密保存，并通过隔离技术进行隔离；\n  3. 在个人信息使用时，例如个人信息展示、个人信息关联计算时，我们会采用包括内容替换、加密脱敏等多种数据脱敏技术增强个人信息在使用中的安全性；\n  4. 设立严格的数据使用和访问制度，采用严格的数据访问权限控制和多重身份认证技术保护个人信息，避免您的个人信息被违规使用；以及\n  5. 采取专门的数据和技术安全审计，设立日志审计和行为审计多项措施。",
+        "start": 7877,
+        "end": 8182,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_6",
+        "classId_name": "数据安全",
+        "text": "3. 此外，我们还采取了以下的其他措施来保护您的个人信息：\n  1. 通过建立数据分类分级制度、数据安全管理规范、数据安全开发规范来管理规范个人信息的存储和使用；\n  2. 建立数据安全专项部门，负责安全应急响应组织，来推进和保障个人信息安全；\n  3. 加强员工个人信息保护安全意识。我们还会举办安全和隐私保护培训课程，加强员工对于保护个人信息重要性的认识；以及\n  4. 其他法律法规明确要求采取的个人信息保护措施。\n  4. 尽管已经采取了上述合理有效措施，并已经遵守了相关法律规定要求的标准，但我们仍然无法保证您的个人信息通过不安全途径进行交流时的安全性。因此，您应采取积极措施保证个人信息的安全，例如定期修改账号密码，不将自己的账号密码等个人信息透露给他人。\n  5. 网络环境中始终存在各种信息泄漏的风险，当出现意外事件、不可抗力等情形导致您的信息出现泄漏时，我们将极力控制局面，及时告知您事件起因、我们采取的安全措施、您可以主动采取的安全措施等相关信息。如发生个人信息有关的安全事件，我们将第一时间向有关主管机关报备，并及时进行问题排查，采取应急措施。同时，我们会向全量用户发送更改密码的通知提醒，或通过电话、短信等各种方式触达用户，并在微博公共运营平台进行告知。\n  6. 请您理解，我们提供的个人信息保护措施仅适用于微博。一旦您离开微博，浏览或使用其他网站、服务及内容资源，我们即没有能力及义务保护您在微博以外的网站提交的任何个人信息，无论您登录或浏览上述网站是否基于微博的链接或引导。",
+        "start": 8196,
+        "end": 8848,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_5",
+        "classId_name": "数据保存",
+        "text": "5. 我们如何存储您的个人信息\n    1. 我们依照法律法规的规定，将境内收集的您的个人信息存储于中华人民共和国境内。目前，我们不会将您的个人信息在跨境业务中使用、储存、共享和披露，或将您的个人信息传输至境外。\n如果今后的业务发生变更，我们可能需要将您的个人信息传输至其他国家或地区。这些国家或地区可能设有不同的数据保护法，甚至未设立相关法律。在这种情况下，我们将会依据相关法律法规的规定，确保您的个人信息得到与境内同等水平的保护，向您告知出境个人信息的类型、目的、接收方、安全保障措施和安全风险，并按照法律法规要求进行安全评估或者备案后进行出境。",
+        "start": 8862,
+        "end": 9137,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_5",
+        "classId_name": "数据保存",
+        "text": "5.2.我们仅在本政策所述目的所必需的期间和法律法规及监管规定要求的时限内保留您的个人信息。我们将会按照《网络安全法》等相关法律法规规定的期限保存您的个人信息。超出法定保存期限后，我们会将您的个人信息删除或做匿名化处理。",
+        "start": 9149,
+        "end": 9259,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_4",
+        "classId_name": "用户权利增删改查",
+        "text": "6. 您的个人信息主体权利\n我们非常重视您对个人信息的管理，并尽全力保障您对于个人信息的访问、更正、删除以及撤回同意的权利，使您拥有充分的能力维护您的隐私和个人信息安全。",
+        "start": 9274,
+        "end": 9359,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_4",
+        "classId_name": "用户权利增删改查",
+        "text": "6.1.访问、修改、删除您的个人信息\n当您完成微博的账号注册后，您可以随时访问、修改您提交给我们的个人信息。发生以下情形，您可以向我们提出删除个人信息的请求：\n  1. 如果我们处理个人信息的行为违反法律法规；\n  2. 如果我们处理个人信息的行为违反了与您的约定；\n  3. 如果我们终止微博的运营及服务。\n若我们决定响应您的删除请求，我们还将同时尽可能通知从我们处获得您个人信息的第三方，要求其及时删除，除非法律法规另有规定或这些第三方已获得您的独立授权。\n对难以直接在客户端访问、修改、删除的个人信息，您也可以通过本政策提供的联系方式，将相关申请提交给我们。",
+        "start": 9371,
+        "end": 9653,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_4",
+        "classId_name": "用户权利增删改查",
+        "text": "6.3.注销账号\n您可以通过微博官方客户端注销账号。请您理解，注销账号是不可恢复的操作。鉴于新浪集团采用统一账号体系，一旦您注销您的账号，我们将删除有关您账号的一切信息（包括您使用同一账号登录的其他新浪集团应用中的信息），但法律法规另有规定的除外。您也无法通过已注销的账号重新获得微博及其他新浪集团应用的相关服务。",
+        "start": 9814,
+        "end": 9971,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_9",
+        "classId_name": "获取撤回同意",
+        "text": "6.2.撤回同意\n微博中特定的业务功能将需要您的信息或者您授予的设备权限才能得以完成。您可以通过关闭相应业务功能的方式撤回同意。当您撤回同意后，我们无法继续为您提供对应的功能，也不再处理您相应的个人信息。但您撤回同意的决定，不会影响我们此前基于您的授权而开展的个人信息处理。",
+        "start": 9665,
+        "end": 9802,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_11",
+        "classId_name": "年龄限制条款",
+        "text": "7. 我们如何收集和处理未成年人的个人信息\n    1. 若您是未满18周岁的未成年人，在使用微博前，应在您的父母（或其他监护人）监护、指导下共同阅读并决定是否同意本政策，我们根据国家相关法律法规的规定保护未成年人的个人信息。\n    2. 如果您是未满14周岁且希望使用微博的儿童，请您告知您的家长（或其他监护人）以及前往微博中的“青少年模式”详细了解《微博儿童个人信息保护政策》，我们需要在您开始使用微博前取得您的家长（或其他监护人）的明示同意。",
+        "start": 10425,
+        "end": 10650,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_7",
+        "classId_name": "隐私政策修改更新",
+        "text": "8. 本政策的更新\n    1. 为给您提供更好的服务以及随着我们业务的发展，本政策也会随之更新。对于重大变更，我们还会提供更为显著的通知（我们会通过包括但不限于邮件、短信、私信或在浏览页面做特别提示等方式，说明本政策的具体变更内容）。本政策所指的重大变更包括但不限于：\n  1. 我们的服务模式发生重大变化。如处理个人信息的目的、处理的个人信息类型、个人信息的使用方式等；\n  2. 我们在所有权结构、组织架构等方面发生重大变化，导致实际收集和处理您的个人信息的主体发生变化，如业务调整、破产并购等引起的所有者变更等；\n  3. 个人信息共享、转让或公开披露的主要对象发生变化；\n  4. 您参与个人信息处理方面的权利及其行使方式发生重大变化；\n  5. 我们负责处理个人信息安全的责任部门、联络方式及投诉渠道发生变化时；\n  6. 个人信息安全影响评估报告表明存在高风险时。\n    2. 我们会在网站、客户端（设置-“关于微博”）上发出更新版本，并在生效前通过网站公告或其他适当方式提醒您相关内容的更新，以便您及时了解最新版本的本政策。您同意并继续使用微博，即意味着您同意本政策（含更新版本）的内容。",
+        "start": 10665,
+        "end": 11168,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_14",
+        "classId_name": "开发者公司名称联系方式",
+        "text": "9. 如何联系我们\n如您对于本政策或相关事宜有任何问题，特别是认为我们的个人信息处理行为损害了您的合法权益，您可随时通过以下方式与我们取得联系。我们将尽快审核所涉问题，并按照法律法规的要求和期限及时予以回复。\n客服热线：400-096-0960\n在线客服：@微博客服，私信联系微博客服\n常用办公地址：北京市海淀区西北旺东路10号院西区8号楼新浪总部大厦",
+        "start": 11183,
+        "end": 11359,
+        "fields": [],
+        "sub_annotations": []
+    }
+]

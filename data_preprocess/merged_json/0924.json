@@ -1,0 +1,1829 @@
+[
+    {
+        "classId": "e_16",
+        "classId_name": "其他",
+        "text": "隐私政策\n发布日期：2019年4月25日\n生效日期：2019年5月2日",
+        "start": 27,
+        "end": 62,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_16",
+        "classId_name": "其他",
+        "text": "欢迎您访问去哪儿网！去哪儿网由北京趣拿信息技术有限公司运营，涉及具体产品服务的，将由有资质的服务商提供。如果用户在去哪儿网站、去哪儿旅行APP、去哪儿关联公司网站或其他去哪儿提供的移动应用或软件上（以下简称“去哪儿网”），访问、预订或使用去哪儿的产品或服务（以上统称为“服务”），便视为用户接受了以下隐私政策，请您仔细阅读以下内容，尤其是以下加粗字体。如果您不同意以下任何内容，请立刻停止访问/使用本网站或其他任何移动应用或软件。本隐私政策中提及的“去哪儿”以及“我们”均指去哪儿网，“用户”以及“您”均指自愿接受本隐私政策的用户。",
+        "start": 74,
+        "end": 340,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_16",
+        "classId_name": "其他",
+        "text": "1、隐私政策的确认和接纳\n尊重用户个人隐私是去哪儿的一项基本政策。去哪儿网是将有资质的酒店、机票代理机构、旅行社等提供的旅游服务信息汇集于去哪儿网供用户查阅，同时帮助用户通过去哪儿网与上述酒店、机票代理机构、旅行社等联系并预订相关旅游服务项目。\n您在使用我们的产品与/或服务前仔细阅读并确认您已经充分理解本隐私政策所写明的内容，并与北京趣拿信息技术有限公司达成协议并接受所有的服务条款。\n我们十分注重保护用户的个人信息及隐私安全，我们理解您通过网络向我们提供信息是建立在对我们信任的基础上，我们重视这种信任，也深知隐私对您的重要性，并尽最大努力全力保护您的隐私。",
+        "start": 352,
+        "end": 633,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_16",
+        "classId_name": "其他",
+        "text": "7、个人敏感信息提示\n某些特殊的个人信息可能被认为是个人敏感信息，这些个人敏感信息将受到严格保护。去哪儿隐私政策在此提醒您，您在使用去哪儿为您提供的产品及服务中所上传或发布的内容和信息可能会披露泄露您的个人敏感信息。因此，您需要在使用我们为您提供的产品或服务前谨慎考虑。您同意这些个人敏感信息将按照本隐私政策阐明的目的和方式来进行处理。",
+        "start": 6147,
+        "end": 6315,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_16",
+        "classId_name": "其他",
+        "text": "13、隐私政策的适用范围\n除某些特定服务外，我们所有的服务均适用本隐私政策。特定服务将适用特定的隐私政策或协议。该特定服务的隐私政策或协议构成本隐私政策的一部分。如任何特定服务的隐私政策或协议与本隐私政策有不一致之处，则适用特定服务的隐私政策或协议。\n请您注意，本隐私政策不适用于以下情况：通过我们的服务而接入的第三方服务（包括任何第三方网站）收集的信息；通过在我们服务中进行广告服务的其他公司和机构所收集的信息。",
+        "start": 8015,
+        "end": 8222,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_16",
+        "classId_name": "其他",
+        "text": "16、法律管辖\n本隐私政策之效力、解释、变更、执行与争议解决均适用中华人民共和国法律。因本协议产生的争议，均应依照中华人民共和国法律予以处理，并由被告住所地人民法院管辖。",
+        "start": 8649,
+        "end": 8734,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_1",
+        "classId_name": "App或网站收集使用处理个人信息",
+        "text": "2、信息收集\n（1）为了更好地为您提供服务，去哪儿将遵循“合理、相关、必要”原则，且以您同意为前提收集信息，不会收集法律法规禁止收集的信息。考虑到去哪儿会员服务的重要性，用户同意，去哪儿将会收集您在去哪儿网上输入的或者以其他方式提供给我们的所有信息：",
+        "start": 645,
+        "end": 770,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_1",
+        "classId_name": "App或网站收集使用处理个人信息",
+        "text": "* 我们也可能了解您的旅行计划、风格和喜好，包括膳食要求、出行/入离境时间、座位选择、票务选择、保险选择以及去哪儿提供其他服务所需要您提供的个人信息。其中可能涉及敏感信息，如果您拒绝提供，可能无法获得我们的客户服务。\n  * 当您使用我们的金融类服务时，可能需向我们提供和允许我们收集更多信息（包括有效身份证件照片、脸部图像或视频、住址信息、学历信息、工作单位信息、有关收入、财产和信用的信息）。前述信息属于敏感信息，如果您拒绝提供，可能无法使用我们的金融类服务。您在使用此类服务前，我们将会通过页面提示、交互流程、协议在线展示等方式另行向您说明相应的个人信息收集和使用规则，并征得您的同意。",
+        "start": 1372,
+        "end": 1668,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_1",
+        "classId_name": "App或网站收集使用处理个人信息",
+        "text": "（3）我们将在您使用去哪儿服务过程中，自动收集您的个人信息：\n  * 日志信息，指您使用我们的服务时，系统可能通过cookies、web beacon或其他方式自动采集的信息，包括：\n    * 设备信息或软件信息，您的IP地址和移动设备所用的版本和设备识别码（IDFA/IMEI）、以及通过网页浏览器、移动设备用于接入我们服务的配置信息。这些是我们为提供服务必须收集的基础信息。\n    * 在使用我们服务时搜索或浏览的信息，您使用的网页或APP搜索词语、访问页面，以及您在使用我们服务时浏览或提供的其他信息。\n    * 您通过我们的服务分享的内容所包含的信息，包括拍摄或上传的共享照片或评论，以及日期、时间。\n  * 位置信息，指您开启设备定位功能并使用我们基于位置提供的相关服务时，收集的有关您的位置信息，通过GPS或WLAN等方式收集您的地理位置信息，或您提供账户信息中包含的您所在地区信息，您或其他人上传的显示您当前或曾经所处地理位置的共享信息。该信息属于敏感信息，您可以通过关闭定位功能，停止对您的地理位置信息的收集，但将无法使用我们提供的部分与位置信息相关的服务。",
+        "start": 1748,
+        "end": 2238,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_1",
+        "classId_name": "App或网站收集使用处理个人信息",
+        "text": "（4）我们会从关联公司、业务合作伙伴来源获得您的相关信息。我们将依据与关联公司、业务合作伙伴的约定，对这些个人信息来源的合法性进行确认。当您通过我们关联公司、业务合作伙伴网站及其移动应用软件预订时，您向其提供的预订信息可能会转交给我们，以便我们处理您的订单，确保您顺利预订。又如，我们允许您使用第三方账号关联我们的账号进行登录，在您同意的情况下（您授权给第三方），您的相关个人信息会通过第三方分享给我们。",
+        "start": 2239,
+        "end": 2441,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_1",
+        "classId_name": "App或网站收集使用处理个人信息",
+        "text": "（5）由于我们向您提供的产品和服务是不断更新的，如果某一产品或服务未在前述内容中说明且收集了您的信息，我们会通过页面提示、交互流程、网站公告等方式另行向您说明信息收集的内容，以征得您的同意。该信息适用本隐私政策的约定。",
+        "start": 2442,
+        "end": 2551,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_1",
+        "classId_name": "App或网站收集使用处理个人信息",
+        "text": "（1）一般来说，去哪儿出于以下目的收集、使用您的个人信息：\n  * 向您提供服务：我们使用您的个人数据完成并管理您的网上预订。另外，我们也会通过关联公司、业务合作伙伴和第三方为您提供相关的产品和服务。\n  * 账号管理：您可以通过去哪儿网创建账号，我们将使用您所提供的信息来管理您的账号，并为您提供一系列的实用功能，您可以使用您的账号进行多种操作，如管理订单、调整个人设置、添加常用旅客信息、查看历史订单信息、订单评价、支付管理等。\n  * 答复您的问询和请求：我们向您提供客户服务，以便在您需要的时候提供帮助。\n  * 营销活动：我们也会使用您的信息进行正当合法的营销活动，如向您发送旅行相关的产品或者服务的最新消息、向您提供您可能感兴趣的个性化推荐及其他推广活动信息。\n  * 与您联系：回复及处理您所提出的疑问或要求、发送与订单相关的信息（如订单提交成功提示、未完成订单的提醒您继续等）、我们也可能会向您发送问卷调查或邀请您对我们的服务提供反馈等。\n  * 市场调研：我们有时会邀请您参与市场调查，以衡量您对我们的产品、服务和网站的兴趣。\n  * 数据分析：我们可能将您的订单数据用于分析，从而形成用户画像，以便让我们能够了解您所在的位置、偏好和人口统计信息，或与其他来源（包括第三方）的数据相匹配，从而开发我们的产品、服务或营销计划，改进我们的服务。\n  * 控制信用风险：为了确保交易安全和控制信用风险，去哪儿及关联公司、业务合作伙伴可能对用户信息进行数据分析，并对上述分析结果进行商业利用。\n  * 日常运营：包括但不限于订单管理、客户验证、技术支持、网络维护、故障排除、内部行政事务及内部政策和程序、生成内部报告等。\n  * 电话监测：您接听和拨打我们的客服电话可能会被录音，我们可能会使用通话录音来监控我们的客服服务质量，检查您所提供的信息的准确性以防止欺诈，或为了我们内部人员培训的目的。录音在被保留一段时间后会自动删除，除非由于合规要求或合法利益需要为场景的保留。\n  * 履行义务：处理相关政策下发生的保险索赔和付款，处理支付给合作伙伴的佣金或对服务合作伙伴造成的损失提起索赔或收回付款等。\n  * 法律目的：我们可能需要使用您的信息来处理和解决法律纠纷，或遵循对我们具有约束力的任何法律法规或监管机构颁发的文件规定，以配合国家部门或监管机构调查和遵从法律法规的目的。\n  * 此外，我们可能会出于其他目的收集、使用和披露您的个人信息，并通过修订本声明的形式告知您。\n  * 如要改变个人信息的处理目的，我们将以推送通知等方式再次征求您的授权同意。\n（2）我们会对您的信息进行综合统计、分析加工，以便为您提供更加准确、个性、流畅及便捷的服务，或帮助我们评估、改善或设计产品、服务及营销活动等。我们可能根据前述信息向您提供营销活动通知、商业性电子信息或您可能感兴趣的广告。您在享受去哪儿提供的各项服务的同时，授权并同意接受去哪儿向您的电子邮件、手机、通信地址等发送商业信息，包括不限于最新的产品信息、促销信息等。若您选择不接受去哪儿提供的各类信息服务，您可以按照我们提示的方法选择拒绝该类信息服务。操作过程中如有问题，可以联系去哪儿客服。\n（3）您充分知晓，以下情形中我们使用个人信息无需征得您的授权同意：\n  * 与国家安全、国防安全有关的；\n  * 与公共安全、公共卫生、重大公共利益有关的\n  * 与犯罪侦查、起诉、审判和判决执行等有关的；\n  * 出于维护个人信息主体或其他个人的生命、财产等重大合法权益但又很难得到本人同意的；\n  * 所收集的个人信息是个人信息主体自行向社会公众公开的；\n  * 从合法公开披露的信息中收集的您的个人信息的，如合法的新闻报道、政府信息公开等渠道；\n  * 根据您的要求签订合同所必需的；\n  * 用于维护所提供的产品与/或服务的安全稳定运行所必需的，例如发现、处置产品与/或服务的故障；\n  * 为合法的新闻报道所必需的；\n  * 学术研究机构基于公共利益开展统计或学术研究所必要，且对外提供学术研究或描述的结果时，对结果中所包含的个人信息进行去标识化处理的；\n  * 法律法规规定的其他情形。",
+        "start": 2658,
+        "end": 4387,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "更好地为您提供服务",
+        "start": 657,
+        "end": 666,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "注册为去哪儿会员",
+        "start": 777,
+        "end": 785,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "创建去哪儿账号",
+        "start": 803,
+        "end": 810,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "正常使用我们的服务",
+        "start": 834,
+        "end": 843,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "实名认证",
+        "start": 851,
+        "end": 855,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "验证您的身份",
+        "start": 884,
+        "end": 890,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "正常使用我们的部分服务",
+        "start": 914,
+        "end": 925,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "预订、购买商品、服务",
+        "start": 933,
+        "end": 943,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "使用邮寄（发票、商品）服务",
+        "start": 1031,
+        "end": 1044,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "便于您的订单能够送达",
+        "start": 1073,
+        "end": 1083,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "开具纸质或电子发票",
+        "start": 1122,
+        "end": 1131,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "购买产品进行支付结算",
+        "start": 1205,
+        "end": 1215,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "验证身份",
+        "start": 1331,
+        "end": 1335,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "获得我们的客户服务",
+        "start": 1470,
+        "end": 1479,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "使用我们的金融类服务",
+        "start": 1487,
+        "end": 1497,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "使用我们的金融类服务",
+        "start": 1593,
+        "end": 1603,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "提供服务",
+        "start": 1924,
+        "end": 1928,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "我们处理您的订单，确保您顺利预订",
+        "start": 2359,
+        "end": 2375,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "使用第三方账号关联我们的账号进行登录",
+        "start": 2384,
+        "end": 2402,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "以下目的",
+        "start": 2671,
+        "end": 2675,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "向您提供服务",
+        "start": 2692,
+        "end": 2698,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "账号管理",
+        "start": 2763,
+        "end": 2767,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "管理订单、调整个人设置、添加常用旅客信息、查看历史订单信息、订单评价、支付管理等",
+        "start": 2833,
+        "end": 2873,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "答复您的问询和请求",
+        "start": 2879,
+        "end": 2888,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "提供客户服务",
+        "start": 2893,
+        "end": 2899,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "在您需要的时候提供帮助",
+        "start": 2902,
+        "end": 2913,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "营销活动",
+        "start": 2919,
+        "end": 2923,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "向您发送旅行相关的产品或者服务的最新消息、向您提供您可能感兴趣的个性化推荐及其他推广活动信息",
+        "start": 2947,
+        "end": 2993,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "与您联系",
+        "start": 2999,
+        "end": 3003,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "回复及处理您所提出的疑问或要求、发送与订单相关的信息（如订单提交成功提示、未完成订单的提醒您继续等）",
+        "start": 3004,
+        "end": 3054,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "向您发送问卷调查或邀请您对我们的服务提供反馈等",
+        "start": 3061,
+        "end": 3084,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "市场调研",
+        "start": 3090,
+        "end": 3094,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "衡量您对我们的产品、服务和网站的兴趣",
+        "start": 3111,
+        "end": 3129,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "数据分析",
+        "start": 3135,
+        "end": 3139,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "了解您所在的位置、偏好和人口统计信息，或与其他来源（包括第三方）的数据相匹配，从而开发我们的产品、服务或营销计划，改进我们的服务",
+        "start": 3172,
+        "end": 3236,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "控制信用风险",
+        "start": 3242,
+        "end": 3248,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "日常运营",
+        "start": 3314,
+        "end": 3318,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "于订单管理、客户验证、技术支持、网络维护、故障排除、内部行政事务及内部政策和程序、生成内部报告",
+        "start": 3324,
+        "end": 3371,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "电话监测",
+        "start": 3378,
+        "end": 3382,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "监控我们的客服服务质量，检查您所提供的信息的准确性以防止欺诈，或为了我们内部人员培训",
+        "start": 3415,
+        "end": 3457,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "履行义务",
+        "start": 3505,
+        "end": 3509,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "处理相关政策下发生的保险索赔和付款，处理支付给合作伙伴的佣金或对服务合作伙伴造成的损失提起索赔或收回付款等",
+        "start": 3510,
+        "end": 3563,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "法律目的",
+        "start": 3569,
+        "end": 3573,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "处理和解决法律纠纷，或遵循对我们具有约束力的任何法律法规或监管机构颁发的文件规定，以配合国家部门或监管机构调查和遵从法律法规的目的",
+        "start": 3587,
+        "end": 3652,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "为您提供更加准确、个性、流畅及便捷的服务，或帮助我们评估、改善或设计产品、服务及营销活动等",
+        "start": 3769,
+        "end": 3814,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "向您提供营销活动通知、商业性电子信息或您可能感兴趣的广告",
+        "start": 3825,
+        "end": 3853,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "发送商业信息，包括不限于最新的产品信息、促销信息等",
+        "start": 3898,
+        "end": 3923,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "保障为您提供的服务顺利完成",
+        "start": 4457,
+        "end": 4470,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "合法、正当、必要、特定、明确的目的",
+        "start": 4478,
+        "end": 4495,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "欺诈检测和预防目的",
+        "start": 4706,
+        "end": 4715,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "去哪儿",
+        "start": 667,
+        "end": 670,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "您",
+        "start": 776,
+        "end": 777,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "您",
+        "start": 850,
+        "end": 851,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "您",
+        "start": 932,
+        "end": 933,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "您",
+        "start": 1023,
+        "end": 1024,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "您",
+        "start": 1119,
+        "end": 1120,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "您",
+        "start": 1204,
+        "end": 1205,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "您",
+        "start": 1313,
+        "end": 1314,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 1374,
+        "end": 1376,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "您",
+        "start": 1438,
+        "end": 1439,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "您",
+        "start": 1486,
+        "end": 1487,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 1510,
+        "end": 1512,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 1751,
+        "end": 1753,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "您",
+        "start": 2130,
+        "end": 2131,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "您或其他人",
+        "start": 2149,
+        "end": 2154,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 2242,
+        "end": 2244,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "关联公司、业务合作伙伴网站及其移动应用软件",
+        "start": 2313,
+        "end": 2334,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "第三方",
+        "start": 2432,
+        "end": 2435,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "去哪儿",
+        "start": 2666,
+        "end": 2669,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 3403,
+        "end": 3405,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 3747,
+        "end": 3749,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 4002,
+        "end": 4004,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 4417,
+        "end": 4419,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 4721,
+        "end": 4723,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 5047,
+        "end": 5049,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 5237,
+        "end": 5239,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "“合理、相关、必要”原则",
+        "start": 673,
+        "end": 685,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "以您同意为前提",
+        "start": 687,
+        "end": 694,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "不会收集法律法规禁止收集的信息",
+        "start": 699,
+        "end": 714,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "征得您的同意",
+        "start": 1661,
+        "end": 1667,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "依据与关联公司、业务合作伙伴的约定",
+        "start": 2271,
+        "end": 2288,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "您同意的情况下",
+        "start": 2404,
+        "end": 2411,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "合规要求或合法利益需要",
+        "start": 3482,
+        "end": 3493,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "以下情形",
+        "start": 3997,
+        "end": 4001,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "以下情况",
+        "start": 5073,
+        "end": 5077,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "以下情形",
+        "start": 5242,
+        "end": 5246,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 694,
+        "end": 696,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "了解",
+        "start": 1379,
+        "end": 1381,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 1512,
+        "end": 1514,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "自动收集",
+        "start": 1767,
+        "end": 1771,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "获得",
+        "start": 2259,
+        "end": 2261,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 2675,
+        "end": 2677,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "使用",
+        "start": 2678,
+        "end": 2680,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "使用",
+        "start": 3408,
+        "end": 3410,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "综合统计",
+        "start": 3757,
+        "end": 3761,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "分析加工",
+        "start": 3762,
+        "end": 3766,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "使用",
+        "start": 4004,
+        "end": 4006,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "信息",
+        "start": 696,
+        "end": 698,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "手机号、邮箱",
+        "start": 790,
+        "end": 796,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "密码",
+        "start": 799,
+        "end": 801,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "身份证信息、银行卡信息",
+        "start": 860,
+        "end": 871,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "第三方支付机构账号信息",
+        "start": 872,
+        "end": 883,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "姓名、性别、国籍、证件信息、出生日期、手机号、邮箱、微信号",
+        "start": 954,
+        "end": 983,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "姓名、手机号、固定电话、配送地址",
+        "start": 1053,
+        "end": 1069,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "开票信息",
+        "start": 1149,
+        "end": 1153,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "收件人、手机号、配送地址信息",
+        "start": 1155,
+        "end": 1169,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "银行卡卡号、有效期、银行预留手机号、持卡人姓名、持卡人身份证件、卡验证码信息",
+        "start": 1220,
+        "end": 1258,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "联系我们的客服以获得我们的客户服务",
+        "start": 1294,
+        "end": 1311,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "会员资料和订单信息",
+        "start": 1321,
+        "end": 1330,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "旅行计划、风格",
+        "start": 1383,
+        "end": 1390,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "喜好",
+        "start": 1391,
+        "end": 1393,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "膳食要求、出行/入离境时间、座位选择、票务选择、保险选择",
+        "start": 1396,
+        "end": 1424,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "个人信息",
+        "start": 1442,
+        "end": 1446,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "敏感信息",
+        "start": 1453,
+        "end": 1457,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "有效身份证件照片",
+        "start": 1521,
+        "end": 1529,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "脸部图像或视频",
+        "start": 1530,
+        "end": 1537,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "住址信息、学历信息、工作单位信息、有关收入",
+        "start": 1538,
+        "end": 1559,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "财产和信用的信息",
+        "start": 1560,
+        "end": 1568,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "敏感信息",
+        "start": 1576,
+        "end": 1580,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "个人信息",
+        "start": 1773,
+        "end": 1777,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "设备信息",
+        "start": 1846,
+        "end": 1850,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "软件信息",
+        "start": 1851,
+        "end": 1855,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "P地址",
+        "start": 1859,
+        "end": 1862,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "移动设备所用的版本",
+        "start": 1863,
+        "end": 1872,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "设备识别码",
+        "start": 1873,
+        "end": 1878,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "IDFA/IMEI",
+        "start": 1879,
+        "end": 1888,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "配置信息",
+        "start": 1913,
+        "end": 1917,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "搜索或浏览的信息",
+        "start": 1953,
+        "end": 1961,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "搜索词语",
+        "start": 1972,
+        "end": 1976,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "访问页面",
+        "start": 1977,
+        "end": 1981,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "拍摄或上传的共享照片或评论",
+        "start": 2033,
+        "end": 2046,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "日期、时间",
+        "start": 2049,
+        "end": 2054,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "您所在地区信息",
+        "start": 2141,
+        "end": 2148,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "显示您当前或曾经所处地理位置的共享信息",
+        "start": 2157,
+        "end": 2176,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "相关信息",
+        "start": 2263,
+        "end": 2267,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "预订信息",
+        "start": 2344,
+        "end": 2348,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "个人信息",
+        "start": 2425,
+        "end": 2429,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "个人信息",
+        "start": 2682,
+        "end": 2686,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "通话录音",
+        "start": 3410,
+        "end": 3414,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "信息",
+        "start": 3753,
+        "end": 3755,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "个人信息",
+        "start": 4006,
+        "end": 4010,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "订单信息、账户信息、设备信息",
+        "start": 4435,
+        "end": 4449,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "位置信息",
+        "start": 4451,
+        "end": 4455,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "必要信息",
+        "start": 4738,
+        "end": 4742,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "IP地址",
+        "start": 4744,
+        "end": 4748,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "个人信息",
+        "start": 5054,
+        "end": 5058,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "个人信息",
+        "start": 5253,
+        "end": 5257,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_3",
+        "classId_name": "用户提供个人信息",
+        "text": "* 在您注册为去哪儿会员时，需提供手机号、邮箱并设置密码用以创建去哪儿账号。前述信息属于敏感信息，如果您拒绝提供，可能无法正常使用我们的服务。\n  * 在您实名认证时，需提供身份证信息、银行卡信息或第三方支付机构账号信息以验证您的身份。前述信息属于敏感信息，如果您拒绝提供，可能无法正常使用我们的部分服务。\n  * 在您预订、购买商品、服务时，可能需提供使用人的姓名、性别、国籍、证件信息、出生日期、手机号、邮箱、微信号信息。前述信息属于敏感信息，如果您拒绝提供，可能无法完成预订、购买。\n  * 在您购买产品时需要使用邮寄（发票、商品）服务时、需提供收货人的姓名、手机号、固定电话、配送地址信息，以便于您的订单能够送达。前述信息属于敏感信息，如果您拒绝提供，可能无法完成送达。\n  * 如果您需要开具纸质或电子发票，您还需提供包括发票抬头、邮箱在内的开票信息以及收件人、手机号、配送地址信息。前述信息属于敏感信息，如果您拒绝提供，可能无法开具发票。\n  * 在您购买产品进行支付结算时，需提供银行卡卡号、有效期、银行预留手机号、持卡人姓名、持卡人身份证件、卡验证码信息。前述信息属于敏感信息，如果您拒绝提供，可能无法完成支付。\n  * 当您联系我们的客服以获得我们的客户服务时，您还需要提供您的会员资料和订单信息来验证身份。其中可能涉及敏感信息，如果您拒绝提供，可能无法获得我们的客户服务。",
+        "start": 773,
+        "end": 1369,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_3",
+        "classId_name": "用户提供个人信息",
+        "text": "（2）您可以通过去哪儿为其他人预订，您需要提交该旅客的个人信息，向我们提供该旅客的个人信息之前，您确保您已经取得本人的同意，并确保其已知晓并接受本隐私政策。",
+        "start": 1669,
+        "end": 1747,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "提供",
+        "start": 788,
+        "end": 790,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "提供",
+        "start": 858,
+        "end": 860,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "提供",
+        "start": 948,
+        "end": 950,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "提供",
+        "start": 1047,
+        "end": 1049,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "提供",
+        "start": 1135,
+        "end": 1137,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "提供",
+        "start": 1218,
+        "end": 1220,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "提供",
+        "start": 1317,
+        "end": 1319,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "提供",
+        "start": 1439,
+        "end": 1441,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "提供",
+        "start": 1505,
+        "end": 1507,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "提供",
+        "start": 2131,
+        "end": 2133,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "上传",
+        "start": 2154,
+        "end": 2156,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "转交",
+        "start": 2351,
+        "end": 2353,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "分享",
+        "start": 2435,
+        "end": 2437,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "共享",
+        "start": 4431,
+        "end": 4433,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "共享",
+        "start": 4734,
+        "end": 4736,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "转让",
+        "start": 5058,
+        "end": 5060,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "公开披露",
+        "start": 5247,
+        "end": 5251,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_8",
+        "classId_name": "信息定义",
+        "text": "位置信息，指您开启设备定位功能并使用我们基于位置提供的相关服务时，收集的有关您的位置信息",
+        "start": 2060,
+        "end": 2104,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "关联公司、业务合作伙伴来源",
+        "start": 2246,
+        "end": 2259,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "我们",
+        "start": 2354,
+        "end": 2356,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "我们",
+        "start": 2438,
+        "end": 2440,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "合作伙伴等第三方",
+        "start": 4423,
+        "end": 4431,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "供应商",
+        "start": 4557,
+        "end": 4560,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "金融机构",
+        "start": 4642,
+        "end": 4646,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "相关金融机构",
+        "start": 4728,
+        "end": 4734,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "公司",
+        "start": 5063,
+        "end": 5065,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "组织",
+        "start": 5066,
+        "end": 5068,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "个人",
+        "start": 5069,
+        "end": 5071,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "第三方支付机构",
+        "start": 4647,
+        "end": 4654,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_2",
+        "classId_name": "第三方收集或共享个人信息",
+        "text": "（6）以上列明的基本为核心业务功能，对于第三方业务功能（包括第三方提供的金融业务功能）会通过页面提示、交互流程等方式另行向您说明相应的个人信息收集和使用规则，并征得您的同意。",
+        "start": 2552,
+        "end": 2639,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_2",
+        "classId_name": "第三方收集或共享个人信息",
+        "text": "、信息共享、转让和公开披露\n（1）我们可能会向合作伙伴等第三方共享您的订单信息、账户信息、设备信息以及位置信息，以保障为您提供的服务顺利完成。但我们仅会出于合法、正当、必要、特定、明确的目的共享您的个人信息，并且只会共享提供服务所必要的个人信息。我们的合作伙伴包括以下类型（包含中国境内和中国境外实体）：\n  * 供应商：包括但不限于为了满足您预订需求的酒店、航空公司、邮轮、汽车租赁、旅行社、景区和活动提供商和代理商。这些供应商可能根据需要与您联系，以完成旅行产品或服务。\n  * 金融机构和第三方支付机构：当您预订订单、申请退款、购买保险时，我们会与金融机构或第三方支付机构共享特定的订单信息，当我们认为用于欺诈检测和预防目的实属必要时，我们将进一步和相关金融机构共享其他必要信息，如IP地址等。当您使用我们的金融类服务时，如消费分期、消费信贷、理财、闪游卡、申请信用卡服务时，我们会根据您在开通具体产品时的协议或授权，将您的相关信息共享给合作金融机构，以使这些机构能够向您提供您所需的服务。\n  * 业务合作伙伴：我们可能与合作伙伴一起为您提供产品或者服务，包括快递业务、通讯服务、客户服务、市场推广、广告投放、技术服务、实名认证服务、咨询服务等。\n  * 关联公司：我们可能会与我们的关联公司共享您的个人信息，使我们能够向您提供与旅行相关的或者其他产品及服务的信息。\n对于我们与之共享个人信息的公司、组织，我们会要求他们按照符合法律规定的保密和安全措施来处理个人信息。",
+        "start": 4400,
+        "end": 5038,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_2",
+        "classId_name": "第三方收集或共享个人信息",
+        "text": "（2）信息转让\n我们不会将您的个人信息转让给任何公司、组织和个人，但以下情况除外：\n  * 事先获得您的明确同意或授权；\n  * 根据适用的法律法规、法律程序的要求、强制性的行政或司法要求；\n  * 在涉及合并、收购、资产转让或类似的交易时，如涉及到个人信息转让，我们会要求新的持有您个人信息的公司、组织继续受本隐私政策的约束，否则,我们将要求该公司、组织重新向您征求授权同意。",
+        "start": 5039,
+        "end": 5228,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_2",
+        "classId_name": "第三方收集或共享个人信息",
+        "text": "（3）公开披露\n我们仅会在以下情形，公开披露您的个人信息：\n  * 在公布中奖活动名单时脱敏展示中奖者手机号或去哪儿网登录名；\n  * 根据您的需求，在您同意的披露方式下披露您所指定的个人信息；\n  * 根据法律、法规的要求、强制性的行政执法或司法要求所必须披露您个人信息的情况下，我们可能会依据所要求的个人信息类型和披露方式公开披露您的个人信息。",
+        "start": 5229,
+        "end": 5403,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_5",
+        "classId_name": "数据保存",
+        "text": "5、信息保存及跨境传输\n（1）您的个人信息我们将保存至您账号注销之日后的三个月，除非基于本政策所述目的所必需期间和法律法规及监管规定的时限继续保存您的个人信息，超出期限后将对您的个人信息进行删除或匿名化处理。如我们停止运营去哪儿网产品或服务，我们将及时停止继续收集您个人信息的活动，将停止运营的通知以逐一送达或公告的形式通知您，对所持有的个人信息进行删除或匿名化处理。\n（2）我们在中华人民共和国境内运营中收集和产生的个人信息，存储在中国境内，以下情形除外：\n  * 法律法规有明确规定；\n  * 获得您的明确授权；\n  * 您通过互联网进行跨境交易等个人主动行为。",
+        "start": 5415,
+        "end": 5698,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_15",
+        "classId_name": "网站Cookie及WebBeacon使用",
+        "text": "6、Cookie的使用\n为使您获得更轻松的访问体验，您访问去哪儿网站或使用去哪儿提供的服务时，我们可能会通过小型数据文件识别您的身份，这么做可以帮您省去重复输入注册信息的步骤，或者帮助判断您的账户安全状态。这些数据文件可能是Cookie, Flash Cookie, 您的浏览器或关联应用程序提供的其他本地存储（以下简称Cookie）。请您理解，我们的某些服务只能通过使用 Cookie 才可得到实现。如您的浏览器或浏览器附加服务允许，您可以修改对 Cookie 的接受程度或者拒绝去哪儿网的Cookie。多数浏览器工具中的“帮助”部分会告诉您怎样防止您的浏览器接受新的 Cookie，怎样让您的浏览器在您收到一条新Cookie 时通知您或者怎样彻底关闭Cookie。此外，您可以通过改变浏览器附加程序的设置，或通过访问提供商的网页，来关闭或删除浏览器附加程序使用的类似数据。但这一举动在某些情况下可能会影响您安全访问去哪儿网和使用去哪儿提供的服务。",
+        "start": 5710,
+        "end": 6135,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_6",
+        "classId_name": "数据安全",
+        "text": "8、信息安全与保护\n（1）去哪儿非常重视信息安全，成立了专门的负责团队。\n我们努力为您提供信息保护，采取了合适的管理、技术以及物理安全措施，参照国内外信息安全标准及最佳实践建立了与业务发展相适应的信息安全保障体系，已获得PCI-DSS支付卡行业数据安全标准认证。\n（2）我们从数据的生命周期角度出发，在数据收集、存储、显示、处理、使用、销毁等各个环节建立了安全防护措施，根据信息敏感程度的级别采取不同的控制措施，包括但不限于访问控制、SSL加密传输、AES256bit或以上强度的加密算法进行加密存储等\n（3）我们对可能接触到您信息的员工也采取了严格管理，可监控他们的操作情况，对于数据访问、内外部传输使用、脱敏、解密等重要操作建立了审批机制，并与上述员工签署保密协议等。与此同时，我们还定期对员工进行信息安全培训，要求员工在日常工作中形成良好操作习惯，提升数据保护意识。\n（4）尽管有前述的安全措施，但同时也请您理解在网络上不存在“完善的安全措施”。我们会按现有的技术提供相应的安全措施来保护您的信息，提供合理的安全保障，我们将尽力做到使您的信息不被泄露、损毁或丢失。\n（5）您的账户均有安全保护功能，请妥善保管您的账号及密码信息，切勿将密码告知他人，如果您发现自己的个人信息泄露，特别是您的账号和密码发生泄露，请您立即与我们的客服联系，以便我们采取相应的措施。\n（6）请您及时保存或备份您的文字、图片等其他信息，您需理解并接受，您接入我们的服务所用的系统和通讯网络，有可能因我们可控范围外的因素而出现问题。",
+        "start": 6327,
+        "end": 6982,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_6",
+        "classId_name": "数据安全",
+        "text": "9、信息安全事件处置\n在不幸发生个人信息安全事件后，我们会启动应急预案，同时按照法律法规的要求向您告知：安全事件的基本情况和可能的影响、我们已采取或将要采取的处置措施、您可自主防范和降低风险的建议、对您的补救措施等。事件相关情况我们将以推送通知等方式告知您，难以逐一告知个人信息主体时，我们会采取合理、有效的方式发布公告。同时，我们还将按照监管部门要求，上报个人信息安全事件的处置情况。",
+        "start": 6994,
+        "end": 7187,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_11",
+        "classId_name": "年龄限制条款",
+        "text": "10、未成年人信息保护\n去哪儿非常重视对未成年人个人信息的保护。若您是18周岁以下的未成年人，在使用去哪儿的服务前，务必事先取得您家长或法定监护人的同意。",
+        "start": 7199,
+        "end": 7276,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_4",
+        "classId_name": "用户权利增删改查",
+        "text": "11、用户个人信息管理\n（1）您可以随时登录去哪儿网，查询、更正、删除自己的账户信息；修改个人资料、隐私设置、安全设置；修改收货地址、常用联系人信息等使用去哪儿服务时您提供的个人信息。操作过程中如有问题，可以联系去哪儿客服。\n（2）您可通过如下路径注销去哪儿网账户：拨打去哪儿官网公布的客服电话，根据语音提示转至客服人工服务，由客户验证后完成账号的注销。您还可以通过登录去哪儿旅行APP进行账户注销。注销某去哪儿网账户后，您该账户内的所有信息将被清空，我们将不会再收集、使用或共享与该账户相关的个人信息，但之前的信息我们仍需按照监管要求的时间进行保存，且在该依法保存的时间内有权机关仍有权依法查询。\n（3）您可以通过删除您的个人信息、关闭设备功能、修改个人设置等方式改变您授权我们继续收集个人信息的范围或撤回您的授权。\n（4）如您选择开通金融类产品或服务，基于此类产品的特殊性和相关法律法规的要求，每个业务功能需要一些基本的个人信息才能得以完成，当您撤回授权后，我们无法继续为您提供所对应的服务。同时，如果您已使用的服务尚未结束，例如欠款未结清，在服务结束之前您有可能无法撤回您的授权。",
+        "start": 7288,
+        "end": 7781,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_12",
+        "classId_name": "数据迁移",
+        "text": "12、从中国大陆地区以外访问我们的网站\n如果您是中国大陆以外地区的公民，或者从中国大陆以外地区访问我们的网站，请您注意，您的信息可能被传送至、存储于中国大陆，并且在中国大陆进行处理。中国大陆的数据保护法和其他法律可能与您所在国家/地区的法律不同，您继续使用我们的服务，意味着放弃适用您所在国家/地区的法律。选择使用我们的服务的同时，您了解并同意您的信息可能被传送至我们的网站，并如本隐私政策所述的与我们共享信息的第三方。",
+        "start": 7793,
+        "end": 8003,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_7",
+        "classId_name": "隐私政策修改更新",
+        "text": "14、隐私政策的修改\n去哪儿会在必要时修改隐私政策，请您理解，我们可能会适时修订本隐私政策，我们将标注本隐私政策最近更新的日期。未经您明确同意，去哪儿不会减少您按照本隐私权政策所应享有的权利。对于重大变更，去哪儿还会提供更为显著的通知（包括对于某些服务，我们会通过电子邮件发送通知，说明隐私权政策的具体变更内容）。请您经常回访本隐私政策，以阅读最新版本。",
+        "start": 8234,
+        "end": 8411,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_14",
+        "classId_name": "开发者公司名称联系方式",
+        "text": "15、如何联系我们\n本协议中的个人信息控制者为北京趣拿信息技术有限公司，注册地址为北京市海淀区苏州街29号维亚大厦17层1709室。\n如您有任何与个人信息保护或隐私保护相关的问题、意见或建议，以及相关的投诉、举报，您可以通过访问在线客服系统，或拨打去哪儿网主页公示的客服电话与我们联系。您也可以将您的问题寄至以下地址：\n北京市海淀区苏州街29号维亚大厦17层  法务部（收）\n一般情况下，我们将在核验您的身份无误后三十日内回复。",
+        "start": 8423,
+        "end": 8637,
+        "fields": [],
+        "sub_annotations": []
+    }
+]

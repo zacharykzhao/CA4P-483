@@ -1,0 +1,2198 @@
+[
+    {
+        "classId": "e_16",
+        "classId_name": "其他",
+        "text": "24小时服务热线：95580信用卡服务热线：40088-95580\n当前位置:中国邮政储蓄银行电子银行隐私政策\n中国邮政储蓄银行电子银行隐私政策\n本版发布日期：2020年11月25日\n生效日期：2020年12月2日",
+        "start": 39,
+        "end": 146,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_16",
+        "classId_name": "其他",
+        "text": "中国邮政储蓄银行股份有限公司（“我行”）深知个人信息对您的重要性，会尽力保护您的个人信息安全。我行致力于维护您对我行的信任，恪守以下原则保护您的个人信息：权责一致原则、目的明确原则、选择同意原则、必要性原则、确保安全原则、公开透明原则等。同时，我行承诺依法采取相应的安全保护措施来保护您的个人信息。\n请您仔细阅读并确认《中国邮政储蓄银行电子银行隐私政策》（简称《隐私政策》）。本《隐私政策》是中国邮政储蓄银行手机银行、个人网上银行、微信银行系统等电子渠道统一使用的一般性隐私条款，适用于以上电子渠道的所有产品和服务。对应具体的产品（或服务），我行收集和使用您的信息的目的、方式和范围将通过相应的产品（或服务）协议、授权书等方式向您明示，并取得您的授权或同意。上述文件与本《隐私政策》共同构成我行与您之间达成的完整隐私政策，两者如有不一致之处，以相应的产品（或服务）协议或授权书的约定为准。为了更好保护您的个人信息，建议您完整阅读更新的《隐私政策》，特别提醒您应留意本《隐私政策》中加粗形式的条款内容。",
+        "start": 158,
+        "end": 608,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_16",
+        "classId_name": "其他",
+        "text": "本《隐私政策》将帮助您了解以下内容：\n1.我们如何收集用户信息\n2.我们如何使用用户信息\n3.我们如何存储和保护用户信息\n4.我们如何共享、转让和公开披露用户信息\n5.您如何管理用户信息\n6.未成年人用户信息保护\n7.如何变更\n8.联系我们",
+        "start": 620,
+        "end": 740,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_1",
+        "classId_name": "App或网站收集使用处理个人信息",
+        "text": "1.我们如何收集用户信息",
+        "start": 764,
+        "end": 776,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_1",
+        "classId_name": "App或网站收集使用处理个人信息",
+        "text": "为向您提供服务并确保您的中国邮政储蓄银行电子银行（简称“电子银行”，包括手机银行、个人网上银行、微信银行）账号安全，在您使用电子银行服务过程中，电子银行会收集您在使用服务过程中主动输入或因使用服务而产生的信息：",
+        "start": 1006,
+        "end": 1111,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_1",
+        "classId_name": "App或网站收集使用处理个人信息",
+        "text": "当您注册电子银行账号时，依据法律法规及监管要求，我们会收集您的手机号码、昵称、头像、身份证信息、银行卡号，并验证您的银行卡密码，以帮助您完成电子银行注册。若您已是中国邮政储蓄银行电子银行注册客户，您可以使用电子银行注册手机号/用户名/证件号码/卡（账）号直接登录电子银行，我们会收集您提供的登录信息并对信息进行验证核对。如果您拒绝提供这些信息，您可能无法注册电子银行账号或无法正常使用我们的服务。",
+        "start": 1127,
+        "end": 1325,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_1",
+        "classId_name": "App或网站收集使用处理个人信息",
+        "text": "（4）当您使用电子银行消息服务时，我们会收集您的账户信息及交易信息，以便及时向您发送账户资金变动及相关交易通知；我们也可能会向我们的合作伙伴收集其合法留存并经您授权可以共享使用的信息，以便为您提供相应消息通知等服务。\n（5）当您使用电子银行提供的搜索服务时，我们会收集您的搜索关键词信息。当搜索关键词信息无法单独识别您的个人身份时，该信息不属于您的用户信息，我们可以对其加以其他目的使用；当搜索关键词信息与您的其他信息结合可以识别您的个人身份时，我们将在结合期间将您的搜索关键词信息作为您的用户信息，对其加以保护处理。\n（6）当您使用网点预约、生活等基于地理位置的功能时，我们会收集您的位置信息，目的是为了向您提供所在位置的相应服务。如您拒绝提供该信息，您将无法使用上述功能，但这不影响您正常使用电子银行的其他功能。\n（7）当您使用手机银行系统手机号转账、手机银行系统话费充值等涉及通讯录的功能时，我们仅获取您从通讯录中点选的联系人信息，并进行加密传输以防恶意截取。上述信息属于个人敏感信息。如您不需要使用上述功能，可不提供该信息，将不会影响您正常使用电子银行的其他功能。",
+        "start": 1924,
+        "end": 2410,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_1",
+        "classId_name": "App或网站收集使用处理个人信息",
+        "text": "1.3\n当您使用电子银行服务时，为了维护服务的正常运行，优化我们的服务体验及保障您的账号，我们会收集以下基础信息，包括您的设备型号、操作系统、唯一设备标识符、电子银行软件版本号、登录IP地址、接入网络的方式、类型和状态、网络质量数据、设备加速器（如重力感应设备等）、操作日志、系统参数、应用权限、安装的应用信息或正在运行的进程信息、服务日志信息（如您在电子银行搜索、查看的信息、服务故障信息、引荐网址等信息）等日志信息，这些信息是为您提供服务必须收集的基础信息，以保障您正常使用我们的服务。",
+        "start": 4091,
+        "end": 4336,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_1",
+        "classId_name": "App或网站收集使用处理个人信息",
+        "text": "1.4\n为向您提供更加准确、个性和便捷的服务，提升服务体验、改进服务质量，或为防范风险，我们会收集您反馈意见建议或举报时提供的信息，收集您参与问卷调查时向我们反馈的信息，收集您使用电子银行功能或服务的类别、方式和操作信息，及您在我行的用户信息，我们会对这些信息进行统计、分析，并会根据上述信息向您提供相应服务或产品，如您不希望收到手机银行APP推送的服务信息，可以在首次安装APP时拒绝接受消息通知，或者在移动端操作系统中的“通知”中心关掉对应的通知功能。",
+        "start": 4348,
+        "end": 4576,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_1",
+        "classId_name": "App或网站收集使用处理个人信息",
+        "text": "1.5\n当您在电子银行中使用第三方提供的服务时，第三方可能会通过电子银行获取您的昵称、头像等公开信息以及用于联合登录的唯一标识信息。我行可能从第三方（如微信、支付宝、苹果等）获取您授权共享的昵称、头像等公开信息，并在您同意本政策后将您的第三方账号与我行手机银行app用户绑定，使您可以通过第三方账号登录并使用我行的产品或服务，您可以通过手机银行“安全中心”等方式解除绑定关系；如您已明示同意该第三方可以获取您的地理位置信息，我们将授予该第三方获得终端地理位置信息接口，其可以通过该接口获得您的具体位置信息；在经过您的明示同意后，第三方可获取您的手机号等信息；对于您在使用第三方提供的服务时主动提供给第三方的相关信息，我们将视为您允许该第三方获取上述此类信息；对于您在使用该第三方服务时产生的信息，应由您与该第三方依法约定上述信息的收集和使用事项。如您拒绝第三方在提供服务时收集、使用或者传递上述信息，将可能会导致您无法在电子银行中使用第三方的相应服务，但这不影响您使用电子银行的其他功能。",
+        "start": 4588,
+        "end": 5032,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_1",
+        "classId_name": "App或网站收集使用处理个人信息",
+        "text": "1.6 以下情形中，您可选择是否授权我们收集、使用您的个人信息：\n（1）基于相机（摄像头）的功能：您可使用扫码支付、银行卡识别、身份证识别、刷脸认证等服务。\n（2）基于相册（图片库）的功能：您可使用手机银行、个人网上银行系统的头像上传、电子回单保存、二维码扫描、银行卡及身份证识别等服务。\n（3）基于地理位置的功能：您可开启定位服务，提高查询附近网点、获得优惠商户信息的准确性。\n（4）基于麦克风的功能：您可使用手机银行声纹认证、语音搜索等服务。\n（5）Touch ID/Face ID：您可使用手机银行登录、支付等服务。\n（6）基于日历的功能：您可以使用手机银行金融日历等服务。\n（7）基于通讯录的功能：您可以使用手机号转账、话费充值、汇款短信通知等服务。\n（8）基于通话记录的功能：您可以通过通话记录使用贷款申请等服务。\n（9）基于二维码的功能：您可以通过乘车二维码使用公共交通等服务。\n（10）基于电话的功能：您可以使用拨打客服电话等服务。\n（11）基于短信的功能：您可以使用短信验证码回填等服务。\n（12）基于NFC的功能：您可以使用POS转账等服务。\n（13）基于设备识别码和状态、蓝牙的功能：用于保障您在登录、支付时的交易安全。\n（14）基于存储空间的功能：用于缓存您在使用电子银行过程中产生的图文信息。\n在相应电子银行系统使用过程中，上述功能可能需要您在您的设备中向我们开启您的相机（摄像头）、相册（图片库）、地理位置（位置信息）、麦克风、Face ID、日历、通讯录、通话记录、二维码、电话、短信、NFC、设备识别码和状态、存储空间、蓝牙的访问权限，以实现这些功能所涉及的信息的收集和使用。请您注意，您开启这些权限即代表您授权我们可以收集和使用这些信息来实现上述功能，如您取消了这些授权，则我们将不再继续收集和使用您的这些信息，也无法为您提供上述与这些授权所对应的功能。",
+        "start": 5044,
+        "end": 5837,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_1",
+        "classId_name": "App或网站收集使用处理个人信息",
+        "text": "另外，根据相关法律法规及监管要求、国家标准，以下情形中，我们可能会收集、使用您的相关个人信息无需另行征求您的授权同意：\n（1）与我行履行法律法规规定的义务相关的；\n（2）与国家安全、国防安全直接相关的；\n（3）与公共安全、公共卫生、重大公共利益直接相关的；\n（4）与刑事侦查、起诉、审批和判决执行等直接相关的；\n（5）出于维护您或其他个人的生命、财产等重大合法权益但又很难得到本人同意的；\n（6）所涉及的个人信息是您自行向社会公众公开的；\n（7）根据您要求签订和履行合同所必需的；\n（8）从合法公开披露的信息中收集个人信息的，如合法的新闻报道、政府信息公开等渠道；\n（9）维护所提供产品或服务的安全稳定运行所必需的，例如发现、处置产品或服务的故障；\n（10）出于公共利益开展统计或学术研究所必需，且其对外提供学术研究或描述的结果时，对结果中所包含的个人信息进行去标识化处理的；\n（11）法律法规及监管要求规定的其他情形。\n如在上述情形之外收集或使用您的用户信息，我们将向您充分说明收集、使用您相关信息的目的、用途、内容和范围，并事先征得您的同意或授权。\n请您理解，我们向您提供的功能和服务是不断更新和发展的，如果某一功能或服务未在前述说明中且收集了您的信息，我们会通过页面提示、交互流程、网站公告等方式另行向您说明信息收集的内容、范围和目的，并征得您的同意。",
+        "start": 5849,
+        "end": 6428,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_1",
+        "classId_name": "App或网站收集使用处理个人信息",
+        "text": "2.我们如何使用用户信息\n2.1\n您同意我们可将您的信息用于我们的其他服务或营销推广，例如向您推荐您可能感兴趣的产品或服务，如您不希望收到手机银行APP页面上的消息通知，可以在首次安装APP时拒绝接受消息通知，或者在移动端操作系统中的“通知”中心关掉对应的通知功能。\n2.2\n为确保服务安全，帮助我们更好地了解电子银行运行情况，我们可能记录电子银行运行的相关信息，比如，您使用电子银行的频率、崩溃数据、总体使用情况、性能数据等。我们不会将存储在分析软件中的信息与您在电子银行中输入的任何个人身份信息相结合。\n2.3 当我们要将您的用户信息，用于本政策载明的收集目的、用途或合理相关范围以外的其他用途时，我们将在使用前再次征得您的同意。",
+        "start": 6443,
+        "end": 6760,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_8",
+        "classId_name": "信息定义",
+        "text": "个人信息是指以电子或者其他方式记录的能够单独或者与其他信息结合识别特定自然人身份或者反映特定自然人活动情况的各种信息。个人信息包括姓名、出生日期、证件号码、个人生物识别信息、通信通讯联系方式、住址、账户信息、财产状况、行踪轨迹等。其中一旦泄露、非法提供或滥用可能危害人身和财产安全，极易导致个人名誉、身心健康受到损害或歧视性待遇等的信息为个人敏感信息，主要包括：证件号码、个人生物识别信息、银行账号、征信信息、财产信息、交易信息、行踪轨迹、健康生理信息等。",
+        "start": 777,
+        "end": 1005,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "向您提供服务并确保您的中国邮政储蓄银行电子银行（简称“电子银行”，包括手机银行、个人网上银行、微信银行）账号安全",
+        "start": 1007,
+        "end": 1063,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "验证您的银行卡密码",
+        "start": 1181,
+        "end": 1190,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "帮助您完成电子银行注册",
+        "start": 1192,
+        "end": 1203,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "对信息进行验证核对",
+        "start": 1277,
+        "end": 1286,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "注册电子银行账号",
+        "start": 1304,
+        "end": 1312,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "正常使用我们的服务",
+        "start": 1315,
+        "end": 1324,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "使用相应功能或服务",
+        "start": 1398,
+        "end": 1407,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "让您更安全、快速地登录手机银行",
+        "start": 1414,
+        "end": 1429,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "进行验证",
+        "start": 1648,
+        "end": 1652,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "使用电子银行提供的实名认证服务时",
+        "start": 1801,
+        "end": 1817,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "通过验证账号/卡密码等方式对有关信息进行有效性核验",
+        "start": 1859,
+        "end": 1884,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "需完成实名认证后方可使用的产品或服务",
+        "start": 1904,
+        "end": 1922,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "及时向您发送账户资金变动及相关交易通知",
+        "start": 1960,
+        "end": 1979,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "为您提供相应消息通知等服务",
+        "start": 2018,
+        "end": 2031,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "向您提供所在位置的相应服务",
+        "start": 2227,
+        "end": 2240,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "验证身份及使用上述功能的支付服务",
+        "start": 2518,
+        "end": 2534,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "便于您查询及操作",
+        "start": 2565,
+        "end": 2573,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "按您添加银行卡时同意签署的《中国邮政储蓄银行电子银行个人客户服务协议》执行",
+        "start": 2580,
+        "end": 2617,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "您的身份核验、确定交易、支付结算、完成配送、为您查询订单以及提供客服咨询与售后服务",
+        "start": 3113,
+        "end": 3154,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "判断您的交易是否存在异常以保护您的交易安全",
+        "start": 3168,
+        "end": 3189,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "为您提供商品或服务",
+        "start": 3296,
+        "end": 3305,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "保证您的账号安全",
+        "start": 3335,
+        "end": 3343,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "与您核验身份",
+        "start": 3367,
+        "end": 3373,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "用于产品购买、查询",
+        "start": 3603,
+        "end": 3612,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "及时向您发送账户资金变动及相关通知",
+        "start": 3847,
+        "end": 3864,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "应用于账号保护设置",
+        "start": 4032,
+        "end": 4041,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "维护服务的正常运行，优化我们的服务体验及保障您的账号",
+        "start": 4109,
+        "end": 4135,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "为您提供服务",
+        "start": 4306,
+        "end": 4312,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "保障您正常使用我们的服务",
+        "start": 4323,
+        "end": 4335,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "向您提供更加准确、个性和便捷的服务，提升服务体验、改进服务质量，或为防范风险",
+        "start": 4353,
+        "end": 4391,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "进行统计、分析，并会根据上述信息向您提供相应服务或产品",
+        "start": 4478,
+        "end": 4505,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "使您可以通过第三方账号登录并使用我行的产品或服务",
+        "start": 4726,
+        "end": 4750,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "确保服务安全，帮助我们更好地了解电子银行运行情况",
+        "start": 6582,
+        "end": 6606,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "电子银行",
+        "start": 1078,
+        "end": 1082,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 1151,
+        "end": 1153,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 1263,
+        "end": 1265,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "您",
+        "start": 1268,
+        "end": 1269,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "您",
+        "start": 1289,
+        "end": 1290,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "您",
+        "start": 1356,
+        "end": 1357,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 1369,
+        "end": 1371,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "您",
+        "start": 1430,
+        "end": 1431,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "您",
+        "start": 1625,
+        "end": 1626,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "您",
+        "start": 1822,
+        "end": 1823,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "您",
+        "start": 1886,
+        "end": 1887,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 1941,
+        "end": 1943,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 1980,
+        "end": 1982,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 2053,
+        "end": 2055,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 2210,
+        "end": 2212,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 2323,
+        "end": 2325,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "您",
+        "start": 2449,
+        "end": 2450,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 2538,
+        "end": 2540,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "您",
+        "start": 2911,
+        "end": 2912,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 3099,
+        "end": 3101,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 3155,
+        "end": 3157,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "邮乐特卖商户",
+        "start": 3265,
+        "end": 3271,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "第三方配送公司",
+        "start": 3272,
+        "end": 3279,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "售后服务",
+        "start": 3280,
+        "end": 3284,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "电话客服",
+        "start": 3310,
+        "end": 3314,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "售后功能",
+        "start": 3315,
+        "end": 3319,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "呼叫中心客服",
+        "start": 3347,
+        "end": 3353,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "在线客服",
+        "start": 3354,
+        "end": 3358,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "您",
+        "start": 3413,
+        "end": 3414,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我行",
+        "start": 3492,
+        "end": 3494,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "您",
+        "start": 3674,
+        "end": 3675,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我行",
+        "start": 3828,
+        "end": 3830,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我行",
+        "start": 4007,
+        "end": 4009,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 4136,
+        "end": 4138,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 4392,
+        "end": 4394,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "您",
+        "start": 4397,
+        "end": 4398,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "您",
+        "start": 4416,
+        "end": 4417,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "第三方",
+        "start": 4612,
+        "end": 4615,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我行",
+        "start": 4654,
+        "end": 4656,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "您",
+        "start": 4677,
+        "end": 4678,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "第三方",
+        "start": 4784,
+        "end": 4787,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "第三方",
+        "start": 4852,
+        "end": 4855,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 5877,
+        "end": 5879,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 6280,
+        "end": 6282,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 6607,
+        "end": 6609,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 7654,
+        "end": 7656,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 7691,
+        "end": 7693,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 7835,
+        "end": 7837,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 1083,
+        "end": 1085,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 1154,
+        "end": 1156,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 1266,
+        "end": 1268,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 1371,
+        "end": 1373,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 1944,
+        "end": 1946,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 1994,
+        "end": 1996,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 2056,
+        "end": 2058,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 2213,
+        "end": 2215,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "获取",
+        "start": 2326,
+        "end": 2328,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 2542,
+        "end": 2544,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "使用",
+        "start": 3102,
+        "end": 3104,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "使用",
+        "start": 3159,
+        "end": 3161,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "使用",
+        "start": 3287,
+        "end": 3289,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "使用",
+        "start": 3320,
+        "end": 3322,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "使用",
+        "start": 3359,
+        "end": 3361,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "提供",
+        "start": 3431,
+        "end": 3433,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 3496,
+        "end": 3498,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 3831,
+        "end": 3833,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "采集",
+        "start": 4018,
+        "end": 4020,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 4139,
+        "end": 4141,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 4395,
+        "end": 4397,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "获取",
+        "start": 4624,
+        "end": 4626,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "获取",
+        "start": 4675,
+        "end": 4677,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "获取",
+        "start": 4789,
+        "end": 4791,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "获取",
+        "start": 4856,
+        "end": 4858,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集、使用",
+        "start": 5882,
+        "end": 5887,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集或使用",
+        "start": 6268,
+        "end": 6273,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "记录",
+        "start": 6611,
+        "end": 6613,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "信息",
+        "start": 1108,
+        "end": 1110,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "手机号码、昵称、头像、身份证信息、银行卡号",
+        "start": 1158,
+        "end": 1179,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "登录信息",
+        "start": 1272,
+        "end": 1276,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "这些信息",
+        "start": 1294,
+        "end": 1298,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "用户信息",
+        "start": 1380,
+        "end": 1384,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "指纹/脸部图像信息",
+        "start": 1593,
+        "end": 1602,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "指纹",
+        "start": 1639,
+        "end": 1641,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "脸部图像信息",
+        "start": 1642,
+        "end": 1648,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "姓名、证件类型、证件号码、银行卡号/账号、刷脸认证",
+        "start": 1827,
+        "end": 1852,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "上述信息",
+        "start": 1890,
+        "end": 1894,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "账户信息",
+        "start": 1948,
+        "end": 1952,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "交易信息",
+        "start": 1953,
+        "end": 1957,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "合法留存并经您授权可以共享使用的信息",
+        "start": 1997,
+        "end": 2015,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "搜索关键词信息",
+        "start": 2060,
+        "end": 2067,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "位置信息",
+        "start": 2217,
+        "end": 2221,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "联系人信息",
+        "start": 2337,
+        "end": 2342,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "手机号码",
+        "start": 2458,
+        "end": 2462,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "手机银行",
+        "start": 2464,
+        "end": 2468,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "姓名、银行卡卡号/账号",
+        "start": 2470,
+        "end": 2481,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "姓名、手机号码、证件类型",
+        "start": 2494,
+        "end": 2506,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "证件号码",
+        "start": 2507,
+        "end": 2511,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "相关收付款交易记录,形成收款人名册",
+        "start": 2546,
+        "end": 2563,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "实名信息",
+        "start": 2984,
+        "end": 2988,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "身份信息",
+        "start": 3001,
+        "end": 3005,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "身份证、军官证、护照、驾驶证",
+        "start": 3010,
+        "end": 3024,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "证件复印件",
+        "start": 3031,
+        "end": 3036,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "号码",
+        "start": 3037,
+        "end": 3039,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "本人的照片或视频",
+        "start": 3042,
+        "end": 3050,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "姓名、电话号码",
+        "start": 3051,
+        "end": 3058,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "订单信息",
+        "start": 3106,
+        "end": 3110,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "订单信息",
+        "start": 3163,
+        "end": 3167,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "订单信息",
+        "start": 3291,
+        "end": 3295,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "账号信息和订单信息",
+        "start": 3324,
+        "end": 3333,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "账号信息",
+        "start": 3363,
+        "end": 3367,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "除上述信息外的其他信息",
+        "start": 3433,
+        "end": 3444,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "地址、联系人",
+        "start": 3458,
+        "end": 3464,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "联系电话",
+        "start": 3465,
+        "end": 3469,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "姓名、证件类型、证件号码、银行卡号/账号、手机号码信息",
+        "start": 3500,
+        "end": 3527,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "性别、国家/地区、通讯地址、联系方式、职业、年收入、健康状况、学历、婚姻状态",
+        "start": 3543,
+        "end": 3581,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "银行卡号/账号、卡密码、手机号码、签约透支账号、家庭住址、收入情况",
+        "start": 3696,
+        "end": 3729,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "账户信息",
+        "start": 3835,
+        "end": 3839,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "交易信息",
+        "start": 3840,
+        "end": 3844,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "声纹信息",
+        "start": 4022,
+        "end": 4026,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "基础信息",
+        "start": 4143,
+        "end": 4147,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "设备型号、操作系统、唯一设备标识符、电子银行软件版本号、登录IP地址、接入网络的方式、类型和状态、网络质量数据",
+        "start": 4152,
+        "end": 4207,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "设备加速器",
+        "start": 4208,
+        "end": 4213,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "重力感应设备",
+        "start": 4215,
+        "end": 4221,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "操作日志、系统参数、应用权限",
+        "start": 4224,
+        "end": 4238,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "安装的应用信息或正在运行的进程信息",
+        "start": 4239,
+        "end": 4256,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "服务日志信息",
+        "start": 4257,
+        "end": 4263,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "搜索、查看的信息",
+        "start": 4271,
+        "end": 4279,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "服务故障信息",
+        "start": 4280,
+        "end": 4286,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "引荐网址",
+        "start": 4287,
+        "end": 4291,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "信息",
+        "start": 4411,
+        "end": 4413,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "信息",
+        "start": 4430,
+        "end": 4432,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "使用电子银行功能或服务的类别",
+        "start": 4436,
+        "end": 4450,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "、方式",
+        "start": 4450,
+        "end": 4453,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "操作信息",
+        "start": 4454,
+        "end": 4458,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "在我行的用户信息",
+        "start": 4461,
+        "end": 4469,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "昵称、头像",
+        "start": 4628,
+        "end": 4633,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "唯一标识信息",
+        "start": 4647,
+        "end": 4653,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "昵称、头像等公开信息",
+        "start": 4683,
+        "end": 4693,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "地理位置信息",
+        "start": 4793,
+        "end": 4799,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "手机号",
+        "start": 4860,
+        "end": 4863,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "相关个人信息",
+        "start": 5889,
+        "end": 5895,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "用户信息",
+        "start": 6275,
+        "end": 6279,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "使用电子银行的频率、崩溃数据、总体使用情况、性能数据",
+        "start": 6629,
+        "end": 6655,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "用户信息",
+        "start": 7673,
+        "end": 7677,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "用户信息",
+        "start": 7705,
+        "end": 7709,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "用户信息",
+        "start": 7850,
+        "end": 7854,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "依据法律法规及监管要求",
+        "start": 1139,
+        "end": 1150,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "进行加密传输以防恶意截取",
+        "start": 2344,
+        "end": 2356,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "根据国家法律法规及监管要求或服务提供方（包括票务销售方、酒店、旅行社及其授权的代理方、基础电信运营商、移动转售运营商等）的要求",
+        "start": 2917,
+        "end": 2980,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "征得您的明示同意后",
+        "start": 4009,
+        "end": 4018,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "您已明示同意",
+        "start": 4777,
+        "end": 4783,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "经过您的明示同意后",
+        "start": 4842,
+        "end": 4851,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "根据相关法律法规及监管要求、国家标准，以下情形",
+        "start": 5852,
+        "end": 5875,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "上述情形之外",
+        "start": 6262,
+        "end": 6268,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "向您充分说明收集、使用您相关信息的目的、用途、内容和范围",
+        "start": 6283,
+        "end": 6311,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "事先征得您的同意或授权",
+        "start": 6313,
+        "end": 6324,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "国家有关机关依法查询或使用您的用户信息",
+        "start": 7633,
+        "end": 7652,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "征得您的同意或授权",
+        "start": 7680,
+        "end": 7689,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "向您告知公开披露的目的、披露信息的类型及可能涉及的敏感信息，并征得您的明示同意",
+        "start": 7718,
+        "end": 7757,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "根据相关法律法规及监管要求、国家标准，以下情形",
+        "start": 7810,
+        "end": 7833,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "提供",
+        "start": 1269,
+        "end": 1271,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "提供",
+        "start": 1292,
+        "end": 1294,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "提供",
+        "start": 1364,
+        "end": 1366,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "提供",
+        "start": 1589,
+        "end": 1591,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "使用",
+        "start": 1635,
+        "end": 1637,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "提供",
+        "start": 1823,
+        "end": 1825,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "提供",
+        "start": 1888,
+        "end": 1890,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "提供",
+        "start": 2452,
+        "end": 2454,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "提供",
+        "start": 2980,
+        "end": 2982,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "传输",
+        "start": 3593,
+        "end": 3595,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "提供",
+        "start": 3692,
+        "end": 3694,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "提供",
+        "start": 4408,
+        "end": 4410,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "反馈",
+        "start": 4427,
+        "end": 4429,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "授权共享",
+        "start": 4678,
+        "end": 4682,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "共享",
+        "start": 7666,
+        "end": 7668,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "转让",
+        "start": 7669,
+        "end": 7671,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "披露",
+        "start": 7699,
+        "end": 7701,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "共享",
+        "start": 7840,
+        "end": 7842,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "转让",
+        "start": 7843,
+        "end": 7845,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "披露",
+        "start": 7848,
+        "end": 7850,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_3",
+        "classId_name": "用户提供个人信息",
+        "text": "1.2 当您使用电子银行功能或服务时，您可能需要向我们提供或授权我们收集相应服务所需的用户信息。如您拒绝提供，您可能将无法使用相应功能或服务。\n（1）为了让您更安全、快速地登录手机银行，您可选择我们提供的指纹/刷脸登录（IOS客户使用此功能需要您的机型为iPhone5s（含）以上，并且设备IOS版本为9.0（含）以上；安卓客户使用此功能需要您设备的Android版本为6.0（含）以上的系统，并且手机支持该功能，您可通过手机银行“我的-安全中心-指纹/面容登录”查看您的手机是否支持该服务）服务，向我们提供您的指纹/脸部图像信息。在您开启手机银行系统的指纹/刷脸登录功能后，您登录手机银行时需要使用您的指纹、脸部图像信息进行验证。我们不会采集您的指纹及脸部图像原图。您的指纹及脸部图像原图仅保存在您授权采集指纹及脸部图像的设备上。您可以通过手机银行“我的-安全中心-指纹/面容登录”开启或关闭此功能。\n（2）在您需要找回登录密码时，我们需要验证您的身份信息，包括手机号、姓名、证件类型、证件号码、卡号、卡密码信息。\n（3）当您使用电子银行提供的实名认证服务时，我们需要您提供您的姓名、证件类型、证件号码、银行卡号/账号、刷脸认证等信息，并可能通过验证账号/卡密码等方式对有关信息进行有效性核验。如您不提供上述信息，我们将无法向您提供需完成实名认证后方可使用的产品或服务。",
+        "start": 1337,
+        "end": 1923,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_3",
+        "classId_name": "用户提供个人信息",
+        "text": "（8）当您使用手机银行、个人网上银行系统的转账汇款、扫码支付等收付款功能时，您需要提供收款方的手机号码（仅手机银行）、姓名、银行卡卡号/账号等信息，并可能需要提供您的姓名、手机号码、证件类型及证件号码等信息，以便于验证身份及使用上述功能的支付服务。此外，我们还会收集您的相关收付款交易记录,形成收款人名册，以便于您查询及操作。有关具体事项按您添加银行卡时同意签署的《中国邮政储蓄银行电子银行个人客户服务协议》执行。上述信息属于个人敏感信息，如您拒绝提供该信息，仅会使您无法使用上述功能，但不影响您正常使用电子银行的其他功能。\n当您通过电子银行客户端进行支付管理时，如开通扫码支付等操作，我们会验证您的交易密码。您可以通过电子银行客户端“我的-安全中心”修改您的交易密码。为保证您的账户资金安全，当您进入安全中心修改交易密码时可能需要验证您的用户身份，并提供原交易密码。\n（9）当您使用电子银行内嵌的邮乐特卖等生活服务功能时，您需要在订单页面中填写收货人姓名、收货地址及手机号码等信息，同时该订单中会载明订单号、您所购买的商品或服务信息、您应支付的金额及支付方式等信息。\n您在预订机票、电影票等业务时，您还可能需要根据国家法律法规及监管要求或服务提供方（包括票务销售方、酒店、旅行社及其授权的代理方、基础电信运营商、移动转售运营商等）的要求提供您的实名信息，这些实名信息可能包括您的身份信息（比如您的身份证、军官证、护照、驾驶证等载明您身份的证件复印件或号码）、您本人的照片或视频、姓名、电话号码等。这些订单中将可能包含您的行程、酒店地址等信息。\n上述所有信息构成您的订单信息，我们将使用您的订单信息来进行您的身份核验、确定交易、支付结算、完成配送、为您查询订单以及提供客服咨询与售后服务；我们还会使用您的订单信息来判断您的交易是否存在异常以保护您的交易安全。\n下单后，您可以选择使用邮储卡支付或他行卡支付。当您下单并选择货到付款或在线完成支付后，邮乐特卖商户和第三方配送公司将为您完成订单的交付。您在此同意，邮乐特卖商户和第三方配送公司、售后服务等可以使用您的订单信息以为您提供商品或服务。\n我们的电话客服和售后功能会使用您的账号信息和订单信息。为保证您的账号安全，我们的呼叫中心客服和在线客服会使用您的账号信息与您核验身份。当您需要我们提供与您订单信息相关的客服与售后服务时，我们将会查询您的订单信息。您有可能会在与我们的客服人员沟通时，提供除上述信息外的其他信息，例如：当您要求我们变更配送地址、联系人或联系电话时。\n（10）当您使用电子银行投资理财功能时，我行可能收集您的姓名、证件类型、证件号码、银行卡号/账号、手机号码信息。如果您购买保险，还可能收集您的性别、国家/地区、通讯地址、联系方式、职业、年收入、健康状况、学历、婚姻状态信息，并可能会将上述信息传输给相应产品提供方用于产品购买、查询。上述信息属于个人敏感信息，如您拒绝提供该信息，仅会使您无法使用上述功能，但不影响您正常使用电子银行的其他功能。\n（11）当您使用电子银行信贷服务时，需要向我们提供您的银行卡号/账号、卡密码、手机号码、签约透支账号、家庭住址、收入情况，同时授权我们向依法设立的征信机构及其他合法机构使用、查询、收集您的信息，并要求合作机构对您的相关信息承担保密责任，具体见您与我行在信贷业务中另行签署的授权书。\n（12）当您使用电子银行短信服务时，我行会收集您的账户信息及交易信息，以便及时向您发送账户资金变动及相关通知；我行可能会在经您明示同意后向我行的合作伙伴提供您的账户信息及交易信息，以便及时向您发送账户资金变动及相关通知。如您选择手机短信动态口令作为安全认证工具，我行将向您的签约手机号发送手机短信动态口令，用以电子银行交易验证。\n（13）当您使用电子银行声纹认证服务时，在您开启声纹认证功能后，我行征得您的明示同意后采集您的声纹信息，声纹信息将应用于账号保护设置。您可以通过手机银行“我的-安全中心-安全认证-声纹认证”开启或关闭此功能。",
+        "start": 2411,
+        "end": 4079,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "相应产品提供方",
+        "start": 3596,
+        "end": 3603,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "第三方",
+        "start": 7663,
+        "end": 7666,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_5",
+        "classId_name": "数据保存",
+        "text": "3.我们如何存储和保护用户信息\n3.1\n我们会按照法律法规及监管要求规定，将在境内收集和产生的用户信息存储于境内。",
+        "start": 6775,
+        "end": 6832,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_5",
+        "classId_name": "数据保存",
+        "text": "3.2 我们仅在本政策所述目的所必需期间和法律法规及监管要求的时限内保留您的用户信息,例如：\n手机号码：当您需要使用电子银行服务时，我们需要一直保存您的手机号码，以保证您正常使用该服务，当您注销电子银行账户后，我们将删除相应的信息；\n用户头像：当您设置了头像以后，我们会一直保存您的头像，用于登录页面展示使用。当您选择恢复默为认头像后，我们将删除您设置的头像信息；\n登录地区：当您登录后，我们会记录您持有卡片的注册地信息，以保证您正式使用该服务。此信息随着客户端的卸载而删除。\n3.3",
+        "start": 6926,
+        "end": 7168,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_12",
+        "classId_name": "数据迁移",
+        "text": "当您使用跨境金融服务时，我行获得您的授权同意后，您的个人信息（如跨境汇款业务中的客户姓名、汇款人账号、汇款人地址）可能会被传输到境外机构用于业务处理，我行会采取有效措施保护您的信息安全。",
+        "start": 6832,
+        "end": 6925,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_6",
+        "classId_name": "数据安全",
+        "text": "我们将遵守相关法律规定，采取必要措施保障用户信息的安全，以防止用户信息在意外的、未经授权的情况下被非法访问、复制、修改、传送、遗失、破坏、处理或使用。例如，信息加密存储、使用加密技术进行信息传输、匿名化处理信息、数据库加锁等手段来保护您的用户信息。\n3.4\n我们建立配套的管理制度、内控机制和流程以保障您的信息安全。例如，严格限制信息访问权限、对信息访问及处理行为进行系统监控、要求相关工作人员签署保密协议等。\n3.5\n若发生用户信息泄露等安全事件，我们会启动应急预案，阻止安全事件扩大，并将及时将事件相关情况以推送通知、邮件或电话等方式告知您，难以逐一告知用户信息主体的，我们会采取公告等合理、有效的方式告知。\n3.6\n互联网环境并非百分之百安全，我们将尽力确保您发送给我们的任何信息的安全性。如果我们的物理、技术、或管理防护设施遭到破坏，导致信息被非授权访问、公开披露、篡改、或毁坏，导致您的合法权益受损，我们将承担相应的法律责任，不可抗力情形除外。",
+        "start": 7169,
+        "end": 7596,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_2",
+        "classId_name": "第三方收集或共享个人信息",
+        "text": "4.我们如何共享、转让和公开披露用户信息\n除国家有关机关依法查询或使用您的用户信息外，我们不会主动向任何第三方共享或转让您的用户信息，除非征得您的同意或授权。\n我们不会对外公开披露所收集的用户信息，如须披露，我们会向您告知公开披露的目的、披露信息的类型及可能涉及的敏感信息，并征得您的明示同意。关于第三方共享服务收集的目的、方式、范围，涉及用户信息使用的逐项SDK相关情况，详见本政策附件。\n另外，根据相关法律法规及监管要求、国家标准，以下情形中，我们可能会共享、转让、公开披露用户信息无需事先征得您授权同意：\n（1）与我行履行法律法规规定的义务相关的；\n（2）与国家安全、国防安全直接相关的；\n（3）与公共安全、公共卫生、重大公共利益直接相关的；\n（4）与刑事侦查、起诉、审批和判决执行等直接相关的；\n（5）出于维护您或其他个人的生命、财产、声誉等重大合法权益但又很难得到本人同意的；\n（6）您自行向社会公众公开的个人信息；\n（7）从合法公开披露的信息中收集的用户信息，如合法的新闻报道、政府信息公开等渠道。",
+        "start": 7611,
+        "end": 8066,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_2",
+        "classId_name": "第三方收集或共享个人信息",
+        "text": "附件：第三方SDK收集用户信息情况\n  \n1.人脸识别SDK\nSDK类型：工具\n用途描述：通过人脸识别，APP调用人脸识别SDK，活体识别，采集人脸图片，通过联网核查验证用户身份\n业务功能：设备绑定活体检测\n采集用户信息字段：人脸图片\n是否向第三方共享：否\n  \n2.OCR（光学字符识别）SDK\nSDK类型：工具\n用途描述：通过OCR，APP识别证件信息读取证件信息内容\n业务功能：扫描身份证、银行卡、行驶证\n采集用户信息字段：身份证、银行卡、行驶证\n是否向第三方共享：否\n  \n3.微信SDK\nSDK类型：社交\n用途描述：通过微信登录获取用户信息和授权登录、通过微信分享图片、链接\n业务功能：手机银行登录、转账、截图分享\n采集用户信息字段：昵称、头像\n是否向第三方共享：否\n  \n4.消息推送SDK\nSDK类型：消息推送\n用途描述：通过消息推送，APP调用消息推送SDK生成token推送标示\n业务功能：动账、系统、营销类消息推送\n采集用户信息字段：无\n是否向第三方共享：否\n  \n5.银联云闪付SDK\nSDK类型：支付\n用途描述：通过银联云闪付，APP调用银联云闪付完成支付\n业务功能：移动商圈支付\n采集用户信息字段：无\n是否向第三方共享：否\n  \n6.百度地图定位SDK\nSDK类型：工具\n用途描述：通过百度地图定位，APP调用百度地图定位获取用户位置信息\n业务功能：生活模块\n采集用户信息字段：经纬度\n是否向第三方共享：否\n  \n7.设备指纹SDK\nSDK类型：工具\n用途描述：通过设备指纹，APP调用监测用户支付使用设备是否安全，防止交易欺诈风险\n业务功能：支付设备安全检测、交易欺诈识别\n采集用户信息字段：系统版本、手机型号、手机号\n是否向第三方共享：否\n  \n8.银联交通出行SDK\nSDK类型：支付\n用途描述：通过银联交通出行，APP调用进行交通出行场景乘车码生成\n业务功能：交通费用支付\n采集用户信息字段：用户ID、城市、经纬度\n是否向第三方共享：是\n  \n9.录音SDK\nSDK类型：工具\n用途描述：通过调用api进行语音录制，保存到本地并提取上传\n业务功能：用于声纹识别的语音录制\n采集用户信息字段：语音数据\n是否向第三方共享：否\n  \n10.视频签约SDK\nSDK类型：工具\n用途描述：通过视频聊天实现在手机上签约贷款合同\n业务功能：贷款签约\n采集用户信息字段：姓名、身份证号、手机号\n是否向第三方共享：否\n  \n11.线上行为采集SDK\nSDK类型：工具\n用途描述：通过线上运营分析sdk收集行为信息，用于分析用户行为特征\n业务功能：用户行为特征分析\n采集用户信息字段：APP内所有原生页面和H5页面的页面浏览、元素点击行为、启动和退出等信息\n是否向第三方共享：否",
+        "start": 9648,
+        "end": 10794,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_4",
+        "classId_name": "用户权利增删改查",
+        "text": "5.您如何管理用户信息\n5.1 在您使用电子银行期间，您有权修改或自主更新您的个人信息。在您修改个人信息之前，我们会验证您的身份。您需要登录电子银行客户端，登录后可以在“我的-设置”中，查阅、修改、删除您的基本信息，包括修改头像、客户身份信息查询/修改等；或在“安全中心”中查询、修改您相关安全设置，例如变更第三方协议、开启账户安全锁等。\n其中，对于修改客户身份信息，如您为我行电子银行注册用户，您可以登录手机银行后，点击“我的-设置-客户身份信息查询/修改”，修改成功后可再次登录电子银行。\n5.2 您可以登录电子银行客户端，在“首页-我的账户”功能中管理绑定的银行卡，或通过“我的-明细查询”以及“首页-我的账户”查询相关交易明细，可通过“我的-安全中心”修改登录密码、开启或关闭小额免密免签。\n5.3您可以通过关闭电子银行部分功能，或在开通使用部分功能或服务时拒绝提供相关用户信息的方式，来阻止我们或提供相关服务的第三方获取您的用户信息。上述方式可能会导致我们或相关第三方无法为您提供相应服务。",
+        "start": 8078,
+        "end": 8528,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_4",
+        "classId_name": "用户权利增删改查",
+        "text": "5.5如您为我行电子银行注册用户，您可以自主要求通过我行柜面或电子银行等渠道注销您的电子银行。注销电子银行后，您的电子银行账号同步注销。您注销电子银行账号的行为是不可逆行为，一旦您注销您的电子银行，您的电子银行账号会同步注销，我们将不再通过电子银行客户端收集您的个人信息，并将删除有关您电子银行账号的一切信息，法律法规或监管机构对个人信息存储时间另有规定的除外。如您在注销过程中存在疑问咨询，我们将在十五个工作日内进行处理和反馈。\n请您注意，我行电子银行注册用户仅在手机设备中删除电子银行App时，我行不会注销您的电子银行账户，有关您电子银行账号的一切信息不会删除。您仍需注销您的电子银行方能达到以上目的。",
+        "start": 8625,
+        "end": 8928,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_9",
+        "classId_name": "获取撤回同意",
+        "text": "5.4 如您需要撤回我行收集您的个人信息授权，您可以通过注销账户的方式，撤回我们继续收集您个人信息的全部授权，也可以通过“我的-安全中心-授权管理”分别撤回已授权第三方收集您个人信息的授权。",
+        "start": 8529,
+        "end": 8624,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_11",
+        "classId_name": "年龄限制条款",
+        "text": "6.未成年人用户信息保护\n如果没有监护人的同意，未成年人不得创建自己的用户账户。如您为未成年人的，请您的监护人仔细阅读本政策，并在征得您的监护人同意的前提下使用我们的服务或向我们提供信息。对于经监护人同意而收集未成年人个人信息的情况，我们只会在法律法规及监管要求允许、监护人明确同意或者保护未成年人所必要的情况下使用、对外提供此信息。我行将根据国家相关法律法规的规定保护未成年人的个人信息的保密性及安全性。如您的监护人不同意您按照本政策使用我行的服务或向我行提供信息，请您立即终止使用我行的服务并及时通知我行。",
+        "start": 8943,
+        "end": 9198,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_7",
+        "classId_name": "隐私政策修改更新",
+        "text": "7.如何变更\n因业务需要或法律法规及监管要求，我们可能会适时对本政策进行修订。在本政策发生变更时，我们会在电子银行客户端上发出本政策更新版本，并会在变更内容生效前以弹窗形式或网站(https://pbank.psbc.com/perbank/html/system/privacyShow.html)公告等合理方式通知您，以便您能及时了解本政策最新内容。若您在本政策修订后继续使用电子银行服务，即表示您已充分阅读、理解并接受修订后的本政策并同意我们按照修订后的政策收集、使用、保存和共享您的相关信息。",
+        "start": 9213,
+        "end": 9463,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_13",
+        "classId_name": "通知联系用户",
+        "text": "以弹窗形式或网站(https://pbank.psbc.com/perbank/html/system/privacyShow.html)公告等合理方式通知您",
+        "start": 9294,
+        "end": 9373,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_14",
+        "classId_name": "开发者公司名称联系方式",
+        "text": "8.联系我们\n如您对本政策有任何意见、建议、疑问或需要投诉，您可以通过95580电话客服、电子银行中“客服”等我行客户服务渠道与我们联系咨询，我们会及时处理您的意见、建议、投诉及相关问题，一般情况下，我们将在十五个工作日内回复。\n公司名称：中国邮政储蓄银行股份有限公司。\n注册地址：北京市西城区金融大街甲3号。",
+        "start": 9478,
+        "end": 9633,
+        "fields": [],
+        "sub_annotations": []
+    }
+]

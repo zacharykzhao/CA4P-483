@@ -1,0 +1,920 @@
+[
+    {
+        "classId": "e_16",
+        "classId_name": "其他",
+        "text": "# 《小睡眠服务协议》",
+        "start": 39,
+        "end": 50,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_16",
+        "classId_name": "其他",
+        "text": "第一部分：服务协议\n欢迎您使用心潮科技的服务！\n特别提醒：当您开始使用小睡眠服务时即代表您已阅读并决定接受《小睡眠服务协议》（“本协议”）。若您对本协议存在疑问，或者无法全部或者部分接受本协议，或者在使用小睡眠过程中需要向心潮科技反馈（含建议、投诉、举报等），请毫不迟疑地与心潮科技取得联系：邮箱：office@heartide.com。",
+        "start": 52,
+        "end": 221,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_16",
+        "classId_name": "其他",
+        "text": "(2)\n小睡眠：为心潮科技开发、运营、管理的一款应用软件产品，旨在为您提供本协议范围内免费、非独占和全球范围内的软件使用许可及技术服务。本协议项下的“小睡眠”根据不同的语境将可能指小睡眠移动端、小睡眠小程序、小睡眠独立网站或者心潮科技围绕小睡眠软件产品提供的相关技术服务。\n(3) 心潮科技：涉及（且仅在涉及）到心潮科技依据本协议可享有的权利时，本协议项中所指“心潮科技”指广州心与潮信息科技有限公司。\n(4) 素材：指由心潮科技提供的已经内置于小睡眠的或者未来即将内置的包括但不限于音频、字体、文字、说明、动画等用于帮助您睡眠、放松等的相关素材与信息。",
+        "start": 375,
+        "end": 652,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_16",
+        "classId_name": "其他",
+        "text": "2.知识产权声明：\n小睡眠本身自带的所有版本、技术、程序、素材和所有的信息内容（信息内容，包括但不限于产品功能、用户界面、操作步骤、商标、专利、计算机软件作品）的知识产权均归心潮科技所有，心潮科技对您的软件使用许可在任何情况下均不应视为向您转让心潮知识产权的部分或者全部。您通过小睡眠下载、使用的任何素材及其他信息内容，仅限您个人娱乐、学习、研究、训练或者欣赏使用，未经心潮科技书面同意，不可用于任何商业用途。",
+        "start": 664,
+        "end": 869,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_16",
+        "classId_name": "其他",
+        "text": "5.您的合法使用：\n您不得使用小睡眠制作、储存或发布如下信息内容：\n(1)\n危害国家及社会安全信息，其表现可能包括但不限于反对宪法所确定的基本原则；危害国家安全，泄露国家机密，颠覆国家政权，破坏国家统一；煽动民族仇恨、民族歧视，破坏民族团结；破坏国家宗教政策，宣扬邪教和封建迷信；散布谣言，扰乱社会秩序，破坏社会稳定；宣扬赌博、暴力、凶杀、恐怖或者教唆犯罪；煽动非法集会、结社、游行、示威、聚众扰乱社会秩序；含有法律、行政法规和国家规定禁止的其他内容。\n(2)\n淫秽色情信息，其表现可能包括但不限于发布淫秽、色情内容，包括但不限于招嫖、寻找一夜情、性伴侣等内容；发布以色情为目的的情色文字、情色视频、情色图画等内容；长期发布与淫秽、色情内容擦边的或具有性暗示类的内容。\n(3) 侵权信息，其表现可能包括但不限于制作、发布、储存侵犯他人名誉权、肖像权、隐私权、知识产权等合法权利的内容。\n(4) 不正当竞争信息，其表现可能包括但不限于发布篡改、增减、删除权利标识的内容；发布未经授权方授权的内容等。\n(5) 其他违反法律法规、政策以及社会公序良俗或干扰小睡眠正常运营及侵犯任何第三方合法权益的信息。\n如您有上述违法或侵害他人合法权利的行为，心潮科技有权立即采取适当措施，包括但不限于：删除该等违法信息内容，终止对您的软件使用许可并停止所有技术服务，诉诸执法机构或司法机关等。若因您违法或不当使用小睡眠而造成的自身损失或对心潮科技和/或第三方造成损害的，您须自行承担所有责任。",
+        "start": 1106,
+        "end": 1742,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_16",
+        "classId_name": "其他",
+        "text": "6.广告业务许可：\n小睡眠中可能包括广告，这属于心潮科技合理合法的商业模式，您同意在使用小睡眠过程中接收由心潮科技与第三方合作伙伴发布的广告信息。",
+        "start": 1754,
+        "end": 1827,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_16",
+        "classId_name": "其他",
+        "text": "7.不可抗力与其他免责事由：\n小睡眠在使用中会受到包括但不限于如下不可抗力或者其他因素的影响：政治原因、社会环境、自然灾害、经济危机、计算机病毒或黑客攻击、服务器或系统不稳定、您所在的特殊位置、任何技术能力、网络质量以及通信线路、计算机故障等（以下统称“免责事由”）。若出现上述免责事由情况时，心潮科技将尽努力在第一时间进行修复或者及时补救，给您造成损失的，心潮科技在适用法律与政策允许的范围内免责。",
+        "start": 1839,
+        "end": 2039,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_16",
+        "classId_name": "其他",
+        "text": "8.适用法律与政策：\n与本协议有关的事项，均应适用中华人民共和国（但不含港澳台地区）的法律与政策。该等适用法律与政策可能处于动态变化过程中，因此，若因适用法律与政策发生变化，导致您和/或心潮科技在本协议项下的权益有所增减，均不构成本协议的全部或某个条款自然无效或终止可执行性的依据，除非发生变化的该等适用法律与政策属于效力性强制性规定。",
+        "start": 2051,
+        "end": 2219,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_16",
+        "classId_name": "其他",
+        "text": "9.法律纠纷管辖：\n若在您与心潮科技之间出现了与本协议和/或与小睡眠有关的法律纠纷，只要发生纠纷时本协议适用法律与政策允许将广州心与潮信息科技有限公司所在地作为唯一或其中之一的纠纷管辖地的，则您同意由广州心与潮信息科技有限公司所在地有管辖权的人民法院排他管辖该纠纷。",
+        "start": 2231,
+        "end": 2364,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_16",
+        "classId_name": "其他",
+        "text": "第二部分：隐私权政策\n我们非常重视您的隐私权。\n心潮科技致力于保护用户隐私权。本隐私权政策旨在向您说明，在使用我们的服务时，我们如何收集、存储、使用和管理这些信息。这些信息包括您向我们提供的个人信息或者我们通过我们网站或者移动应用终端收集到的相关信息。收集途径主要包括：移动设备上（如：苹果设备和安卓设备）提供的心潮科技应用程序产品(“我们的服务”)。\n使用我们的服务就意味着您同意本政策，并同意根据本政策中规定的方式对您的数据（包括您的个人信息）进行收集和处理。如果您不同意本政策及未来修订版本的任何条款，请不要使用服务。\n如对本政策或任何隐私权相关问题有任何疑问，请通过office@heartide.com与我们联系。\n我们可能收集的信息\n为了向您提供更好的服务，我们将在法律允许的范围内和当且仅当您使用某些功能或者服务时，收集您的相关数据和信息。\n关于使用Health kit（中文名叫健康）数据说明",
+        "start": 2376,
+        "end": 2780,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_16",
+        "classId_name": "其他",
+        "text": "免责声明：\n本应用程序提供的包括但不限于检测数据、睡眠报告、治疗建议或其他建议，仅供参考，不代表最终结论。如您在使用本应用的过程中，需要做出医疗决定，请你务必先寻求专业治疗机构和医生的建议。\n(1) 当你需要使用Health kit（中文名叫健康，后续文案表述统一为Health kit）服务与我们产生数据链接时，首先需要你“打开小睡眠”-“我的”-“更多设置”-打开“健康中心”（默认关闭），此时，我们会明确告知你我们需要获取数据及简要功能说明，如你确认需要使用Health kit服务，请你点击“同意”，反之，你可以“拒绝”。\n(2) 当你同意我们与Health kit服务产生数据链接时，请你在“睡眠分析”类目中允许“小睡眠”睡眠数据（主要是卧床时间）写入到Health kit里，这将有利于你更好更方面管理睡眠，除此之外，我们承诺不会从Health kit获取其他无关数据。\n(3) 我们承诺你通过我们使用Health Kit的数据不会用于广告或应用其他商业化服务目的。同时请你也注意，你使用我们服务可能会存在广告，但是你使用Health Kit中的数据不会用于广告或应用其他商业化服务目的。\n(4) 我们承诺不会向任何第三方展示、出售任何Health Kit获取数据，并且我们承诺建立严密技术措施确保你数据的安全。\n您提供给我们的信息\n在您使用我们的服务时，我们可能建议您注册一个帐号，以方便您充分利用我们的服务及其优势。当您注册帐号时，我们会收集您所提供的可识别您身份的信息，这些信息包括您的帐号名、移动电话号码等注册帐号所必须的信息。",
+        "start": 2792,
+        "end": 3466,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_16",
+        "classId_name": "其他",
+        "text": "适用法律和争议解决\n本政策，包括但不限于本政策的订立、效力、解释、履行和争议解决，均应适用中华人民共和国（但不含港澳台地区）的法律与政策。任何源于或者与本政策有关的争议首先应经双方友好协商，请联系office@heartide.com。",
+        "start": 7389,
+        "end": 7507,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_16",
+        "classId_name": "其他",
+        "text": "更新日期：2020年11月5日",
+        "start": 7612,
+        "end": 7627,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_7",
+        "classId_name": "隐私政策修改更新",
+        "text": "1.本协议及定义：\n(1)\n本协议是您与心潮科技之间关于您使用小睡眠相关服务所订立的协议。心潮科技可能根据自身对商业、适用法律与政策等要素的判断，随时更新本协议；若您无法接受本协议或本协议未来更新版本的全部或者部分条款，可联系心潮科技，在您未与心潮科技沟通一致前，请暂停使用小睡眠。",
+        "start": 233,
+        "end": 374,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_7",
+        "classId_name": "隐私政策修改更新",
+        "text": "本政策更新\n您同意，我们根据法律法规或者心潮科技商业决策相应更新本政策，您愿意受修订后政策的约束。如果涉及本政策重大变更，在必要时我们将以公告通知方式做出。我们建议您定期关注我们公告。",
+        "start": 7519,
+        "end": 7611,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_1",
+        "classId_name": "App或网站收集使用处理个人信息",
+        "text": "3.您的必要授权：\n您同意授予心潮科技一项为提供本服务、优化本服务和宣传推广本服务之目的所必须的免费、非独占、不可撤销的可在全球范围内使用您在本服务过程中产生信息内容的权利。心潮科技将尽最大努力在合理范围内使用上述信息内容，且您的必要授权并不代表心潮科技对上述信息内容的必然使用。",
+        "start": 881,
+        "end": 1021,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_1",
+        "classId_name": "App或网站收集使用处理个人信息",
+        "text": "您使用服务时我们获取的信息\n设备信息\n当您在移动平台上使用任何心潮科技应用程序时，我们可能收集并记录某些信息，比如您的产品唯一身份标识（持续的／间断的）、硬件种类、介质访问控制（“MAC”）地址、国际移动电话设备识别码（“IMEI”）、您的操作系统（“OS”）版本、您设备的名称和您的位置（基于您的网络协议（“IP”）地址、SIM卡国家码、GPS）。这一信息有助于我们解决问题并了解总体用户使用倾向。\n我们可能收集您的位置信息以向您提供正确的应用程序版本及更优质的服务。除本政策另有约定外，我们不会与任何第三方分享这一信息。如果您不再希望我们跟踪或使用这一信息，您可以在设备上关闭网络、GPS功能或者禁用我们获取您网络、GPS、设备信息权限。\n此外，我们可能创建了唯一用户身份标识以跟踪您对我们服务的使用。此唯一用户身份标识与您的个人资料信息储存在一起，以便于了解您正在使用的心潮科技应用程序。\n使用日志\n当您使用我们的服务，包括参与、生成、浏览与我们的服务相关的内容时，我们将会自动收集心潮科技应用内某些相关的日志信息，这些信息包括：(1)关于您的使用时间、使用频率和购买记录等细节；(2)设备统计信息、关键操作路径、错误日志、崩溃记录、语言和时区等。这些日志信息能够帮助我们更好的了解和改善我们的服务，并非用于识别任何特定的个人。",
+        "start": 3478,
+        "end": 4045,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_1",
+        "classId_name": "App或网站收集使用处理个人信息",
+        "text": "广告\n我们可能在服务中引进合作伙伴放映广告，但我们不会将您的个人身份的信息共享给合作伙伴，仅会向这些合作伙伴提供不能识别您个人身份的间接画像以及去标识化或匿名化后的设备、网络、渠道信息，以帮助其在不识别个人身份的前提下提升广告有效触达率。",
+        "start": 4057,
+        "end": 4176,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_1",
+        "classId_name": "App或网站收集使用处理个人信息",
+        "text": "我们收集用户信息是以提升服务质量与用户体验为目的，为了实现这一目的，我们可能将您的信息用于：\n(一) 创建帐号；\n(二) 运营及改善我们的服务；\n(三) 了解您与您的喜好，以提升您使用我们服务的体验与乐趣；\n(四) 回复您的评论与问题，并提供客户服务；\n(五) 提供及交付您要求的产品与服务；\n(六) 发送与您相关的信息，包括确认、技术通告、更新、安全警告、支持及行政信息；\n(七) 使您能与其他用户交流；\n(八) 将其与我们从第三方获得的其他信息相联系或结合，以更好地了解您的喜好并为您提供更优质的服务；\n(九) 为上述目的，在其他国家处理您的信息。",
+        "start": 6322,
+        "end": 6598,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_1",
+        "classId_name": "App或网站收集使用处理个人信息",
+        "text": "除非下列情形发生时，我们无权披露您的全部或部分信息：\n(一) 为保护他人的人身或财产安全；\n(二) 为防止或解决网络欺诈；\n(三) 维护心潮科技的合法权利及权益;\n(四) 实现“我们可能收集的信息”部分所述目的，前提条件为该等披露接收方应同等接受本政策约束并可以提供信息充分保护；\n(五) 根据法律、法规的规定，或遵从政府部门、司法机关的要求；通常前述要求都是为了保护网络安全和保护我们、我们的用户和第三方的权利、财产和安全。",
+        "start": 6610,
+        "end": 6823,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_6",
+        "classId_name": "数据安全",
+        "text": "4.个人信息保护：\n保护您的个人信息是心潮科技的一项基本原则。心潮科技将按照本协议规定收集、使用、存储和管理您的个人信息。",
+        "start": 1033,
+        "end": 1094,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_6",
+        "classId_name": "数据安全",
+        "text": "信息安全性\n我们使用合理措施，以防信息的丢失、不当使用、未经授权阅览或披露。例如，在某些服务中，我们将利用加密技术来保护您提供的个人信息。但请您理解（在互联网行业）即便竭尽所能加强安全措施，也不可能始终保证信息百分之百的安全。您需要了解，您接入我们的服务所用的系统和通讯网络，有可能因我们可控范围外的因素而出现问题。",
+        "start": 6835,
+        "end": 6993,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "当您在移动平台上使用任何心潮科技应用程序时",
+        "start": 3497,
+        "end": 3518,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "当您使用我们的服务，包括参与、生成、浏览与我们的服务相关的内容时",
+        "start": 3881,
+        "end": 3913,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "在我们提供的服务中",
+        "start": 4234,
+        "end": 4243,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "我们可能将您的信息用于",
+        "start": 6356,
+        "end": 6367,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "除非下列情形发生时",
+        "start": 6610,
+        "end": 6619,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 3519,
+        "end": 3521,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 3679,
+        "end": 3681,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 3723,
+        "end": 3725,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 3914,
+        "end": 3916,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 4080,
+        "end": 4082,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "该第三方",
+        "start": 4227,
+        "end": 4231,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "第三方",
+        "start": 4298,
+        "end": 4301,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "友盟+SDK",
+        "start": 4518,
+        "end": 4524,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "程序",
+        "start": 4529,
+        "end": 4531,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "创蓝闪验SDK",
+        "start": 4654,
+        "end": 4661,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "程序",
+        "start": 4666,
+        "end": 4668,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "七牛SDK",
+        "start": 4991,
+        "end": 4996,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "程序",
+        "start": 5001,
+        "end": 5003,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 6322,
+        "end": 6324,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 6620,
+        "end": 6622,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 3523,
+        "end": 3525,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "记录",
+        "start": 3526,
+        "end": 3528,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 3683,
+        "end": 3685,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 3920,
+        "end": 3922,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "使用",
+        "start": 4243,
+        "end": 4245,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "访问",
+        "start": 4304,
+        "end": 4306,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 4531,
+        "end": 4533,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "获取",
+        "start": 4677,
+        "end": 4679,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "读取",
+        "start": 5003,
+        "end": 5005,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 6324,
+        "end": 6326,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "某些信息",
+        "start": 3528,
+        "end": 3532,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "产品唯一身份标识",
+        "start": 3537,
+        "end": 3545,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "硬件种类、介质访问控制（“MAC”）地址",
+        "start": 3555,
+        "end": 3575,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "国际移动电话设备识别码（“IMEI”）",
+        "start": 3576,
+        "end": 3595,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "您的操作系统（“OS”）版本",
+        "start": 3596,
+        "end": 3610,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "您设备的名称",
+        "start": 3611,
+        "end": 3617,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "您的位置",
+        "start": 3618,
+        "end": 3622,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "网络协议（“IP”）地址",
+        "start": 3627,
+        "end": 3639,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "SIM卡国家码",
+        "start": 3640,
+        "end": 3647,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "GPS",
+        "start": 3648,
+        "end": 3651,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "位置信息",
+        "start": 3687,
+        "end": 3691,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "这一信息",
+        "start": 3735,
+        "end": 3739,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "某些相关的日志信息",
+        "start": 3929,
+        "end": 3938,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "关于您的使用时间、使用频率和购买记录等细节",
+        "start": 3949,
+        "end": 3970,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "设备统计信息、关键操作路径、错误日志、崩溃记录、语言和时区等",
+        "start": 3974,
+        "end": 4004,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "个人身份的信息",
+        "start": 4087,
+        "end": 4094,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "cookies、APIs（应用程序编程接口）",
+        "start": 4245,
+        "end": 4267,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "SDKs（软件程序开发包）",
+        "start": 4268,
+        "end": 4281,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "您的设备标识符、MAC（媒体访问控制）地址、IMEI（移动设备国际身份码）、区域（使用给定语言的特定地点）、地理位置信息",
+        "start": 4308,
+        "end": 4368,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "IP地址",
+        "start": 4369,
+        "end": 4373,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "设备Mac地址",
+        "start": 4535,
+        "end": 4542,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "唯一设备识别码",
+        "start": 4543,
+        "end": 4550,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "IMEI/android ID/IDFA/OPENUDID/GUID",
+        "start": 4551,
+        "end": 4585,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "SIM卡 IMSI 信息",
+        "start": 4586,
+        "end": 4598,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "地理位置",
+        "start": 4612,
+        "end": 4616,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "token",
+        "start": 4679,
+        "end": 4684,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "服务端携带输入的手机号码",
+        "start": 4712,
+        "end": 4724,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "token",
+        "start": 4725,
+        "end": 4730,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "您的网络状态",
+        "start": 5005,
+        "end": 5011,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "用户信息",
+        "start": 6326,
+        "end": 6330,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "您的全部或部分信息",
+        "start": 6626,
+        "end": 6635,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "向您提供正确的应用程序版本及更优质的服务",
+        "start": 3692,
+        "end": 3712,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "旨在实现在其各自隐私权政策下提供服务",
+        "start": 4377,
+        "end": 4395,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "提供统计分析服务",
+        "start": 4600,
+        "end": 4608,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "校准报表数据准确性",
+        "start": 4616,
+        "end": 4625,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "基础反作弊服务",
+        "start": 4628,
+        "end": 4635,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "以校验您的本机号码并提供一键登录账号的服务",
+        "start": 4765,
+        "end": 4786,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "以提供崩溃日志上报、热修复、版本更新推送的服务",
+        "start": 5011,
+        "end": 5034,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "以提升服务质量与用户体验为目的",
+        "start": 6331,
+        "end": 6346,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "为了实现这一目的",
+        "start": 6347,
+        "end": 6355,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "任何第三方",
+        "start": 3728,
+        "end": 3733,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "合作伙伴",
+        "start": 4097,
+        "end": 4101,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "分享",
+        "start": 3733,
+        "end": 3735,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "共享",
+        "start": 4094,
+        "end": 4096,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "披露",
+        "start": 6624,
+        "end": 6626,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_2",
+        "classId_name": "第三方收集或共享个人信息",
+        "text": "第三方收集的信息\n我们提供的服务可能包括属于我们的服务供应商的第三方追踪工具。该第三方可能会在我们提供的服务中使用cookies、APIs（应用程序编程接口）及SDKs（软件程序开发包），由此代表我们收集并分析用户信息。第三方可能会访问诸如您的设备标识符、MAC（媒体访问控制）地址、IMEI（移动设备国际身份码）、区域（使用给定语言的特定地点）、地理位置信息及IP地址等信息，旨在实现在其各自隐私权政策下提供服务。我们的隐私权政策不会覆盖到第三方追踪工具的使用。我们没有权限访问或控制这些第三方。如果您想知道更多相应第三方信息，请发送电子邮件至office@heartide.com。\n安卓版本集成SDK服务及权限使用说明\n（1）友盟+SDK\n我们的产品集成友盟+SDK，需要允许程序收集您的设备Mac地址、唯一设备识别码（IMEI/android ID/IDFA/OPENUDID/GUID、SIM卡 IMSI 信息）以提供统计分析服务，并通过地理位置校准报表数据准确性，提供基础反作弊服务。\n（2）创蓝闪验SDK\n我的产品集成创蓝闪验SDK，需要允许程序访问您的网络状态，获取token（通过authenticationRespond获取），服务端携带输入的手机号码和token去运营商网关进行校验（服务端调用mobile-validate接口），以校验您的本机号码并提供一键登录账号的服务。\n（3）FileDownloader SDK\n我们的产品集成FileDownloader SDK，需要允许程序读写您的外部存储,如SD卡上写文件，以提供音频文件下载保存的服务。\n（4）七牛SDK\n我们的产品集成七牛SDK，需要允许程序读取您的设备外部存储空间(内置SDcard和外置SDCard)的文件，以提供音频文件下载完整性校验、以及用户账号头像上传的服务。\n（5）腾讯Bugly SDK\n我们的产品集成七牛SDK，需要允许程序读取您的网络状态以提供崩溃日志上报、热修复、版本更新推送的服务\n（6）takephoto_library SDK\n我们的产品集成takephoto_library，需要允许程序访问您的相机权限，以提供帐号头像图片选择器和裁剪的功能。\n（7）微信支付SDK\n我们的产品集成微信支付SDK，需要允许程序访问您的网络状态，以保障帐号安全并提供支付服务。\n（8）支付宝SDK\n我们的产品集成支付宝SDK，需要允许程序访问您的网络状态，以保障帐号安全并提供支付服务。\n（9）腾讯广点通广告SDK\n我们的产品集成腾讯广点通广告SDK，需要允许程序访问您的网络状态来获取粗略位置，以提供广告展示的业务。\n（10）头条穿山甲广告SDK\n我们的产品集成头条穿山甲广告SDK，需要允许程序访问您的网络状态来获取粗略位置，以提供广告展示的业务。\n（11）友盟分享SDK\n我们的产品集成友盟分享SDK，需要允许程序访问您的网络状态，以提供内容分享（包含QQ、微信、微博、Facebook）的服务。\n（12）Google登录SDK\n我们的产品集成Google登录SDK，程序仅用于提供登录第三方帐号服务，不需要任何访问权限。\n（13）魅族推送SDK\n我们的产品集成魅族推送SDK，需要允许程序访问您的网络状态、读取设备外部存储空间、访问电话状态以提供消息通知的服务。\n（14）华为推送SDK\n我们的产品集成华为推送SDK，需要允许程序访问您的网络状态、读取设备外部存储空间、访问电话状态以提供消息通知的服务。\n（15）小米推送SDK\n我们的产品集成小米推送SDK，需要允许程序访问您的网络状态、读取设备外部存储空间、访问电话状态以提供消息通知的服务。\n（16）OPPO推送SDK\n我们的产品集成OPPO推送SDK，需要允许程序访问您的网络状态、读取设备外部存储空间、访问电话状态以提供消息通知的服务。\n（17）vivo推送SDK\n我们的产品集成vivo推送SDK，需要允许程序访问您的网络状态、读取设备外部存储空间、访问电话状态以提供消息通知的服务。\n（18）Zxing二维码扫描SDK\n我们的产品集成Zxing二维码扫描SDK，程序仅用于内部人员调试，不对大众用户开放。\n（19）Glide SDK\n我们的产品集成Glide SDK，需要允许程序访问您的网络状态，以提供加载图片内容的服务。\n（20）OkHttp SDK\n我们的产品集成OkHttp SDK，需要允许程序访问您的网络状态，以提供网络请求的服务。\n（21）RxJava SDK\n我们的产品集成RxJava SDK，程序仅用于提供响应式编程框架基础服务，不需要任何访问权限。\n（22）应用商店联运SDK\n我们的产品在部分商店渠道的版本集成了联运SDK（包含华为联运SDK、OPPO联运SDK、vivo联运SDK、小米联运SDK、魅族联运SDK），需要允许程序访问您的网络状态，以提供应用内支付购买的服务。\n（23）OPPO Watch SDK\n我们的产品集成了OPPO Watch SDK，程序仅用于提供OPPO手表与手机通信的连接功能，不需要任何访问权限。\n我们如何使用信息",
+        "start": 4188,
+        "end": 6310,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_4",
+        "classId_name": "用户权利增删改查",
+        "text": "信息访问与控制\n我们将采取一切合理适当的技术手段，保证您可以访问、更新和更正自己的注册信息或使用我们的服务时提供的其他个人信息。在访问、更新、更正和删除前述信息时，我们可能会要求您进行身份验证，以保障帐号安全。",
+        "start": 7005,
+        "end": 7110,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_5",
+        "classId_name": "数据保存",
+        "text": "数据保留\n受限于法律法规要求，我们将按照“我们如何使用信息”章节或者为您提供服务的时间范围内保留您的信息。如果您希望删除您的帐号或者要求我们不得再使用您的信息为您提供服务，请发送电子邮件至office@heartide.com。",
+        "start": 7122,
+        "end": 7236,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_11",
+        "classId_name": "年龄限制条款",
+        "text": "儿童信息\n我们不会有意向13周岁以下的人群收集或请求个人信息。如果您低于13周岁，请不要向我们发送您的个人信息，包括您的名字、地址、电话号码或者邮箱地址。如果您认为我们可能有13周岁以下儿童任何信息时，请发送电子邮件至office@heartide.com。",
+        "start": 7248,
+        "end": 7377,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_14",
+        "classId_name": "开发者公司名称联系方式",
+        "text": "联系office@heartide.com",
+        "start": 7485,
+        "end": 7506,
+        "fields": [],
+        "sub_annotations": []
+    }
+]

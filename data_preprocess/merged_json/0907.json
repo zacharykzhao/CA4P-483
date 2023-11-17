@@ -1,0 +1,839 @@
+[
+    {
+        "classId": "e_16",
+        "classId_name": "其他",
+        "text": "# 天气大师隐私政策\n# 序言\n       天气大师（以下简称\" **天气大师** \"或\" **本款产品** \"）由三六零科技集团有限公司（以下简称\" **我们** \"、\" **360** \"或\" **公司** \"）提供。我们深知个人信息对用户的重要性，也深知为用户的个人信息提供有效保护是我们业务健康可持续发展的基石。感谢您对360产品和服务的使用和信任！我们郑重承诺，我们将按业界成熟的安全标准，采取相应的安全保护措施来保护您的个人信息。  \n       我们希望通过本隐私政策向您说明，在使用我们的产品和服务时，我们如何收集、使用、存储、分享和转让您的个人信息，以及我们为您提供的访问、更新、删除和保护这些信息的方式。 ** _请在使用我们的产品和服务前，务必仔细阅读并了解本隐私政策，在确认充分理解并同意后使用我们的产品或服务。一旦您开始使用我们的产品和服务，即表示您已充分理解并同意本政策，并同意我们按照本隐私政策收集、使用、储存和分享您的相关信息。_** 如对本政策内容有任何疑问、意见或建议，您可通过本隐私政策提供的各种联系方式与我们联系。",
+        "start": 34,
+        "end": 513,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_16",
+        "classId_name": "其他",
+        "text": "本隐私政策将帮助您了解以下内容：\n  * 我们如何收集和使用您的个人信息\n  * 我们如何存储您的个人信息\n  * 我们如何共享、转让、公开披露您的个人信息\n  * 我们如何保护您的个人信息\n  * 您管理个人信息的权利\n  * 未成年人个人信息保护\n  * 隐私政策的适用范围\n  * 隐私政策的变更和修订\n  * 如何联系我们\n  * 隐私政策的生效",
+        "start": 534,
+        "end": 711,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_16",
+        "classId_name": "其他",
+        "text": "## 七、隐私政策的适用范围\n      本私政策仅适用于360的产品和服务。如我们及关联公司的某些产品和服务单独设立有隐私权政策的，则相应产品或服务的隐私政策优先适用。  \n      特别需要说明的是，本隐私政策不适用以下情况： \n  1. 将360产品（或服务）嵌入到第三方产品（或服务），第三方产品（或服务）收集的信息。\n  2. 在360产品（或服务）中接入的第三方服务、广告或其他公司、组织或个人所收集的信息。",
+        "start": 7877,
+        "end": 8088,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_16",
+        "classId_name": "其他",
+        "text": "## 十、隐私政策的生效\n      本隐私政策版本更新日期为2020年6月23日，将于2020年6月23日正式生效。",
+        "start": 10697,
+        "end": 10756,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_1",
+        "classId_name": "App或网站收集使用处理个人信息",
+        "text": "## 一、我们如何收集和使用您的个人信息\n##   (一) 我们在您使用服务过程中收集的信息\n      我们的主要业务功能是天气信息相关的服务。当您浏览信息时，您无需注册360账号即可使用信息浏览功能。  \n      我们可能会根据您使用的产品功能收集以下信息，包括： \n  * _天气预报功能。_ 为实现天气预报的基本功能，天气大师会通过手机系统的公用接口获取您的 **地理位置（GPS）** 以及您执行搜索或获取天气的时间和日期，以便获取实时天气数据。\n  * _日历管理功能。_ 为实现日历的基本功能，天气大师会通过手机系统的公用接口获取系统日历数据，以便为您提供日历管理功能。\n  * _手机垃圾清理功能_ 。为实现手机垃圾清理的基本功能 ，天气大师会通过手机系统的文件存储读写功能获取存储文件数据，包括不限于应用安装包、应用内缓存、已安装应用列表、照片视频等。360不会收集和上传上述文件到服务器。",
+        "start": 723,
+        "end": 1129,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_1",
+        "classId_name": "App或网站收集使用处理个人信息",
+        "text": "##   (二) 设备权限调用\n      天气大师在提供服务过程中，会调用您的一些设备权限。以下是天气大师调用权限对应的业务功能、调用权限的目的以及调用权限前向您询问的情况。  \n      您可以在设备的设置功能中选择关闭部分或全部权限，从而拒绝天气大师收集相应的个人信息。在不同设备中，权限显示方式及关闭方式可能有所不同，具体请参考设备及系统开发方说明或指引。  \n      请您注意，您开启任一权限即代表您授权我们可以收集和使用相关个人信息来为您提供对应服务，您关闭任一权限即代表您取消了授权，我们将不再基于对应权限继续收集和使用相关个人信息，也将停止为您提供相对应的服务。但是，您关闭权限的操作不会影响此前基于您的授权所进行的信息收集及使用。  **设备权限** | **对应业务功能** | **调用权限的目的** | **是否询问** | **用户可否关闭权限**  \n---|---|---|---|---",
+        "start": 1141,
+        "end": 1553,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_1",
+        "classId_name": "App或网站收集使用处理个人信息",
+        "text": "**地理位置** | 天气预报 | 获取地理位置对应的天气数据 | 首次启用天气预报功能时询问 | 是  \n**日历** | 日历管理 | 日历管理 | 首次启用日历管理功能时询问 | 是  \n**存储** | 垃圾清理 | 管理和清理手机内存中的垃圾文件 | 首次启用垃圾清理功能时询问 | 是  \n**通知** | 基本功能 | 通知必要的信息 | 首次开启APP时询问 | 是  \n**无线数据** | 基本功能 | 联网获取数据以便正常使用app | 首次联网时询问 | 是",
+        "start": 1556,
+        "end": 1797,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_1",
+        "classId_name": "App或网站收集使用处理个人信息",
+        "text": "##   (五) 改善我们的产品和服务\n       _1、用户体验改进。_ 我们可能会收集经过MD5算法脱敏的设备识别码、广告标识符、设备型号、系统版本号、操作系统版本号、系统编号、系统ID号、屏幕分辨率、上网类型、本款产品的版本号、某按钮的点击使用时间和频率、某些关键配置的选项值、软件崩溃日志等，用于统计我们产品的用户数量、分析产品的使用状况、排查崩溃原因、减少崩溃情况、改进我们的产品、提供客户支持等。这些信息不涉及到您的个人身份等敏感信息。  \n       _2、解决您反馈的问题。_ 您可以通过产品中的用户反馈指引向我们反馈您使用360产品中遇到的问题。如果您没有注册我们的账号，您需要向我们提交您的手机号码、邮箱或QQ号码以便我们能联系您并对您反馈的问题进行解答。如果您注册了我们的账号，您亦可以通过登录360用户中心向我们反馈问题。我们会通过分析前段中提到的信息找出问题原因并努力解决问题。您在反馈意见中所提供的联系方式，只会用于我们的客服与您沟通与反馈，除征得用户明确同意和法律明确规定外，360公司不会向任何第三方提供您提供的联系信息。",
+        "start": 2639,
+        "end": 3118,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_1",
+        "classId_name": "App或网站收集使用处理个人信息",
+        "text": "##   (六) 个性化推送\n      在符合法律法规的前提下，我们可能会将您的个人信息在匿名化、汇总、脱敏和加密处理后，形成统计信息或用户画像（画像无法识别任何用户个人），为您展示和推送相关服务、产品或功能。",
+        "start": 3131,
+        "end": 3237,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_1",
+        "classId_name": "App或网站收集使用处理个人信息",
+        "text": "##   (七) 安全保障\n      为提高您使用我们及我们关联公司、合作伙伴提供服务的安全性，保护您或其他用户或公众的人身财产安全免遭侵害，更好地预防钓鱼网站、欺诈、网络漏洞、计算机病毒、网络攻击、网络侵入等安全风险，更准确地识别违反法律法规或360相关协议规则的情况。我们可能使用或整合您的账户信息、设备信息、应用使用信息以及我们关联公司、合作伙伴取得您授权或依据法律共享的信息，用于进行身份验证、检测及防范安全事件，并依法采取必要的记录、审计、分析、处置措施。",
+        "start": 3250,
+        "end": 3484,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_1",
+        "classId_name": "App或网站收集使用处理个人信息",
+        "text": "##   (八) 其他用途\n       ** _如果我们将您的个人信息用于本政策未载明的其他用途，或者将基于特定目的收集而来的信息用于其他目的，我们会事先征求您的同意。_**",
+        "start": 3497,
+        "end": 3585,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_1",
+        "classId_name": "App或网站收集使用处理个人信息",
+        "text": "##   (九) 征得授权同意的例外\n  1. 履行法律法规规定的义务；\n  2. 与国家安全、国防安全有关的；\n  3. 与公共安全、公共卫生、重大公共利益有关的；\n  4. 与刑事侦查、起诉、审判和判决执行等有关的；\n  5. 出于维护个人信息主体或其他个人的生命、财产等重大合法权益但又很难得到您本人同意的；\n  6. 所收集的个人信息是您自行向社会公众公开的；\n  7. 从合法公开披露的信息中收集个人信息的，例如合法的新闻报道、政府信息公开等渠道；\n  8. 根据您的要求签订合同所必需的；\n  9. 用于维护所提供的产品或服务的安全稳定运行所必需的，例如发现、处置产品或服务的故障；\n  10. 为合法的新闻报道所必需的；\n  11. 学术研究机构基于公共利益开展统计或学术研究所必要，且对外提供学术研究或描述的结果时，对结果中所包含的个人信息进行去标识化处理的。",
+        "start": 3597,
+        "end": 3985,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "实现天气预报的基本功能",
+        "start": 876,
+        "end": 887,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "获取实时天气数据",
+        "start": 944,
+        "end": 952,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "实现日历的基本功能",
+        "start": 969,
+        "end": 978,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "实现手机垃圾清理的基本功能",
+        "start": 1035,
+        "end": 1048,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "改善现有产品和服务，或开发新产品和服务",
+        "start": 2043,
+        "end": 2062,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "统计我们产品的用户数量、分析产品的使用状况、排查崩溃原因、减少崩溃情况、改进我们的产品、提供客户支持",
+        "start": 2792,
+        "end": 2842,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "我们能联系您并对您反馈的问题进行解答",
+        "start": 2960,
+        "end": 2978,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "提高您使用我们及我们关联公司、合作伙伴提供服务的安全性，保护您或其他用户或公众的人身财产安全免遭侵害，更好地预防钓鱼网站、欺诈、网络漏洞、计算机病毒、网络攻击、网络侵入等安全风险，更准确地识别违反法律法规或360相关协议规则的情况",
+        "start": 3271,
+        "end": 3386,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "进行身份验证、检测及防范安全事件，并依法采取必要的记录、审计、分析、处置措施",
+        "start": 3445,
+        "end": 3483,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "天气大师",
+        "start": 888,
+        "end": 892,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "天气大师",
+        "start": 979,
+        "end": 983,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "天气大师",
+        "start": 1050,
+        "end": 1054,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 1917,
+        "end": 1919,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 2678,
+        "end": 2680,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "您",
+        "start": 2936,
+        "end": 2937,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 3387,
+        "end": 3389,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 4408,
+        "end": 4410,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 4796,
+        "end": 4798,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 5240,
+        "end": 5242,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 5524,
+        "end": 5526,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "获取",
+        "start": 904,
+        "end": 906,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "获取",
+        "start": 995,
+        "end": 997,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "获取",
+        "start": 1070,
+        "end": 1072,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "接",
+        "start": 1932,
+        "end": 1933,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 2683,
+        "end": 2685,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "使用",
+        "start": 3391,
+        "end": 3393,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "整合",
+        "start": 3394,
+        "end": 3396,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "地理位置",
+        "start": 911,
+        "end": 915,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "GPS",
+        "start": 916,
+        "end": 919,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "执行搜索或获取天气的时间和日期",
+        "start": 926,
+        "end": 941,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "系统日历数据",
+        "start": 997,
+        "end": 1003,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "存储文件数据",
+        "start": 1072,
+        "end": 1078,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "应用安装包、应用内缓存、已安装应用列表、照片视频",
+        "start": 1084,
+        "end": 1108,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "统计数据",
+        "start": 1947,
+        "end": 1951,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "下载、安装、卸载某应用的人数",
+        "start": 1985,
+        "end": 1999,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "反应应用使用情况的数据",
+        "start": 2000,
+        "end": 2011,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "请求次数、错误反馈",
+        "start": 2012,
+        "end": 2021,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "反应网络性能的数据",
+        "start": 2022,
+        "end": 2031,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "设备识别码、广告标识符、设备型号、系统版本号、操作系统版本号、系统编号、系统ID号、屏幕分辨率、上网类型、本款产品的版本号、某按钮的点击使用时间和频率、某些关键配置的选项值、软件崩溃日志",
+        "start": 2695,
+        "end": 2788,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "手机号码、邮箱",
+        "start": 2946,
+        "end": 2953,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "QQ号码",
+        "start": 2954,
+        "end": 2958,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "账户信息、设备信息、应用使用信息",
+        "start": 3398,
+        "end": 3414,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "个人信息",
+        "start": 4427,
+        "end": 4431,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "汇总后的信息",
+        "start": 4810,
+        "end": 4816,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "匿名化后的信息",
+        "start": 4817,
+        "end": 4824,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "不会识别到您个人身份的信息",
+        "start": 4828,
+        "end": 4841,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "个人信息",
+        "start": 5247,
+        "end": 5251,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "个人信息",
+        "start": 5541,
+        "end": 5545,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_2",
+        "classId_name": "第三方收集或共享个人信息",
+        "text": "##   (三)  **我们通过间接获得方式收集到的非个人识别信息**\n      出于业务实际和合作需求，在一些情况下，您需要通过我们产品或服务使用360关联方、合作方提供的服务，在获得您主动授权同意的基础上，我们会从我们的关联方、合作方处接经基于您的个人信息的汇总后的统计数据。这类统计数据属于非个人识别信息，无法直接或间接识别定位到个人，例如下载、安装、卸载某应用的人数等反应应用使用情况的数据，请求次数、错误反馈等反应网络性能的数据。收集此类信息的目的在于改善现有产品和服务，或开发新产品和服务。",
+        "start": 1811,
+        "end": 2063,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_2",
+        "classId_name": "第三方收集或共享个人信息",
+        "text": "## 三、我们如何共享、转让、公开披露您的个人信息\n##   (一) 共享\n      我们不会与任何公司、组织和个人共享您的个人信息，但以下情况除外： \n  1. 在获取您明确同意的情况下，我们会与其他方共享您的个人信息。\n  2. 我们可能会根据法律法规规定、诉讼争议解决需要，或按行政、司法机关依法提出的要求，对外共享您的个人信息。\n  3. 在法律法规允许的范围内，为维护360、360的关联方或合作伙伴、您或其他360用户或社会公众利益、财产或安全免遭损害而有必要共享您的个人信息。\n  4. **_在我们的关联方向您或向我们提供服务的情况下，我们可能与我们的关联公司共享您的个人信息。但我们仅共享必要的个人信息，关联方对您信息的处理受本隐私政策的约束。关联公司如要改变您个人信息的处理目的，将再次征求您的授权和同意。_**\n  5. **_除非获得您的明确授权和同意，否则我们不会与第三方广告商、应用程序开发者、开放平台或其他合作伙伴共享您的个人信息。我们可能会为这些合作伙伴提供汇总后的信息、匿名化后的信息或者其他不会识别到您个人身份的信息。_** _例如，我们可能会告知应用程序开发者有多少人安装过其开发的应用程序。_\n  6. **_仅为实现本隐私政策中声明的目的，我们可能会与我们的供应商、服务提供商、顾问或代理人共享您的个人信息，以提供更好的客户服务和用户体验。这些供应商、服务提供商、顾问、代理人可能为我们提供技术基础设施服务，分析我们服务的使用方式，衡量广告和服务的有效性，提供客户服务和支付服务，进行学术研究和调查，或提供法律、财务与技术顾问服务。_** _例如，我们可能会不定期地邀请注册用户参加抽奖活动。例如您幸运中奖，我们需要向物流服务提供商提供您的个人信息，以便向您发送我们的奖品。_\n      对我们与之共享个人信息的公司、组织和个人，我们会与其签署严格的数据保护协定，要求其按照我们的说明、本隐私政策以及其他任何相关的保密和安全措施来处理个人信息。",
+        "start": 4364,
+        "end": 5209,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_2",
+        "classId_name": "第三方收集或共享个人信息",
+        "text": "##   (二) 转让\n      我们不会将您的个人信息转让给其他任何公司、组织和个人，但以下情形除外： \n  1. 随着360公司业务的发展，我们及我们的关联公司有可能进行合并、收购、资产转让或其他类似的交易。如相关交易涉及到您的个人信息转让，我们会要求新持有您个人信息的公司、组织和个人继续受此政策约束，否则我们将要求该公司、组织和个人重新征得您的授权同意。\n  2. 满足法律法规、法律程序的要求或强制性的政府要求或司法裁定。\n  3. 在获得您明确同意的情形下转让，亦即获得您明确同意后，我们会向其他方转让我们已经获取的您的个人信息。",
+        "start": 5222,
+        "end": 5494,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_2",
+        "classId_name": "第三方收集或共享个人信息",
+        "text": "##   (三) 披露\n      我们仅会在以下情况下，公开披露您的个人信息： \n  1. 已经获得您明确同意。\n  2. 在法律、法律程序、诉讼或政府主管部门强制性要求的情况下，我们可能会公开披露您的个人信息。\n  3. 在法律法规允许的范围内，为维护360公司、360的关联方或合作伙伴、您或其他360用户或社会公众利益、财产或安全免遭损害而有必要披露您的个人信息。\n  4. 法律法规规定的其他情形。\n      根据法律规定，共享、转让经去标识化处理的个人信息，且确保数据接收方无法复原并重新识别个人信息主体的，不属于个人信息的对外共享、转让及公开披露行为，对此类数据的保存及处理将无需另行向您通知并征得您的同意。",
+        "start": 5506,
+        "end": 5818,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "关联方",
+        "start": 1924,
+        "end": 1927,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "合作方",
+        "start": 1928,
+        "end": 1931,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "我们",
+        "start": 2940,
+        "end": 2942,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "公司",
+        "start": 4415,
+        "end": 4417,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "组织",
+        "start": 4418,
+        "end": 4420,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "个人",
+        "start": 4421,
+        "end": 4423,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "合作伙伴",
+        "start": 4804,
+        "end": 4808,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "公司",
+        "start": 5258,
+        "end": 5260,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "组织",
+        "start": 5261,
+        "end": 5263,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "个人",
+        "start": 5264,
+        "end": 5266,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_15",
+        "classId_name": "网站Cookie及WebBeacon使用",
+        "text": "##   (四) 我们如何使用Cookie和同类技术\n      Cookie是由用户访问的网站向浏览器发送的一小段文本文件，通常包含标识符、站点名称以及一些号码和字符。每个网站发给您的Cookie是唯一的，它只能被发给您Cookie的Web服务器读取，常用来简化您重复登录的步骤、帮助我们记住您的设备和使用服务的偏好、分析您使用我们网站的情况，从而帮助您获得更轻松的访问体验，并向您推荐您可能感兴趣的网站或其他服务（例如进行个性化的广告推荐）。  \n      我们不会将Cookies用于本隐私政策所述目的之外的任何用途。你可以根据自己的偏好管理或清除本网站内保存的所有Cookies。如果您清除这些Cookies，您之前所记录的相应信息也均会被删除，这可能会对您所使服务的安全性和便捷性有影响。  \n      除Cookie外，我们可能还会在我们的网站中采用Beacon等其他同类技术来计算用户访问量等您使用我们的网站的行为。Beacon技术是指在网页设计中包含一个1像素*1像素透明图片，通过请求这个图片时携带的参数来统计用户对当前页面的访问，方便网站开发者了解自身网站的使用情况。Beacon技术仅用于简化网站开发者使用服务器日志进行分析的繁琐过程，不能获取除本网站以外的您的其他信息。",
+        "start": 2077,
+        "end": 2626,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "这些信息不涉及到您的个人身份等敏感信息",
+        "start": 2844,
+        "end": 2863,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "以下情况",
+        "start": 4433,
+        "end": 4437,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "以下情形",
+        "start": 5268,
+        "end": 5272,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "以下情况",
+        "start": 5529,
+        "end": 5533,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "提交",
+        "start": 2942,
+        "end": 2944,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "共享",
+        "start": 4423,
+        "end": 4425,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "转让",
+        "start": 5251,
+        "end": 5253,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "披露",
+        "start": 5537,
+        "end": 5539,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_5",
+        "classId_name": "数据保存",
+        "text": "## 二、我们如何存储您的个人信息\n##   (一)  **保存地域**\n      我们在中华人民共和国境内收集和产生的个人信息将存储在中华人民共和国境内。  \n      若为处理跨境业务，确需向境外机构传输境内收集的相关个人信息的，我们会按照法律、行政法规和相关监管部门的规定执行。我们会确保您的个人信息得到足够的保护，例如匿名化、加密存储等。",
+        "start": 3997,
+        "end": 4172,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_5",
+        "classId_name": "数据保存",
+        "text": "##   (二)  **保存期限**\n      我们仅在本政策所述目的的所必须的最短时限内和法律法规要求的时限内存储您的个人信息。  \n      如我们停止运营360的产品或服务，我们将及时停止继续收集您个人信息的活动，并将停止运营的通知以逐一送达或公告的形式通知您，并在合理的期限内对我们存储的个人信息进行删除或匿名化处理。",
+        "start": 4185,
+        "end": 4350,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_6",
+        "classId_name": "数据安全",
+        "text": "## 四、我们如何保护您的个人信息\n      我们已采取符合业界标准的安全防护措施保护您提供的个人信息，防止数据遭到未经授权访问、公开披露、使用、修改、损坏或丢失。我们会采取一切合理可行的措施，保护您的个人信息。 \n  1. 我们非常重视您个人信息的安全，将努力采取合理的安全措施来保护您的个人信息，目前，360已经通过国家公安部信息系统安全等级测试备案，并获得了由公安部门核准颁发的\"国家信息安全等级保护三级认证\"，同时，360也通过了国际权威的ISO 27001信息安全管理体系认证。\n  2. 我们会对可识别的个人身份信息进行加密传输和存储，以确保数据的保密性。对于您手机设备标识符国际移动设备身份码（IMEI），我们在您的设备端会用MD5算法进行匿名化和加密，并仅收集和上传经过匿名化和加密后的标识符。\n  3. 如果用户注册了360账号，我们可能通过对360用户的登录时间、IP、登录次数等信息进行分析，妥善做好风控管理。如有疑似非本人登录操作的情况，我们将通过短信提醒用户，避免360账户被非本人登录操作。对于您使用的手机与我们客户端之间的数据交换，我们采用了我们自定义的加密方案和https双重加密的方式进行传输，以确保数据传输的安全性。\n  4. 若我们的应用采用了WebView技术，我们会对在WebView中使用的所有file协议进行URL校验且限制访问本应用敏感数据以及SDCard数据，避免在无特殊权限的情况下360产品的任意私有文件和敏感信息被恶意盗用，从而造成您的个人信息被泄露。\n  5. 我们在服务端部署访问控制机制，对可能接触到您个人信息的工作人员采取最小够用授权原则，并定期核查访问人员名单和访问记录。\n  6. 我们存储用户个人信息的服务器系统均为安全加固后的操作系统。我们会对服务器操作进行账户审计及监控。如果发现外部公告有安全问题的服务器操作系统，360会在第一时间会进行服务器安全升级，确保360所有服务器系统及应用安全。\n  7. 我们为工作人员定期举办个人信息保护相关法律法规培训，以加强工作人员的用户个人隐私保护意识。\n  8. 如果不幸发生我们的物理、技术或管理防护措施遭到破坏的事件，我们会及时启动应急预案，防止安全事件扩大，按照法律法规的要求上报国家主管机关，并及时采取推送、公告等合理、有效的方式向您告知安全事件的基本情况、可能的影响、已经采取的措施或将要采取的措施等。",
+        "start": 5832,
+        "end": 6847,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_4",
+        "classId_name": "用户权利增删改查",
+        "text": "## 五、您管理个人信息的权利\n##   (一) 删除您的个人信息\n      以下情况发生时，您有权要求360公司删除您的个人信息： \n  1. 我们没有征求您的明确同意，收集了您的个人信息。\n  2. 我们处理您的个人信息违反了法律法规要求。\n  3. 我们违反了与您的约定来使用和处理您的个人信息。\n  4. 您注销了360账号、卸载或者不再使用我们的产品（或服务）。\n  5. 我们停止对您提供服务。\n      您可以通过本隐私政策第九节提供的方式联系我们要求删除您的个人信息。当我们从服务器中删除您的个人信息后，我们可能不会立即从备份系统中删除相应的数据，但会在备份更新的时候删除这些信息。",
+        "start": 6859,
+        "end": 7160,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_4",
+        "classId_name": "用户权利增删改查",
+        "text": "##   (三) 响应您的上述请求\n      为保障安全，您可能需要提供书面请求，或以其他方式证明您的身份。我们可能会先要求您验证自己的身份，然后再处理您的请求。但请您理解，基于法律法规要求、保障信息安全、技术限制等原因，您的部分信息可能无法访问、修改和删除。",
+        "start": 7426,
+        "end": 7557,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_9",
+        "classId_name": "获取撤回同意",
+        "text": "##   (二) 撤回您的同意或授权\n      您可以通过本隐私政策第一部分提供的\"设备权限调用\"关闭对应设备功能而撤回对您个人信息收集和使用的同意，如您可以通过手机的设置功能关闭对我们收集您的GPS位置信息的权限。  \n      请您理解，每项业务功能需要一些基本的个人信息才能得以完成（见本隐私政策第一节），当您撤回同意或授权后，我们无法继续为您提供撤回同意或授权所对应的服务，也将不再处理相应的个人信息。但您撤回同意的决定，不会影响此前基于您的授权而开展的个人信息处理。",
+        "start": 7173,
+        "end": 7413,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_11",
+        "classId_name": "年龄限制条款",
+        "text": "## 六、未成年人个人信息保护\n      若您是18周岁以下的未成年人，在使用360的产品和服务前，应事先取得您的家长或法定监护人的同意。  \n      若您是未满14周岁的儿童，须在监护人的陪同下阅读本隐私政策或相应产品或服务的隐私政策，决定是否使用360产品或服务。如获得产品和服务需要提交个人信息，请取得监护人的同意，并在监护人的指导下完成。  \n      若您是儿童的监护人，当您在帮助儿童完成产品或服务的注册、使用前，应当仔细阅读本政策或特定产品的隐私保护政策，决定是否同意隐私政策。当您对您所监护的儿童的个人信息有疑问时，您可以通过本隐私政策第九节的联系方式与我们联系。",
+        "start": 7569,
+        "end": 7863,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_7",
+        "classId_name": "隐私政策修改更新",
+        "text": "## 八、隐私政策的变更和修订\n      我们的隐私政策可能变更。未经您明确同意，我们不会限制您按照本隐私政策所应享有的权利。  \n      对于本隐私政策的重大变更，我们还会提供显著的通知（例如，在软件改版或升级、或您重新登录时，以弹窗形式对您进行及时通知）。  \n      本政策所指的重大变更包括但不限于： \n  1. 我们的服务模式发生重大变化。如处理个人信息的目的、处理的个人信息类型、个人信息的使用方式等；\n  2. 我们在控制权等方面发生重大变化。如并购重组等引起的所有者变更等；\n  3. 个人信息共享、转让或公开披露的主要对象发生变化；\n  4. 您参与个人信息处理方面的权利及其行使方式发生重大变化；\n  5. 我们负责处理个人信息安全的责任部门、联络方式及投诉渠道发生变化时；\n  6. 个人信息安全影响评估报告表明存在高风险时。",
+        "start": 8100,
+        "end": 8479,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_14",
+        "classId_name": "开发者公司名称联系方式",
+        "text": "## 九、如何联系我们\n      如果您对我们的隐私政策及对您个人信息的处理有任何疑问、意见、建议或投诉，请通过以下方式与我们联系。  \n  \n      ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAARCAYAAAA7bUf6AAACI0lEQVQ4Ea1TXW8SQRSdv6Q/wEd9azQmTYU+GGN90hdNeBFj0mia1IcS2i6hQIEFFrq06dKSqqHIh5EH2wSX0tiIYqtpkax8mBRTWOCYuQm1YJNW4yZ3Z+bec87eOTPL8B8e9i8a7Xa7j0Yi3W4Xuq5D19sDwXM6ETqdDqLRl5iecUCwzcPtllAqlanG8vn3mBVcmJl1EoCDemGdnsOUxYa9va/w+WTIsoLPu19QLO4ik3mLiYkpVCpVsMtXrsPtDqBW+4FG4ydqtfrvqNZRrdWRTmfg9Qbpqzs7H7AgKzRX1TwkaRHs6rVRhMMKLBYbSqVvVBx8cQE1tw3uRTarIrwYwdFRk2B375nADIbbtMhmcxgff4bV1ReDGvD5ZeS2tqFp33H/gRkG4xh1x4Em02OwkZFbx6TDwwZc834Iggv7+6XjfOFjkczkiVQ6A0FwUi2ReI319VS/SI9lfvQUvM1k8g2azRY2N9/B7ZFgt3tQKHxCuaxheTkKq9WOjY3snyL2OQ8ikTUylxMfmp9A9C3QUavqFrxiEH6/jFgsQR7xnfRthwtIwXCvIRoPDvrN1rQKddEDDQ/fBDMax2jtcIoISP0CPeDJsdXSEQjIcDi9lOZ8Zhy9A1EMIRhaOok9c87xoi8EzmcXLl4iD85knQJYWXkOzmdDQzdOKZ8/xflsctJKncTjKfxtKMoaOJ/xvzT+Ko1YLEkXh1+e8wTHcx7n/wJCF+z42RaSCQAAAABJRU5ErkJggg==) 联系邮箱：[kefu@360.cn](mailto:kefu@360.cn)             ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAARCAYAAADUryzEAAAC/ElEQVQ4EV2T22/URRTH9x8y8dnwQgxI4va3W0Jhr90tbbdFKOiDqdpSDFKuphoxEk0JMTa+tIRLAlSkVaTQlKXNAm19oKiwW7tQlL10Z+Z32f2YmR+kjZNM5uRcvuec7zkTePONzYSbEoSCcXOtYBwrGCXUtJNQUwTrXV8fCibYtjXMgZ4PWV39F8exkVISaA5F0Md1XRzHwXE8PK9Bo1HH9bSujuO4uG7D+B0/9jlDQ6eNbADCoV3U6w0cR6DUGvV63RhLpTINPwapqkgljf7SxXE+O3zSyEIIAmErgeuAlMpU8Kz4Dx+8/wkhK8Luth4W55fwPBchfYDzo1c4Oji0oQIrhuuCUsoo+/s/pbN9L3OzOQb6jpFMZHBcG6Vqxn5+7AJHB09tAAi1GADbViZTR0eGbHbWOMzdm+edrUGq1TL2qwRjBsBvwefA2vWqAhshbB4v/UWtVqNaqRGLpjnzzbDhQtv00RwMHtlYgWnBQ6oaQihDqHYcODjIR70DJkgpiRB+C1+fHubUiS+MXtRqmkTNwTqAHmWxuMr25ih//lHwHcWaeW/8/Cu703sZG73Mo0ePje5/ANKQqUf4y+QUlfIaUvql/3ZzilSykx9HLtIa7zLy0yfL6xUoJRBCA0hs26a/7xAzM1mT5c7tGVqT7Yz8MMqWty0+7j3CV18Ok0pmfADPq5vMmgMpBVIIpqamqVSq3MvmSCbaOTs8Qlu6m1xunkMDJ9j01jam78wSsIIbV9lFj9O2/aWZf/g7yWQH3337Pcl4Jw/uL5LPLxONpJi4ccvnwAq28PDBAuVS2XyS1ecvKJVKZO/O+WM8c45Ua8Zk/nv5Oc3NLYyPXzfBZpUnJ24Rj6XpzuxjT9d+urt66O7aRyyaYvzqJPt7ermfW2Bl5Rnbw3GuXlkPNgA04OXLCoX8CoVCkeVCkXx+hbWqYHFhibb0e0xO3KRlR4zLl37yM0tNuH8DWtCs+19Zf2f/as9r164TtiL09x1mevquCdZj1Uv1GuA/m2R9RGDq3xkAAAAASUVORK5CYII=) 如有更多问题，[请点此反馈](http://www.360.cn/about/contactus.html#fankui)  \n  \n      在一般情况下，我们会在15个工作日内对您的请求予以答复。",
+        "start": 8491,
+        "end": 10682,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_8",
+        "classId_name": "信息定义",
+        "text": "## 附录一 名词释义\n  1. **个人信息**：指以电子或者其他方式记录的能够单独或者与其他信息结合识别特定自然人身份或者反映特定自然人活动情况的各种信息。个人信息包括：基本信息（包括个人姓名、生日、性别、住址、个人电话号码、电子邮箱）；个人身份信息（包括身份证、军官证、护照、驾驶证等）；个人生物识别信息（包括声纹、指纹、面部特征等）；网络身份标识信息（包括系统账号、IP地址等）；个人财产信息（包括银行账户、交易和消费记录、游戏类兑换码等虚拟财产信息）；个人通信信息（包括通讯录内容等）；个人上网记录（包括网站浏览记录、软件使用记录、点击记录等）；个人常用设备信息（包括硬件型号、设备MAC地址、、软件列表、唯一设备识别码（如IMEI/IDFA/AndroidID/OPENUDID/GUID/SIM卡IMSI信息等在内的描述个人常用设备基本情况的信息）；个人位置信息（包括行踪轨迹、精准定位信息、住宿信息、经纬度等）。\n  2. **个人敏感信息** ：指一旦泄露、非法提供或滥用可能危害人身和财产安全，极易导致个人名誉、身心健康受到损害或歧视性待遇等的个人信息，个人敏感信息包括：个人财产信息（包括银行账户、交易和消费记录、游戏类兑换码等虚拟财产信息）；个人生物识别信息（包括声纹、指纹、面部特征等）；个人身份信息（包括身份证、军官证、护照、驾驶证等）；其他信息（包括通讯录、行踪轨迹、网页浏览记录、住宿信息、精准定位信息）。\n  3. **去标识化：** 指通过对个人信息的技术处理，使其在不借助额外信息的情况下，无法识别个人信息主体的过程。\n  4. **匿名化** ：指通过对个人信息的技术处理，使得个人信息主体无法被识别，且处理后的信息不能被复原的过程。\n  5. **个人信息删除：** 指在实现日常业务功能所涉及的系统中去除个人信息的行为，使其保持不可被检索、访问的状态。\n  6. **儿童** ：指不满十四周岁的未成年人。",
+        "start": 10770,
+        "end": 11595,
+        "fields": [],
+        "sub_annotations": []
+    }
+]

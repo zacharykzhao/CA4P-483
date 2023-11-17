@@ -1,0 +1,1154 @@
+[
+    {
+        "classId": "e_1",
+        "classId_name": "App或网站收集使用处理个人信息",
+        "text": "隐私保护政策\n1.设备信息获取。我们会收集设备专用的信息，例如您的硬件型号、操作系统信息、移动设备版本、设备识别码、屏幕分辨率等信息，但会确保信息隐私保护，不会提供给第三方。",
+        "start": 31,
+        "end": 118,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_1",
+        "classId_name": "App或网站收集使用处理个人信息",
+        "text": "2.为向您提供服务并确保您的政务服务安全，在您使用云南政务服务平台的过程中，我们会收集您在使用服务过程中主动输入或因使用服务而产生的信息：\n（1）当您注册成为云南政务服务平台用户并通过实名认证时，依据法律法规及监管要求，我们会收集您的个人基本资料、身份信息、生物识别信息、手机号码等信息，以帮助您完成注册和实名认证，如果您拒绝提供这些信息，您可能无法正常使用我们提供的政务服务。\n（2）当您使用云南政务服务平台提供的服务时，例如在下列情形中，您可能需要向我们提供或授权我们收集相应服务所需的用户信息。如您拒绝提供部分功能或服务所需信息，您可能无法使用部分功能或服务，但这不影响您正常使用其他功能或服务。\n（3）为了让您更安全、快速地使用云南政务服务平台,在首次注册时，我们需要您绑定手机号，我们将发送验证码到您的手机；在需要短信验证码的环节,可能需要读取验证码短信内容协助您进行验证码填写。如您拒绝通讯信息（短信）授权，我们将不读取短信内容，系统后台不保存短信内容。",
+        "start": 130,
+        "end": 563,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_1",
+        "classId_name": "App或网站收集使用处理个人信息",
+        "text": "（5）当您使用云南政务服务平台进行便民服务缴费时，我们需要根据您选择的支付类型获取您的微信、支付宝或银行卡账号信息，以便于验证身份及使用上述功能的支付服务。此外，我们还会收集您的相关收付款交易记录以便于您查询。上述信息属于个人敏感信息，如您拒绝提供该信息，仅会使您无法使用上述功能，但不影响您正常使用手机银行的其他功能。",
+        "start": 836,
+        "end": 996,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_1",
+        "classId_name": "App或网站收集使用处理个人信息",
+        "text": "（8）当您使用手机银行提供的搜索服务时，我们会收集您的搜索关键词信息。当搜索关键词信息无法单独识别您的个人身份时，该信息不属于您的用户信息，我们可以对其加以其他目的使用；当搜索关键词信息与您的其他信息结合可以识别您的个人身份时，我们将在结合期间将您的搜索关键词信息作为您的用户信息，对其加以保护处理。\n（9）当您使用劳动者港湾、我身边的场馆查询等基于地理位置的功能时，我们会收集您的位置信息，目的是为了向您提供所在位置的相应服务。如您拒绝提供该信息，您将无法使用上述功能，但这不影响您正常使用其他功能。\n（10）当您通过云南政务服务平台进行信息管理时，如修改登录密码等操作，我们会验证您的原登录密码、签约手机号短信验证码。\n（11）当您使用云南政务服务平台提供的“我的快递”服务时，您需要在收件人页维护您的姓名、手机号、地址等信息来确保快递能够准确送到您指定的位置，如果您拒绝提供，无法使用快递服务，但这不影响您使用其他服务。",
+        "start": 1231,
+        "end": 1644,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_1",
+        "classId_name": "App或网站收集使用处理个人信息",
+        "text": "3.当您使用政务事项预约等基于地理位置的功能时，云南政务服务平台会收集您的位置信息，目的是为了向您提供所在位置的相应服务。如您拒绝提供该信息，您将无法使用上述功能，但这不影响您正常使用云南政务服务平台的其他功能。",
+        "start": 1656,
+        "end": 1762,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_1",
+        "classId_name": "App或网站收集使用处理个人信息",
+        "text": "4.以下情形中，您可选择是否授权云南政务服务平台收集、使用您的个人信息。\n（1）摄像头，用于识别二维码、人脸识别、设置头像等用途，在人脸识别登录、扫一扫、头像设置等场景中使用。拒绝授权后，扫一扫（如二维码）、我的信息头像设置、刷脸登录等功能无法使用。云南政务服务平台将获取您的人脸等数据，加密后存储于系统后台数据库中\n（2）麦克风，用于智能客服、语音导航等用途，在智能客服、语音导航等场景中使用。拒绝授权后，智能客服、语音导航等功能无法使用。云南政务服务平台采集的声纹数据，加密后存储于系统后台数据库中。\n（3）手机通讯录，用于协助您通过通讯录快速选取电话号码，无需您手动输入。拒绝授权后，此功能仍可以使用，但需要手工输入手机号码。云南政务服务平台仅读取并记录指定电话号码，不读取客户全量通讯录，云南政务服务平台后台系统存储通讯录。\n（4）手机短信，在需要短信验证码的环节可能需要读取验证码短信内容协助您进行验证码填写。如您拒绝通讯信息（短信）授权，云南政务服务平台将不读取短信内容，系统后台不保存短信内容。\n（5）地理位置，获取您所在地理位置，系统后台保存您交易时的位置信息。拒绝授权后，云南政务服务平台相关功能无法使用。\n（6）网络通讯，用于与服务端进行通讯。拒绝授权后，云南政务服务平台所有功能无法使用。系统后台保存客户交易时所使用设备的网络信息，包括IP、端口等信息。\n上述功能可能需要您在您的设备中向云南政务服务平台开启您的相机（摄像头）、地理位置（位置信息）、麦克风等的访问权限，以实现这些功能所涉及的信息的收集和使用。请您注意，您开启这些权限即代表您授权云南政务服务平台可以收集和使用这些信息来实现上述功能，如您取消了这些授权，则云南政务服务平台将不再继续收集和使用您的这些信息，也无法为您提供上述与这些授权所对应的功能。\n如在上述情形之外收集或使用您的信息，云南政务服务平台会事先征求您的同意，并向您充分告知信息收集和使用的目的、方式和范围。",
+        "start": 1774,
+        "end": 2603,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_1",
+        "classId_name": "App或网站收集使用处理个人信息",
+        "text": "6.当您使用云南政务服务平台提供的搜索服务时，我们会收集用户的搜索关键词信息。当搜索关键词信息无法单独识别用户的个人身份时，该信息不属于用户信息，我们可以对其加以其他目的使用；当搜索关键词信息与用户的其他信息结合可以识别用户的个人身份时，我们将在结合期间将用户的搜索关键词信息作为用户信息，对其加以保护处理。",
+        "start": 2734,
+        "end": 2888,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_1",
+        "classId_name": "App或网站收集使用处理个人信息",
+        "text": "7.当您使用我身边的、劳动者港湾、首页、非法集资举报、失物招领等基于地理位置的功能时，我们会收集用户的位置信息，目的是为了向用户提供所在位置的相应服务。如用户拒绝提供该信息，将无法使用上述功能，但这不影响用户正常使用云南政务服务平台的其他功能。",
+        "start": 2900,
+        "end": 3022,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 47,
+        "end": 49,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 168,
+        "end": 170,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 240,
+        "end": 242,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "您",
+        "start": 351,
+        "end": 352,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "提供",
+        "start": 359,
+        "end": 361,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 364,
+        "end": 366,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 464,
+        "end": 466,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "您",
+        "start": 468,
+        "end": 469,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 861,
+        "end": 863,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 917,
+        "end": 919,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "您",
+        "start": 1017,
+        "end": 1018,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 1154,
+        "end": 1156,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "您",
+        "start": 1158,
+        "end": 1159,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 1251,
+        "end": 1253,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 1415,
+        "end": 1417,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "云南政务服务平台",
+        "start": 1680,
+        "end": 1688,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "云南政务服务平台",
+        "start": 1899,
+        "end": 1907,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 2757,
+        "end": 2759,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 2943,
+        "end": 2945,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "云南政务服务平台",
+        "start": 3059,
+        "end": 3067,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "服务器",
+        "start": 3123,
+        "end": 3126,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "云南政务服务平台",
+        "start": 3171,
+        "end": 3179,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "云南政务服务平台",
+        "start": 3431,
+        "end": 3439,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "云南政务服务平台",
+        "start": 4358,
+        "end": 4366,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 50,
+        "end": 52,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 171,
+        "end": 173,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 243,
+        "end": 245,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 366,
+        "end": 368,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "绑定",
+        "start": 469,
+        "end": 471,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "获取",
+        "start": 875,
+        "end": 877,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 921,
+        "end": 923,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 1254,
+        "end": 1256,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 1418,
+        "end": 1420,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 1689,
+        "end": 1691,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "获取",
+        "start": 1908,
+        "end": 1910,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 2760,
+        "end": 2762,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 2946,
+        "end": 2948,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 3087,
+        "end": 3089,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "记录",
+        "start": 3129,
+        "end": 3131,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "使用",
+        "start": 3468,
+        "end": 3470,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "设备专用的信息",
+        "start": 52,
+        "end": 59,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "您的硬件型号、操作系统信息、移动设备版本、设备识别码、屏幕分辨率",
+        "start": 62,
+        "end": 94,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "您在使用服务过程中主动输入",
+        "start": 173,
+        "end": 186,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "因使用服务而产生的信息：",
+        "start": 187,
+        "end": 199,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "您的个人基本资料、身份信息、生物识别信息、手机号码",
+        "start": 245,
+        "end": 270,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "相应服务所需的用户信息",
+        "start": 368,
+        "end": 379,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "手机号",
+        "start": 471,
+        "end": 474,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "您的指纹、人脸图像信息",
+        "start": 608,
+        "end": 619,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "您的微信、支付宝",
+        "start": 877,
+        "end": 885,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "银行卡账号信息",
+        "start": 886,
+        "end": 893,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "您的相关收付款交易记录",
+        "start": 923,
+        "end": 934,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "您的姓名、证件类型、证件号码、银行卡号/账号、指纹认证、声纹认证、刷脸认证",
+        "start": 1021,
+        "end": 1058,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "您的姓名、证件类型、证件号码、银行卡号/账号、刷脸认证",
+        "start": 1161,
+        "end": 1188,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "您的搜索关键词信息",
+        "start": 1256,
+        "end": 1265,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "您的位置信息",
+        "start": 1420,
+        "end": 1426,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "您的位置信息",
+        "start": 1691,
+        "end": 1697,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "您的人脸",
+        "start": 1910,
+        "end": 1914,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "姓名、证件类型、证件号码、手机号码、身份证照片、银行卡账户",
+        "start": 2630,
+        "end": 2659,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "面部识别特征",
+        "start": 2660,
+        "end": 2666,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "用户的搜索关键词信息",
+        "start": 2762,
+        "end": 2772,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "用户的位置信息",
+        "start": 2948,
+        "end": 2955,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "用户的个人信息",
+        "start": 3089,
+        "end": 3096,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "一些信息",
+        "start": 3131,
+        "end": 3135,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "URL、IP地址、浏览器类型、使用语言、访问日期和时间",
+        "start": 3142,
+        "end": 3169,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "用户注册资料",
+        "start": 3193,
+        "end": 3199,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "用户在使用平台服务时存储在云南政务服务平台的非公开内容",
+        "start": 3200,
+        "end": 3227,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "此信息",
+        "start": 3475,
+        "end": 3478,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "用户注册资料",
+        "start": 4395,
+        "end": 4401,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "提供",
+        "start": 111,
+        "end": 113,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "提供",
+        "start": 606,
+        "end": 608,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "提供",
+        "start": 1019,
+        "end": 1021,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "提供",
+        "start": 1159,
+        "end": 1161,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "提供",
+        "start": 2628,
+        "end": 2630,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "对外公开",
+        "start": 3182,
+        "end": 3186,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "提供",
+        "start": 3191,
+        "end": 3193,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "对外提供",
+        "start": 3471,
+        "end": 3475,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "提供",
+        "start": 4393,
+        "end": 4395,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "第三方",
+        "start": 114,
+        "end": 117,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "我们",
+        "start": 604,
+        "end": 606,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "第三方",
+        "start": 3188,
+        "end": 3191,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "政务服务无关的第三方",
+        "start": 4383,
+        "end": 4393,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "向您提供服务并确保您的政务服务安全",
+        "start": 133,
+        "end": 150,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "以帮助您完成注册和实名认证",
+        "start": 274,
+        "end": 287,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "为了让您更安全、快速地使用云南政务服务平台",
+        "start": 435,
+        "end": 456,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "以便于验证身份及使用上述功能的支付服务",
+        "start": 894,
+        "end": 913,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "以便于您查询",
+        "start": 934,
+        "end": 940,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "目的是为了向您提供所在位置的相应服务",
+        "start": 1427,
+        "end": 1445,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "目的是为了向您提供所在位置的相应服务",
+        "start": 1698,
+        "end": 1716,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "进行有效性核验",
+        "start": 2669,
+        "end": 2676,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "目的是为了向用户提供所在位置的相应服务",
+        "start": 2956,
+        "end": 2975,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "在您使用云南政务服务平台的过程中",
+        "start": 151,
+        "end": 167,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "当您注册成为云南政务服务平台用户并通过实名认证时",
+        "start": 203,
+        "end": 227,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "依据法律法规及监管要求",
+        "start": 228,
+        "end": 239,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "当您使用云南政务服务平台提供的服务时",
+        "start": 323,
+        "end": 341,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "例如在下列情形中",
+        "start": 342,
+        "end": 350,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "在首次注册时",
+        "start": 457,
+        "end": 463,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "如您在云南政务服务平台中选择通过指纹、刷脸功能进行登陆或办理政务事项",
+        "start": 567,
+        "end": 601,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "当您使用云南政务服务平台进行便民服务缴费时",
+        "start": 839,
+        "end": 860,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "当您使用我们提供的实名认证服务时",
+        "start": 1000,
+        "end": 1016,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "当您使用直销银行提供的实名认证服务时",
+        "start": 1135,
+        "end": 1153,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "）当您使用手机银行提供的搜索服务时",
+        "start": 1233,
+        "end": 1250,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "当您使用劳动者港湾、我身边的场馆查询等基于地理位置的功能时",
+        "start": 1385,
+        "end": 1414,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "当您使用政务事项预约等基于地理位置的功能时",
+        "start": 1658,
+        "end": 1679,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "当您进行实名认证时",
+        "start": 2617,
+        "end": 2626,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "当您使用云南政务服务平台提供的搜索服务时",
+        "start": 2736,
+        "end": 2756,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "当您使用我身边的、劳动者港湾、首页、非法集资举报、失物招领等基于地理位置的功能时",
+        "start": 2902,
+        "end": 2942,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "在用户自愿选择服务或者提供信息的情况下",
+        "start": 3068,
+        "end": 3087,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "在用户使用云南政务服务平台时",
+        "start": 3108,
+        "end": 3122,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "但下列情况除外",
+        "start": 3228,
+        "end": 3235,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "在法律法规及监管要求允许",
+        "start": 3441,
+        "end": 3453,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "保护未成年人所必要的情况下",
+        "start": 3455,
+        "end": 3468,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "但下列情形除外",
+        "start": 4402,
+        "end": 4409,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_3",
+        "classId_name": "用户提供个人信息",
+        "text": "（4）如您在云南政务服务平台中选择通过指纹、刷脸功能进行登陆或办理政务事项，需向我们提供您的指纹、人脸图像信息。您可以通过 “安全中心-安全验证--指纹/刷脸”开启或关闭此功能。我们不会采集您的指纹，您的指纹仅保存在您授权采集指纹设备上。我们在征得您的明示同意后采集的人脸信息，将加密存储于信息系统后台数据库中。如您不提供上述信息，我们将无法向您提供需完成指纹、人脸认证后方可使用的产品或服务。\n对于某些品牌或型号的手机终端自身的本地生物特征认证功能，如人脸识别功能，其信息由手机终端提供商进行处理，我们不留存您应用手机终端相关功能中的信息。",
+        "start": 564,
+        "end": 835,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_3",
+        "classId_name": "用户提供个人信息",
+        "text": "（6）当您使用我们提供的实名认证服务时，您需提供您的姓名、证件类型、证件号码、银行卡号/账号、指纹认证、声纹认证、刷脸认证等信息，我们还可能通过验证账号/卡密码等方式对有关信息进行有效性核验。如您不提供上述信息，我们将无法向您提供需完成实名认证后方可使用的产品或服务。\n（7）当您使用直销银行提供的实名认证服务时，我们需要您提供您的姓名、证件类型、证件号码、银行卡号/账号、刷脸认证等信息。如您不提供上述信息，我们将无法向您提供需完成实名认证后方可使用的产品或服务。",
+        "start": 997,
+        "end": 1230,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_3",
+        "classId_name": "用户提供个人信息",
+        "text": "5.当您进行实名认证时，需提供姓名、证件类型、证件号码、手机号码、身份证照片、银行卡账户或面部识别特征等信息进行有效性核验，如不提供上述信息，用户将无法通过实名认证，将无法向用户提供需完成实名认证后方可使用的服务。",
+        "start": 2615,
+        "end": 2722,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_2",
+        "classId_name": "第三方收集或共享个人信息",
+        "text": "8.保护用户隐私是云南政务服务平台的一项基本政策，云南政务服务平台将在用户自愿选择服务或者提供信息的情况下收集用户的个人信息，并将这些信息进行整合。在用户使用云南政务服务平台时，服务器会自动记录一些信息，包括但不限于URL、IP地址、浏览器类型、使用语言、访问日期和时间等。云南政务服务平台保证不对外公开或向第三方提供用户注册资料及用户在使用平台服务时存储在云南政务服务平台的非公开内容，但下列情况除外：\n(1) 事先获得用户的明确授权；\n(2) 根据有关的法律法规要求；\n(3) 按照相关政府主管部门的要求；\n(4) 为维护社会公众的利益；\n(5) 为维护云南政务服务平台的合法权益；\n(6) 符合其他相关要求",
+        "start": 3034,
+        "end": 3340,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_2",
+        "classId_name": "第三方收集或共享个人信息",
+        "text": "11.云南政务服务平台依法保护个人隐私，不得违法违规向与政务服务无关的第三方提供用户注册资料，但下列情形除外：\n（1）事先获得用户的明确授权；\n（2）根据有关的法律法规要求；\n（3）按照相关政府主管部门的要求；\n（4）为维护社会公众的利益；\n（5）为维护云南政务服务平台的合法权益。",
+        "start": 4355,
+        "end": 4496,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_11",
+        "classId_name": "年龄限制条款",
+        "text": "9.如您为未成年人，请您的监护人仔细阅读本《用户协议服务》，并在征得您的监护人同意的前提下使用云南政务服务平台的服务或向云南政务服务平台提供信息，创建账户。云南政务服务平台只会在法律法规及监管要求允许或者保护未成年人所必要的情况下使用、对外提供此信息。",
+        "start": 3353,
+        "end": 3479,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_5",
+        "classId_name": "数据保存",
+        "text": "10.数据安全能力，以及采取的个人信息安全保护措施\n10.1存储\n(1)我们在中华人民共和国境内收集和产生的个人信息，将存储在中华人民共和国境内。\n(2)我们仅在法律法规要求的期限内，以及为实现本政策声明的目的所必须的时限内保留您的个人信息。例如：\n手机号码：当您需要使用云南政务服务平台提供的服务时，我们需要一直保存您的手机号码，以保证您正常使用该服务，当您注销云南政务服务平台账户后，我们将删除相应的信息；\n用户头像：当您设置了头像以后，我们会一直保存您的头像，用于登录页面展示使用。当您选择恢复为默认头像或手动删除头像后，我们将删除您设置的头像信息。",
+        "start": 3491,
+        "end": 3769,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_6",
+        "classId_name": "数据安全",
+        "text": "10.2保护\n(1)我们已使用符合业界标准的安全防护措施保护您提供的个人信息，防止数据遭到未经授权的访问、公开披露、使用、修改、损坏或丢失。我们会采取一切合理可行的措施，保护您的个人信息。例如：使用加密技术确保数据的保密性；使用受信赖的保护机制防止数据遭到恶意攻击；部署访问控制机制，确保只有授权人员才可访问个人信息；以及举办安全和隐私保护培训课程，加强政府工作人员对于保护个人信息重要性的认识。\n(2)如我们提供的全部或部分服务停止运营，我们会通过公告等形式向您进行告知，同时停止服务对您个人信息的收集等操作，保护您的个人信息安全。如因技术故障、网络攻击、自然灾害及事故、人为因素等各种原因造成全部或部分电子银行业务中断，我们将采取应急处置和恢复措施予以应对，尽快恢复服务。\n(3)我们会采取一切合理可行的措施，确保未收集无关的个人信息。\n(4)请您理解，由于技术水平局限以及可能存在的恶意攻击，有可能出现我行无法合理预见、防范、避免、控制的意外情况。互联网并非绝对安全的环境，请使用复杂密码，协助我们保证您的账号安全。\n(5)如发生个人信息安全事件，我们将按照法律法规的要求，及时将事件相关情况以短信、电话、推送通知等方式告知您，或采取合理、有效的方式发布公告。同时，我们还将依据监管规定，上报个人信息安全事件处置情况。",
+        "start": 3781,
+        "end": 4343,
+        "fields": [],
+        "sub_annotations": []
+    }
+]

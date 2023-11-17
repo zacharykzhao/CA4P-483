@@ -1,0 +1,821 @@
+[
+    {
+        "classId": "e_16",
+        "classId_name": "其他",
+        "text": "尊敬的用户，欢迎您阅读本协议：\n    青岛嘉铭文化传播有限公司（简称“公司”或“我们”）深知个人信息对您的重要性，我们将按照法律法规的规定，保护您的个人信息以及隐私安全。我们制定本“隐私政策”并特别提示：希望您在使用莱特日语背单词及相关服务前仔细阅读并理解本隐私政策，以便做出适当的选择。",
+        "start": 36,
+        "end": 181,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_16",
+        "classId_name": "其他",
+        "text": "本隐私政策将帮助您了解：\n    我们会遵循隐私政策收集、使用您的信息，但不会仅因为您同意本隐私政策而采用强制捆绑的方式一揽子收集个人信息。\n    当您使用或开启相关功能或使用服务时，为实现功能、服务所必需，我们会收集、使用相关信息。除非是为实现基本业务功能或根据法律法规要求必要信息，您均可以拒绝提供且不影响其他功能或服务。我们将在隐私政策中逐项说明哪些是必要信息。\n    如果您未登陆账号，我们会通过设备对应的标识符信息来保障信息推送的基本功能。如果您登陆了账号，我们会根据账号信息实现信息推送。所有权限均不会默认开启，只有经过您的明示授权才会在为实现特定功能或服务时使用。特别需要指出的是，即使经过您的授权，我们获得了这些敏感权限，也不会在相关功能或者服务不需要时而收集您的信息。",
+        "start": 197,
+        "end": 542,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_16",
+        "classId_name": "其他",
+        "text": "下文将帮助您详细了解我们如何收集、使用、存储、传输、共享、转让（如适用）与保护个人信息；帮您了解查询、访问、删除、更正、撤回授权个人信息的方式。\n    1. 我们是如何收集和使用个人信息\n    2. 我们如何使用Cookie和同类技术\n    3. 我们如何共享、转让、公开披露您的个人信息\n    4. 我们如何保护您的个人信息\n    5. 您的权利\n    6. 我们如何处理未成年人的个人信息\n    7. 您的个人信息如何在全球范围内转移\n    8. 本政策如何更新\n    9. 如何联系我们",
+        "start": 558,
+        "end": 813,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_8",
+        "classId_name": "信息定义",
+        "text": "个人信息是指以电子或者其他方式记录的能够单独或者与其他信息结合识别特定自然人身份或者反应特定自然人活动情况的各种信息。",
+        "start": 852,
+        "end": 911,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_1",
+        "classId_name": "App或网站收集使用处理个人信息",
+        "text": "莱特日语背单词软件仅会出于本政策所述的一下目的，收集和使用您的个人信息：（一）  为更好地为你提供服务，莱特日语背单词软件将遵循“合法、正当、必要”原则，按照法律法规的规定和您的同意收集您的个人信息，主要包括：",
+        "start": 927,
+        "end": 1032,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_1",
+        "classId_name": "App或网站收集使用处理个人信息",
+        "text": "2.    您在使用软件服务过程中产生的信息\n    您使用我们提供的服务时，我们可能自动收集以下信息：\n    （1）    日志信息\n    指您使用我们的服务时，系统可能通过cookies、Web beacon或其他方式自动采集的技术信息，包括\n    A． 设备或软件信息，例如您的移动设备，网页浏览器或者您用户接入我们的服务的其他程序所提供的配置信息、您的IP地址和您的移动设备所用的版本和设备识别码。\n    B． 您在使用我们的服务时搜索和浏览的信息，例如生成的名字和收藏的名字等等，以及您在使用我们的服务时浏览或者要求提供的其他信息；\n    （2）    位置信息\n    指您开启设备定位功能并使用我们基于位置提供的相关服务时，我们手机的有关您位置的信息。您可以通过关闭定位功能随时停止我们对您的地理位置信息的收集。     （3）    订购信息\n    指您通过本客户端订购付费服务产生的记录，如订单记录，消费记录等\n    （4）    手机账户信息\n    指您的手机登陆账户的信息，例如在您选择使用手机账号登陆我们的服务时，我们会获取您的手机账号等相关信息。",
+        "start": 1162,
+        "end": 1656,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_1",
+        "classId_name": "App或网站收集使用处理个人信息",
+        "text": "3.    第三方分享的有关您的信息\n    为给您提供服务，我们可能会从关联公司、业务合作或等等第三方来源获得您的相关信息。例如当您通过我们关联公司、业务合作伙伴客户端、网站订购我们的产品，您向其提供的预订信息可能会转交给我们，以便我们处理您的订单，并为您提供服务。（二）  我们可能将收集到的您的个人信息用于以下目的\n    1.    为您提供服务\n    （1）    在我们提供服务时，用于身份验证、客户服务、安全防护、诈骗监测、存档和备份用途，确保我们向您提供的产品和服务的安全性\n    （2）    通过信息数据分析，帮助我们设计新服务，改善我们现有的服务\n    （3）    使我们更加了解您是如何使用我们的服务的，从而有针对性的满足您的个性化需求，例如语言设定、位置设计、筛选设定、个性化的帮助服务和指示，或对您和其它使用我们服务的用户做出其他方面的回应；\n    （4）    提供您关注或者与您相关的广告以替代普遍投放的广告，您在使用我们的服务时，我们可能使用您的信息向您发送电子邮件、短信或者推送通知，如您不希望收到这些消息，可以按照我们的相关提示取消订阅。\n    （5）    评估我们服务中的广告和其他促销推广活动的效果，并加以改善。\n    （6）    软件认证或者管理软件升级\n    （7）    让您参与有关我们产品和服务的调查\n    （8）    其他您授权同意提供个人信息的情\n    2.    在收集您的个人信息后，我们将通过技术手段对数据进行去标注化处理，去标识化处理的信息将无法识别主体。请您了解并同意，在此情况下我们有权使用已经去标识化的信息，并在符合相关法律法规的前提下，我们有权对包括您的个人信息在内的用户数据库进行整体化分析和利用。\n    3.    当我们要将信息用户本政策未载明的其他用途时。会事先征求您的同意。",
+        "start": 1672,
+        "end": 2464,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_1",
+        "classId_name": "App或网站收集使用处理个人信息",
+        "text": "4.    您充分知晓，以下情形中我们使用个人信息无需征得您的同意：\n    （1）    与国家安全、国防安全相关的\n    （2）    与公共安全、公共卫生、重大公共利益有关的\n    （3）    与犯罪侦查、起诉、审判和判决执行等相关的\n    （4）    出于维护个人信息主体或其他个人的声明、财产等重大合法权益但又很难得到本人同意的\n    （5）    所收集的个人信息是个人信息主体自行向社会公众公开的\n    （6）   从合法公开披露的信息中收集的您的个人信息的，如合法的新闻报道、政府信息公开等渠道\n    （7）    根据您的要求签订合同所必须的\n    （8）    用于维护所提供的产品或服务的安全稳定运行所必需的，例如发现、处理产品的故障\n    （9）    为合法的新闻报道所必须的\n    （10）  学术研究机构基于公共利益开展统计或学术研究所必要，且对外提供学术研究或描述的结果时，对接过重所包含的个人信息进行去标识化处理的\n    （11）  法律法规规定的其他情形。",
+        "start": 2480,
+        "end": 2938,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "莱特日语背单词软件",
+        "start": 927,
+        "end": 936,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "系统",
+        "start": 1246,
+        "end": 1248,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 1811,
+        "end": 1813,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 2497,
+        "end": 2499,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 3305,
+        "end": 3307,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 3387,
+        "end": 3389,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 3414,
+        "end": 3416,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 3497,
+        "end": 3499,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 3745,
+        "end": 3747,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 3810,
+        "end": 3812,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "，我们",
+        "start": 3877,
+        "end": 3880,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 4022,
+        "end": 4024,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 4110,
+        "end": 4112,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "我们",
+        "start": 4328,
+        "end": 4330,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_24",
+        "classId_name": "操作者",
+        "text": "友盟+SDK",
+        "start": 5262,
+        "end": 5268,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "出于本政策所述的一下目的",
+        "start": 938,
+        "end": 950,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "用于以下目的",
+        "start": 1826,
+        "end": 1832,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "一提供更好的客户服务和用户体验",
+        "start": 3766,
+        "end": 3781,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "以提供统计分析服务",
+        "start": 5339,
+        "end": 5348,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_27",
+        "classId_name": "目的",
+        "text": "校准报表数据准确性，提供基础反作弊能力",
+        "start": 5356,
+        "end": 5375,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 951,
+        "end": 953,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "使用",
+        "start": 954,
+        "end": 956,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "采集",
+        "start": 1277,
+        "end": 1279,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 1816,
+        "end": 1818,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "使用",
+        "start": 2499,
+        "end": 2501,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "保留",
+        "start": 4348,
+        "end": 4350,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_22",
+        "classId_name": "收集",
+        "text": "收集",
+        "start": 5270,
+        "end": 5272,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "个人信息",
+        "start": 958,
+        "end": 962,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "技术信息",
+        "start": 1280,
+        "end": 1284,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "个人信息",
+        "start": 1822,
+        "end": 1826,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "个人信息",
+        "start": 2501,
+        "end": 2505,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "个人信息",
+        "start": 3339,
+        "end": 3343,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "个人信息",
+        "start": 3398,
+        "end": 3402,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "个人信息",
+        "start": 3450,
+        "end": 3454,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "个人信息",
+        "start": 3506,
+        "end": 3510,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "个人信息",
+        "start": 3761,
+        "end": 3765,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "个人信息",
+        "start": 3817,
+        "end": 3821,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "个人信息",
+        "start": 3889,
+        "end": 3893,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "个人信息",
+        "start": 4039,
+        "end": 4043,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "个人信息",
+        "start": 4121,
+        "end": 4125,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "个人信息",
+        "start": 4352,
+        "end": 4356,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "设备Mac地址、唯一设备识别码（IMEI/android ID/IDFA/OPENUDID/GUID、SIM 卡 IMSI 信息",
+        "start": 5274,
+        "end": 5338,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_21",
+        "classId_name": "数据",
+        "text": "地理位置",
+        "start": 5352,
+        "end": 5356,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_3",
+        "classId_name": "用户提供个人信息",
+        "text": "1.    您提供的注册信息\n    在注册成为我们的用户或者使用我们的服务时，向我们提供的相关个人信息，包括您的昵称、电话号码、邮箱等。您提供的上述信息，将在您使用本客户端服务期间持续授权我们使用，在您注销账号时，我们将停止使用上述信息",
+        "start": 1037,
+        "end": 1156,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "您使用我们的服务时",
+        "start": 1236,
+        "end": 1245,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "以下情形中",
+        "start": 2492,
+        "end": 2497,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "但以下情况除外",
+        "start": 3344,
+        "end": 3351,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "获得您的明确同意后",
+        "start": 3377,
+        "end": 3386,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "根据法律法规规定",
+        "start": 3419,
+        "end": 3427,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "按照政府主管部门的强制性要求",
+        "start": 3429,
+        "end": 3443,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "受个人信息保护政策中所声明目的的约束",
+        "start": 3512,
+        "end": 3530,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "但以下情况除外",
+        "start": 3835,
+        "end": 3842,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "获取您的明确同意后",
+        "start": 3868,
+        "end": 3877,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "仅会在以下情况下",
+        "start": 4024,
+        "end": 4032,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "在法律、法律程序、诉讼或政府主管部门强制性要求的情况下",
+        "start": 4082,
+        "end": 4109,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "在达成本政策所述目的所需的期限内",
+        "start": 4332,
+        "end": 4348,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "除非需要延长保留期",
+        "start": 4357,
+        "end": 4366,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_25",
+        "classId_name": "条件",
+        "text": "受到法律的允许",
+        "start": 4368,
+        "end": 4375,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_15",
+        "classId_name": "网站Cookie及WebBeacon使用",
+        "text": "二．我们如何使用Cookie和同类技术\n    （一）  Cookie\n    为确保客户端正常运转，我们会在您的移动设备上存储名为Cookie的小数据文件。Cookie通常包含标识符、站点名称以及一些号码和字符。借助于Cookie，客户端能够存储您的偏好数据以及设定好的数据\n    （二）  Do Not Track（请勿追踪）\n    很多网络浏览器均设有Do Not Track功能，该功能可向网站发布DoNot Track请求。目前，主要互联网标准组织尚未设立相关政策来规定网站应如何应对此类请求，但是如果您的浏览器启用了Do Not Track，那么我们的所有网站将会尊重您的选择",
+        "start": 2954,
+        "end": 3250,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_2",
+        "classId_name": "第三方收集或共享个人信息",
+        "text": "三．我们如何共享、转让、公开披露您的个人信息\n    （一）  共享\n    我们不会与青岛嘉铭文化传播有限公司以外的任何公司、组织和个人分享您的个人信息，但以下情况除外：\n    1.    在获取明确同意的情况下共享；获得您的明确同意后，我们会与其他方共享您的个人信息。\n    2.    我们可能会根据法律法规规定，或按照政府主管部门的强制性要求，对外共享您的个人信息。\n    3.    与我们的关联公司共享：您的个人信息可能会与我们的关联公司共享。我们只会共享必要的个人信息，且受个人信息保护政策中所声明目的的约束。关联公司如要改变个人信息的处理目的，将再次征求您的授权同意。\n    我们的关联公司包括莱特日语背单词软件现在或将来控制、受控制或与其处于共同控制下的任何公司、机构以及上述公司或机构的合法继承人。其中“控制”是指直接或间接地拥有影响所提及公司管理的能力，无论是通过所有权、有投票权的股份、合同或其他被人民法院认定的形式。\n    4.    与授权合作伙伴共享：仅为实现本政策声明的目的，我们的某些服务酱油授权合作伙伴提供。所以我们可能会与合作伙伴共享您的某些个人信息，一提供更好的客户服务和用户体验",
+        "start": 3266,
+        "end": 3781,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_2",
+        "classId_name": "第三方收集或共享个人信息",
+        "text": "（二）  转让\n    我们不会将您的个人信息转让给任何公司、组织和个人，但以下情况除外：\n    1.    在获取明确同意的情况下转让；获取您的明确同意后，我们会向其他方转让您的个人信息\n    2.    在涉及合并、收购或者破产清算时，如涉及到个人信息转让，我们会在要求新的持有您个人信息的公司、组织继续受此个人信息保护政策的约束，否则我们将要求该公司、组织重新向您征求授权同意。",
+        "start": 3798,
+        "end": 3992,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_2",
+        "classId_name": "第三方收集或共享个人信息",
+        "text": "三）  公开披露\n    我们仅会在以下情况下，公开披露你的个人信息：\n    1.    获得您明确同意后\n    2.    基于法律的披露：在法律、法律程序、诉讼或政府主管部门强制性要求的情况下，我们可能会公开披露您的个人信息",
+        "start": 4009,
+        "end": 4125,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_2",
+        "classId_name": "第三方收集或共享个人信息",
+        "text": "六. 第三方隐私协议\n    本APP的登陆/推送功能使用第三方SDK，详情请见第三方隐私协议：\n    登录：SHARESDK隐私协议：\n    <https://www.mob.com/about/policy>\n    推送：个推隐私协议\n    <https://www.getui.com/privacy>\n    我们的产品集成友盟+SDK，友盟+SDK需要收集您的设备Mac地址、唯一设备识别码（IMEI/android ID/IDFA/OPENUDID/GUID、SIM 卡 IMSI 信息）以提供统计分析服务，并通过地理位置校准报表数据准确性，提供基础反作弊能力。”",
+        "start": 5085,
+        "end": 5377,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "青岛嘉铭文化传播有限公司以外的任何公司、组织和个人",
+        "start": 3310,
+        "end": 3335,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "其他方",
+        "start": 3391,
+        "end": 3394,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "合作伙伴",
+        "start": 3751,
+        "end": 3755,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "任何公司、组织和个人",
+        "start": 3824,
+        "end": 3834,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_26",
+        "classId_name": "受试者",
+        "text": "其他方",
+        "start": 3882,
+        "end": 3885,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "分享",
+        "start": 3335,
+        "end": 3337,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "共享",
+        "start": 3394,
+        "end": 3396,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "共享",
+        "start": 3446,
+        "end": 3448,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "共享",
+        "start": 3501,
+        "end": 3503,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "共享",
+        "start": 3755,
+        "end": 3757,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "转让",
+        "start": 3821,
+        "end": 3823,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "转让",
+        "start": 3885,
+        "end": 3887,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "公开披露",
+        "start": 4033,
+        "end": 4037,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_23",
+        "classId_name": "分享",
+        "text": "公开披露",
+        "start": 4115,
+        "end": 4119,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_6",
+        "classId_name": "数据安全",
+        "text": "四．我们如何保护您的个人信息\n    （一）  我们会严格按照《网络安全法》、《全国人民代表大会常务委员会关于加强网络信息保护的决定》、《电信和互联网用户个人信息保护规定》（工业和信息化部令第24号）、《电话用户真实身份信息登记规定》（工业和信息化部令第25号）等法律法规的相关要求，建立信息安全保障制度，采取技术措施和其他必要措施保护您的个人信息安全。\n    （二）  我们只会在达成本政策所述目的所需的期限内保留您的个人信息，除非需要延长保留期或者受到法律的允许。\n    （三）  请您理解：互联网环境并非百分之百安全，我们将尽力确保或担保您发送给我们的任何信息的安全性，但由于技术的限制及可能存在的各种恶意手段，即使竭尽所能加强安全措施，也不可能始终保证信息百分之百安全。在不幸发生个人信息安全时间后，我们将按照法律法规的要求，及时向您告知：安全事件的基本情况和可能的影响、我们已采取或将要采取的处置措施、您可自助防范和降低风险的建议、对您的补救措施等；我们将及时将事件相关情况以邮件、信函、电话、推送通知等方式告知您，难以逐一告知信息主体时，我们会采取合理有效的方式发布公告。同时，我们还将按照监管部门要求，主动上报个人信息安全时间的处置情况。",
+        "start": 4141,
+        "end": 4669,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_4",
+        "classId_name": "用户权利增删改查",
+        "text": "五．您的权利\n    1.    查询和更正您的个人信息\n    除法律法规规定外，您有权在登陆本客户端后查询和更正您的个人信息\n    2.    在以下情形中，您可以向我们提出删除个人信息的请求：\n    （1）    如果我们处理个人信息的行为违法法律法规；\n    （2）    如果我们收集、使用您的个人信息，却未征得您的同意；\n    （3）    如果我们处理个人信息的行为违反了与您的约定；\n    （4）    如果您不再使用我们的产品或服务，或您注销了账号；\n    （5）    如果我们不再为您提供产品或服务。\n    当您从我们的服务中删除信息后，我们可能不会立即备份系统中删除相应的信息，但会在备份更新时删除这些信息。\n    3.    您注销账户后，我们将停止为您提供产品或服务，并依据您的要求，删除您的个人信息，法律法规另有规定的除外",
+        "start": 4685,
+        "end": 5069,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_11",
+        "classId_name": "年龄限制条款",
+        "text": "七．我们如何处理未成年人的个人信息\n    1.    我们非常重视对未成年人个人信息的保护，若您是18周岁以下的未成年人，在使用我们的服务前，应事先取得您家长或者法定监护人的书面同意。我们将根据国家相关法律法规的规定保护未成年人的个人信息。\n    2.    对于经父母或法定监护人同意而收集未成年人个人欣喜地额情况，我们只会在受到法律允许、父母或监护人明确同意或者保护未成年人所必要的情况下使用或公开披露此信息。\n    3.    如果我们发现自己在未事先获得可证实的父母或法定监护人同意的情况下收集了未成年人的个人信息，则会设法尽快删除相关数据。",
+        "start": 5393,
+        "end": 5671,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_5",
+        "classId_name": "数据保存",
+        "text": "八．您的个人信息如何在全球范围内转移\n    原则上，我们在中华人民共和国境内收集和产生的个人信息，将存储在中华人民共和国境内。如果需要将您的个人信息转移到境外，我们将另行获得您的授权同意，在此情况下我们会一句本政策以使您的个人信息得到足够的保护。",
+        "start": 5687,
+        "end": 5811,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_7",
+        "classId_name": "隐私政策修改更新",
+        "text": "九．本政策如何更新\n    我们的个人信息保护政策可能变更。\n    未经您明确同意，我们不会削减您按照个人信息保护政策所应享有的权利。我们会以通告的形式发布对本政策所做的任何变更。在该种情况下，若您继续使用我们的服务，即表示您同意接受修订后的隐私政策约束。",
+        "start": 5827,
+        "end": 5956,
+        "fields": [],
+        "sub_annotations": []
+    },
+    {
+        "classId": "e_14",
+        "classId_name": "开发者公司名称联系方式",
+        "text": "十．如何联系我们\n    如果您对该个人信息保护政策有任何疑问、意见或建议，可以随时联系我们，我们会积极进行查证、处理并尽快给您答复。\n    联系方式： \n    公司名称：青岛嘉铭文化传播有限公司 \n    注册地址：山东省青岛市李沧区九水东路195号4号楼2单元 \n    常用办公地址：山东省青岛市崂山区石岭路39号名汇国际1号楼2301\n    联系邮箱：[jiamingqm@126.com](mailto:jiamingqm@126.com) \n    联系电话：4009606728",
+        "start": 5972,
+        "end": 6221,
+        "fields": [],
+        "sub_annotations": []
+    }
+]
