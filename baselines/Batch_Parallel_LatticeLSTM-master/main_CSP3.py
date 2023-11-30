@@ -208,12 +208,12 @@ if __name__ == '__main__':
     saver = ModelSaver("./cache/model_ckpt_100_2.pkl")
     saver.save_pytorch(model, param_only=False)
     #
-    tester = Tester(datasets['test'], model, metrics=SpanFPreRecMetric())
+    tester = Tester(datasets['test'], model, metrics=SpanFPreRecMetric(vocabs['label'], pred='pred', target='target', seq_len='seq_len'))
     tester.test()
-
+    
     # if (args.predict):
     #     print("test1")
     #     model1 = ModelLoader.load_pytorch_model("./cache/model_ckpt_100_2.pkl")
-    #     ModelLoader.load_pytorch(model1, "./cache/model_ckpt_100_2.pkl")
-    #     tester1 = Tester(datasets['test'], model1, metrics=AccuracyMetric())
+    #     tester1 = Tester(datasets['test'], model1, metrics=SpanFPreRecMetric(vocabs['label'], pred='pred', target='target', seq_len='seq_len'))
+
     #     tester1.test()
