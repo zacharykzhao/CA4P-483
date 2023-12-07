@@ -208,7 +208,7 @@ if __name__ == '__main__':
     saver = ModelSaver("./cache/model_ckpt_100_2.pkl")
     saver.save_pytorch(model, param_only=False)
     #
-    tester = Tester(datasets['test'], model, metrics=SpanFPreRecMetric(vocabs['label'], pred='pred', target='target', seq_len='seq_len'))
+    tester = Tester(datasets['test'], model, metrics=SpanFPreRecMetric(vocabs['label'], pred='pred', target='target', seq_len='seq_len',only_gross=False))
     tester.test()
     
     # if (args.predict):
