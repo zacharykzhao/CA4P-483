@@ -1,0 +1,351 @@
+nohup: ignoring input
+2023-12-17 21:29:47.048359: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+WARNING:tensorflow:Deprecation warnings have been disabled. Set TF_ENABLE_DEPRECATION_WARNINGS=1 to re-enable them.
+WARNING:tensorflow:From /home/zachary/anaconda3/envs/tf115/lib/python3.6/site-packages/bert_base/bert/optimization.py:84: The name tf.train.Optimizer is deprecated. Please use tf.compat.v1.train.Optimizer instead.
+
+2023-12-17 21:29:47.920128: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2900000000 Hz
+2023-12-17 21:29:47.926294: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x557484d94d60 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2023-12-17 21:29:47.926344: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+2023-12-17 21:29:47.930200: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcuda.so.1
+2023-12-17 21:29:48.074025: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x557485177f10 initialized for platform CUDA (this does not guarantee that XLA will be used). Devices:
+2023-12-17 21:29:48.074094: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): NVIDIA GeForce RTX 3090, Compute Capability 8.6
+2023-12-17 21:29:48.074855: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1665] Found device 0 with properties: 
+name: NVIDIA GeForce RTX 3090 major: 8 minor: 6 memoryClockRate(GHz): 1.695
+pciBusID: 0000:3d:00.0
+2023-12-17 21:29:48.074895: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+2023-12-17 21:29:48.078577: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcublas.so.11
+2023-12-17 21:29:48.079938: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcufft.so.10
+2023-12-17 21:29:48.080279: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcurand.so.10
+2023-12-17 21:29:48.084263: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcusolver.so.11
+2023-12-17 21:29:48.085172: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcusparse.so.11
+2023-12-17 21:29:48.085346: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudnn.so.8
+2023-12-17 21:29:48.086123: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1793] Adding visible gpu devices: 0
+2023-12-17 21:29:48.086165: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+2023-12-17 21:29:48.344225: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1206] Device interconnect StreamExecutor with strength 1 edge matrix:
+2023-12-17 21:29:48.344280: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212]      0 
+2023-12-17 21:29:48.344287: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1225] 0:   N 
+2023-12-17 21:29:48.345282: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1351] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 22366 MB memory) -> physical GPU (device: 0, name: NVIDIA GeForce RTX 3090, pci bus id: 0000:3d:00.0, compute capability: 8.6)
+WARNING:tensorflow:From /home/zachary/anaconda3/envs/tf115/lib/python3.6/site-packages/bert_base/bert/modeling.py:92: The name tf.gfile.GFile is deprecated. Please use tf.io.gfile.GFile instead.
+
+WARNING:tensorflow:From /home/zachary/anaconda3/envs/tf115/lib/python3.6/site-packages/bert_base/train/bert_lstm_ner.py:540: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+WARNING:tensorflow:From /home/zachary/anaconda3/envs/tf115/lib/python3.6/site-packages/bert_base/train/bert_lstm_ner.py:567: The name tf.logging.info is deprecated. Please use tf.compat.v1.logging.info instead.
+
+WARNING:tensorflow:From /home/zachary/anaconda3/envs/tf115/lib/python3.6/site-packages/bert_base/train/bert_lstm_ner.py:306: The name tf.python_io.TFRecordWriter is deprecated. Please use tf.io.TFRecordWriter instead.
+
+WARNING:tensorflow:From /home/zachary/anaconda3/envs/tf115/lib/python3.6/site-packages/bert_base/train/bert_lstm_ner.py:331: The name tf.FixedLenFeature is deprecated. Please use tf.io.FixedLenFeature instead.
+
+WARNING:tensorflow:From /home/zachary/anaconda3/envs/tf115/lib/python3.6/site-packages/tensorflow_core/python/autograph/converters/directives.py:119: The name tf.parse_single_example is deprecated. Please use tf.io.parse_single_example instead.
+
+WARNING:tensorflow:From /home/zachary/anaconda3/envs/tf115/lib/python3.6/site-packages/bert_base/bert/modeling.py:172: The name tf.variable_scope is deprecated. Please use tf.compat.v1.variable_scope instead.
+
+WARNING:tensorflow:From /home/zachary/anaconda3/envs/tf115/lib/python3.6/site-packages/bert_base/bert/modeling.py:411: The name tf.get_variable is deprecated. Please use tf.compat.v1.get_variable instead.
+
+WARNING:tensorflow:From /home/zachary/anaconda3/envs/tf115/lib/python3.6/site-packages/bert_base/bert/modeling.py:492: The name tf.assert_less_equal is deprecated. Please use tf.compat.v1.assert_less_equal instead.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+* https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+* https://github.com/tensorflow/addons
+* https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:From /home/zachary/anaconda3/envs/tf115/lib/python3.6/site-packages/bert_base/bert/modeling.py:277: The name tf.erf is deprecated. Please use tf.math.erf instead.
+
+WARNING:tensorflow:From /home/zachary/anaconda3/envs/tf115/lib/python3.6/site-packages/bert_base/train/lstm_crf_layer.py:147: The name tf.nn.xw_plus_b is deprecated. Please use tf.compat.v1.nn.xw_plus_b instead.
+
+WARNING:tensorflow:From /home/zachary/anaconda3/envs/tf115/lib/python3.6/site-packages/bert_base/train/bert_lstm_ner.py:397: The name tf.trainable_variables is deprecated. Please use tf.compat.v1.trainable_variables instead.
+
+WARNING:tensorflow:From /home/zachary/anaconda3/envs/tf115/lib/python3.6/site-packages/bert_base/train/bert_lstm_ner.py:403: The name tf.train.init_from_checkpoint is deprecated. Please use tf.compat.v1.train.init_from_checkpoint instead.
+
+WARNING:tensorflow:From /home/zachary/anaconda3/envs/tf115/lib/python3.6/site-packages/bert_base/bert/optimization.py:27: The name tf.train.get_or_create_global_step is deprecated. Please use tf.compat.v1.train.get_or_create_global_step instead.
+
+WARNING:tensorflow:From /home/zachary/anaconda3/envs/tf115/lib/python3.6/site-packages/bert_base/bert/optimization.py:32: The name tf.train.polynomial_decay is deprecated. Please use tf.compat.v1.train.polynomial_decay instead.
+
+WARNING:tensorflow:From /home/zachary/anaconda3/envs/tf115/lib/python3.6/site-packages/bert_base/train/bert_lstm_ner.py:424: The name tf.train.LoggingTensorHook is deprecated. Please use tf.estimator.LoggingTensorHook instead.
+
+2023-12-17 21:30:11.519557: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1665] Found device 0 with properties: 
+name: NVIDIA GeForce RTX 3090 major: 8 minor: 6 memoryClockRate(GHz): 1.695
+pciBusID: 0000:3d:00.0
+2023-12-17 21:30:11.519649: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+2023-12-17 21:30:11.519685: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcublas.so.11
+2023-12-17 21:30:11.519712: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcufft.so.10
+2023-12-17 21:30:11.519726: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcurand.so.10
+2023-12-17 21:30:11.519754: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcusolver.so.11
+2023-12-17 21:30:11.519771: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcusparse.so.11
+2023-12-17 21:30:11.519789: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudnn.so.8
+2023-12-17 21:30:11.520198: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1793] Adding visible gpu devices: 0
+2023-12-17 21:30:11.520262: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1206] Device interconnect StreamExecutor with strength 1 edge matrix:
+2023-12-17 21:30:11.520269: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212]      0 
+2023-12-17 21:30:11.520274: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1225] 0:   N 
+2023-12-17 21:30:11.520708: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1351] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 22366 MB memory) -> physical GPU (device: 0, name: NVIDIA GeForce RTX 3090, pci bus id: 0000:3d:00.0, compute capability: 8.6)
+2023-12-17 21:30:30.981834: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcublas.so.11
+WARNING:tensorflow:From /home/zachary/anaconda3/envs/tf115/lib/python3.6/site-packages/bert_base/train/bert_lstm_ner.py:437: The name tf.metrics.mean_squared_error is deprecated. Please use tf.compat.v1.metrics.mean_squared_error instead.
+
+2023-12-17 21:33:43.950268: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1665] Found device 0 with properties: 
+name: NVIDIA GeForce RTX 3090 major: 8 minor: 6 memoryClockRate(GHz): 1.695
+pciBusID: 0000:3d:00.0
+2023-12-17 21:33:43.950344: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+2023-12-17 21:33:43.950376: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcublas.so.11
+2023-12-17 21:33:43.950389: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcufft.so.10
+2023-12-17 21:33:43.950397: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcurand.so.10
+2023-12-17 21:33:43.950407: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcusolver.so.11
+2023-12-17 21:33:43.950418: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcusparse.so.11
+2023-12-17 21:33:43.950429: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudnn.so.8
+2023-12-17 21:33:43.950798: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1793] Adding visible gpu devices: 0
+2023-12-17 21:33:43.950832: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1206] Device interconnect StreamExecutor with strength 1 edge matrix:
+2023-12-17 21:33:43.950838: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212]      0 
+2023-12-17 21:33:43.950843: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1225] 0:   N 
+2023-12-17 21:33:43.951239: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1351] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 22366 MB memory) -> physical GPU (device: 0, name: NVIDIA GeForce RTX 3090, pci bus id: 0000:3d:00.0, compute capability: 8.6)
+2023-12-17 21:46:17.035947: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1665] Found device 0 with properties: 
+name: NVIDIA GeForce RTX 3090 major: 8 minor: 6 memoryClockRate(GHz): 1.695
+pciBusID: 0000:3d:00.0
+2023-12-17 21:46:17.036026: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+2023-12-17 21:46:17.036059: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcublas.so.11
+2023-12-17 21:46:17.036072: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcufft.so.10
+2023-12-17 21:46:17.036089: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcurand.so.10
+2023-12-17 21:46:17.036098: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcusolver.so.11
+2023-12-17 21:46:17.036108: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcusparse.so.11
+2023-12-17 21:46:17.036120: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudnn.so.8
+2023-12-17 21:46:17.036495: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1793] Adding visible gpu devices: 0
+2023-12-17 21:46:17.036532: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1206] Device interconnect StreamExecutor with strength 1 edge matrix:
+2023-12-17 21:46:17.036537: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212]      0 
+2023-12-17 21:46:17.036542: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1225] 0:   N 
+2023-12-17 21:46:17.036943: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1351] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 22366 MB memory) -> physical GPU (device: 0, name: NVIDIA GeForce RTX 3090, pci bus id: 0000:3d:00.0, compute capability: 8.6)
+2023-12-17 21:58:50.939089: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1665] Found device 0 with properties: 
+name: NVIDIA GeForce RTX 3090 major: 8 minor: 6 memoryClockRate(GHz): 1.695
+pciBusID: 0000:3d:00.0
+2023-12-17 21:58:50.939175: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+2023-12-17 21:58:50.939215: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcublas.so.11
+2023-12-17 21:58:50.939230: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcufft.so.10
+2023-12-17 21:58:50.939241: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcurand.so.10
+2023-12-17 21:58:50.939253: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcusolver.so.11
+2023-12-17 21:58:50.939265: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcusparse.so.11
+2023-12-17 21:58:50.939276: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudnn.so.8
+2023-12-17 21:58:50.939647: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1793] Adding visible gpu devices: 0
+2023-12-17 21:58:50.939682: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1206] Device interconnect StreamExecutor with strength 1 edge matrix:
+2023-12-17 21:58:50.939687: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212]      0 
+2023-12-17 21:58:50.939692: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1225] 0:   N 
+2023-12-17 21:58:50.940102: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1351] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 22366 MB memory) -> physical GPU (device: 0, name: NVIDIA GeForce RTX 3090, pci bus id: 0000:3d:00.0, compute capability: 8.6)
+2023-12-17 22:11:23.485656: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1665] Found device 0 with properties: 
+name: NVIDIA GeForce RTX 3090 major: 8 minor: 6 memoryClockRate(GHz): 1.695
+pciBusID: 0000:3d:00.0
+2023-12-17 22:11:23.485739: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+2023-12-17 22:11:23.485771: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcublas.so.11
+2023-12-17 22:11:23.485787: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcufft.so.10
+2023-12-17 22:11:23.485797: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcurand.so.10
+2023-12-17 22:11:23.485817: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcusolver.so.11
+2023-12-17 22:11:23.485828: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcusparse.so.11
+2023-12-17 22:11:23.485838: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudnn.so.8
+2023-12-17 22:11:23.486204: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1793] Adding visible gpu devices: 0
+2023-12-17 22:11:23.486239: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1206] Device interconnect StreamExecutor with strength 1 edge matrix:
+2023-12-17 22:11:23.486244: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212]      0 
+2023-12-17 22:11:23.486249: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1225] 0:   N 
+2023-12-17 22:11:23.486647: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1351] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 22366 MB memory) -> physical GPU (device: 0, name: NVIDIA GeForce RTX 3090, pci bus id: 0000:3d:00.0, compute capability: 8.6)
+2023-12-17 22:23:55.689256: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1665] Found device 0 with properties: 
+name: NVIDIA GeForce RTX 3090 major: 8 minor: 6 memoryClockRate(GHz): 1.695
+pciBusID: 0000:3d:00.0
+2023-12-17 22:23:55.689336: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+2023-12-17 22:23:55.689366: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcublas.so.11
+2023-12-17 22:23:55.689379: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcufft.so.10
+2023-12-17 22:23:55.689388: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcurand.so.10
+2023-12-17 22:23:55.689398: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcusolver.so.11
+2023-12-17 22:23:55.689408: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcusparse.so.11
+2023-12-17 22:23:55.689419: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudnn.so.8
+2023-12-17 22:23:55.689785: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1793] Adding visible gpu devices: 0
+2023-12-17 22:23:55.689819: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1206] Device interconnect StreamExecutor with strength 1 edge matrix:
+2023-12-17 22:23:55.689825: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212]      0 
+2023-12-17 22:23:55.689830: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1225] 0:   N 
+2023-12-17 22:23:55.690226: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1351] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 22366 MB memory) -> physical GPU (device: 0, name: NVIDIA GeForce RTX 3090, pci bus id: 0000:3d:00.0, compute capability: 8.6)
+2023-12-17 22:36:27.921578: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1665] Found device 0 with properties: 
+name: NVIDIA GeForce RTX 3090 major: 8 minor: 6 memoryClockRate(GHz): 1.695
+pciBusID: 0000:3d:00.0
+2023-12-17 22:36:27.921666: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+2023-12-17 22:36:27.921699: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcublas.so.11
+2023-12-17 22:36:27.921712: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcufft.so.10
+2023-12-17 22:36:27.921721: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcurand.so.10
+2023-12-17 22:36:27.921731: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcusolver.so.11
+2023-12-17 22:36:27.921751: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcusparse.so.11
+2023-12-17 22:36:27.921761: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudnn.so.8
+2023-12-17 22:36:27.922138: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1793] Adding visible gpu devices: 0
+2023-12-17 22:36:27.922175: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1206] Device interconnect StreamExecutor with strength 1 edge matrix:
+2023-12-17 22:36:27.922181: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212]      0 
+2023-12-17 22:36:27.922186: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1225] 0:   N 
+2023-12-17 22:36:27.922593: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1351] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 22366 MB memory) -> physical GPU (device: 0, name: NVIDIA GeForce RTX 3090, pci bus id: 0000:3d:00.0, compute capability: 8.6)
+2023-12-17 22:49:02.354588: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1665] Found device 0 with properties: 
+name: NVIDIA GeForce RTX 3090 major: 8 minor: 6 memoryClockRate(GHz): 1.695
+pciBusID: 0000:3d:00.0
+2023-12-17 22:49:02.354674: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+2023-12-17 22:49:02.354704: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcublas.so.11
+2023-12-17 22:49:02.354717: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcufft.so.10
+2023-12-17 22:49:02.354727: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcurand.so.10
+2023-12-17 22:49:02.354737: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcusolver.so.11
+2023-12-17 22:49:02.354747: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcusparse.so.11
+2023-12-17 22:49:02.354759: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudnn.so.8
+2023-12-17 22:49:02.355122: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1793] Adding visible gpu devices: 0
+2023-12-17 22:49:02.355157: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1206] Device interconnect StreamExecutor with strength 1 edge matrix:
+2023-12-17 22:49:02.355163: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212]      0 
+2023-12-17 22:49:02.355168: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1225] 0:   N 
+2023-12-17 22:49:02.355569: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1351] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 22366 MB memory) -> physical GPU (device: 0, name: NVIDIA GeForce RTX 3090, pci bus id: 0000:3d:00.0, compute capability: 8.6)
+2023-12-17 23:01:33.185384: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1665] Found device 0 with properties: 
+name: NVIDIA GeForce RTX 3090 major: 8 minor: 6 memoryClockRate(GHz): 1.695
+pciBusID: 0000:3d:00.0
+2023-12-17 23:01:33.185452: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+2023-12-17 23:01:33.185482: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcublas.so.11
+2023-12-17 23:01:33.185495: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcufft.so.10
+2023-12-17 23:01:33.185505: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcurand.so.10
+2023-12-17 23:01:33.185515: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcusolver.so.11
+2023-12-17 23:01:33.185526: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcusparse.so.11
+2023-12-17 23:01:33.185546: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudnn.so.8
+2023-12-17 23:01:33.185927: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1793] Adding visible gpu devices: 0
+2023-12-17 23:01:33.185962: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1206] Device interconnect StreamExecutor with strength 1 edge matrix:
+2023-12-17 23:01:33.185968: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212]      0 
+2023-12-17 23:01:33.185972: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1225] 0:   N 
+2023-12-17 23:01:33.186377: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1351] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 22366 MB memory) -> physical GPU (device: 0, name: NVIDIA GeForce RTX 3090, pci bus id: 0000:3d:00.0, compute capability: 8.6)
+2023-12-17 23:14:05.529216: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1665] Found device 0 with properties: 
+name: NVIDIA GeForce RTX 3090 major: 8 minor: 6 memoryClockRate(GHz): 1.695
+pciBusID: 0000:3d:00.0
+2023-12-17 23:14:05.529301: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+2023-12-17 23:14:05.529337: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcublas.so.11
+2023-12-17 23:14:05.529351: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcufft.so.10
+2023-12-17 23:14:05.529362: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcurand.so.10
+2023-12-17 23:14:05.529374: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcusolver.so.11
+2023-12-17 23:14:05.529385: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcusparse.so.11
+2023-12-17 23:14:05.529397: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudnn.so.8
+2023-12-17 23:14:05.529769: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1793] Adding visible gpu devices: 0
+2023-12-17 23:14:05.529806: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1206] Device interconnect StreamExecutor with strength 1 edge matrix:
+2023-12-17 23:14:05.529812: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212]      0 
+2023-12-17 23:14:05.529817: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1225] 0:   N 
+2023-12-17 23:14:05.530213: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1351] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 22366 MB memory) -> physical GPU (device: 0, name: NVIDIA GeForce RTX 3090, pci bus id: 0000:3d:00.0, compute capability: 8.6)
+2023-12-17 23:26:38.317514: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1665] Found device 0 with properties: 
+name: NVIDIA GeForce RTX 3090 major: 8 minor: 6 memoryClockRate(GHz): 1.695
+pciBusID: 0000:3d:00.0
+2023-12-17 23:26:38.317596: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+2023-12-17 23:26:38.317630: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcublas.so.11
+2023-12-17 23:26:38.317645: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcufft.so.10
+2023-12-17 23:26:38.317655: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcurand.so.10
+2023-12-17 23:26:38.317666: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcusolver.so.11
+2023-12-17 23:26:38.317679: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcusparse.so.11
+2023-12-17 23:26:38.317690: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudnn.so.8
+2023-12-17 23:26:38.318071: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1793] Adding visible gpu devices: 0
+2023-12-17 23:26:38.318103: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1206] Device interconnect StreamExecutor with strength 1 edge matrix:
+2023-12-17 23:26:38.318109: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212]      0 
+2023-12-17 23:26:38.318113: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1225] 0:   N 
+2023-12-17 23:26:38.318519: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1351] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 22366 MB memory) -> physical GPU (device: 0, name: NVIDIA GeForce RTX 3090, pci bus id: 0000:3d:00.0, compute capability: 8.6)
+2023-12-17 23:39:11.639964: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1665] Found device 0 with properties: 
+name: NVIDIA GeForce RTX 3090 major: 8 minor: 6 memoryClockRate(GHz): 1.695
+pciBusID: 0000:3d:00.0
+2023-12-17 23:39:11.640040: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+2023-12-17 23:39:11.640070: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcublas.so.11
+2023-12-17 23:39:11.640086: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcufft.so.10
+2023-12-17 23:39:11.640095: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcurand.so.10
+2023-12-17 23:39:11.640105: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcusolver.so.11
+2023-12-17 23:39:11.640116: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcusparse.so.11
+2023-12-17 23:39:11.640128: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudnn.so.8
+2023-12-17 23:39:11.640502: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1793] Adding visible gpu devices: 0
+2023-12-17 23:39:11.640541: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1206] Device interconnect StreamExecutor with strength 1 edge matrix:
+2023-12-17 23:39:11.640547: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212]      0 
+2023-12-17 23:39:11.640552: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1225] 0:   N 
+2023-12-17 23:39:11.640959: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1351] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 22366 MB memory) -> physical GPU (device: 0, name: NVIDIA GeForce RTX 3090, pci bus id: 0000:3d:00.0, compute capability: 8.6)
+2023-12-17 23:51:43.060711: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1665] Found device 0 with properties: 
+name: NVIDIA GeForce RTX 3090 major: 8 minor: 6 memoryClockRate(GHz): 1.695
+pciBusID: 0000:3d:00.0
+2023-12-17 23:51:43.060791: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+2023-12-17 23:51:43.060824: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcublas.so.11
+2023-12-17 23:51:43.060838: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcufft.so.10
+2023-12-17 23:51:43.060848: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcurand.so.10
+2023-12-17 23:51:43.060858: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcusolver.so.11
+2023-12-17 23:51:43.060869: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcusparse.so.11
+2023-12-17 23:51:43.060880: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudnn.so.8
+2023-12-17 23:51:43.061251: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1793] Adding visible gpu devices: 0
+2023-12-17 23:51:43.061285: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1206] Device interconnect StreamExecutor with strength 1 edge matrix:
+2023-12-17 23:51:43.061302: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212]      0 
+2023-12-17 23:51:43.061307: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1225] 0:   N 
+2023-12-17 23:51:43.061708: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1351] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 22366 MB memory) -> physical GPU (device: 0, name: NVIDIA GeForce RTX 3090, pci bus id: 0000:3d:00.0, compute capability: 8.6)
+2023-12-17 23:54:33.963907: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1665] Found device 0 with properties: 
+name: NVIDIA GeForce RTX 3090 major: 8 minor: 6 memoryClockRate(GHz): 1.695
+pciBusID: 0000:3d:00.0
+2023-12-17 23:54:33.963991: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+2023-12-17 23:54:33.964023: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcublas.so.11
+2023-12-17 23:54:33.964037: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcufft.so.10
+2023-12-17 23:54:33.964046: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcurand.so.10
+2023-12-17 23:54:33.964056: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcusolver.so.11
+2023-12-17 23:54:33.964067: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcusparse.so.11
+2023-12-17 23:54:33.964078: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudnn.so.8
+2023-12-17 23:54:33.964457: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1793] Adding visible gpu devices: 0
+2023-12-17 23:54:33.964493: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1206] Device interconnect StreamExecutor with strength 1 edge matrix:
+2023-12-17 23:54:33.964499: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212]      0 
+2023-12-17 23:54:33.964504: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1225] 0:   N 
+2023-12-17 23:54:33.964908: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1351] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 22366 MB memory) -> physical GPU (device: 0, name: NVIDIA GeForce RTX 3090, pci bus id: 0000:3d:00.0, compute capability: 8.6)
+2023-12-17 23:54:47.296079: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1665] Found device 0 with properties: 
+name: NVIDIA GeForce RTX 3090 major: 8 minor: 6 memoryClockRate(GHz): 1.695
+pciBusID: 0000:3d:00.0
+2023-12-17 23:54:47.296151: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+2023-12-17 23:54:47.296167: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcublas.so.11
+2023-12-17 23:54:47.296176: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcufft.so.10
+2023-12-17 23:54:47.296184: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcurand.so.10
+2023-12-17 23:54:47.296191: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcusolver.so.11
+2023-12-17 23:54:47.296198: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcusparse.so.11
+2023-12-17 23:54:47.296205: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudnn.so.8
+2023-12-17 23:54:47.296570: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1793] Adding visible gpu devices: 0
+2023-12-17 23:54:47.296598: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1206] Device interconnect StreamExecutor with strength 1 edge matrix:
+2023-12-17 23:54:47.296604: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212]      0 
+2023-12-17 23:54:47.296621: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1225] 0:   N 
+2023-12-17 23:54:47.297010: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1351] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 22366 MB memory) -> physical GPU (device: 0, name: NVIDIA GeForce RTX 3090, pci bus id: 0000:3d:00.0, compute capability: 8.6)
+usage: /home/zachary/anaconda3/envs/tf115/bin/bert-base-ner-train -data_dir ./data/ -output_dir ./results_1217_4 -init_checkpoint ./uncased_L-12_H-768_A-12/bert_model.ckpt -bert_config_file ./uncased_L-12_H-768_A-12/bert_config.json -vocab_file ./uncased_L-12_H-768_A-12/vocab.txt -num_train_epochs 100 -do_train=true -do_eval=true -do_predict=true
+ARG   VALUE
+__________________________________________________
+batch_size = 64
+bert_config_file = ./uncased_L-12_H-768_A-12/bert_config.json
+cell = lstm
+clean = True
+clip = 0.5
+data_dir = ./data/
+device_map = 0
+do_eval = True
+do_lower_case = True
+do_predict = True
+do_train = True
+dropout_rate = 0.5
+filter_adam_var = False
+init_checkpoint = ./uncased_L-12_H-768_A-12/bert_model.ckpt
+label_list = None
+learning_rate = 1e-05
+lstm_size = 128
+max_seq_length = 128
+ner = ner
+num_layers = 1
+num_train_epochs = 100.0
+output_dir = ./results_1217_4
+save_checkpoints_steps = 500
+save_summary_steps = 500
+verbose = False
+vocab_file = ./uncased_L-12_H-768_A-12/vocab.txt
+warmup_proportion = 0.1
+
+shape of input_ids (64, 128)
+shape of input_ids (?, 128)
+shape of input_ids (?, 128)
+shape of input_ids (?, 128)
+shape of input_ids (?, 128)
+shape of input_ids (?, 128)
+shape of input_ids (?, 128)
+shape of input_ids (?, 128)
+shape of input_ids (?, 128)
+shape of input_ids (?, 128)
+shape of input_ids (?, 128)
+shape of input_ids (?, 128)
+shape of input_ids (?, 128)
+shape of input_ids (?, 128)
+shape of input_ids (?, 128)
+processed 123051 tokens with 5484 phrases; found: 5364 phrases; correct: 2502.
+accuracy:  83.74%; precision:  46.64%; recall:  45.62%; FB1:  46.13
+collect: precision:  37.97%; recall:  46.87%; FB1:  41.95  611
+condition: precision:  17.48%; recall:  22.12%; FB1:  19.53  858
+data: precision:  58.16%; recall:  64.38%; FB1:  61.11  2125
+handler: precision:  68.72%; recall:  48.81%; FB1:  57.08  569
+purpose: precision:  36.06%; recall:  23.78%; FB1:  28.66  513
+share: precision:  53.91%; recall:  40.38%; FB1:  46.17  358
+subjects: precision:  34.85%; recall:  34.43%; FB1:  34.64  330
+

@@ -1,0 +1,3109 @@
+正在训练评估HMM模型...
+   precision    recall  f1-score   support
+I-share     0.1518    0.7244    0.2510       127
+B-condition     0.2201    0.4118    0.2868       714
+I-data     0.4151    0.7166    0.5257      6443
+E-share     0.2365    0.8568    0.3707       440
+B-handler     0.2424    0.6308    0.3502       845
+B-collect     0.3166    0.7372    0.4429       529
+E-purpose     0.3513    0.4710    0.4024       845
+I-handler     0.1610    0.2287    0.1890       787
+B-data     0.3740    0.6409    0.4723      2331
+E-collect     0.3419    0.6755    0.4540       453
+I-collect     0.1224    0.4468    0.1922        94
+I-subjects     0.2072    0.7160    0.3213       986
+B-purpose     0.2315    0.3092    0.2648       870
+E-subjects     0.1470    0.4619    0.2230       197
+O     0.9000    0.6775    0.7731    115225
+E-data     0.4206    0.7343    0.5348      2224
+E-condition     0.2277    0.3921    0.2881       658
+I-condition     0.2993    0.5278    0.3820      5896
+E-handler     0.2292    0.6958    0.3449       674
+B-share     0.2268    0.8182    0.3552       506
+B-subjects     0.1725    0.5142    0.2584       352
+I-purpose     0.3970    0.5821    0.4720      7209
+avg/total     0.7747    0.6611    0.6963    148405
+
+Confusion Matrix:
+I-share B-condition  I-data E-share B-handler B-collect E-purpose I-handler  B-data E-collect I-collect I-subjects B-purpose E-subjects       O  E-data E-condition I-condition E-handler B-share B-subjects I-purpose 
+I-share      92       0       0      22       0       0       0       0       0       0       0       0       0       0      10       0       0       0       0       3       0       0 
+B-condition       0     294       1       0       6       0       2       0       8       0       0       0       3       0     282       0       0     102       0       7       3       6 
+I-data       1       3    4617      11       7      13       7       6     206       6       3      44       5      10    1241      69       0      35       8      11       1     139 
+E-share       7       0       2     377       0       0       0       0       3       0       0       0       0       0      49       0       0       1       0       0       0       1 
+B-handler       0       1       0       0     533       0       0       2       6       0       0       4       1       0     255       0       0       8       1       0      33       1 
+B-collect       0       0       0       0       0     390       0       0       0       1       0       0       2       0     130       0       0       1       0       1       0       4 
+E-purpose       0       0       0       3       0       0     398       0       0       6       0       1       0       2     386      26      13       4       5       0       0       1 
+I-handler       0       0      14       6      14       1       0     180       1       0       0     226       0       5     279       4       1       5      21       8      20       2 
+B-data       0       1     136       0       4       4       0       0    1494       0       0       0      10       0     648       1       0       2       0       4      13      14 
+E-collect       0       0       0       0       0       0       0       0       0     306      24       0       0       0     120       0       0       0       0       0       0       3 
+I-collect       0       0       0       1       0       3       0       0       0      21      42       0       0       0      24       0       0       1       0       0       0       2 
+I-subjects       0       0      29      21       5       0       1      24       3       0       0     706       0       5     124       1       0       0      17      18      31       1 
+B-purpose       0      16       1       0       3       7       0       0       2       0       0       1     269       0     412       0       0       5       0      11       7     136 
+E-subjects       0       0       1       0       0       0       0       0       0       0       0      41       0      91      46       5       0       0      13       0       0       0 
+O     464     957    5901    1066    1518     757     610     865    2143     525     237    2132     780     430   78065    2050     800    6736    1427    1269     701    5792 
+E-data       1       0      71       2       0       0      16       0       0       8       0       0       1       0     480    1633       3       1       3       0       0       5 
+E-condition       0       0       2       5       0       0       8       0       0       0       0       0       0       2     267      15     258      99       1       0       0       1 
+I-condition       6      47     202      55      25      23      21       0      61       7      16     111      21      18    1701      42      47    3112      30      53      34     264 
+E-handler       0       0       0       2       0       0       0      11       0       1       0       6       0      36     144       3       0       2     469       0       0       0 
+B-share      26       0       1       1       0       0       0       0       1       0       0       0       1       0      61       0       0       1       0     414       0       0 
+B-subjects       0       0       1       0      30       0       0       1       6       0       0      61       0       0      68       0       0       0       0       3     181       1 
+I-purpose       9      17     144      22      54      34      70      29      61      14      21      75      69      20    1948      34      11     282      51      23      25    4196 
+正在训练评估CRF模型...
+   precision    recall  f1-score   support
+I-share     0.4828    0.5512    0.5147       127
+B-condition     0.5638    0.4272    0.4861       714
+I-data     0.7477    0.7296    0.7386      6443
+E-share     0.7493    0.6318    0.6856       440
+B-handler     0.6538    0.4225    0.5133       845
+B-collect     0.7800    0.7372    0.7580       529
+E-purpose     0.7695    0.5609    0.6489       845
+I-handler     0.7029    0.2795    0.4000       787
+B-data     0.7171    0.7121    0.7146      2331
+E-collect     0.7341    0.7130    0.7234       453
+I-collect     0.6269    0.4468    0.5217        94
+I-subjects     0.6563    0.4493    0.5334       986
+B-purpose     0.5839    0.4241    0.4913       870
+E-subjects     0.7266    0.4721    0.5723       197
+O     0.8961    0.9408    0.9179    115225
+E-data     0.7464    0.7558    0.7511      2224
+E-condition     0.5898    0.4392    0.5035       658
+I-condition     0.6562    0.5090    0.5733      5896
+E-handler     0.6364    0.4362    0.5176       674
+B-share     0.7347    0.6186    0.6717       506
+B-subjects     0.6546    0.4631    0.5424       352
+I-purpose     0.7718    0.5793    0.6618      7209
+avg/total     0.8552    0.8628    0.8563    148405
+
+Confusion Matrix:
+I-share B-condition  I-data E-share B-handler B-collect E-purpose I-handler  B-data E-collect I-collect I-subjects B-purpose E-subjects       O  E-data E-condition I-condition E-handler B-share B-subjects I-purpose 
+I-share      70       0       0      14       0       0       0       0       0       0       0       0       0       0      39       0       0       0       0       4       0       0 
+B-condition       0     305       0       0       0       0       0       0       4       0       0       0       3       0     353       0       0      47       0       0       1       1 
+I-data       0       0    4701       0       0       0       0       6      70       0       0       0       0       0    1629      28       0       0       0       0       0       9 
+E-share       7       0       0     278       0       0       0       0       0       0       0       0       0       0     154       0       1       0       0       0       0       0 
+B-handler       0       0       0       0     357       1       0       1       0       0       0       0       0       0     479       0       0       3       1       0       2       1 
+B-collect       0       0       0       0       0     390       0       0       1       0       1       0       0       0     137       0       0       0       0       0       0       0 
+E-purpose       0       0       0       0       0       0     474       0       0       0       0       0       0       0     349       7       5       4       0       0       0       6 
+I-handler       0       0       0       0       5       1       0     220       0       1       0       1       0       0     551       0       0       1       6       0       0       1 
+B-data       0       0      88       0       2       1       0       0    1660       0       0       0       1       0     577       0       0       0       0       0       0       2 
+E-collect       0       0       0       0       0       0       0       0       0     323      15       0       0       0     115       0       0       0       0       0       0       0 
+I-collect       0       0       1       0       0       2       0       0       0      19      42       0       0       0      30       0       0       0       0       0       0       0 
+I-subjects       0       0       0       0       0       0       0       0       0       0       0     443       0       0     527       0       0       5       0       0      11       0 
+B-purpose       0       4       0       0       0       0       1       0       1       0       0       0     369       0     391       0       0       5       0       0       0      99 
+E-subjects       0       0       0       0       0       0       0       0       0       0       0      18       0      93      82       0       3       0       1       0       0       0 
+O      51     186    1403      75     181     104     133      84     565      95       8     181     233      32  108403     527     184    1388     160     106      72    1054 
+E-data       0       0      41       0       0       0       3       0       0       1       0       0       0       0     498    1681       0       0       0       0       0       0 
+E-condition       0       0       1       0       0       0       5       0       0       0       0       0       0       1     289       8     289      65       0       0       0       0 
+I-condition       0      45      22       3       0       0       0       0       5       0       0       0       1       0    2746       0       8    3001       0       3       0      62 
+E-handler       0       0       0       0       0       0       0       2       0       1       0       0       0       2     374       0       0       1     294       0       0       0 
+B-share      17       0       0       1       0       0       0       0       0       0       0       0       0       0     174       0       0       1       0     313       0       0 
+B-subjects       0       1       0       0       1       0       0       0       0       0       0      32       0       0     153       0       0       2       0       0     163       0 
+I-purpose       0       0      30       0       0       1       0       0       9       0       1       0      25       0    2916       1       0      50       0       0       0    4176 
+正在训练评估双向LSTM模型...
+Epoch 1, step/total_step: 5/230 2.17% Loss:3.0551
+Epoch 1, step/total_step: 10/230 4.35% Loss:2.6377
+Epoch 1, step/total_step: 15/230 6.52% Loss:1.9837
+Epoch 1, step/total_step: 20/230 8.70% Loss:1.4591
+Epoch 1, step/total_step: 25/230 10.87% Loss:1.3173
+Epoch 1, step/total_step: 30/230 13.04% Loss:1.4387
+Epoch 1, step/total_step: 35/230 15.22% Loss:1.4411
+Epoch 1, step/total_step: 40/230 17.39% Loss:1.2798
+Epoch 1, step/total_step: 45/230 19.57% Loss:1.2560
+Epoch 1, step/total_step: 50/230 21.74% Loss:1.0486
+Epoch 1, step/total_step: 55/230 23.91% Loss:1.1687
+Epoch 1, step/total_step: 60/230 26.09% Loss:1.0177
+Epoch 1, step/total_step: 65/230 28.26% Loss:1.0698
+Epoch 1, step/total_step: 70/230 30.43% Loss:1.0265
+Epoch 1, step/total_step: 75/230 32.61% Loss:0.9997
+Epoch 1, step/total_step: 80/230 34.78% Loss:0.9259
+Epoch 1, step/total_step: 85/230 36.96% Loss:0.9832
+Epoch 1, step/total_step: 90/230 39.13% Loss:1.0124
+Epoch 1, step/total_step: 95/230 41.30% Loss:0.7911
+Epoch 1, step/total_step: 100/230 43.48% Loss:0.8305
+Epoch 1, step/total_step: 105/230 45.65% Loss:0.8091
+Epoch 1, step/total_step: 110/230 47.83% Loss:0.7248
+Epoch 1, step/total_step: 115/230 50.00% Loss:0.8039
+Epoch 1, step/total_step: 120/230 52.17% Loss:0.6815
+Epoch 1, step/total_step: 125/230 54.35% Loss:0.6056
+Epoch 1, step/total_step: 130/230 56.52% Loss:0.6306
+Epoch 1, step/total_step: 135/230 58.70% Loss:0.7936
+Epoch 1, step/total_step: 140/230 60.87% Loss:0.6405
+Epoch 1, step/total_step: 145/230 63.04% Loss:0.5871
+Epoch 1, step/total_step: 150/230 65.22% Loss:0.5896
+Epoch 1, step/total_step: 155/230 67.39% Loss:0.4702
+Epoch 1, step/total_step: 160/230 69.57% Loss:0.6098
+Epoch 1, step/total_step: 165/230 71.74% Loss:0.4837
+Epoch 1, step/total_step: 170/230 73.91% Loss:0.5839
+Epoch 1, step/total_step: 175/230 76.09% Loss:0.4842
+Epoch 1, step/total_step: 180/230 78.26% Loss:0.5226
+Epoch 1, step/total_step: 185/230 80.43% Loss:0.3676
+Epoch 1, step/total_step: 190/230 82.61% Loss:0.5062
+Epoch 1, step/total_step: 195/230 84.78% Loss:0.4933
+Epoch 1, step/total_step: 200/230 86.96% Loss:0.4050
+Epoch 1, step/total_step: 205/230 89.13% Loss:0.3561
+Epoch 1, step/total_step: 210/230 91.30% Loss:0.4173
+Epoch 1, step/total_step: 215/230 93.48% Loss:0.3273
+Epoch 1, step/total_step: 220/230 95.65% Loss:0.3273
+Epoch 1, step/total_step: 225/230 97.83% Loss:0.1782
+Epoch 1, step/total_step: 230/230 100.00% Loss:0.4549
+保存模型...
+Epoch 1, Val Loss:1.2806
+Epoch 2, step/total_step: 5/230 2.17% Loss:1.0012
+Epoch 2, step/total_step: 10/230 4.35% Loss:0.8243
+Epoch 2, step/total_step: 15/230 6.52% Loss:0.8442
+Epoch 2, step/total_step: 20/230 8.70% Loss:0.8293
+Epoch 2, step/total_step: 25/230 10.87% Loss:0.7527
+Epoch 2, step/total_step: 30/230 13.04% Loss:0.8435
+Epoch 2, step/total_step: 35/230 15.22% Loss:0.8262
+Epoch 2, step/total_step: 40/230 17.39% Loss:0.8224
+Epoch 2, step/total_step: 45/230 19.57% Loss:0.7592
+Epoch 2, step/total_step: 50/230 21.74% Loss:0.6723
+Epoch 2, step/total_step: 55/230 23.91% Loss:0.7348
+Epoch 2, step/total_step: 60/230 26.09% Loss:0.6443
+Epoch 2, step/total_step: 65/230 28.26% Loss:0.6448
+Epoch 2, step/total_step: 70/230 30.43% Loss:0.6207
+Epoch 2, step/total_step: 75/230 32.61% Loss:0.6109
+Epoch 2, step/total_step: 80/230 34.78% Loss:0.5906
+Epoch 2, step/total_step: 85/230 36.96% Loss:0.6267
+Epoch 2, step/total_step: 90/230 39.13% Loss:0.6202
+Epoch 2, step/total_step: 95/230 41.30% Loss:0.5018
+Epoch 2, step/total_step: 100/230 43.48% Loss:0.5177
+Epoch 2, step/total_step: 105/230 45.65% Loss:0.4990
+Epoch 2, step/total_step: 110/230 47.83% Loss:0.4675
+Epoch 2, step/total_step: 115/230 50.00% Loss:0.5473
+Epoch 2, step/total_step: 120/230 52.17% Loss:0.4332
+Epoch 2, step/total_step: 125/230 54.35% Loss:0.3907
+Epoch 2, step/total_step: 130/230 56.52% Loss:0.4493
+Epoch 2, step/total_step: 135/230 58.70% Loss:0.5229
+Epoch 2, step/total_step: 140/230 60.87% Loss:0.4398
+Epoch 2, step/total_step: 145/230 63.04% Loss:0.4121
+Epoch 2, step/total_step: 150/230 65.22% Loss:0.4145
+Epoch 2, step/total_step: 155/230 67.39% Loss:0.3443
+Epoch 2, step/total_step: 160/230 69.57% Loss:0.4301
+Epoch 2, step/total_step: 165/230 71.74% Loss:0.3237
+Epoch 2, step/total_step: 170/230 73.91% Loss:0.3877
+Epoch 2, step/total_step: 175/230 76.09% Loss:0.3526
+Epoch 2, step/total_step: 180/230 78.26% Loss:0.3749
+Epoch 2, step/total_step: 185/230 80.43% Loss:0.2925
+Epoch 2, step/total_step: 190/230 82.61% Loss:0.4035
+Epoch 2, step/total_step: 195/230 84.78% Loss:0.3466
+Epoch 2, step/total_step: 200/230 86.96% Loss:0.3215
+Epoch 2, step/total_step: 205/230 89.13% Loss:0.2800
+Epoch 2, step/total_step: 210/230 91.30% Loss:0.3341
+Epoch 2, step/total_step: 215/230 93.48% Loss:0.2285
+Epoch 2, step/total_step: 220/230 95.65% Loss:0.2783
+Epoch 2, step/total_step: 225/230 97.83% Loss:0.1577
+Epoch 2, step/total_step: 230/230 100.00% Loss:0.1359
+保存模型...
+Epoch 2, Val Loss:0.6650
+Epoch 3, step/total_step: 5/230 2.17% Loss:0.6116
+Epoch 3, step/total_step: 10/230 4.35% Loss:0.5383
+Epoch 3, step/total_step: 15/230 6.52% Loss:0.6178
+Epoch 3, step/total_step: 20/230 8.70% Loss:0.5827
+Epoch 3, step/total_step: 25/230 10.87% Loss:0.5923
+Epoch 3, step/total_step: 30/230 13.04% Loss:0.6216
+Epoch 3, step/total_step: 35/230 15.22% Loss:0.6583
+Epoch 3, step/total_step: 40/230 17.39% Loss:0.6459
+Epoch 3, step/total_step: 45/230 19.57% Loss:0.5782
+Epoch 3, step/total_step: 50/230 21.74% Loss:0.5079
+Epoch 3, step/total_step: 55/230 23.91% Loss:0.5779
+Epoch 3, step/total_step: 60/230 26.09% Loss:0.5007
+Epoch 3, step/total_step: 65/230 28.26% Loss:0.5128
+Epoch 3, step/total_step: 70/230 30.43% Loss:0.4992
+Epoch 3, step/total_step: 75/230 32.61% Loss:0.4896
+Epoch 3, step/total_step: 80/230 34.78% Loss:0.4672
+Epoch 3, step/total_step: 85/230 36.96% Loss:0.5264
+Epoch 3, step/total_step: 90/230 39.13% Loss:0.5020
+Epoch 3, step/total_step: 95/230 41.30% Loss:0.4125
+Epoch 3, step/total_step: 100/230 43.48% Loss:0.4227
+Epoch 3, step/total_step: 105/230 45.65% Loss:0.4010
+Epoch 3, step/total_step: 110/230 47.83% Loss:0.4076
+Epoch 3, step/total_step: 115/230 50.00% Loss:0.4659
+Epoch 3, step/total_step: 120/230 52.17% Loss:0.3557
+Epoch 3, step/total_step: 125/230 54.35% Loss:0.3437
+Epoch 3, step/total_step: 130/230 56.52% Loss:0.3818
+Epoch 3, step/total_step: 135/230 58.70% Loss:0.4420
+Epoch 3, step/total_step: 140/230 60.87% Loss:0.3661
+Epoch 3, step/total_step: 145/230 63.04% Loss:0.3441
+Epoch 3, step/total_step: 150/230 65.22% Loss:0.3500
+Epoch 3, step/total_step: 155/230 67.39% Loss:0.2865
+Epoch 3, step/total_step: 160/230 69.57% Loss:0.3491
+Epoch 3, step/total_step: 165/230 71.74% Loss:0.2612
+Epoch 3, step/total_step: 170/230 73.91% Loss:0.3193
+Epoch 3, step/total_step: 175/230 76.09% Loss:0.2966
+Epoch 3, step/total_step: 180/230 78.26% Loss:0.3194
+Epoch 3, step/total_step: 185/230 80.43% Loss:0.2426
+Epoch 3, step/total_step: 190/230 82.61% Loss:0.3480
+Epoch 3, step/total_step: 195/230 84.78% Loss:0.3021
+Epoch 3, step/total_step: 200/230 86.96% Loss:0.2705
+Epoch 3, step/total_step: 205/230 89.13% Loss:0.2384
+Epoch 3, step/total_step: 210/230 91.30% Loss:0.2785
+Epoch 3, step/total_step: 215/230 93.48% Loss:0.1888
+Epoch 3, step/total_step: 220/230 95.65% Loss:0.2441
+Epoch 3, step/total_step: 225/230 97.83% Loss:0.1394
+Epoch 3, step/total_step: 230/230 100.00% Loss:0.1084
+保存模型...
+Epoch 3, Val Loss:0.4950
+Epoch 4, step/total_step: 5/230 2.17% Loss:0.4660
+Epoch 4, step/total_step: 10/230 4.35% Loss:0.4352
+Epoch 4, step/total_step: 15/230 6.52% Loss:0.5258
+Epoch 4, step/total_step: 20/230 8.70% Loss:0.4833
+Epoch 4, step/total_step: 25/230 10.87% Loss:0.5030
+Epoch 4, step/total_step: 30/230 13.04% Loss:0.5243
+Epoch 4, step/total_step: 35/230 15.22% Loss:0.5600
+Epoch 4, step/total_step: 40/230 17.39% Loss:0.5495
+Epoch 4, step/total_step: 45/230 19.57% Loss:0.4957
+Epoch 4, step/total_step: 50/230 21.74% Loss:0.4352
+Epoch 4, step/total_step: 55/230 23.91% Loss:0.4991
+Epoch 4, step/total_step: 60/230 26.09% Loss:0.4233
+Epoch 4, step/total_step: 65/230 28.26% Loss:0.4472
+Epoch 4, step/total_step: 70/230 30.43% Loss:0.4385
+Epoch 4, step/total_step: 75/230 32.61% Loss:0.4168
+Epoch 4, step/total_step: 80/230 34.78% Loss:0.4059
+Epoch 4, step/total_step: 85/230 36.96% Loss:0.4588
+Epoch 4, step/total_step: 90/230 39.13% Loss:0.4359
+Epoch 4, step/total_step: 95/230 41.30% Loss:0.3737
+Epoch 4, step/total_step: 100/230 43.48% Loss:0.3698
+Epoch 4, step/total_step: 105/230 45.65% Loss:0.3493
+Epoch 4, step/total_step: 110/230 47.83% Loss:0.3684
+Epoch 4, step/total_step: 115/230 50.00% Loss:0.4174
+Epoch 4, step/total_step: 120/230 52.17% Loss:0.3053
+Epoch 4, step/total_step: 125/230 54.35% Loss:0.3102
+Epoch 4, step/total_step: 130/230 56.52% Loss:0.3319
+Epoch 4, step/total_step: 135/230 58.70% Loss:0.3708
+Epoch 4, step/total_step: 140/230 60.87% Loss:0.3211
+Epoch 4, step/total_step: 145/230 63.04% Loss:0.2950
+Epoch 4, step/total_step: 150/230 65.22% Loss:0.3078
+Epoch 4, step/total_step: 155/230 67.39% Loss:0.2516
+Epoch 4, step/total_step: 160/230 69.57% Loss:0.3143
+Epoch 4, step/total_step: 165/230 71.74% Loss:0.2193
+Epoch 4, step/total_step: 170/230 73.91% Loss:0.2798
+Epoch 4, step/total_step: 175/230 76.09% Loss:0.2603
+Epoch 4, step/total_step: 180/230 78.26% Loss:0.2834
+Epoch 4, step/total_step: 185/230 80.43% Loss:0.2090
+Epoch 4, step/total_step: 190/230 82.61% Loss:0.3085
+Epoch 4, step/total_step: 195/230 84.78% Loss:0.2725
+Epoch 4, step/total_step: 200/230 86.96% Loss:0.2436
+Epoch 4, step/total_step: 205/230 89.13% Loss:0.2127
+Epoch 4, step/total_step: 210/230 91.30% Loss:0.2516
+Epoch 4, step/total_step: 215/230 93.48% Loss:0.1605
+Epoch 4, step/total_step: 220/230 95.65% Loss:0.2197
+Epoch 4, step/total_step: 225/230 97.83% Loss:0.1231
+Epoch 4, step/total_step: 230/230 100.00% Loss:0.0953
+保存模型...
+Epoch 4, Val Loss:0.4340
+Epoch 5, step/total_step: 5/230 2.17% Loss:0.4094
+Epoch 5, step/total_step: 10/230 4.35% Loss:0.3853
+Epoch 5, step/total_step: 15/230 6.52% Loss:0.4664
+Epoch 5, step/total_step: 20/230 8.70% Loss:0.4310
+Epoch 5, step/total_step: 25/230 10.87% Loss:0.4468
+Epoch 5, step/total_step: 30/230 13.04% Loss:0.4686
+Epoch 5, step/total_step: 35/230 15.22% Loss:0.4961
+Epoch 5, step/total_step: 40/230 17.39% Loss:0.4894
+Epoch 5, step/total_step: 45/230 19.57% Loss:0.4397
+Epoch 5, step/total_step: 50/230 21.74% Loss:0.3879
+Epoch 5, step/total_step: 55/230 23.91% Loss:0.4498
+Epoch 5, step/total_step: 60/230 26.09% Loss:0.3786
+Epoch 5, step/total_step: 65/230 28.26% Loss:0.4052
+Epoch 5, step/total_step: 70/230 30.43% Loss:0.3981
+Epoch 5, step/total_step: 75/230 32.61% Loss:0.3747
+Epoch 5, step/total_step: 80/230 34.78% Loss:0.3561
+Epoch 5, step/total_step: 85/230 36.96% Loss:0.4270
+Epoch 5, step/total_step: 90/230 39.13% Loss:0.3888
+Epoch 5, step/total_step: 95/230 41.30% Loss:0.3455
+Epoch 5, step/total_step: 100/230 43.48% Loss:0.3395
+Epoch 5, step/total_step: 105/230 45.65% Loss:0.3150
+Epoch 5, step/total_step: 110/230 47.83% Loss:0.3393
+Epoch 5, step/total_step: 115/230 50.00% Loss:0.3828
+Epoch 5, step/total_step: 120/230 52.17% Loss:0.2720
+Epoch 5, step/total_step: 125/230 54.35% Loss:0.2820
+Epoch 5, step/total_step: 130/230 56.52% Loss:0.3014
+Epoch 5, step/total_step: 135/230 58.70% Loss:0.3322
+Epoch 5, step/total_step: 140/230 60.87% Loss:0.2984
+Epoch 5, step/total_step: 145/230 63.04% Loss:0.2675
+Epoch 5, step/total_step: 150/230 65.22% Loss:0.2824
+Epoch 5, step/total_step: 155/230 67.39% Loss:0.2300
+Epoch 5, step/total_step: 160/230 69.57% Loss:0.2838
+Epoch 5, step/total_step: 165/230 71.74% Loss:0.1968
+Epoch 5, step/total_step: 170/230 73.91% Loss:0.2570
+Epoch 5, step/total_step: 175/230 76.09% Loss:0.2360
+Epoch 5, step/total_step: 180/230 78.26% Loss:0.2606
+Epoch 5, step/total_step: 185/230 80.43% Loss:0.1893
+Epoch 5, step/total_step: 190/230 82.61% Loss:0.2797
+Epoch 5, step/total_step: 195/230 84.78% Loss:0.2499
+Epoch 5, step/total_step: 200/230 86.96% Loss:0.2258
+Epoch 5, step/total_step: 205/230 89.13% Loss:0.1919
+Epoch 5, step/total_step: 210/230 91.30% Loss:0.2302
+Epoch 5, step/total_step: 215/230 93.48% Loss:0.1430
+Epoch 5, step/total_step: 220/230 95.65% Loss:0.1995
+Epoch 5, step/total_step: 225/230 97.83% Loss:0.1081
+Epoch 5, step/total_step: 230/230 100.00% Loss:0.0868
+保存模型...
+Epoch 5, Val Loss:0.3950
+Epoch 6, step/total_step: 5/230 2.17% Loss:0.3725
+Epoch 6, step/total_step: 10/230 4.35% Loss:0.3560
+Epoch 6, step/total_step: 15/230 6.52% Loss:0.4202
+Epoch 6, step/total_step: 20/230 8.70% Loss:0.3965
+Epoch 6, step/total_step: 25/230 10.87% Loss:0.3978
+Epoch 6, step/total_step: 30/230 13.04% Loss:0.4270
+Epoch 6, step/total_step: 35/230 15.22% Loss:0.4535
+Epoch 6, step/total_step: 40/230 17.39% Loss:0.4419
+Epoch 6, step/total_step: 45/230 19.57% Loss:0.4038
+Epoch 6, step/total_step: 50/230 21.74% Loss:0.3572
+Epoch 6, step/total_step: 55/230 23.91% Loss:0.4071
+Epoch 6, step/total_step: 60/230 26.09% Loss:0.3437
+Epoch 6, step/total_step: 65/230 28.26% Loss:0.3699
+Epoch 6, step/total_step: 70/230 30.43% Loss:0.3700
+Epoch 6, step/total_step: 75/230 32.61% Loss:0.3437
+Epoch 6, step/total_step: 80/230 34.78% Loss:0.3219
+Epoch 6, step/total_step: 85/230 36.96% Loss:0.3882
+Epoch 6, step/total_step: 90/230 39.13% Loss:0.3490
+Epoch 6, step/total_step: 95/230 41.30% Loss:0.3283
+Epoch 6, step/total_step: 100/230 43.48% Loss:0.3155
+Epoch 6, step/total_step: 105/230 45.65% Loss:0.2832
+Epoch 6, step/total_step: 110/230 47.83% Loss:0.3073
+Epoch 6, step/total_step: 115/230 50.00% Loss:0.3518
+Epoch 6, step/total_step: 120/230 52.17% Loss:0.2487
+Epoch 6, step/total_step: 125/230 54.35% Loss:0.2777
+Epoch 6, step/total_step: 130/230 56.52% Loss:0.2822
+Epoch 6, step/total_step: 135/230 58.70% Loss:0.3126
+Epoch 6, step/total_step: 140/230 60.87% Loss:0.2710
+Epoch 6, step/total_step: 145/230 63.04% Loss:0.2491
+Epoch 6, step/total_step: 150/230 65.22% Loss:0.2601
+Epoch 6, step/total_step: 155/230 67.39% Loss:0.2068
+Epoch 6, step/total_step: 160/230 69.57% Loss:0.2582
+Epoch 6, step/total_step: 165/230 71.74% Loss:0.1806
+Epoch 6, step/total_step: 170/230 73.91% Loss:0.2337
+Epoch 6, step/total_step: 175/230 76.09% Loss:0.2182
+Epoch 6, step/total_step: 180/230 78.26% Loss:0.2434
+Epoch 6, step/total_step: 185/230 80.43% Loss:0.1714
+Epoch 6, step/total_step: 190/230 82.61% Loss:0.2563
+Epoch 6, step/total_step: 195/230 84.78% Loss:0.2331
+Epoch 6, step/total_step: 200/230 86.96% Loss:0.2086
+Epoch 6, step/total_step: 205/230 89.13% Loss:0.1796
+Epoch 6, step/total_step: 210/230 91.30% Loss:0.2146
+Epoch 6, step/total_step: 215/230 93.48% Loss:0.1290
+Epoch 6, step/total_step: 220/230 95.65% Loss:0.1811
+Epoch 6, step/total_step: 225/230 97.83% Loss:0.0956
+Epoch 6, step/total_step: 230/230 100.00% Loss:0.0776
+保存模型...
+Epoch 6, Val Loss:0.3840
+Epoch 7, step/total_step: 5/230 2.17% Loss:0.3473
+Epoch 7, step/total_step: 10/230 4.35% Loss:0.3312
+Epoch 7, step/total_step: 15/230 6.52% Loss:0.3868
+Epoch 7, step/total_step: 20/230 8.70% Loss:0.3691
+Epoch 7, step/total_step: 25/230 10.87% Loss:0.3618
+Epoch 7, step/total_step: 30/230 13.04% Loss:0.3906
+Epoch 7, step/total_step: 35/230 15.22% Loss:0.4099
+Epoch 7, step/total_step: 40/230 17.39% Loss:0.3972
+Epoch 7, step/total_step: 45/230 19.57% Loss:0.3703
+Epoch 7, step/total_step: 50/230 21.74% Loss:0.3269
+Epoch 7, step/total_step: 55/230 23.91% Loss:0.3800
+Epoch 7, step/total_step: 60/230 26.09% Loss:0.3133
+Epoch 7, step/total_step: 65/230 28.26% Loss:0.3406
+Epoch 7, step/total_step: 70/230 30.43% Loss:0.3500
+Epoch 7, step/total_step: 75/230 32.61% Loss:0.3188
+Epoch 7, step/total_step: 80/230 34.78% Loss:0.2916
+Epoch 7, step/total_step: 85/230 36.96% Loss:0.3732
+Epoch 7, step/total_step: 90/230 39.13% Loss:0.3251
+Epoch 7, step/total_step: 95/230 41.30% Loss:0.3086
+Epoch 7, step/total_step: 100/230 43.48% Loss:0.2887
+Epoch 7, step/total_step: 105/230 45.65% Loss:0.2597
+Epoch 7, step/total_step: 110/230 47.83% Loss:0.2827
+Epoch 7, step/total_step: 115/230 50.00% Loss:0.3286
+Epoch 7, step/total_step: 120/230 52.17% Loss:0.2300
+Epoch 7, step/total_step: 125/230 54.35% Loss:0.2599
+Epoch 7, step/total_step: 130/230 56.52% Loss:0.2691
+Epoch 7, step/total_step: 135/230 58.70% Loss:0.2943
+Epoch 7, step/total_step: 140/230 60.87% Loss:0.2497
+Epoch 7, step/total_step: 145/230 63.04% Loss:0.2295
+Epoch 7, step/total_step: 150/230 65.22% Loss:0.2434
+Epoch 7, step/total_step: 155/230 67.39% Loss:0.1881
+Epoch 7, step/total_step: 160/230 69.57% Loss:0.2341
+Epoch 7, step/total_step: 165/230 71.74% Loss:0.1666
+Epoch 7, step/total_step: 170/230 73.91% Loss:0.2154
+Epoch 7, step/total_step: 175/230 76.09% Loss:0.2011
+Epoch 7, step/total_step: 180/230 78.26% Loss:0.2302
+Epoch 7, step/total_step: 185/230 80.43% Loss:0.1508
+Epoch 7, step/total_step: 190/230 82.61% Loss:0.2373
+Epoch 7, step/total_step: 195/230 84.78% Loss:0.2186
+Epoch 7, step/total_step: 200/230 86.96% Loss:0.1888
+Epoch 7, step/total_step: 205/230 89.13% Loss:0.1638
+Epoch 7, step/total_step: 210/230 91.30% Loss:0.1911
+Epoch 7, step/total_step: 215/230 93.48% Loss:0.1225
+Epoch 7, step/total_step: 220/230 95.65% Loss:0.1615
+Epoch 7, step/total_step: 225/230 97.83% Loss:0.0845
+Epoch 7, step/total_step: 230/230 100.00% Loss:0.0686
+保存模型...
+Epoch 7, Val Loss:0.3835
+Epoch 8, step/total_step: 5/230 2.17% Loss:0.3287
+Epoch 8, step/total_step: 10/230 4.35% Loss:0.3199
+Epoch 8, step/total_step: 15/230 6.52% Loss:0.3667
+Epoch 8, step/total_step: 20/230 8.70% Loss:0.3438
+Epoch 8, step/total_step: 25/230 10.87% Loss:0.3410
+Epoch 8, step/total_step: 30/230 13.04% Loss:0.3670
+Epoch 8, step/total_step: 35/230 15.22% Loss:0.3815
+Epoch 8, step/total_step: 40/230 17.39% Loss:0.3646
+Epoch 8, step/total_step: 45/230 19.57% Loss:0.3490
+Epoch 8, step/total_step: 50/230 21.74% Loss:0.3032
+Epoch 8, step/total_step: 55/230 23.91% Loss:0.3575
+Epoch 8, step/total_step: 60/230 26.09% Loss:0.2911
+Epoch 8, step/total_step: 65/230 28.26% Loss:0.3235
+Epoch 8, step/total_step: 70/230 30.43% Loss:0.3445
+Epoch 8, step/total_step: 75/230 32.61% Loss:0.3022
+Epoch 8, step/total_step: 80/230 34.78% Loss:0.2755
+Epoch 8, step/total_step: 85/230 36.96% Loss:0.3379
+Epoch 8, step/total_step: 90/230 39.13% Loss:0.3116
+Epoch 8, step/total_step: 95/230 41.30% Loss:0.2918
+Epoch 8, step/total_step: 100/230 43.48% Loss:0.2674
+Epoch 8, step/total_step: 105/230 45.65% Loss:0.2389
+Epoch 8, step/total_step: 110/230 47.83% Loss:0.2710
+Epoch 8, step/total_step: 115/230 50.00% Loss:0.3074
+Epoch 8, step/total_step: 120/230 52.17% Loss:0.2130
+Epoch 8, step/total_step: 125/230 54.35% Loss:0.2466
+Epoch 8, step/total_step: 130/230 56.52% Loss:0.2572
+Epoch 8, step/total_step: 135/230 58.70% Loss:0.2769
+Epoch 8, step/total_step: 140/230 60.87% Loss:0.2340
+Epoch 8, step/total_step: 145/230 63.04% Loss:0.2146
+Epoch 8, step/total_step: 150/230 65.22% Loss:0.2310
+Epoch 8, step/total_step: 155/230 67.39% Loss:0.1729
+Epoch 8, step/total_step: 160/230 69.57% Loss:0.2200
+Epoch 8, step/total_step: 165/230 71.74% Loss:0.1550
+Epoch 8, step/total_step: 170/230 73.91% Loss:0.2011
+Epoch 8, step/total_step: 175/230 76.09% Loss:0.1865
+Epoch 8, step/total_step: 180/230 78.26% Loss:0.2193
+Epoch 8, step/total_step: 185/230 80.43% Loss:0.1412
+Epoch 8, step/total_step: 190/230 82.61% Loss:0.2156
+Epoch 8, step/total_step: 195/230 84.78% Loss:0.2039
+Epoch 8, step/total_step: 200/230 86.96% Loss:0.1694
+Epoch 8, step/total_step: 205/230 89.13% Loss:0.1517
+Epoch 8, step/total_step: 210/230 91.30% Loss:0.1712
+Epoch 8, step/total_step: 215/230 93.48% Loss:0.1106
+Epoch 8, step/total_step: 220/230 95.65% Loss:0.1439
+Epoch 8, step/total_step: 225/230 97.83% Loss:0.0767
+Epoch 8, step/total_step: 230/230 100.00% Loss:0.0632
+Epoch 8, Val Loss:0.3955
+Epoch 9, step/total_step: 5/230 2.17% Loss:0.3173
+Epoch 9, step/total_step: 10/230 4.35% Loss:0.3055
+Epoch 9, step/total_step: 15/230 6.52% Loss:0.3533
+Epoch 9, step/total_step: 20/230 8.70% Loss:0.3299
+Epoch 9, step/total_step: 25/230 10.87% Loss:0.3209
+Epoch 9, step/total_step: 30/230 13.04% Loss:0.3522
+Epoch 9, step/total_step: 35/230 15.22% Loss:0.3658
+Epoch 9, step/total_step: 40/230 17.39% Loss:0.3504
+Epoch 9, step/total_step: 45/230 19.57% Loss:0.3374
+Epoch 9, step/total_step: 50/230 21.74% Loss:0.2837
+Epoch 9, step/total_step: 55/230 23.91% Loss:0.3410
+Epoch 9, step/total_step: 60/230 26.09% Loss:0.2708
+Epoch 9, step/total_step: 65/230 28.26% Loss:0.2997
+Epoch 9, step/total_step: 70/230 30.43% Loss:0.3211
+Epoch 9, step/total_step: 75/230 32.61% Loss:0.2764
+Epoch 9, step/total_step: 80/230 34.78% Loss:0.2578
+Epoch 9, step/total_step: 85/230 36.96% Loss:0.3140
+Epoch 9, step/total_step: 90/230 39.13% Loss:0.3004
+Epoch 9, step/total_step: 95/230 41.30% Loss:0.2756
+Epoch 9, step/total_step: 100/230 43.48% Loss:0.2533
+Epoch 9, step/total_step: 105/230 45.65% Loss:0.2308
+Epoch 9, step/total_step: 110/230 47.83% Loss:0.2434
+Epoch 9, step/total_step: 115/230 50.00% Loss:0.2905
+Epoch 9, step/total_step: 120/230 52.17% Loss:0.2011
+Epoch 9, step/total_step: 125/230 54.35% Loss:0.2335
+Epoch 9, step/total_step: 130/230 56.52% Loss:0.2501
+Epoch 9, step/total_step: 135/230 58.70% Loss:0.2720
+Epoch 9, step/total_step: 140/230 60.87% Loss:0.2178
+Epoch 9, step/total_step: 145/230 63.04% Loss:0.1973
+Epoch 9, step/total_step: 150/230 65.22% Loss:0.2246
+Epoch 9, step/total_step: 155/230 67.39% Loss:0.1601
+Epoch 9, step/total_step: 160/230 69.57% Loss:0.2108
+Epoch 9, step/total_step: 165/230 71.74% Loss:0.1477
+Epoch 9, step/total_step: 170/230 73.91% Loss:0.1881
+Epoch 9, step/total_step: 175/230 76.09% Loss:0.1781
+Epoch 9, step/total_step: 180/230 78.26% Loss:0.2079
+Epoch 9, step/total_step: 185/230 80.43% Loss:0.1280
+Epoch 9, step/total_step: 190/230 82.61% Loss:0.2052
+Epoch 9, step/total_step: 195/230 84.78% Loss:0.1953
+Epoch 9, step/total_step: 200/230 86.96% Loss:0.1555
+Epoch 9, step/total_step: 205/230 89.13% Loss:0.1433
+Epoch 9, step/total_step: 210/230 91.30% Loss:0.1561
+Epoch 9, step/total_step: 215/230 93.48% Loss:0.1082
+Epoch 9, step/total_step: 220/230 95.65% Loss:0.1309
+Epoch 9, step/total_step: 225/230 97.83% Loss:0.0663
+Epoch 9, step/total_step: 230/230 100.00% Loss:0.0583
+保存模型...
+Epoch 9, Val Loss:0.3737
+Epoch 10, step/total_step: 5/230 2.17% Loss:0.2997
+Epoch 10, step/total_step: 10/230 4.35% Loss:0.2942
+Epoch 10, step/total_step: 15/230 6.52% Loss:0.3346
+Epoch 10, step/total_step: 20/230 8.70% Loss:0.3171
+Epoch 10, step/total_step: 25/230 10.87% Loss:0.3083
+Epoch 10, step/total_step: 30/230 13.04% Loss:0.3327
+Epoch 10, step/total_step: 35/230 15.22% Loss:0.3496
+Epoch 10, step/total_step: 40/230 17.39% Loss:0.3315
+Epoch 10, step/total_step: 45/230 19.57% Loss:0.3222
+Epoch 10, step/total_step: 50/230 21.74% Loss:0.2706
+Epoch 10, step/total_step: 55/230 23.91% Loss:0.3226
+Epoch 10, step/total_step: 60/230 26.09% Loss:0.2567
+Epoch 10, step/total_step: 65/230 28.26% Loss:0.2812
+Epoch 10, step/total_step: 70/230 30.43% Loss:0.3020
+Epoch 10, step/total_step: 75/230 32.61% Loss:0.2607
+Epoch 10, step/total_step: 80/230 34.78% Loss:0.2385
+Epoch 10, step/total_step: 85/230 36.96% Loss:0.2859
+Epoch 10, step/total_step: 90/230 39.13% Loss:0.2896
+Epoch 10, step/total_step: 95/230 41.30% Loss:0.2598
+Epoch 10, step/total_step: 100/230 43.48% Loss:0.2455
+Epoch 10, step/total_step: 105/230 45.65% Loss:0.2201
+Epoch 10, step/total_step: 110/230 47.83% Loss:0.2329
+Epoch 10, step/total_step: 115/230 50.00% Loss:0.2822
+Epoch 10, step/total_step: 120/230 52.17% Loss:0.1953
+Epoch 10, step/total_step: 125/230 54.35% Loss:0.2241
+Epoch 10, step/total_step: 130/230 56.52% Loss:0.2340
+Epoch 10, step/total_step: 135/230 58.70% Loss:0.2650
+Epoch 10, step/total_step: 140/230 60.87% Loss:0.2074
+Epoch 10, step/total_step: 145/230 63.04% Loss:0.1895
+Epoch 10, step/total_step: 150/230 65.22% Loss:0.2052
+Epoch 10, step/total_step: 155/230 67.39% Loss:0.1533
+Epoch 10, step/total_step: 160/230 69.57% Loss:0.1983
+Epoch 10, step/total_step: 165/230 71.74% Loss:0.1387
+Epoch 10, step/total_step: 170/230 73.91% Loss:0.1779
+Epoch 10, step/total_step: 175/230 76.09% Loss:0.1626
+Epoch 10, step/total_step: 180/230 78.26% Loss:0.1968
+Epoch 10, step/total_step: 185/230 80.43% Loss:0.1182
+Epoch 10, step/total_step: 190/230 82.61% Loss:0.1847
+Epoch 10, step/total_step: 195/230 84.78% Loss:0.1837
+Epoch 10, step/total_step: 200/230 86.96% Loss:0.1449
+Epoch 10, step/total_step: 205/230 89.13% Loss:0.1367
+Epoch 10, step/total_step: 210/230 91.30% Loss:0.1453
+Epoch 10, step/total_step: 215/230 93.48% Loss:0.0984
+Epoch 10, step/total_step: 220/230 95.65% Loss:0.1221
+Epoch 10, step/total_step: 225/230 97.83% Loss:0.0591
+Epoch 10, step/total_step: 230/230 100.00% Loss:0.0536
+保存模型...
+Epoch 10, Val Loss:0.3516
+Epoch 11, step/total_step: 5/230 2.17% Loss:0.2748
+Epoch 11, step/total_step: 10/230 4.35% Loss:0.2757
+Epoch 11, step/total_step: 15/230 6.52% Loss:0.3295
+Epoch 11, step/total_step: 20/230 8.70% Loss:0.3086
+Epoch 11, step/total_step: 25/230 10.87% Loss:0.3048
+Epoch 11, step/total_step: 30/230 13.04% Loss:0.3275
+Epoch 11, step/total_step: 35/230 15.22% Loss:0.3420
+Epoch 11, step/total_step: 40/230 17.39% Loss:0.3150
+Epoch 11, step/total_step: 45/230 19.57% Loss:0.3155
+Epoch 11, step/total_step: 50/230 21.74% Loss:0.2786
+Epoch 11, step/total_step: 55/230 23.91% Loss:0.3156
+Epoch 11, step/total_step: 60/230 26.09% Loss:0.2610
+Epoch 11, step/total_step: 65/230 28.26% Loss:0.2796
+Epoch 11, step/total_step: 70/230 30.43% Loss:0.2985
+Epoch 11, step/total_step: 75/230 32.61% Loss:0.2425
+Epoch 11, step/total_step: 80/230 34.78% Loss:0.2339
+Epoch 11, step/total_step: 85/230 36.96% Loss:0.2717
+Epoch 11, step/total_step: 90/230 39.13% Loss:0.2866
+Epoch 11, step/total_step: 95/230 41.30% Loss:0.2528
+Epoch 11, step/total_step: 100/230 43.48% Loss:0.2418
+Epoch 11, step/total_step: 105/230 45.65% Loss:0.2100
+Epoch 11, step/total_step: 110/230 47.83% Loss:0.2228
+Epoch 11, step/total_step: 115/230 50.00% Loss:0.2666
+Epoch 11, step/total_step: 120/230 52.17% Loss:0.1857
+Epoch 11, step/total_step: 125/230 54.35% Loss:0.2154
+Epoch 11, step/total_step: 130/230 56.52% Loss:0.2272
+Epoch 11, step/total_step: 135/230 58.70% Loss:0.2556
+Epoch 11, step/total_step: 140/230 60.87% Loss:0.1914
+Epoch 11, step/total_step: 145/230 63.04% Loss:0.1808
+Epoch 11, step/total_step: 150/230 65.22% Loss:0.1977
+Epoch 11, step/total_step: 155/230 67.39% Loss:0.1407
+Epoch 11, step/total_step: 160/230 69.57% Loss:0.1915
+Epoch 11, step/total_step: 165/230 71.74% Loss:0.1341
+Epoch 11, step/total_step: 170/230 73.91% Loss:0.1647
+Epoch 11, step/total_step: 175/230 76.09% Loss:0.1547
+Epoch 11, step/total_step: 180/230 78.26% Loss:0.1922
+Epoch 11, step/total_step: 185/230 80.43% Loss:0.1065
+Epoch 11, step/total_step: 190/230 82.61% Loss:0.1676
+Epoch 11, step/total_step: 195/230 84.78% Loss:0.1791
+Epoch 11, step/total_step: 200/230 86.96% Loss:0.1321
+Epoch 11, step/total_step: 205/230 89.13% Loss:0.1319
+Epoch 11, step/total_step: 210/230 91.30% Loss:0.1386
+Epoch 11, step/total_step: 215/230 93.48% Loss:0.0935
+Epoch 11, step/total_step: 220/230 95.65% Loss:0.1115
+Epoch 11, step/total_step: 225/230 97.83% Loss:0.0507
+Epoch 11, step/total_step: 230/230 100.00% Loss:0.0504
+Epoch 11, Val Loss:0.3641
+Epoch 12, step/total_step: 5/230 2.17% Loss:0.2633
+Epoch 12, step/total_step: 10/230 4.35% Loss:0.2604
+Epoch 12, step/total_step: 15/230 6.52% Loss:0.3122
+Epoch 12, step/total_step: 20/230 8.70% Loss:0.2968
+Epoch 12, step/total_step: 25/230 10.87% Loss:0.2788
+Epoch 12, step/total_step: 30/230 13.04% Loss:0.3156
+Epoch 12, step/total_step: 35/230 15.22% Loss:0.3247
+Epoch 12, step/total_step: 40/230 17.39% Loss:0.2996
+Epoch 12, step/total_step: 45/230 19.57% Loss:0.2934
+Epoch 12, step/total_step: 50/230 21.74% Loss:0.2506
+Epoch 12, step/total_step: 55/230 23.91% Loss:0.2977
+Epoch 12, step/total_step: 60/230 26.09% Loss:0.2309
+Epoch 12, step/total_step: 65/230 28.26% Loss:0.2561
+Epoch 12, step/total_step: 70/230 30.43% Loss:0.2708
+Epoch 12, step/total_step: 75/230 32.61% Loss:0.2307
+Epoch 12, step/total_step: 80/230 34.78% Loss:0.2142
+Epoch 12, step/total_step: 85/230 36.96% Loss:0.2520
+Epoch 12, step/total_step: 90/230 39.13% Loss:0.2685
+Epoch 12, step/total_step: 95/230 41.30% Loss:0.2467
+Epoch 12, step/total_step: 100/230 43.48% Loss:0.2317
+Epoch 12, step/total_step: 105/230 45.65% Loss:0.2001
+Epoch 12, step/total_step: 110/230 47.83% Loss:0.2108
+Epoch 12, step/total_step: 115/230 50.00% Loss:0.2515
+Epoch 12, step/total_step: 120/230 52.17% Loss:0.1783
+Epoch 12, step/total_step: 125/230 54.35% Loss:0.2061
+Epoch 12, step/total_step: 130/230 56.52% Loss:0.2261
+Epoch 12, step/total_step: 135/230 58.70% Loss:0.2518
+Epoch 12, step/total_step: 140/230 60.87% Loss:0.1763
+Epoch 12, step/total_step: 145/230 63.04% Loss:0.1742
+Epoch 12, step/total_step: 150/230 65.22% Loss:0.1901
+Epoch 12, step/total_step: 155/230 67.39% Loss:0.1344
+Epoch 12, step/total_step: 160/230 69.57% Loss:0.1861
+Epoch 12, step/total_step: 165/230 71.74% Loss:0.1244
+Epoch 12, step/total_step: 170/230 73.91% Loss:0.1525
+Epoch 12, step/total_step: 175/230 76.09% Loss:0.1470
+Epoch 12, step/total_step: 180/230 78.26% Loss:0.1767
+Epoch 12, step/total_step: 185/230 80.43% Loss:0.0981
+Epoch 12, step/total_step: 190/230 82.61% Loss:0.1519
+Epoch 12, step/total_step: 195/230 84.78% Loss:0.1684
+Epoch 12, step/total_step: 200/230 86.96% Loss:0.1220
+Epoch 12, step/total_step: 205/230 89.13% Loss:0.1239
+Epoch 12, step/total_step: 210/230 91.30% Loss:0.1290
+Epoch 12, step/total_step: 215/230 93.48% Loss:0.0883
+Epoch 12, step/total_step: 220/230 95.65% Loss:0.1033
+Epoch 12, step/total_step: 225/230 97.83% Loss:0.0458
+Epoch 12, step/total_step: 230/230 100.00% Loss:0.0463
+Epoch 12, Val Loss:0.3708
+Epoch 13, step/total_step: 5/230 2.17% Loss:0.2557
+Epoch 13, step/total_step: 10/230 4.35% Loss:0.2457
+Epoch 13, step/total_step: 15/230 6.52% Loss:0.3139
+Epoch 13, step/total_step: 20/230 8.70% Loss:0.2894
+Epoch 13, step/total_step: 25/230 10.87% Loss:0.2770
+Epoch 13, step/total_step: 30/230 13.04% Loss:0.2956
+Epoch 13, step/total_step: 35/230 15.22% Loss:0.3086
+Epoch 13, step/total_step: 40/230 17.39% Loss:0.2789
+Epoch 13, step/total_step: 45/230 19.57% Loss:0.2831
+Epoch 13, step/total_step: 50/230 21.74% Loss:0.2344
+Epoch 13, step/total_step: 55/230 23.91% Loss:0.2670
+Epoch 13, step/total_step: 60/230 26.09% Loss:0.2225
+Epoch 13, step/total_step: 65/230 28.26% Loss:0.2441
+Epoch 13, step/total_step: 70/230 30.43% Loss:0.2579
+Epoch 13, step/total_step: 75/230 32.61% Loss:0.2172
+Epoch 13, step/total_step: 80/230 34.78% Loss:0.2117
+Epoch 13, step/total_step: 85/230 36.96% Loss:0.2485
+Epoch 13, step/total_step: 90/230 39.13% Loss:0.2699
+Epoch 13, step/total_step: 95/230 41.30% Loss:0.2360
+Epoch 13, step/total_step: 100/230 43.48% Loss:0.2211
+Epoch 13, step/total_step: 105/230 45.65% Loss:0.1955
+Epoch 13, step/total_step: 110/230 47.83% Loss:0.2054
+Epoch 13, step/total_step: 115/230 50.00% Loss:0.2421
+Epoch 13, step/total_step: 120/230 52.17% Loss:0.1679
+Epoch 13, step/total_step: 125/230 54.35% Loss:0.2003
+Epoch 13, step/total_step: 130/230 56.52% Loss:0.2141
+Epoch 13, step/total_step: 135/230 58.70% Loss:0.2415
+Epoch 13, step/total_step: 140/230 60.87% Loss:0.1688
+Epoch 13, step/total_step: 145/230 63.04% Loss:0.1602
+Epoch 13, step/total_step: 150/230 65.22% Loss:0.1857
+Epoch 13, step/total_step: 155/230 67.39% Loss:0.1285
+Epoch 13, step/total_step: 160/230 69.57% Loss:0.1796
+Epoch 13, step/total_step: 165/230 71.74% Loss:0.1189
+Epoch 13, step/total_step: 170/230 73.91% Loss:0.1511
+Epoch 13, step/total_step: 175/230 76.09% Loss:0.1428
+Epoch 13, step/total_step: 180/230 78.26% Loss:0.1716
+Epoch 13, step/total_step: 185/230 80.43% Loss:0.0923
+Epoch 13, step/total_step: 190/230 82.61% Loss:0.1398
+Epoch 13, step/total_step: 195/230 84.78% Loss:0.1616
+Epoch 13, step/total_step: 200/230 86.96% Loss:0.1144
+Epoch 13, step/total_step: 205/230 89.13% Loss:0.1225
+Epoch 13, step/total_step: 210/230 91.30% Loss:0.1258
+Epoch 13, step/total_step: 215/230 93.48% Loss:0.0812
+Epoch 13, step/total_step: 220/230 95.65% Loss:0.0961
+Epoch 13, step/total_step: 225/230 97.83% Loss:0.0395
+Epoch 13, step/total_step: 230/230 100.00% Loss:0.0443
+Epoch 13, Val Loss:0.3983
+Epoch 14, step/total_step: 5/230 2.17% Loss:0.2484
+Epoch 14, step/total_step: 10/230 4.35% Loss:0.2280
+Epoch 14, step/total_step: 15/230 6.52% Loss:0.3005
+Epoch 14, step/total_step: 20/230 8.70% Loss:0.2691
+Epoch 14, step/total_step: 25/230 10.87% Loss:0.2563
+Epoch 14, step/total_step: 30/230 13.04% Loss:0.2778
+Epoch 14, step/total_step: 35/230 15.22% Loss:0.2992
+Epoch 14, step/total_step: 40/230 17.39% Loss:0.2760
+Epoch 14, step/total_step: 45/230 19.57% Loss:0.2692
+Epoch 14, step/total_step: 50/230 21.74% Loss:0.2365
+Epoch 14, step/total_step: 55/230 23.91% Loss:0.2565
+Epoch 14, step/total_step: 60/230 26.09% Loss:0.2190
+Epoch 14, step/total_step: 65/230 28.26% Loss:0.2295
+Epoch 14, step/total_step: 70/230 30.43% Loss:0.2508
+Epoch 14, step/total_step: 75/230 32.61% Loss:0.2052
+Epoch 14, step/total_step: 80/230 34.78% Loss:0.1975
+Epoch 14, step/total_step: 85/230 36.96% Loss:0.2226
+Epoch 14, step/total_step: 90/230 39.13% Loss:0.2550
+Epoch 14, step/total_step: 95/230 41.30% Loss:0.2086
+Epoch 14, step/total_step: 100/230 43.48% Loss:0.2138
+Epoch 14, step/total_step: 105/230 45.65% Loss:0.1799
+Epoch 14, step/total_step: 110/230 47.83% Loss:0.1935
+Epoch 14, step/total_step: 115/230 50.00% Loss:0.2322
+Epoch 14, step/total_step: 120/230 52.17% Loss:0.1657
+Epoch 14, step/total_step: 125/230 54.35% Loss:0.1844
+Epoch 14, step/total_step: 130/230 56.52% Loss:0.2062
+Epoch 14, step/total_step: 135/230 58.70% Loss:0.2354
+Epoch 14, step/total_step: 140/230 60.87% Loss:0.1619
+Epoch 14, step/total_step: 145/230 63.04% Loss:0.1582
+Epoch 14, step/total_step: 150/230 65.22% Loss:0.1752
+Epoch 14, step/total_step: 155/230 67.39% Loss:0.1202
+Epoch 14, step/total_step: 160/230 69.57% Loss:0.1704
+Epoch 14, step/total_step: 165/230 71.74% Loss:0.1127
+Epoch 14, step/total_step: 170/230 73.91% Loss:0.1382
+Epoch 14, step/total_step: 175/230 76.09% Loss:0.1349
+Epoch 14, step/total_step: 180/230 78.26% Loss:0.1618
+Epoch 14, step/total_step: 185/230 80.43% Loss:0.0895
+Epoch 14, step/total_step: 190/230 82.61% Loss:0.1323
+Epoch 14, step/total_step: 195/230 84.78% Loss:0.1542
+Epoch 14, step/total_step: 200/230 86.96% Loss:0.1060
+Epoch 14, step/total_step: 205/230 89.13% Loss:0.1126
+Epoch 14, step/total_step: 210/230 91.30% Loss:0.1218
+Epoch 14, step/total_step: 215/230 93.48% Loss:0.0786
+Epoch 14, step/total_step: 220/230 95.65% Loss:0.0856
+Epoch 14, step/total_step: 225/230 97.83% Loss:0.0364
+Epoch 14, step/total_step: 230/230 100.00% Loss:0.0406
+Epoch 14, Val Loss:0.4484
+Epoch 15, step/total_step: 5/230 2.17% Loss:0.2615
+Epoch 15, step/total_step: 10/230 4.35% Loss:0.2298
+Epoch 15, step/total_step: 15/230 6.52% Loss:0.3082
+Epoch 15, step/total_step: 20/230 8.70% Loss:0.3138
+Epoch 15, step/total_step: 25/230 10.87% Loss:0.2819
+Epoch 15, step/total_step: 30/230 13.04% Loss:0.3014
+Epoch 15, step/total_step: 35/230 15.22% Loss:0.3152
+Epoch 15, step/total_step: 40/230 17.39% Loss:0.2766
+Epoch 15, step/total_step: 45/230 19.57% Loss:0.2827
+Epoch 15, step/total_step: 50/230 21.74% Loss:0.2446
+Epoch 15, step/total_step: 55/230 23.91% Loss:0.2625
+Epoch 15, step/total_step: 60/230 26.09% Loss:0.2193
+Epoch 15, step/total_step: 65/230 28.26% Loss:0.2322
+Epoch 15, step/total_step: 70/230 30.43% Loss:0.2513
+Epoch 15, step/total_step: 75/230 32.61% Loss:0.2076
+Epoch 15, step/total_step: 80/230 34.78% Loss:0.1917
+Epoch 15, step/total_step: 85/230 36.96% Loss:0.2240
+Epoch 15, step/total_step: 90/230 39.13% Loss:0.2412
+Epoch 15, step/total_step: 95/230 41.30% Loss:0.2105
+Epoch 15, step/total_step: 100/230 43.48% Loss:0.2170
+Epoch 15, step/total_step: 105/230 45.65% Loss:0.1788
+Epoch 15, step/total_step: 110/230 47.83% Loss:0.1945
+Epoch 15, step/total_step: 115/230 50.00% Loss:0.2261
+Epoch 15, step/total_step: 120/230 52.17% Loss:0.1662
+Epoch 15, step/total_step: 125/230 54.35% Loss:0.1828
+Epoch 15, step/total_step: 130/230 56.52% Loss:0.2033
+Epoch 15, step/total_step: 135/230 58.70% Loss:0.2383
+Epoch 15, step/total_step: 140/230 60.87% Loss:0.1570
+Epoch 15, step/total_step: 145/230 63.04% Loss:0.1549
+Epoch 15, step/total_step: 150/230 65.22% Loss:0.1767
+Epoch 15, step/total_step: 155/230 67.39% Loss:0.1218
+Epoch 15, step/total_step: 160/230 69.57% Loss:0.1688
+Epoch 15, step/total_step: 165/230 71.74% Loss:0.1090
+Epoch 15, step/total_step: 170/230 73.91% Loss:0.1367
+Epoch 15, step/total_step: 175/230 76.09% Loss:0.1323
+Epoch 15, step/total_step: 180/230 78.26% Loss:0.1600
+Epoch 15, step/total_step: 185/230 80.43% Loss:0.0867
+Epoch 15, step/total_step: 190/230 82.61% Loss:0.1329
+Epoch 15, step/total_step: 195/230 84.78% Loss:0.1559
+Epoch 15, step/total_step: 200/230 86.96% Loss:0.1022
+Epoch 15, step/total_step: 205/230 89.13% Loss:0.1181
+Epoch 15, step/total_step: 210/230 91.30% Loss:0.1153
+Epoch 15, step/total_step: 215/230 93.48% Loss:0.0774
+Epoch 15, step/total_step: 220/230 95.65% Loss:0.0842
+Epoch 15, step/total_step: 225/230 97.83% Loss:0.0320
+Epoch 15, step/total_step: 230/230 100.00% Loss:0.0422
+Epoch 15, Val Loss:0.4247
+Epoch 16, step/total_step: 5/230 2.17% Loss:0.2646
+Epoch 16, step/total_step: 10/230 4.35% Loss:0.2427
+Epoch 16, step/total_step: 15/230 6.52% Loss:0.2925
+Epoch 16, step/total_step: 20/230 8.70% Loss:0.2835
+Epoch 16, step/total_step: 25/230 10.87% Loss:0.2532
+Epoch 16, step/total_step: 30/230 13.04% Loss:0.2752
+Epoch 16, step/total_step: 35/230 15.22% Loss:0.2832
+Epoch 16, step/total_step: 40/230 17.39% Loss:0.2550
+Epoch 16, step/total_step: 45/230 19.57% Loss:0.2681
+Epoch 16, step/total_step: 50/230 21.74% Loss:0.2156
+Epoch 16, step/total_step: 55/230 23.91% Loss:0.2562
+Epoch 16, step/total_step: 60/230 26.09% Loss:0.2008
+Epoch 16, step/total_step: 65/230 28.26% Loss:0.2250
+Epoch 16, step/total_step: 70/230 30.43% Loss:0.2302
+Epoch 16, step/total_step: 75/230 32.61% Loss:0.1904
+Epoch 16, step/total_step: 80/230 34.78% Loss:0.1734
+Epoch 16, step/total_step: 85/230 36.96% Loss:0.2086
+Epoch 16, step/total_step: 90/230 39.13% Loss:0.2203
+Epoch 16, step/total_step: 95/230 41.30% Loss:0.1992
+Epoch 16, step/total_step: 100/230 43.48% Loss:0.2045
+Epoch 16, step/total_step: 105/230 45.65% Loss:0.1725
+Epoch 16, step/total_step: 110/230 47.83% Loss:0.1890
+Epoch 16, step/total_step: 115/230 50.00% Loss:0.2175
+Epoch 16, step/total_step: 120/230 52.17% Loss:0.1548
+Epoch 16, step/total_step: 125/230 54.35% Loss:0.1823
+Epoch 16, step/total_step: 130/230 56.52% Loss:0.2008
+Epoch 16, step/total_step: 135/230 58.70% Loss:0.2365
+Epoch 16, step/total_step: 140/230 60.87% Loss:0.1513
+Epoch 16, step/total_step: 145/230 63.04% Loss:0.1447
+Epoch 16, step/total_step: 150/230 65.22% Loss:0.1746
+Epoch 16, step/total_step: 155/230 67.39% Loss:0.1134
+Epoch 16, step/total_step: 160/230 69.57% Loss:0.1578
+Epoch 16, step/total_step: 165/230 71.74% Loss:0.1065
+Epoch 16, step/total_step: 170/230 73.91% Loss:0.1290
+Epoch 16, step/total_step: 175/230 76.09% Loss:0.1259
+Epoch 16, step/total_step: 180/230 78.26% Loss:0.1564
+Epoch 16, step/total_step: 185/230 80.43% Loss:0.0798
+Epoch 16, step/total_step: 190/230 82.61% Loss:0.1176
+Epoch 16, step/total_step: 195/230 84.78% Loss:0.1459
+Epoch 16, step/total_step: 200/230 86.96% Loss:0.0959
+Epoch 16, step/total_step: 205/230 89.13% Loss:0.1031
+Epoch 16, step/total_step: 210/230 91.30% Loss:0.1093
+Epoch 16, step/total_step: 215/230 93.48% Loss:0.0710
+Epoch 16, step/total_step: 220/230 95.65% Loss:0.0752
+Epoch 16, step/total_step: 225/230 97.83% Loss:0.0307
+Epoch 16, step/total_step: 230/230 100.00% Loss:0.0370
+Epoch 16, Val Loss:0.4676
+Epoch 17, step/total_step: 5/230 2.17% Loss:0.2638
+Epoch 17, step/total_step: 10/230 4.35% Loss:0.2224
+Epoch 17, step/total_step: 15/230 6.52% Loss:0.2751
+Epoch 17, step/total_step: 20/230 8.70% Loss:0.2410
+Epoch 17, step/total_step: 25/230 10.87% Loss:0.2313
+Epoch 17, step/total_step: 30/230 13.04% Loss:0.2462
+Epoch 17, step/total_step: 35/230 15.22% Loss:0.2700
+Epoch 17, step/total_step: 40/230 17.39% Loss:0.2412
+Epoch 17, step/total_step: 45/230 19.57% Loss:0.2454
+Epoch 17, step/total_step: 50/230 21.74% Loss:0.2064
+Epoch 17, step/total_step: 55/230 23.91% Loss:0.2425
+Epoch 17, step/total_step: 60/230 26.09% Loss:0.1851
+Epoch 17, step/total_step: 65/230 28.26% Loss:0.2240
+Epoch 17, step/total_step: 70/230 30.43% Loss:0.2213
+Epoch 17, step/total_step: 75/230 32.61% Loss:0.1908
+Epoch 17, step/total_step: 80/230 34.78% Loss:0.1670
+Epoch 17, step/total_step: 85/230 36.96% Loss:0.1977
+Epoch 17, step/total_step: 90/230 39.13% Loss:0.2093
+Epoch 17, step/total_step: 95/230 41.30% Loss:0.1882
+Epoch 17, step/total_step: 100/230 43.48% Loss:0.1924
+Epoch 17, step/total_step: 105/230 45.65% Loss:0.1612
+Epoch 17, step/total_step: 110/230 47.83% Loss:0.1655
+Epoch 17, step/total_step: 115/230 50.00% Loss:0.2069
+Epoch 17, step/total_step: 120/230 52.17% Loss:0.1390
+Epoch 17, step/total_step: 125/230 54.35% Loss:0.1773
+Epoch 17, step/total_step: 130/230 56.52% Loss:0.1905
+Epoch 17, step/total_step: 135/230 58.70% Loss:0.2328
+Epoch 17, step/total_step: 140/230 60.87% Loss:0.1431
+Epoch 17, step/total_step: 145/230 63.04% Loss:0.1386
+Epoch 17, step/total_step: 150/230 65.22% Loss:0.1697
+Epoch 17, step/total_step: 155/230 67.39% Loss:0.1075
+Epoch 17, step/total_step: 160/230 69.57% Loss:0.1538
+Epoch 17, step/total_step: 165/230 71.74% Loss:0.1007
+Epoch 17, step/total_step: 170/230 73.91% Loss:0.1256
+Epoch 17, step/total_step: 175/230 76.09% Loss:0.1247
+Epoch 17, step/total_step: 180/230 78.26% Loss:0.1527
+Epoch 17, step/total_step: 185/230 80.43% Loss:0.0783
+Epoch 17, step/total_step: 190/230 82.61% Loss:0.1134
+Epoch 17, step/total_step: 195/230 84.78% Loss:0.1479
+Epoch 17, step/total_step: 200/230 86.96% Loss:0.0900
+Epoch 17, step/total_step: 205/230 89.13% Loss:0.1046
+Epoch 17, step/total_step: 210/230 91.30% Loss:0.1063
+Epoch 17, step/total_step: 215/230 93.48% Loss:0.0691
+Epoch 17, step/total_step: 220/230 95.65% Loss:0.0727
+Epoch 17, step/total_step: 225/230 97.83% Loss:0.0258
+Epoch 17, step/total_step: 230/230 100.00% Loss:0.0371
+Epoch 17, Val Loss:0.4475
+Epoch 18, step/total_step: 5/230 2.17% Loss:0.2581
+Epoch 18, step/total_step: 10/230 4.35% Loss:0.2662
+Epoch 18, step/total_step: 15/230 6.52% Loss:0.3247
+Epoch 18, step/total_step: 20/230 8.70% Loss:0.3008
+Epoch 18, step/total_step: 25/230 10.87% Loss:0.2706
+Epoch 18, step/total_step: 30/230 13.04% Loss:0.2799
+Epoch 18, step/total_step: 35/230 15.22% Loss:0.2926
+Epoch 18, step/total_step: 40/230 17.39% Loss:0.2706
+Epoch 18, step/total_step: 45/230 19.57% Loss:0.2611
+Epoch 18, step/total_step: 50/230 21.74% Loss:0.2173
+Epoch 18, step/total_step: 55/230 23.91% Loss:0.2673
+Epoch 18, step/total_step: 60/230 26.09% Loss:0.2107
+Epoch 18, step/total_step: 65/230 28.26% Loss:0.2436
+Epoch 18, step/total_step: 70/230 30.43% Loss:0.2569
+Epoch 18, step/total_step: 75/230 32.61% Loss:0.2059
+Epoch 18, step/total_step: 80/230 34.78% Loss:0.1872
+Epoch 18, step/total_step: 85/230 36.96% Loss:0.2266
+Epoch 18, step/total_step: 90/230 39.13% Loss:0.2273
+Epoch 18, step/total_step: 95/230 41.30% Loss:0.2053
+Epoch 18, step/total_step: 100/230 43.48% Loss:0.1955
+Epoch 18, step/total_step: 105/230 45.65% Loss:0.1779
+Epoch 18, step/total_step: 110/230 47.83% Loss:0.1808
+Epoch 18, step/total_step: 115/230 50.00% Loss:0.2137
+Epoch 18, step/total_step: 120/230 52.17% Loss:0.1483
+Epoch 18, step/total_step: 125/230 54.35% Loss:0.1761
+Epoch 18, step/total_step: 130/230 56.52% Loss:0.2017
+Epoch 18, step/total_step: 135/230 58.70% Loss:0.2327
+Epoch 18, step/total_step: 140/230 60.87% Loss:0.1514
+Epoch 18, step/total_step: 145/230 63.04% Loss:0.1480
+Epoch 18, step/total_step: 150/230 65.22% Loss:0.1796
+Epoch 18, step/total_step: 155/230 67.39% Loss:0.1197
+Epoch 18, step/total_step: 160/230 69.57% Loss:0.1614
+Epoch 18, step/total_step: 165/230 71.74% Loss:0.1080
+Epoch 18, step/total_step: 170/230 73.91% Loss:0.1327
+Epoch 18, step/total_step: 175/230 76.09% Loss:0.1271
+Epoch 18, step/total_step: 180/230 78.26% Loss:0.1594
+Epoch 18, step/total_step: 185/230 80.43% Loss:0.0869
+Epoch 18, step/total_step: 190/230 82.61% Loss:0.1224
+Epoch 18, step/total_step: 195/230 84.78% Loss:0.1598
+Epoch 18, step/total_step: 200/230 86.96% Loss:0.1036
+Epoch 18, step/total_step: 205/230 89.13% Loss:0.1075
+Epoch 18, step/total_step: 210/230 91.30% Loss:0.1154
+Epoch 18, step/total_step: 215/230 93.48% Loss:0.0763
+Epoch 18, step/total_step: 220/230 95.65% Loss:0.0812
+Epoch 18, step/total_step: 225/230 97.83% Loss:0.0309
+Epoch 18, step/total_step: 230/230 100.00% Loss:0.0411
+Epoch 18, Val Loss:0.4158
+Epoch 19, step/total_step: 5/230 2.17% Loss:0.2590
+Epoch 19, step/total_step: 10/230 4.35% Loss:0.2632
+Epoch 19, step/total_step: 15/230 6.52% Loss:0.3285
+Epoch 19, step/total_step: 20/230 8.70% Loss:0.2904
+Epoch 19, step/total_step: 25/230 10.87% Loss:0.2607
+Epoch 19, step/total_step: 30/230 13.04% Loss:0.2901
+Epoch 19, step/total_step: 35/230 15.22% Loss:0.2931
+Epoch 19, step/total_step: 40/230 17.39% Loss:0.2622
+Epoch 19, step/total_step: 45/230 19.57% Loss:0.2583
+Epoch 19, step/total_step: 50/230 21.74% Loss:0.2280
+Epoch 19, step/total_step: 55/230 23.91% Loss:0.2615
+Epoch 19, step/total_step: 60/230 26.09% Loss:0.2158
+Epoch 19, step/total_step: 65/230 28.26% Loss:0.2500
+Epoch 19, step/total_step: 70/230 30.43% Loss:0.2454
+Epoch 19, step/total_step: 75/230 32.61% Loss:0.1922
+Epoch 19, step/total_step: 80/230 34.78% Loss:0.2001
+Epoch 19, step/total_step: 85/230 36.96% Loss:0.2175
+Epoch 19, step/total_step: 90/230 39.13% Loss:0.2282
+Epoch 19, step/total_step: 95/230 41.30% Loss:0.1935
+Epoch 19, step/total_step: 100/230 43.48% Loss:0.1981
+Epoch 19, step/total_step: 105/230 45.65% Loss:0.1691
+Epoch 19, step/total_step: 110/230 47.83% Loss:0.1877
+Epoch 19, step/total_step: 115/230 50.00% Loss:0.2059
+Epoch 19, step/total_step: 120/230 52.17% Loss:0.1417
+Epoch 19, step/total_step: 125/230 54.35% Loss:0.1751
+Epoch 19, step/total_step: 130/230 56.52% Loss:0.1951
+Epoch 19, step/total_step: 135/230 58.70% Loss:0.2290
+Epoch 19, step/total_step: 140/230 60.87% Loss:0.1524
+Epoch 19, step/total_step: 145/230 63.04% Loss:0.1389
+Epoch 19, step/total_step: 150/230 65.22% Loss:0.1667
+Epoch 19, step/total_step: 155/230 67.39% Loss:0.1121
+Epoch 19, step/total_step: 160/230 69.57% Loss:0.1593
+Epoch 19, step/total_step: 165/230 71.74% Loss:0.1051
+Epoch 19, step/total_step: 170/230 73.91% Loss:0.1403
+Epoch 19, step/total_step: 175/230 76.09% Loss:0.1313
+Epoch 19, step/total_step: 180/230 78.26% Loss:0.1558
+Epoch 19, step/total_step: 185/230 80.43% Loss:0.0902
+Epoch 19, step/total_step: 190/230 82.61% Loss:0.1227
+Epoch 19, step/total_step: 195/230 84.78% Loss:0.1557
+Epoch 19, step/total_step: 200/230 86.96% Loss:0.0999
+Epoch 19, step/total_step: 205/230 89.13% Loss:0.1065
+Epoch 19, step/total_step: 210/230 91.30% Loss:0.1116
+Epoch 19, step/total_step: 215/230 93.48% Loss:0.0797
+Epoch 19, step/total_step: 220/230 95.65% Loss:0.0760
+Epoch 19, step/total_step: 225/230 97.83% Loss:0.0279
+Epoch 19, step/total_step: 230/230 100.00% Loss:0.0381
+Epoch 19, Val Loss:0.4305
+Epoch 20, step/total_step: 5/230 2.17% Loss:0.2592
+Epoch 20, step/total_step: 10/230 4.35% Loss:0.2275
+Epoch 20, step/total_step: 15/230 6.52% Loss:0.2765
+Epoch 20, step/total_step: 20/230 8.70% Loss:0.2489
+Epoch 20, step/total_step: 25/230 10.87% Loss:0.2267
+Epoch 20, step/total_step: 30/230 13.04% Loss:0.2588
+Epoch 20, step/total_step: 35/230 15.22% Loss:0.2626
+Epoch 20, step/total_step: 40/230 17.39% Loss:0.2418
+Epoch 20, step/total_step: 45/230 19.57% Loss:0.2295
+Epoch 20, step/total_step: 50/230 21.74% Loss:0.1998
+Epoch 20, step/total_step: 55/230 23.91% Loss:0.2362
+Epoch 20, step/total_step: 60/230 26.09% Loss:0.1952
+Epoch 20, step/total_step: 65/230 28.26% Loss:0.2301
+Epoch 20, step/total_step: 70/230 30.43% Loss:0.2194
+Epoch 20, step/total_step: 75/230 32.61% Loss:0.1787
+Epoch 20, step/total_step: 80/230 34.78% Loss:0.1723
+Epoch 20, step/total_step: 85/230 36.96% Loss:0.1984
+Epoch 20, step/total_step: 90/230 39.13% Loss:0.2172
+Epoch 20, step/total_step: 95/230 41.30% Loss:0.1798
+Epoch 20, step/total_step: 100/230 43.48% Loss:0.1913
+Epoch 20, step/total_step: 105/230 45.65% Loss:0.1552
+Epoch 20, step/total_step: 110/230 47.83% Loss:0.1636
+Epoch 20, step/total_step: 115/230 50.00% Loss:0.1916
+Epoch 20, step/total_step: 120/230 52.17% Loss:0.1327
+Epoch 20, step/total_step: 125/230 54.35% Loss:0.1549
+Epoch 20, step/total_step: 130/230 56.52% Loss:0.1813
+Epoch 20, step/total_step: 135/230 58.70% Loss:0.2166
+Epoch 20, step/total_step: 140/230 60.87% Loss:0.1384
+Epoch 20, step/total_step: 145/230 63.04% Loss:0.1322
+Epoch 20, step/total_step: 150/230 65.22% Loss:0.1615
+Epoch 20, step/total_step: 155/230 67.39% Loss:0.1141
+Epoch 20, step/total_step: 160/230 69.57% Loss:0.1518
+Epoch 20, step/total_step: 165/230 71.74% Loss:0.0976
+Epoch 20, step/total_step: 170/230 73.91% Loss:0.1314
+Epoch 20, step/total_step: 175/230 76.09% Loss:0.1321
+Epoch 20, step/total_step: 180/230 78.26% Loss:0.1448
+Epoch 20, step/total_step: 185/230 80.43% Loss:0.0846
+Epoch 20, step/total_step: 190/230 82.61% Loss:0.1138
+Epoch 20, step/total_step: 195/230 84.78% Loss:0.1468
+Epoch 20, step/total_step: 200/230 86.96% Loss:0.0924
+Epoch 20, step/total_step: 205/230 89.13% Loss:0.0961
+Epoch 20, step/total_step: 210/230 91.30% Loss:0.1084
+Epoch 20, step/total_step: 215/230 93.48% Loss:0.0696
+Epoch 20, step/total_step: 220/230 95.65% Loss:0.0705
+Epoch 20, step/total_step: 225/230 97.83% Loss:0.0273
+Epoch 20, step/total_step: 230/230 100.00% Loss:0.0352
+Epoch 20, Val Loss:0.3940
+Epoch 21, step/total_step: 5/230 2.17% Loss:0.2345
+Epoch 21, step/total_step: 10/230 4.35% Loss:0.2090
+Epoch 21, step/total_step: 15/230 6.52% Loss:0.2726
+Epoch 21, step/total_step: 20/230 8.70% Loss:0.2368
+Epoch 21, step/total_step: 25/230 10.87% Loss:0.2296
+Epoch 21, step/total_step: 30/230 13.04% Loss:0.2476
+Epoch 21, step/total_step: 35/230 15.22% Loss:0.2518
+Epoch 21, step/total_step: 40/230 17.39% Loss:0.2346
+Epoch 21, step/total_step: 45/230 19.57% Loss:0.2228
+Epoch 21, step/total_step: 50/230 21.74% Loss:0.1942
+Epoch 21, step/total_step: 55/230 23.91% Loss:0.2185
+Epoch 21, step/total_step: 60/230 26.09% Loss:0.1924
+Epoch 21, step/total_step: 65/230 28.26% Loss:0.2006
+Epoch 21, step/total_step: 70/230 30.43% Loss:0.2167
+Epoch 21, step/total_step: 75/230 32.61% Loss:0.1748
+Epoch 21, step/total_step: 80/230 34.78% Loss:0.1680
+Epoch 21, step/total_step: 85/230 36.96% Loss:0.1913
+Epoch 21, step/total_step: 90/230 39.13% Loss:0.2125
+Epoch 21, step/total_step: 95/230 41.30% Loss:0.1792
+Epoch 21, step/total_step: 100/230 43.48% Loss:0.1930
+Epoch 21, step/total_step: 105/230 45.65% Loss:0.1660
+Epoch 21, step/total_step: 110/230 47.83% Loss:0.1567
+Epoch 21, step/total_step: 115/230 50.00% Loss:0.1871
+Epoch 21, step/total_step: 120/230 52.17% Loss:0.1290
+Epoch 21, step/total_step: 125/230 54.35% Loss:0.1549
+Epoch 21, step/total_step: 130/230 56.52% Loss:0.1820
+Epoch 21, step/total_step: 135/230 58.70% Loss:0.2123
+Epoch 21, step/total_step: 140/230 60.87% Loss:0.1360
+Epoch 21, step/total_step: 145/230 63.04% Loss:0.1304
+Epoch 21, step/total_step: 150/230 65.22% Loss:0.1562
+Epoch 21, step/total_step: 155/230 67.39% Loss:0.1015
+Epoch 21, step/total_step: 160/230 69.57% Loss:0.1459
+Epoch 21, step/total_step: 165/230 71.74% Loss:0.0943
+Epoch 21, step/total_step: 170/230 73.91% Loss:0.1210
+Epoch 21, step/total_step: 175/230 76.09% Loss:0.1221
+Epoch 21, step/total_step: 180/230 78.26% Loss:0.1350
+Epoch 21, step/total_step: 185/230 80.43% Loss:0.0812
+Epoch 21, step/total_step: 190/230 82.61% Loss:0.1137
+Epoch 21, step/total_step: 195/230 84.78% Loss:0.1410
+Epoch 21, step/total_step: 200/230 86.96% Loss:0.0845
+Epoch 21, step/total_step: 205/230 89.13% Loss:0.0976
+Epoch 21, step/total_step: 210/230 91.30% Loss:0.1030
+Epoch 21, step/total_step: 215/230 93.48% Loss:0.0687
+Epoch 21, step/total_step: 220/230 95.65% Loss:0.0690
+Epoch 21, step/total_step: 225/230 97.83% Loss:0.0254
+Epoch 21, step/total_step: 230/230 100.00% Loss:0.0333
+Epoch 21, Val Loss:0.3976
+Epoch 22, step/total_step: 5/230 2.17% Loss:0.2305
+Epoch 22, step/total_step: 10/230 4.35% Loss:0.2018
+Epoch 22, step/total_step: 15/230 6.52% Loss:0.2544
+Epoch 22, step/total_step: 20/230 8.70% Loss:0.2281
+Epoch 22, step/total_step: 25/230 10.87% Loss:0.2085
+Epoch 22, step/total_step: 30/230 13.04% Loss:0.2415
+Epoch 22, step/total_step: 35/230 15.22% Loss:0.2393
+Epoch 22, step/total_step: 40/230 17.39% Loss:0.2270
+Epoch 22, step/total_step: 45/230 19.57% Loss:0.2205
+Epoch 22, step/total_step: 50/230 21.74% Loss:0.1823
+Epoch 22, step/total_step: 55/230 23.91% Loss:0.2085
+Epoch 22, step/total_step: 60/230 26.09% Loss:0.1777
+Epoch 22, step/total_step: 65/230 28.26% Loss:0.1862
+Epoch 22, step/total_step: 70/230 30.43% Loss:0.2103
+Epoch 22, step/total_step: 75/230 32.61% Loss:0.1625
+Epoch 22, step/total_step: 80/230 34.78% Loss:0.1666
+Epoch 22, step/total_step: 85/230 36.96% Loss:0.1908
+Epoch 22, step/total_step: 90/230 39.13% Loss:0.2028
+Epoch 22, step/total_step: 95/230 41.30% Loss:0.1865
+Epoch 22, step/total_step: 100/230 43.48% Loss:0.1791
+Epoch 22, step/total_step: 105/230 45.65% Loss:0.1625
+Epoch 22, step/total_step: 110/230 47.83% Loss:0.1458
+Epoch 22, step/total_step: 115/230 50.00% Loss:0.1835
+Epoch 22, step/total_step: 120/230 52.17% Loss:0.1235
+Epoch 22, step/total_step: 125/230 54.35% Loss:0.1477
+Epoch 22, step/total_step: 130/230 56.52% Loss:0.1843
+Epoch 22, step/total_step: 135/230 58.70% Loss:0.2137
+Epoch 22, step/total_step: 140/230 60.87% Loss:0.1286
+Epoch 22, step/total_step: 145/230 63.04% Loss:0.1228
+Epoch 22, step/total_step: 150/230 65.22% Loss:0.1495
+Epoch 22, step/total_step: 155/230 67.39% Loss:0.0949
+Epoch 22, step/total_step: 160/230 69.57% Loss:0.1459
+Epoch 22, step/total_step: 165/230 71.74% Loss:0.0960
+Epoch 22, step/total_step: 170/230 73.91% Loss:0.1077
+Epoch 22, step/total_step: 175/230 76.09% Loss:0.1171
+Epoch 22, step/total_step: 180/230 78.26% Loss:0.1311
+Epoch 22, step/total_step: 185/230 80.43% Loss:0.0707
+Epoch 22, step/total_step: 190/230 82.61% Loss:0.1151
+Epoch 22, step/total_step: 195/230 84.78% Loss:0.1351
+Epoch 22, step/total_step: 200/230 86.96% Loss:0.0781
+Epoch 22, step/total_step: 205/230 89.13% Loss:0.0890
+Epoch 22, step/total_step: 210/230 91.30% Loss:0.1010
+Epoch 22, step/total_step: 215/230 93.48% Loss:0.0620
+Epoch 22, step/total_step: 220/230 95.65% Loss:0.0631
+Epoch 22, step/total_step: 225/230 97.83% Loss:0.0255
+Epoch 22, step/total_step: 230/230 100.00% Loss:0.0345
+Epoch 22, Val Loss:0.3627
+Epoch 23, step/total_step: 5/230 2.17% Loss:0.2060
+Epoch 23, step/total_step: 10/230 4.35% Loss:0.1944
+Epoch 23, step/total_step: 15/230 6.52% Loss:0.2376
+Epoch 23, step/total_step: 20/230 8.70% Loss:0.2291
+Epoch 23, step/total_step: 25/230 10.87% Loss:0.1975
+Epoch 23, step/total_step: 30/230 13.04% Loss:0.2346
+Epoch 23, step/total_step: 35/230 15.22% Loss:0.2233
+Epoch 23, step/total_step: 40/230 17.39% Loss:0.2174
+Epoch 23, step/total_step: 45/230 19.57% Loss:0.2119
+Epoch 23, step/total_step: 50/230 21.74% Loss:0.1865
+Epoch 23, step/total_step: 55/230 23.91% Loss:0.2040
+Epoch 23, step/total_step: 60/230 26.09% Loss:0.1813
+Epoch 23, step/total_step: 65/230 28.26% Loss:0.1798
+Epoch 23, step/total_step: 70/230 30.43% Loss:0.2030
+Epoch 23, step/total_step: 75/230 32.61% Loss:0.1541
+Epoch 23, step/total_step: 80/230 34.78% Loss:0.1509
+Epoch 23, step/total_step: 85/230 36.96% Loss:0.1867
+Epoch 23, step/total_step: 90/230 39.13% Loss:0.2026
+Epoch 23, step/total_step: 95/230 41.30% Loss:0.1805
+Epoch 23, step/total_step: 100/230 43.48% Loss:0.1806
+Epoch 23, step/total_step: 105/230 45.65% Loss:0.1619
+Epoch 23, step/total_step: 110/230 47.83% Loss:0.1540
+Epoch 23, step/total_step: 115/230 50.00% Loss:0.1767
+Epoch 23, step/total_step: 120/230 52.17% Loss:0.1299
+Epoch 23, step/total_step: 125/230 54.35% Loss:0.1557
+Epoch 23, step/total_step: 130/230 56.52% Loss:0.1816
+Epoch 23, step/total_step: 135/230 58.70% Loss:0.2095
+Epoch 23, step/total_step: 140/230 60.87% Loss:0.1332
+Epoch 23, step/total_step: 145/230 63.04% Loss:0.1357
+Epoch 23, step/total_step: 150/230 65.22% Loss:0.1497
+Epoch 23, step/total_step: 155/230 67.39% Loss:0.0991
+Epoch 23, step/total_step: 160/230 69.57% Loss:0.1437
+Epoch 23, step/total_step: 165/230 71.74% Loss:0.0969
+Epoch 23, step/total_step: 170/230 73.91% Loss:0.1039
+Epoch 23, step/total_step: 175/230 76.09% Loss:0.1132
+Epoch 23, step/total_step: 180/230 78.26% Loss:0.1316
+Epoch 23, step/total_step: 185/230 80.43% Loss:0.0656
+Epoch 23, step/total_step: 190/230 82.61% Loss:0.1083
+Epoch 23, step/total_step: 195/230 84.78% Loss:0.1383
+Epoch 23, step/total_step: 200/230 86.96% Loss:0.0795
+Epoch 23, step/total_step: 205/230 89.13% Loss:0.0868
+Epoch 23, step/total_step: 210/230 91.30% Loss:0.0965
+Epoch 23, step/total_step: 215/230 93.48% Loss:0.0656
+Epoch 23, step/total_step: 220/230 95.65% Loss:0.0640
+Epoch 23, step/total_step: 225/230 97.83% Loss:0.0245
+Epoch 23, step/total_step: 230/230 100.00% Loss:0.0346
+Epoch 23, Val Loss:0.3600
+Epoch 24, step/total_step: 5/230 2.17% Loss:0.2004
+Epoch 24, step/total_step: 10/230 4.35% Loss:0.1866
+Epoch 24, step/total_step: 15/230 6.52% Loss:0.2347
+Epoch 24, step/total_step: 20/230 8.70% Loss:0.2222
+Epoch 24, step/total_step: 25/230 10.87% Loss:0.2053
+Epoch 24, step/total_step: 30/230 13.04% Loss:0.2490
+Epoch 24, step/total_step: 35/230 15.22% Loss:0.2203
+Epoch 24, step/total_step: 40/230 17.39% Loss:0.2136
+Epoch 24, step/total_step: 45/230 19.57% Loss:0.2117
+Epoch 24, step/total_step: 50/230 21.74% Loss:0.1748
+Epoch 24, step/total_step: 55/230 23.91% Loss:0.2036
+Epoch 24, step/total_step: 60/230 26.09% Loss:0.1752
+Epoch 24, step/total_step: 65/230 28.26% Loss:0.1769
+Epoch 24, step/total_step: 70/230 30.43% Loss:0.1939
+Epoch 24, step/total_step: 75/230 32.61% Loss:0.1653
+Epoch 24, step/total_step: 80/230 34.78% Loss:0.1403
+Epoch 24, step/total_step: 85/230 36.96% Loss:0.1910
+Epoch 24, step/total_step: 90/230 39.13% Loss:0.1877
+Epoch 24, step/total_step: 95/230 41.30% Loss:0.1829
+Epoch 24, step/total_step: 100/230 43.48% Loss:0.1767
+Epoch 24, step/total_step: 105/230 45.65% Loss:0.1435
+Epoch 24, step/total_step: 110/230 47.83% Loss:0.1608
+Epoch 24, step/total_step: 115/230 50.00% Loss:0.1681
+Epoch 24, step/total_step: 120/230 52.17% Loss:0.1175
+Epoch 24, step/total_step: 125/230 54.35% Loss:0.1505
+Epoch 24, step/total_step: 130/230 56.52% Loss:0.1756
+Epoch 24, step/total_step: 135/230 58.70% Loss:0.2149
+Epoch 24, step/total_step: 140/230 60.87% Loss:0.1244
+Epoch 24, step/total_step: 145/230 63.04% Loss:0.1322
+Epoch 24, step/total_step: 150/230 65.22% Loss:0.1482
+Epoch 24, step/total_step: 155/230 67.39% Loss:0.0926
+Epoch 24, step/total_step: 160/230 69.57% Loss:0.1406
+Epoch 24, step/total_step: 165/230 71.74% Loss:0.0938
+Epoch 24, step/total_step: 170/230 73.91% Loss:0.0986
+Epoch 24, step/total_step: 175/230 76.09% Loss:0.1036
+Epoch 24, step/total_step: 180/230 78.26% Loss:0.1299
+Epoch 24, step/total_step: 185/230 80.43% Loss:0.0614
+Epoch 24, step/total_step: 190/230 82.61% Loss:0.0936
+Epoch 24, step/total_step: 195/230 84.78% Loss:0.1412
+Epoch 24, step/total_step: 200/230 86.96% Loss:0.0761
+Epoch 24, step/total_step: 205/230 89.13% Loss:0.0824
+Epoch 24, step/total_step: 210/230 91.30% Loss:0.0939
+Epoch 24, step/total_step: 215/230 93.48% Loss:0.0609
+Epoch 24, step/total_step: 220/230 95.65% Loss:0.0592
+Epoch 24, step/total_step: 225/230 97.83% Loss:0.0212
+Epoch 24, step/total_step: 230/230 100.00% Loss:0.0333
+Epoch 24, Val Loss:0.3662
+Epoch 25, step/total_step: 5/230 2.17% Loss:0.1917
+Epoch 25, step/total_step: 10/230 4.35% Loss:0.1659
+Epoch 25, step/total_step: 15/230 6.52% Loss:0.2241
+Epoch 25, step/total_step: 20/230 8.70% Loss:0.2120
+Epoch 25, step/total_step: 25/230 10.87% Loss:0.1920
+Epoch 25, step/total_step: 30/230 13.04% Loss:0.2209
+Epoch 25, step/total_step: 35/230 15.22% Loss:0.2252
+Epoch 25, step/total_step: 40/230 17.39% Loss:0.2004
+Epoch 25, step/total_step: 45/230 19.57% Loss:0.2104
+Epoch 25, step/total_step: 50/230 21.74% Loss:0.1789
+Epoch 25, step/total_step: 55/230 23.91% Loss:0.2051
+Epoch 25, step/total_step: 60/230 26.09% Loss:0.1620
+Epoch 25, step/total_step: 65/230 28.26% Loss:0.1764
+Epoch 25, step/total_step: 70/230 30.43% Loss:0.1831
+Epoch 25, step/total_step: 75/230 32.61% Loss:0.1553
+Epoch 25, step/total_step: 80/230 34.78% Loss:0.1371
+Epoch 25, step/total_step: 85/230 36.96% Loss:0.1813
+Epoch 25, step/total_step: 90/230 39.13% Loss:0.1914
+Epoch 25, step/total_step: 95/230 41.30% Loss:0.1693
+Epoch 25, step/total_step: 100/230 43.48% Loss:0.1931
+Epoch 25, step/total_step: 105/230 45.65% Loss:0.1418
+Epoch 25, step/total_step: 110/230 47.83% Loss:0.1686
+Epoch 25, step/total_step: 115/230 50.00% Loss:0.1758
+Epoch 25, step/total_step: 120/230 52.17% Loss:0.1112
+Epoch 25, step/total_step: 125/230 54.35% Loss:0.1459
+Epoch 25, step/total_step: 130/230 56.52% Loss:0.1582
+Epoch 25, step/total_step: 135/230 58.70% Loss:0.2082
+Epoch 25, step/total_step: 140/230 60.87% Loss:0.1180
+Epoch 25, step/total_step: 145/230 63.04% Loss:0.1137
+Epoch 25, step/total_step: 150/230 65.22% Loss:0.1431
+Epoch 25, step/total_step: 155/230 67.39% Loss:0.0891
+Epoch 25, step/total_step: 160/230 69.57% Loss:0.1360
+Epoch 25, step/total_step: 165/230 71.74% Loss:0.0899
+Epoch 25, step/total_step: 170/230 73.91% Loss:0.0995
+Epoch 25, step/total_step: 175/230 76.09% Loss:0.1018
+Epoch 25, step/total_step: 180/230 78.26% Loss:0.1294
+Epoch 25, step/total_step: 185/230 80.43% Loss:0.0618
+Epoch 25, step/total_step: 190/230 82.61% Loss:0.0913
+Epoch 25, step/total_step: 195/230 84.78% Loss:0.1320
+Epoch 25, step/total_step: 200/230 86.96% Loss:0.0757
+Epoch 25, step/total_step: 205/230 89.13% Loss:0.0854
+Epoch 25, step/total_step: 210/230 91.30% Loss:0.0913
+Epoch 25, step/total_step: 215/230 93.48% Loss:0.0607
+Epoch 25, step/total_step: 220/230 95.65% Loss:0.0589
+Epoch 25, step/total_step: 225/230 97.83% Loss:0.0194
+Epoch 25, step/total_step: 230/230 100.00% Loss:0.0321
+Epoch 25, Val Loss:0.3815
+Epoch 26, step/total_step: 5/230 2.17% Loss:0.1959
+Epoch 26, step/total_step: 10/230 4.35% Loss:0.1709
+Epoch 26, step/total_step: 15/230 6.52% Loss:0.2133
+Epoch 26, step/total_step: 20/230 8.70% Loss:0.2049
+Epoch 26, step/total_step: 25/230 10.87% Loss:0.2003
+Epoch 26, step/total_step: 30/230 13.04% Loss:0.2153
+Epoch 26, step/total_step: 35/230 15.22% Loss:0.2226
+Epoch 26, step/total_step: 40/230 17.39% Loss:0.1888
+Epoch 26, step/total_step: 45/230 19.57% Loss:0.1994
+Epoch 26, step/total_step: 50/230 21.74% Loss:0.1624
+Epoch 26, step/total_step: 55/230 23.91% Loss:0.1853
+Epoch 26, step/total_step: 60/230 26.09% Loss:0.1532
+Epoch 26, step/total_step: 65/230 28.26% Loss:0.1636
+Epoch 26, step/total_step: 70/230 30.43% Loss:0.1802
+Epoch 26, step/total_step: 75/230 32.61% Loss:0.1516
+Epoch 26, step/total_step: 80/230 34.78% Loss:0.1267
+Epoch 26, step/total_step: 85/230 36.96% Loss:0.1581
+Epoch 26, step/total_step: 90/230 39.13% Loss:0.1773
+Epoch 26, step/total_step: 95/230 41.30% Loss:0.1534
+Epoch 26, step/total_step: 100/230 43.48% Loss:0.1674
+Epoch 26, step/total_step: 105/230 45.65% Loss:0.1317
+Epoch 26, step/total_step: 110/230 47.83% Loss:0.1330
+Epoch 26, step/total_step: 115/230 50.00% Loss:0.1614
+Epoch 26, step/total_step: 120/230 52.17% Loss:0.1029
+Epoch 26, step/total_step: 125/230 54.35% Loss:0.1370
+Epoch 26, step/total_step: 130/230 56.52% Loss:0.1545
+Epoch 26, step/total_step: 135/230 58.70% Loss:0.1968
+Epoch 26, step/total_step: 140/230 60.87% Loss:0.1118
+Epoch 26, step/total_step: 145/230 63.04% Loss:0.1068
+Epoch 26, step/total_step: 150/230 65.22% Loss:0.1330
+Epoch 26, step/total_step: 155/230 67.39% Loss:0.0835
+Epoch 26, step/total_step: 160/230 69.57% Loss:0.1314
+Epoch 26, step/total_step: 165/230 71.74% Loss:0.0800
+Epoch 26, step/total_step: 170/230 73.91% Loss:0.0930
+Epoch 26, step/total_step: 175/230 76.09% Loss:0.1022
+Epoch 26, step/total_step: 180/230 78.26% Loss:0.1225
+Epoch 26, step/total_step: 185/230 80.43% Loss:0.0633
+Epoch 26, step/total_step: 190/230 82.61% Loss:0.0887
+Epoch 26, step/total_step: 195/230 84.78% Loss:0.1246
+Epoch 26, step/total_step: 200/230 86.96% Loss:0.0708
+Epoch 26, step/total_step: 205/230 89.13% Loss:0.0830
+Epoch 26, step/total_step: 210/230 91.30% Loss:0.0881
+Epoch 26, step/total_step: 215/230 93.48% Loss:0.0596
+Epoch 26, step/total_step: 220/230 95.65% Loss:0.0552
+Epoch 26, step/total_step: 225/230 97.83% Loss:0.0180
+Epoch 26, step/total_step: 230/230 100.00% Loss:0.0312
+Epoch 26, Val Loss:0.3773
+Epoch 27, step/total_step: 5/230 2.17% Loss:0.1843
+Epoch 27, step/total_step: 10/230 4.35% Loss:0.1642
+Epoch 27, step/total_step: 15/230 6.52% Loss:0.2086
+Epoch 27, step/total_step: 20/230 8.70% Loss:0.1900
+Epoch 27, step/total_step: 25/230 10.87% Loss:0.1781
+Epoch 27, step/total_step: 30/230 13.04% Loss:0.1992
+Epoch 27, step/total_step: 35/230 15.22% Loss:0.2080
+Epoch 27, step/total_step: 40/230 17.39% Loss:0.1874
+Epoch 27, step/total_step: 45/230 19.57% Loss:0.2108
+Epoch 27, step/total_step: 50/230 21.74% Loss:0.1738
+Epoch 27, step/total_step: 55/230 23.91% Loss:0.1908
+Epoch 27, step/total_step: 60/230 26.09% Loss:0.1657
+Epoch 27, step/total_step: 65/230 28.26% Loss:0.1665
+Epoch 27, step/total_step: 70/230 30.43% Loss:0.1794
+Epoch 27, step/total_step: 75/230 32.61% Loss:0.1506
+Epoch 27, step/total_step: 80/230 34.78% Loss:0.1288
+Epoch 27, step/total_step: 85/230 36.96% Loss:0.1591
+Epoch 27, step/total_step: 90/230 39.13% Loss:0.1758
+Epoch 27, step/total_step: 95/230 41.30% Loss:0.1471
+Epoch 27, step/total_step: 100/230 43.48% Loss:0.1619
+Epoch 27, step/total_step: 105/230 45.65% Loss:0.1243
+Epoch 27, step/total_step: 110/230 47.83% Loss:0.1295
+Epoch 27, step/total_step: 115/230 50.00% Loss:0.1548
+Epoch 27, step/total_step: 120/230 52.17% Loss:0.1053
+Epoch 27, step/total_step: 125/230 54.35% Loss:0.1262
+Epoch 27, step/total_step: 130/230 56.52% Loss:0.1485
+Epoch 27, step/total_step: 135/230 58.70% Loss:0.2025
+Epoch 27, step/total_step: 140/230 60.87% Loss:0.1080
+Epoch 27, step/total_step: 145/230 63.04% Loss:0.1028
+Epoch 27, step/total_step: 150/230 65.22% Loss:0.1338
+Epoch 27, step/total_step: 155/230 67.39% Loss:0.0824
+Epoch 27, step/total_step: 160/230 69.57% Loss:0.1302
+Epoch 27, step/total_step: 165/230 71.74% Loss:0.0817
+Epoch 27, step/total_step: 170/230 73.91% Loss:0.0888
+Epoch 27, step/total_step: 175/230 76.09% Loss:0.1024
+Epoch 27, step/total_step: 180/230 78.26% Loss:0.1213
+Epoch 27, step/total_step: 185/230 80.43% Loss:0.0591
+Epoch 27, step/total_step: 190/230 82.61% Loss:0.0843
+Epoch 27, step/total_step: 195/230 84.78% Loss:0.1232
+Epoch 27, step/total_step: 200/230 86.96% Loss:0.0679
+Epoch 27, step/total_step: 205/230 89.13% Loss:0.0810
+Epoch 27, step/total_step: 210/230 91.30% Loss:0.0897
+Epoch 27, step/total_step: 215/230 93.48% Loss:0.0576
+Epoch 27, step/total_step: 220/230 95.65% Loss:0.0564
+Epoch 27, step/total_step: 225/230 97.83% Loss:0.0167
+Epoch 27, step/total_step: 230/230 100.00% Loss:0.0343
+Epoch 27, Val Loss:0.4065
+Epoch 28, step/total_step: 5/230 2.17% Loss:0.1909
+Epoch 28, step/total_step: 10/230 4.35% Loss:0.1615
+Epoch 28, step/total_step: 15/230 6.52% Loss:0.2128
+Epoch 28, step/total_step: 20/230 8.70% Loss:0.1923
+Epoch 28, step/total_step: 25/230 10.87% Loss:0.1811
+Epoch 28, step/total_step: 30/230 13.04% Loss:0.1969
+Epoch 28, step/total_step: 35/230 15.22% Loss:0.1968
+Epoch 28, step/total_step: 40/230 17.39% Loss:0.1784
+Epoch 28, step/total_step: 45/230 19.57% Loss:0.1875
+Epoch 28, step/total_step: 50/230 21.74% Loss:0.1700
+Epoch 28, step/total_step: 55/230 23.91% Loss:0.1776
+Epoch 28, step/total_step: 60/230 26.09% Loss:0.1493
+Epoch 28, step/total_step: 65/230 28.26% Loss:0.1600
+Epoch 28, step/total_step: 70/230 30.43% Loss:0.1762
+Epoch 28, step/total_step: 75/230 32.61% Loss:0.1371
+Epoch 28, step/total_step: 80/230 34.78% Loss:0.1108
+Epoch 28, step/total_step: 85/230 36.96% Loss:0.1556
+Epoch 28, step/total_step: 90/230 39.13% Loss:0.1610
+Epoch 28, step/total_step: 95/230 41.30% Loss:0.1477
+Epoch 28, step/total_step: 100/230 43.48% Loss:0.1527
+Epoch 28, step/total_step: 105/230 45.65% Loss:0.1155
+Epoch 28, step/total_step: 110/230 47.83% Loss:0.1121
+Epoch 28, step/total_step: 115/230 50.00% Loss:0.1470
+Epoch 28, step/total_step: 120/230 52.17% Loss:0.0993
+Epoch 28, step/total_step: 125/230 54.35% Loss:0.1201
+Epoch 28, step/total_step: 130/230 56.52% Loss:0.1462
+Epoch 28, step/total_step: 135/230 58.70% Loss:0.2021
+Epoch 28, step/total_step: 140/230 60.87% Loss:0.1044
+Epoch 28, step/total_step: 145/230 63.04% Loss:0.0968
+Epoch 28, step/total_step: 150/230 65.22% Loss:0.1347
+Epoch 28, step/total_step: 155/230 67.39% Loss:0.0836
+Epoch 28, step/total_step: 160/230 69.57% Loss:0.1253
+Epoch 28, step/total_step: 165/230 71.74% Loss:0.0766
+Epoch 28, step/total_step: 170/230 73.91% Loss:0.0881
+Epoch 28, step/total_step: 175/230 76.09% Loss:0.0987
+Epoch 28, step/total_step: 180/230 78.26% Loss:0.1177
+Epoch 28, step/total_step: 185/230 80.43% Loss:0.0563
+Epoch 28, step/total_step: 190/230 82.61% Loss:0.0880
+Epoch 28, step/total_step: 195/230 84.78% Loss:0.1259
+Epoch 28, step/total_step: 200/230 86.96% Loss:0.0658
+Epoch 28, step/total_step: 205/230 89.13% Loss:0.0812
+Epoch 28, step/total_step: 210/230 91.30% Loss:0.0847
+Epoch 28, step/total_step: 215/230 93.48% Loss:0.0574
+Epoch 28, step/total_step: 220/230 95.65% Loss:0.0520
+Epoch 28, step/total_step: 225/230 97.83% Loss:0.0167
+Epoch 28, step/total_step: 230/230 100.00% Loss:0.0296
+Epoch 28, Val Loss:0.4485
+Epoch 29, step/total_step: 5/230 2.17% Loss:0.1926
+Epoch 29, step/total_step: 10/230 4.35% Loss:0.1575
+Epoch 29, step/total_step: 15/230 6.52% Loss:0.2044
+Epoch 29, step/total_step: 20/230 8.70% Loss:0.1814
+Epoch 29, step/total_step: 25/230 10.87% Loss:0.1625
+Epoch 29, step/total_step: 30/230 13.04% Loss:0.1873
+Epoch 29, step/total_step: 35/230 15.22% Loss:0.1848
+Epoch 29, step/total_step: 40/230 17.39% Loss:0.1668
+Epoch 29, step/total_step: 45/230 19.57% Loss:0.1761
+Epoch 29, step/total_step: 50/230 21.74% Loss:0.1534
+Epoch 29, step/total_step: 55/230 23.91% Loss:0.1717
+Epoch 29, step/total_step: 60/230 26.09% Loss:0.1385
+Epoch 29, step/total_step: 65/230 28.26% Loss:0.1514
+Epoch 29, step/total_step: 70/230 30.43% Loss:0.1650
+Epoch 29, step/total_step: 75/230 32.61% Loss:0.1330
+Epoch 29, step/total_step: 80/230 34.78% Loss:0.1055
+Epoch 29, step/total_step: 85/230 36.96% Loss:0.1427
+Epoch 29, step/total_step: 90/230 39.13% Loss:0.1599
+Epoch 29, step/total_step: 95/230 41.30% Loss:0.1363
+Epoch 29, step/total_step: 100/230 43.48% Loss:0.1472
+Epoch 29, step/total_step: 105/230 45.65% Loss:0.1113
+Epoch 29, step/total_step: 110/230 47.83% Loss:0.1088
+Epoch 29, step/total_step: 115/230 50.00% Loss:0.1399
+Epoch 29, step/total_step: 120/230 52.17% Loss:0.0955
+Epoch 29, step/total_step: 125/230 54.35% Loss:0.1193
+Epoch 29, step/total_step: 130/230 56.52% Loss:0.1399
+Epoch 29, step/total_step: 135/230 58.70% Loss:0.1990
+Epoch 29, step/total_step: 140/230 60.87% Loss:0.0999
+Epoch 29, step/total_step: 145/230 63.04% Loss:0.0934
+Epoch 29, step/total_step: 150/230 65.22% Loss:0.1214
+Epoch 29, step/total_step: 155/230 67.39% Loss:0.0772
+Epoch 29, step/total_step: 160/230 69.57% Loss:0.1218
+Epoch 29, step/total_step: 165/230 71.74% Loss:0.0771
+Epoch 29, step/total_step: 170/230 73.91% Loss:0.0867
+Epoch 29, step/total_step: 175/230 76.09% Loss:0.0940
+Epoch 29, step/total_step: 180/230 78.26% Loss:0.1157
+Epoch 29, step/total_step: 185/230 80.43% Loss:0.0537
+Epoch 29, step/total_step: 190/230 82.61% Loss:0.0866
+Epoch 29, step/total_step: 195/230 84.78% Loss:0.1214
+Epoch 29, step/total_step: 200/230 86.96% Loss:0.0652
+Epoch 29, step/total_step: 205/230 89.13% Loss:0.0763
+Epoch 29, step/total_step: 210/230 91.30% Loss:0.0843
+Epoch 29, step/total_step: 215/230 93.48% Loss:0.0561
+Epoch 29, step/total_step: 220/230 95.65% Loss:0.0507
+Epoch 29, step/total_step: 225/230 97.83% Loss:0.0151
+Epoch 29, step/total_step: 230/230 100.00% Loss:0.0299
+Epoch 29, Val Loss:0.4211
+Epoch 30, step/total_step: 5/230 2.17% Loss:0.1775
+Epoch 30, step/total_step: 10/230 4.35% Loss:0.1507
+Epoch 30, step/total_step: 15/230 6.52% Loss:0.1909
+Epoch 30, step/total_step: 20/230 8.70% Loss:0.1734
+Epoch 30, step/total_step: 25/230 10.87% Loss:0.1635
+Epoch 30, step/total_step: 30/230 13.04% Loss:0.1817
+Epoch 30, step/total_step: 35/230 15.22% Loss:0.1805
+Epoch 30, step/total_step: 40/230 17.39% Loss:0.1621
+Epoch 30, step/total_step: 45/230 19.57% Loss:0.1755
+Epoch 30, step/total_step: 50/230 21.74% Loss:0.1433
+Epoch 30, step/total_step: 55/230 23.91% Loss:0.1655
+Epoch 30, step/total_step: 60/230 26.09% Loss:0.1322
+Epoch 30, step/total_step: 65/230 28.26% Loss:0.1480
+Epoch 30, step/total_step: 70/230 30.43% Loss:0.1687
+Epoch 30, step/total_step: 75/230 32.61% Loss:0.1355
+Epoch 30, step/total_step: 80/230 34.78% Loss:0.1068
+Epoch 30, step/total_step: 85/230 36.96% Loss:0.1448
+Epoch 30, step/total_step: 90/230 39.13% Loss:0.1618
+Epoch 30, step/total_step: 95/230 41.30% Loss:0.1370
+Epoch 30, step/total_step: 100/230 43.48% Loss:0.1543
+Epoch 30, step/total_step: 105/230 45.65% Loss:0.1120
+Epoch 30, step/total_step: 110/230 47.83% Loss:0.1132
+Epoch 30, step/total_step: 115/230 50.00% Loss:0.1500
+Epoch 30, step/total_step: 120/230 52.17% Loss:0.0944
+Epoch 30, step/total_step: 125/230 54.35% Loss:0.1210
+Epoch 30, step/total_step: 130/230 56.52% Loss:0.1381
+Epoch 30, step/total_step: 135/230 58.70% Loss:0.1973
+Epoch 30, step/total_step: 140/230 60.87% Loss:0.0952
+Epoch 30, step/total_step: 145/230 63.04% Loss:0.0946
+Epoch 30, step/total_step: 150/230 65.22% Loss:0.1273
+Epoch 30, step/total_step: 155/230 67.39% Loss:0.0822
+Epoch 30, step/total_step: 160/230 69.57% Loss:0.1177
+Epoch 30, step/total_step: 165/230 71.74% Loss:0.0743
+Epoch 30, step/total_step: 170/230 73.91% Loss:0.0823
+Epoch 30, step/total_step: 175/230 76.09% Loss:0.0889
+Epoch 30, step/total_step: 180/230 78.26% Loss:0.1110
+Epoch 30, step/total_step: 185/230 80.43% Loss:0.0539
+Epoch 30, step/total_step: 190/230 82.61% Loss:0.0825
+Epoch 30, step/total_step: 195/230 84.78% Loss:0.1188
+Epoch 30, step/total_step: 200/230 86.96% Loss:0.0638
+Epoch 30, step/total_step: 205/230 89.13% Loss:0.0772
+Epoch 30, step/total_step: 210/230 91.30% Loss:0.0817
+Epoch 30, step/total_step: 215/230 93.48% Loss:0.0557
+Epoch 30, step/total_step: 220/230 95.65% Loss:0.0486
+Epoch 30, step/total_step: 225/230 97.83% Loss:0.0153
+Epoch 30, step/total_step: 230/230 100.00% Loss:0.0295
+Epoch 30, Val Loss:0.4380
+训练完毕,共用时432秒.
+评估bilstm模型中...
+   precision    recall  f1-score   support
+I-share     0.6585    0.2126    0.3214       127
+B-condition     0.5556    0.3711    0.4450       714
+I-data     0.8343    0.6306    0.7183      6443
+E-share     0.8357    0.5318    0.6500       440
+B-handler     0.8348    0.4485    0.5835       845
+B-collect     0.8587    0.6087    0.7124       529
+E-purpose     0.7193    0.5065    0.5944       845
+I-handler     0.7508    0.2910    0.4194       787
+B-data     0.8537    0.5985    0.7037      2331
+E-collect     0.8403    0.5806    0.6867       453
+I-collect     0.6286    0.2340    0.3411        94
+I-subjects     0.7371    0.3043    0.4307       986
+B-purpose     0.6146    0.3299    0.4293       870
+E-subjects     0.8037    0.4365    0.5658       197
+O     0.8826    0.9557    0.9177    115225
+E-data     0.8559    0.6677    0.7502      2224
+E-condition     0.5524    0.3845    0.4534       658
+I-condition     0.5882    0.4992    0.5400      5896
+E-handler     0.8357    0.4377    0.5745       674
+B-share     0.7889    0.5316    0.6352       506
+B-subjects     0.6569    0.3807    0.4820       352
+I-purpose     0.7370    0.5298    0.6164      7209
+avg/total     0.8516    0.8600    0.8496    148405
+
+Confusion Matrix:
+I-share B-condition  I-data E-share B-handler B-collect E-purpose I-handler  B-data E-collect I-collect I-subjects B-purpose E-subjects       O  E-data E-condition I-condition E-handler B-share B-subjects I-purpose 
+I-share      27       0       0      12       0       0       0       0       0       0       0       0       0       0      69       0       0       1       0      18       0       0 
+B-condition       0     265       0       0       0       0       0       0       1       0       0       0       2       0     399       0       0      47       0       0       0       0 
+I-data       0       0    4063       0       0       0       0       0      47       0       0       0       0       0    2224      24       0       9       0       0       0      76 
+E-share       2       0       1     234       0       0       0       0       0       0       0       0       0       0     195       0       1       5       0       0       0       2 
+B-handler       0       0       0       0     379       1       0       5       0       0       0       0       0       0     453       0       0       3       1       0       0       3 
+B-collect       0       0       0       0       0     322       0       0       0       0       0       0       0       0     202       0       0       3       0       0       0       2 
+E-purpose       0       0       0       0       0       0     428       0       0       0       0       0       0       0     394       1       7       7       0       0       0       8 
+I-handler       0       0       0       0       2       1       0     229       0       1       0       0       0       0     534       0       0       7       5       0       0       8 
+B-data       0       2      70       0       1       1       0       0    1395       0       0       0      11       0     835       0       0       5       0       0       0      11 
+E-collect       0       0       0       0       0       0       1       0       0     263       8       0       0       0     179       0       0       2       0       0       0       0 
+I-collect       0       0       0       0       0       2       0       0       0      11      22       0       0       0      57       0       0       0       0       0       0       2 
+I-subjects       0       0       0       0       0       0       0       3       0       0       0     300       0      10     632       0       0       0       0       0      38       3 
+B-purpose       0       4       0       0       0       1       0       0       0       0       0       0     287       0     486       0       0       9       0       0       0      83 
+E-subjects       0       0       0       0       0       0       1       0       0       0       0      11       0      86      95       0       0       0       3       0       0       1 
+O       9     159     690      34      69      44     141      65     187      35       5      84     145      11  110126     220     165    1793      49      54      32    1108 
+E-data       0       0      24       0       0       0      18       0       0       1       0       0       0       0     690    1485       2       2       0       0       0       2 
+E-condition       0       0       0       0       0       0       2       0       0       0       0       0       0       0     343       5     253      54       0       0       0       1 
+I-condition       0      46      12       0       2       0       1       0       3       0       0       0       0       0    2814       0      28    2943       0       0       0      47 
+E-handler       0       0       0       0       0       0       2       3       0       1       0       0       0       0     367       0       2       2     295       0       0       2 
+B-share       3       0       0       0       0       0       0       0       0       0       0       0       0       0     224       0       0       7       0     269       0       3 
+B-subjects       0       0       0       0       1       0       0       0       0       0       0      12       0       0     204       0       0       0       0       0     134       1 
+I-purpose       0       1      10       0       0       3       1       0       1       1       0       0      22       0    3247       0       0     104       0       0       0    3819 
+正在训练评估Bi-LSTM+CRF模型...
+Epoch 1, step/total_step: 5/230 2.17% Loss:1307.8167
+Epoch 1, step/total_step: 10/230 4.35% Loss:696.9353
+Epoch 1, step/total_step: 15/230 6.52% Loss:436.3573
+Epoch 1, step/total_step: 20/230 8.70% Loss:250.7982
+Epoch 1, step/total_step: 25/230 10.87% Loss:209.6797
+Epoch 1, step/total_step: 30/230 13.04% Loss:191.2597
+Epoch 1, step/total_step: 35/230 15.22% Loss:174.6325
+Epoch 1, step/total_step: 40/230 17.39% Loss:147.6986
+Epoch 1, step/total_step: 45/230 19.57% Loss:133.4833
+Epoch 1, step/total_step: 50/230 21.74% Loss:105.9089
+Epoch 1, step/total_step: 55/230 23.91% Loss:111.6336
+Epoch 1, step/total_step: 60/230 26.09% Loss:92.6031
+Epoch 1, step/total_step: 65/230 28.26% Loss:93.8204
+Epoch 1, step/total_step: 70/230 30.43% Loss:85.9108
+Epoch 1, step/total_step: 75/230 32.61% Loss:81.7156
+Epoch 1, step/total_step: 80/230 34.78% Loss:73.2054
+Epoch 1, step/total_step: 85/230 36.96% Loss:73.7583
+Epoch 1, step/total_step: 90/230 39.13% Loss:76.1062
+Epoch 1, step/total_step: 95/230 41.30% Loss:56.7320
+Epoch 1, step/total_step: 100/230 43.48% Loss:57.8951
+Epoch 1, step/total_step: 105/230 45.65% Loss:55.5118
+Epoch 1, step/total_step: 110/230 47.83% Loss:48.0716
+Epoch 1, step/total_step: 115/230 50.00% Loss:51.1072
+Epoch 1, step/total_step: 120/230 52.17% Loss:42.0628
+Epoch 1, step/total_step: 125/230 54.35% Loss:36.9143
+Epoch 1, step/total_step: 130/230 56.52% Loss:36.2596
+Epoch 1, step/total_step: 135/230 58.70% Loss:45.1905
+Epoch 1, step/total_step: 140/230 60.87% Loss:35.7736
+Epoch 1, step/total_step: 145/230 63.04% Loss:31.6240
+Epoch 1, step/total_step: 150/230 65.22% Loss:30.7846
+Epoch 1, step/total_step: 155/230 67.39% Loss:23.0306
+Epoch 1, step/total_step: 160/230 69.57% Loss:31.1334
+Epoch 1, step/total_step: 165/230 71.74% Loss:23.3852
+Epoch 1, step/total_step: 170/230 73.91% Loss:24.8316
+Epoch 1, step/total_step: 175/230 76.09% Loss:22.6141
+Epoch 1, step/total_step: 180/230 78.26% Loss:23.4924
+Epoch 1, step/total_step: 185/230 80.43% Loss:14.3527
+Epoch 1, step/total_step: 190/230 82.61% Loss:18.2498
+Epoch 1, step/total_step: 195/230 84.78% Loss:17.8097
+Epoch 1, step/total_step: 200/230 86.96% Loss:11.8271
+Epoch 1, step/total_step: 205/230 89.13% Loss:10.9166
+Epoch 1, step/total_step: 210/230 91.30% Loss:11.8337
+Epoch 1, step/total_step: 215/230 93.48% Loss:8.1371
+Epoch 1, step/total_step: 220/230 95.65% Loss:6.9900
+Epoch 1, step/total_step: 225/230 97.83% Loss:3.0248
+Epoch 1, step/total_step: 230/230 100.00% Loss:1.5561
+保存模型...
+Epoch 1, Val Loss:80.3013
+Epoch 2, step/total_step: 5/230 2.17% Loss:255.8272
+Epoch 2, step/total_step: 10/230 4.35% Loss:192.6522
+Epoch 2, step/total_step: 15/230 6.52% Loss:165.6146
+Epoch 2, step/total_step: 20/230 8.70% Loss:137.4871
+Epoch 2, step/total_step: 25/230 10.87% Loss:112.0714
+Epoch 2, step/total_step: 30/230 13.04% Loss:108.3020
+Epoch 2, step/total_step: 35/230 15.22% Loss:95.7823
+Epoch 2, step/total_step: 40/230 17.39% Loss:86.2714
+Epoch 2, step/total_step: 45/230 19.57% Loss:74.5167
+Epoch 2, step/total_step: 50/230 21.74% Loss:61.6698
+Epoch 2, step/total_step: 55/230 23.91% Loss:64.3449
+Epoch 2, step/total_step: 60/230 26.09% Loss:53.8184
+Epoch 2, step/total_step: 65/230 28.26% Loss:52.4934
+Epoch 2, step/total_step: 70/230 30.43% Loss:48.1565
+Epoch 2, step/total_step: 75/230 32.61% Loss:46.2106
+Epoch 2, step/total_step: 80/230 34.78% Loss:42.2834
+Epoch 2, step/total_step: 85/230 36.96% Loss:44.5267
+Epoch 2, step/total_step: 90/230 39.13% Loss:41.2794
+Epoch 2, step/total_step: 95/230 41.30% Loss:33.1856
+Epoch 2, step/total_step: 100/230 43.48% Loss:33.0177
+Epoch 2, step/total_step: 105/230 45.65% Loss:30.7893
+Epoch 2, step/total_step: 110/230 47.83% Loss:27.9488
+Epoch 2, step/total_step: 115/230 50.00% Loss:30.6324
+Epoch 2, step/total_step: 120/230 52.17% Loss:23.0591
+Epoch 2, step/total_step: 125/230 54.35% Loss:21.0313
+Epoch 2, step/total_step: 130/230 56.52% Loss:24.0516
+Epoch 2, step/total_step: 135/230 58.70% Loss:28.6938
+Epoch 2, step/total_step: 140/230 60.87% Loss:21.2719
+Epoch 2, step/total_step: 145/230 63.04% Loss:18.9678
+Epoch 2, step/total_step: 150/230 65.22% Loss:19.0029
+Epoch 2, step/total_step: 155/230 67.39% Loss:14.0965
+Epoch 2, step/total_step: 160/230 69.57% Loss:18.1579
+Epoch 2, step/total_step: 165/230 71.74% Loss:12.9562
+Epoch 2, step/total_step: 170/230 73.91% Loss:15.3969
+Epoch 2, step/total_step: 175/230 76.09% Loss:13.3057
+Epoch 2, step/total_step: 180/230 78.26% Loss:13.6750
+Epoch 2, step/total_step: 185/230 80.43% Loss:9.6400
+Epoch 2, step/total_step: 190/230 82.61% Loss:12.5074
+Epoch 2, step/total_step: 195/230 84.78% Loss:12.1118
+Epoch 2, step/total_step: 200/230 86.96% Loss:8.4845
+Epoch 2, step/total_step: 205/230 89.13% Loss:7.8041
+Epoch 2, step/total_step: 210/230 91.30% Loss:7.9926
+Epoch 2, step/total_step: 215/230 93.48% Loss:5.5766
+Epoch 2, step/total_step: 220/230 95.65% Loss:5.2822
+Epoch 2, step/total_step: 225/230 97.83% Loss:2.1685
+Epoch 2, step/total_step: 230/230 100.00% Loss:1.0050
+保存模型...
+Epoch 2, Val Loss:40.3306
+Epoch 3, step/total_step: 5/230 2.17% Loss:154.1396
+Epoch 3, step/total_step: 10/230 4.35% Loss:114.6293
+Epoch 3, step/total_step: 15/230 6.52% Loss:102.9209
+Epoch 3, step/total_step: 20/230 8.70% Loss:84.1683
+Epoch 3, step/total_step: 25/230 10.87% Loss:73.9407
+Epoch 3, step/total_step: 30/230 13.04% Loss:69.3684
+Epoch 3, step/total_step: 35/230 15.22% Loss:64.9580
+Epoch 3, step/total_step: 40/230 17.39% Loss:58.9340
+Epoch 3, step/total_step: 45/230 19.57% Loss:50.5895
+Epoch 3, step/total_step: 50/230 21.74% Loss:42.8787
+Epoch 3, step/total_step: 55/230 23.91% Loss:46.0076
+Epoch 3, step/total_step: 60/230 26.09% Loss:38.7656
+Epoch 3, step/total_step: 65/230 28.26% Loss:37.1526
+Epoch 3, step/total_step: 70/230 30.43% Loss:33.9421
+Epoch 3, step/total_step: 75/230 32.61% Loss:33.3715
+Epoch 3, step/total_step: 80/230 34.78% Loss:30.7839
+Epoch 3, step/total_step: 85/230 36.96% Loss:33.8104
+Epoch 3, step/total_step: 90/230 39.13% Loss:30.3953
+Epoch 3, step/total_step: 95/230 41.30% Loss:24.6690
+Epoch 3, step/total_step: 100/230 43.48% Loss:24.4853
+Epoch 3, step/total_step: 105/230 45.65% Loss:22.6439
+Epoch 3, step/total_step: 110/230 47.83% Loss:21.3008
+Epoch 3, step/total_step: 115/230 50.00% Loss:23.7475
+Epoch 3, step/total_step: 120/230 52.17% Loss:17.2406
+Epoch 3, step/total_step: 125/230 54.35% Loss:15.3627
+Epoch 3, step/total_step: 130/230 56.52% Loss:18.0973
+Epoch 3, step/total_step: 135/230 58.70% Loss:19.3445
+Epoch 3, step/total_step: 140/230 60.87% Loss:16.3799
+Epoch 3, step/total_step: 145/230 63.04% Loss:14.2489
+Epoch 3, step/total_step: 150/230 65.22% Loss:14.3558
+Epoch 3, step/total_step: 155/230 67.39% Loss:10.8102
+Epoch 3, step/total_step: 160/230 69.57% Loss:13.3633
+Epoch 3, step/total_step: 165/230 71.74% Loss:9.7903
+Epoch 3, step/total_step: 170/230 73.91% Loss:11.6187
+Epoch 3, step/total_step: 175/230 76.09% Loss:10.2552
+Epoch 3, step/total_step: 180/230 78.26% Loss:10.4375
+Epoch 3, step/total_step: 185/230 80.43% Loss:7.5707
+Epoch 3, step/total_step: 190/230 82.61% Loss:9.8484
+Epoch 3, step/total_step: 195/230 84.78% Loss:8.8298
+Epoch 3, step/total_step: 200/230 86.96% Loss:6.8211
+Epoch 3, step/total_step: 205/230 89.13% Loss:6.2083
+Epoch 3, step/total_step: 210/230 91.30% Loss:6.4081
+Epoch 3, step/total_step: 215/230 93.48% Loss:4.4757
+Epoch 3, step/total_step: 220/230 95.65% Loss:4.4941
+Epoch 3, step/total_step: 225/230 97.83% Loss:1.7395
+Epoch 3, step/total_step: 230/230 100.00% Loss:0.8321
+保存模型...
+Epoch 3, Val Loss:29.4814
+Epoch 4, step/total_step: 5/230 2.17% Loss:116.3786
+Epoch 4, step/total_step: 10/230 4.35% Loss:83.6308
+Epoch 4, step/total_step: 15/230 6.52% Loss:75.4986
+Epoch 4, step/total_step: 20/230 8.70% Loss:62.8519
+Epoch 4, step/total_step: 25/230 10.87% Loss:56.3063
+Epoch 4, step/total_step: 30/230 13.04% Loss:52.0783
+Epoch 4, step/total_step: 35/230 15.22% Loss:49.0986
+Epoch 4, step/total_step: 40/230 17.39% Loss:43.9533
+Epoch 4, step/total_step: 45/230 19.57% Loss:38.7320
+Epoch 4, step/total_step: 50/230 21.74% Loss:32.8478
+Epoch 4, step/total_step: 55/230 23.91% Loss:36.9847
+Epoch 4, step/total_step: 60/230 26.09% Loss:29.6953
+Epoch 4, step/total_step: 65/230 28.26% Loss:29.2022
+Epoch 4, step/total_step: 70/230 30.43% Loss:27.3121
+Epoch 4, step/total_step: 75/230 32.61% Loss:26.6966
+Epoch 4, step/total_step: 80/230 34.78% Loss:24.2438
+Epoch 4, step/total_step: 85/230 36.96% Loss:27.9431
+Epoch 4, step/total_step: 90/230 39.13% Loss:24.4982
+Epoch 4, step/total_step: 95/230 41.30% Loss:20.1667
+Epoch 4, step/total_step: 100/230 43.48% Loss:20.1479
+Epoch 4, step/total_step: 105/230 45.65% Loss:17.9675
+Epoch 4, step/total_step: 110/230 47.83% Loss:17.8237
+Epoch 4, step/total_step: 115/230 50.00% Loss:19.9457
+Epoch 4, step/total_step: 120/230 52.17% Loss:14.1191
+Epoch 4, step/total_step: 125/230 54.35% Loss:12.7666
+Epoch 4, step/total_step: 130/230 56.52% Loss:15.1012
+Epoch 4, step/total_step: 135/230 58.70% Loss:15.3371
+Epoch 4, step/total_step: 140/230 60.87% Loss:13.3785
+Epoch 4, step/total_step: 145/230 63.04% Loss:11.3052
+Epoch 4, step/total_step: 150/230 65.22% Loss:11.6360
+Epoch 4, step/total_step: 155/230 67.39% Loss:9.0112
+Epoch 4, step/total_step: 160/230 69.57% Loss:10.8906
+Epoch 4, step/total_step: 165/230 71.74% Loss:7.8959
+Epoch 4, step/total_step: 170/230 73.91% Loss:9.7275
+Epoch 4, step/total_step: 175/230 76.09% Loss:8.4940
+Epoch 4, step/total_step: 180/230 78.26% Loss:8.7845
+Epoch 4, step/total_step: 185/230 80.43% Loss:6.2460
+Epoch 4, step/total_step: 190/230 82.61% Loss:8.2473
+Epoch 4, step/total_step: 195/230 84.78% Loss:7.1132
+Epoch 4, step/total_step: 200/230 86.96% Loss:5.8800
+Epoch 4, step/total_step: 205/230 89.13% Loss:5.2367
+Epoch 4, step/total_step: 210/230 91.30% Loss:5.3215
+Epoch 4, step/total_step: 215/230 93.48% Loss:3.7175
+Epoch 4, step/total_step: 220/230 95.65% Loss:4.0231
+Epoch 4, step/total_step: 225/230 97.83% Loss:1.5231
+Epoch 4, step/total_step: 230/230 100.00% Loss:0.7167
+保存模型...
+Epoch 4, Val Loss:23.7020
+Epoch 5, step/total_step: 5/230 2.17% Loss:92.7787
+Epoch 5, step/total_step: 10/230 4.35% Loss:65.1663
+Epoch 5, step/total_step: 15/230 6.52% Loss:60.3581
+Epoch 5, step/total_step: 20/230 8.70% Loss:50.1437
+Epoch 5, step/total_step: 25/230 10.87% Loss:44.3803
+Epoch 5, step/total_step: 30/230 13.04% Loss:41.4233
+Epoch 5, step/total_step: 35/230 15.22% Loss:39.8567
+Epoch 5, step/total_step: 40/230 17.39% Loss:36.4364
+Epoch 5, step/total_step: 45/230 19.57% Loss:31.3257
+Epoch 5, step/total_step: 50/230 21.74% Loss:27.4723
+Epoch 5, step/total_step: 55/230 23.91% Loss:30.9336
+Epoch 5, step/total_step: 60/230 26.09% Loss:24.2151
+Epoch 5, step/total_step: 65/230 28.26% Loss:24.1987
+Epoch 5, step/total_step: 70/230 30.43% Loss:23.0709
+Epoch 5, step/total_step: 75/230 32.61% Loss:21.9583
+Epoch 5, step/total_step: 80/230 34.78% Loss:20.1214
+Epoch 5, step/total_step: 85/230 36.96% Loss:23.8682
+Epoch 5, step/total_step: 90/230 39.13% Loss:20.8180
+Epoch 5, step/total_step: 95/230 41.30% Loss:17.2601
+Epoch 5, step/total_step: 100/230 43.48% Loss:17.0480
+Epoch 5, step/total_step: 105/230 45.65% Loss:15.0400
+Epoch 5, step/total_step: 110/230 47.83% Loss:15.4207
+Epoch 5, step/total_step: 115/230 50.00% Loss:17.0118
+Epoch 5, step/total_step: 120/230 52.17% Loss:12.1252
+Epoch 5, step/total_step: 125/230 54.35% Loss:11.1495
+Epoch 5, step/total_step: 130/230 56.52% Loss:12.9066
+Epoch 5, step/total_step: 135/230 58.70% Loss:13.0135
+Epoch 5, step/total_step: 140/230 60.87% Loss:11.4875
+Epoch 5, step/total_step: 145/230 63.04% Loss:9.5663
+Epoch 5, step/total_step: 150/230 65.22% Loss:9.8429
+Epoch 5, step/total_step: 155/230 67.39% Loss:7.7613
+Epoch 5, step/total_step: 160/230 69.57% Loss:9.3219
+Epoch 5, step/total_step: 165/230 71.74% Loss:6.6765
+Epoch 5, step/total_step: 170/230 73.91% Loss:8.4067
+Epoch 5, step/total_step: 175/230 76.09% Loss:7.3257
+Epoch 5, step/total_step: 180/230 78.26% Loss:7.7607
+Epoch 5, step/total_step: 185/230 80.43% Loss:5.3332
+Epoch 5, step/total_step: 190/230 82.61% Loss:7.0289
+Epoch 5, step/total_step: 195/230 84.78% Loss:6.1656
+Epoch 5, step/total_step: 200/230 86.96% Loss:5.2064
+Epoch 5, step/total_step: 205/230 89.13% Loss:4.4597
+Epoch 5, step/total_step: 210/230 91.30% Loss:4.5889
+Epoch 5, step/total_step: 215/230 93.48% Loss:3.1674
+Epoch 5, step/total_step: 220/230 95.65% Loss:3.6255
+Epoch 5, step/total_step: 225/230 97.83% Loss:1.3683
+Epoch 5, step/total_step: 230/230 100.00% Loss:0.6342
+保存模型...
+Epoch 5, Val Loss:20.1989
+Epoch 6, step/total_step: 5/230 2.17% Loss:77.9220
+Epoch 6, step/total_step: 10/230 4.35% Loss:54.4923
+Epoch 6, step/total_step: 15/230 6.52% Loss:50.8732
+Epoch 6, step/total_step: 20/230 8.70% Loss:42.6062
+Epoch 6, step/total_step: 25/230 10.87% Loss:37.2691
+Epoch 6, step/total_step: 30/230 13.04% Loss:35.1872
+Epoch 6, step/total_step: 35/230 15.22% Loss:33.7764
+Epoch 6, step/total_step: 40/230 17.39% Loss:31.0269
+Epoch 6, step/total_step: 45/230 19.57% Loss:26.4498
+Epoch 6, step/total_step: 50/230 21.74% Loss:23.9974
+Epoch 6, step/total_step: 55/230 23.91% Loss:26.7720
+Epoch 6, step/total_step: 60/230 26.09% Loss:20.3216
+Epoch 6, step/total_step: 65/230 28.26% Loss:20.6342
+Epoch 6, step/total_step: 70/230 30.43% Loss:20.0060
+Epoch 6, step/total_step: 75/230 32.61% Loss:18.4800
+Epoch 6, step/total_step: 80/230 34.78% Loss:17.1167
+Epoch 6, step/total_step: 85/230 36.96% Loss:19.8979
+Epoch 6, step/total_step: 90/230 39.13% Loss:17.8270
+Epoch 6, step/total_step: 95/230 41.30% Loss:15.1833
+Epoch 6, step/total_step: 100/230 43.48% Loss:14.6485
+Epoch 6, step/total_step: 105/230 45.65% Loss:12.9991
+Epoch 6, step/total_step: 110/230 47.83% Loss:13.3249
+Epoch 6, step/total_step: 115/230 50.00% Loss:14.6177
+Epoch 6, step/total_step: 120/230 52.17% Loss:10.4717
+Epoch 6, step/total_step: 125/230 54.35% Loss:9.8170
+Epoch 6, step/total_step: 130/230 56.52% Loss:11.1794
+Epoch 6, step/total_step: 135/230 58.70% Loss:11.3839
+Epoch 6, step/total_step: 140/230 60.87% Loss:9.9644
+Epoch 6, step/total_step: 145/230 63.04% Loss:8.3154
+Epoch 6, step/total_step: 150/230 65.22% Loss:8.5358
+Epoch 6, step/total_step: 155/230 67.39% Loss:6.7388
+Epoch 6, step/total_step: 160/230 69.57% Loss:8.2491
+Epoch 6, step/total_step: 165/230 71.74% Loss:5.7914
+Epoch 6, step/total_step: 170/230 73.91% Loss:7.3381
+Epoch 6, step/total_step: 175/230 76.09% Loss:6.4118
+Epoch 6, step/total_step: 180/230 78.26% Loss:6.9173
+Epoch 6, step/total_step: 185/230 80.43% Loss:4.6298
+Epoch 6, step/total_step: 190/230 82.61% Loss:6.1506
+Epoch 6, step/total_step: 195/230 84.78% Loss:5.4106
+Epoch 6, step/total_step: 200/230 86.96% Loss:4.6265
+Epoch 6, step/total_step: 205/230 89.13% Loss:3.7905
+Epoch 6, step/total_step: 210/230 91.30% Loss:4.0652
+Epoch 6, step/total_step: 215/230 93.48% Loss:2.7323
+Epoch 6, step/total_step: 220/230 95.65% Loss:3.3161
+Epoch 6, step/total_step: 225/230 97.83% Loss:1.2503
+Epoch 6, step/total_step: 230/230 100.00% Loss:0.5743
+保存模型...
+Epoch 6, Val Loss:17.6245
+Epoch 7, step/total_step: 5/230 2.17% Loss:66.2268
+Epoch 7, step/total_step: 10/230 4.35% Loss:46.0028
+Epoch 7, step/total_step: 15/230 6.52% Loss:43.6110
+Epoch 7, step/total_step: 20/230 8.70% Loss:36.8022
+Epoch 7, step/total_step: 25/230 10.87% Loss:32.0422
+Epoch 7, step/total_step: 30/230 13.04% Loss:30.1045
+Epoch 7, step/total_step: 35/230 15.22% Loss:28.9783
+Epoch 7, step/total_step: 40/230 17.39% Loss:26.7797
+Epoch 7, step/total_step: 45/230 19.57% Loss:23.5212
+Epoch 7, step/total_step: 50/230 21.74% Loss:20.8052
+Epoch 7, step/total_step: 55/230 23.91% Loss:23.3711
+Epoch 7, step/total_step: 60/230 26.09% Loss:17.1933
+Epoch 7, step/total_step: 65/230 28.26% Loss:18.0596
+Epoch 7, step/total_step: 70/230 30.43% Loss:17.7608
+Epoch 7, step/total_step: 75/230 32.61% Loss:15.8478
+Epoch 7, step/total_step: 80/230 34.78% Loss:14.8315
+Epoch 7, step/total_step: 85/230 36.96% Loss:16.7568
+Epoch 7, step/total_step: 90/230 39.13% Loss:15.4901
+Epoch 7, step/total_step: 95/230 41.30% Loss:13.5050
+Epoch 7, step/total_step: 100/230 43.48% Loss:12.7584
+Epoch 7, step/total_step: 105/230 45.65% Loss:11.4114
+Epoch 7, step/total_step: 110/230 47.83% Loss:11.6339
+Epoch 7, step/total_step: 115/230 50.00% Loss:12.6967
+Epoch 7, step/total_step: 120/230 52.17% Loss:9.1238
+Epoch 7, step/total_step: 125/230 54.35% Loss:8.9150
+Epoch 7, step/total_step: 130/230 56.52% Loss:9.8185
+Epoch 7, step/total_step: 135/230 58.70% Loss:10.1092
+Epoch 7, step/total_step: 140/230 60.87% Loss:8.8304
+Epoch 7, step/total_step: 145/230 63.04% Loss:7.3837
+Epoch 7, step/total_step: 150/230 65.22% Loss:7.5909
+Epoch 7, step/total_step: 155/230 67.39% Loss:5.9682
+Epoch 7, step/total_step: 160/230 69.57% Loss:7.4155
+Epoch 7, step/total_step: 165/230 71.74% Loss:5.1056
+Epoch 7, step/total_step: 170/230 73.91% Loss:6.4805
+Epoch 7, step/total_step: 175/230 76.09% Loss:5.6735
+Epoch 7, step/total_step: 180/230 78.26% Loss:6.2016
+Epoch 7, step/total_step: 185/230 80.43% Loss:4.0653
+Epoch 7, step/total_step: 190/230 82.61% Loss:5.4452
+Epoch 7, step/total_step: 195/230 84.78% Loss:4.8649
+Epoch 7, step/total_step: 200/230 86.96% Loss:4.1307
+Epoch 7, step/total_step: 205/230 89.13% Loss:3.3311
+Epoch 7, step/total_step: 210/230 91.30% Loss:3.6497
+Epoch 7, step/total_step: 215/230 93.48% Loss:2.3729
+Epoch 7, step/total_step: 220/230 95.65% Loss:3.0351
+Epoch 7, step/total_step: 225/230 97.83% Loss:1.1468
+Epoch 7, step/total_step: 230/230 100.00% Loss:0.5207
+保存模型...
+Epoch 7, Val Loss:15.9011
+Epoch 8, step/total_step: 5/230 2.17% Loss:57.9578
+Epoch 8, step/total_step: 10/230 4.35% Loss:40.5176
+Epoch 8, step/total_step: 15/230 6.52% Loss:41.0449
+Epoch 8, step/total_step: 20/230 8.70% Loss:33.8609
+Epoch 8, step/total_step: 25/230 10.87% Loss:29.1553
+Epoch 8, step/total_step: 30/230 13.04% Loss:27.5687
+Epoch 8, step/total_step: 35/230 15.22% Loss:25.8004
+Epoch 8, step/total_step: 40/230 17.39% Loss:24.2231
+Epoch 8, step/total_step: 45/230 19.57% Loss:20.8854
+Epoch 8, step/total_step: 50/230 21.74% Loss:18.9142
+Epoch 8, step/total_step: 55/230 23.91% Loss:20.8342
+Epoch 8, step/total_step: 60/230 26.09% Loss:15.4770
+Epoch 8, step/total_step: 65/230 28.26% Loss:16.1196
+Epoch 8, step/total_step: 70/230 30.43% Loss:15.8594
+Epoch 8, step/total_step: 75/230 32.61% Loss:14.0216
+Epoch 8, step/total_step: 80/230 34.78% Loss:13.2199
+Epoch 8, step/total_step: 85/230 36.96% Loss:14.4135
+Epoch 8, step/total_step: 90/230 39.13% Loss:14.2382
+Epoch 8, step/total_step: 95/230 41.30% Loss:12.0080
+Epoch 8, step/total_step: 100/230 43.48% Loss:11.3713
+Epoch 8, step/total_step: 105/230 45.65% Loss:10.2501
+Epoch 8, step/total_step: 110/230 47.83% Loss:10.2553
+Epoch 8, step/total_step: 115/230 50.00% Loss:11.2610
+Epoch 8, step/total_step: 120/230 52.17% Loss:8.0103
+Epoch 8, step/total_step: 125/230 54.35% Loss:7.9588
+Epoch 8, step/total_step: 130/230 56.52% Loss:8.8016
+Epoch 8, step/total_step: 135/230 58.70% Loss:9.0678
+Epoch 8, step/total_step: 140/230 60.87% Loss:8.0110
+Epoch 8, step/total_step: 145/230 63.04% Loss:6.6390
+Epoch 8, step/total_step: 150/230 65.22% Loss:6.8612
+Epoch 8, step/total_step: 155/230 67.39% Loss:5.4772
+Epoch 8, step/total_step: 160/230 69.57% Loss:6.6544
+Epoch 8, step/total_step: 165/230 71.74% Loss:4.5319
+Epoch 8, step/total_step: 170/230 73.91% Loss:5.8529
+Epoch 8, step/total_step: 175/230 76.09% Loss:5.1337
+Epoch 8, step/total_step: 180/230 78.26% Loss:5.6008
+Epoch 8, step/total_step: 185/230 80.43% Loss:3.6255
+Epoch 8, step/total_step: 190/230 82.61% Loss:4.8913
+Epoch 8, step/total_step: 195/230 84.78% Loss:4.4355
+Epoch 8, step/total_step: 200/230 86.96% Loss:3.6454
+Epoch 8, step/total_step: 205/230 89.13% Loss:3.0052
+Epoch 8, step/total_step: 210/230 91.30% Loss:3.2915
+Epoch 8, step/total_step: 215/230 93.48% Loss:2.1217
+Epoch 8, step/total_step: 220/230 95.65% Loss:2.8143
+Epoch 8, step/total_step: 225/230 97.83% Loss:1.0588
+Epoch 8, step/total_step: 230/230 100.00% Loss:0.4820
+保存模型...
+Epoch 8, Val Loss:14.4354
+Epoch 9, step/total_step: 5/230 2.17% Loss:49.5033
+Epoch 9, step/total_step: 10/230 4.35% Loss:34.9749
+Epoch 9, step/total_step: 15/230 6.52% Loss:41.6901
+Epoch 9, step/total_step: 20/230 8.70% Loss:39.5687
+Epoch 9, step/total_step: 25/230 10.87% Loss:33.8146
+Epoch 9, step/total_step: 30/230 13.04% Loss:30.9537
+Epoch 9, step/total_step: 35/230 15.22% Loss:28.4335
+Epoch 9, step/total_step: 40/230 17.39% Loss:25.2670
+Epoch 9, step/total_step: 45/230 19.57% Loss:22.2574
+Epoch 9, step/total_step: 50/230 21.74% Loss:19.7182
+Epoch 9, step/total_step: 55/230 23.91% Loss:21.0011
+Epoch 9, step/total_step: 60/230 26.09% Loss:15.7284
+Epoch 9, step/total_step: 65/230 28.26% Loss:15.9654
+Epoch 9, step/total_step: 70/230 30.43% Loss:15.4547
+Epoch 9, step/total_step: 75/230 32.61% Loss:14.3138
+Epoch 9, step/total_step: 80/230 34.78% Loss:13.1425
+Epoch 9, step/total_step: 85/230 36.96% Loss:13.8814
+Epoch 9, step/total_step: 90/230 39.13% Loss:13.6665
+Epoch 9, step/total_step: 95/230 41.30% Loss:11.3215
+Epoch 9, step/total_step: 100/230 43.48% Loss:10.9338
+Epoch 9, step/total_step: 105/230 45.65% Loss:9.9515
+Epoch 9, step/total_step: 110/230 47.83% Loss:9.9914
+Epoch 9, step/total_step: 115/230 50.00% Loss:10.8437
+Epoch 9, step/total_step: 120/230 52.17% Loss:7.6101
+Epoch 9, step/total_step: 125/230 54.35% Loss:7.6907
+Epoch 9, step/total_step: 130/230 56.52% Loss:8.5171
+Epoch 9, step/total_step: 135/230 58.70% Loss:8.8530
+Epoch 9, step/total_step: 140/230 60.87% Loss:7.3960
+Epoch 9, step/total_step: 145/230 63.04% Loss:6.4443
+Epoch 9, step/total_step: 150/230 65.22% Loss:6.3924
+Epoch 9, step/total_step: 155/230 67.39% Loss:5.1262
+Epoch 9, step/total_step: 160/230 69.57% Loss:6.4396
+Epoch 9, step/total_step: 165/230 71.74% Loss:4.4606
+Epoch 9, step/total_step: 170/230 73.91% Loss:5.3960
+Epoch 9, step/total_step: 175/230 76.09% Loss:4.8348
+Epoch 9, step/total_step: 180/230 78.26% Loss:5.2540
+Epoch 9, step/total_step: 185/230 80.43% Loss:3.6004
+Epoch 9, step/total_step: 190/230 82.61% Loss:4.7148
+Epoch 9, step/total_step: 195/230 84.78% Loss:4.1557
+Epoch 9, step/total_step: 200/230 86.96% Loss:3.4361
+Epoch 9, step/total_step: 205/230 89.13% Loss:3.0217
+Epoch 9, step/total_step: 210/230 91.30% Loss:3.1991
+Epoch 9, step/total_step: 215/230 93.48% Loss:1.9414
+Epoch 9, step/total_step: 220/230 95.65% Loss:2.6315
+Epoch 9, step/total_step: 225/230 97.83% Loss:1.0386
+Epoch 9, step/total_step: 230/230 100.00% Loss:0.4438
+保存模型...
+Epoch 9, Val Loss:13.9917
+Epoch 10, step/total_step: 5/230 2.17% Loss:49.5144
+Epoch 10, step/total_step: 10/230 4.35% Loss:34.0295
+Epoch 10, step/total_step: 15/230 6.52% Loss:33.8827
+Epoch 10, step/total_step: 20/230 8.70% Loss:28.8115
+Epoch 10, step/total_step: 25/230 10.87% Loss:24.0550
+Epoch 10, step/total_step: 30/230 13.04% Loss:23.5008
+Epoch 10, step/total_step: 35/230 15.22% Loss:22.4527
+Epoch 10, step/total_step: 40/230 17.39% Loss:19.7472
+Epoch 10, step/total_step: 45/230 19.57% Loss:17.5529
+Epoch 10, step/total_step: 50/230 21.74% Loss:15.7743
+Epoch 10, step/total_step: 55/230 23.91% Loss:17.2375
+Epoch 10, step/total_step: 60/230 26.09% Loss:12.4628
+Epoch 10, step/total_step: 65/230 28.26% Loss:13.4177
+Epoch 10, step/total_step: 70/230 30.43% Loss:13.1409
+Epoch 10, step/total_step: 75/230 32.61% Loss:11.6112
+Epoch 10, step/total_step: 80/230 34.78% Loss:10.5664
+Epoch 10, step/total_step: 85/230 36.96% Loss:11.6753
+Epoch 10, step/total_step: 90/230 39.13% Loss:11.6220
+Epoch 10, step/total_step: 95/230 41.30% Loss:9.6881
+Epoch 10, step/total_step: 100/230 43.48% Loss:9.2882
+Epoch 10, step/total_step: 105/230 45.65% Loss:8.3988
+Epoch 10, step/total_step: 110/230 47.83% Loss:8.5620
+Epoch 10, step/total_step: 115/230 50.00% Loss:9.2911
+Epoch 10, step/total_step: 120/230 52.17% Loss:6.6041
+Epoch 10, step/total_step: 125/230 54.35% Loss:6.9710
+Epoch 10, step/total_step: 130/230 56.52% Loss:7.4261
+Epoch 10, step/total_step: 135/230 58.70% Loss:7.8702
+Epoch 10, step/total_step: 140/230 60.87% Loss:6.5643
+Epoch 10, step/total_step: 145/230 63.04% Loss:5.6980
+Epoch 10, step/total_step: 150/230 65.22% Loss:5.8486
+Epoch 10, step/total_step: 155/230 67.39% Loss:4.6374
+Epoch 10, step/total_step: 160/230 69.57% Loss:5.7293
+Epoch 10, step/total_step: 165/230 71.74% Loss:3.8788
+Epoch 10, step/total_step: 170/230 73.91% Loss:4.8164
+Epoch 10, step/total_step: 175/230 76.09% Loss:4.2083
+Epoch 10, step/total_step: 180/230 78.26% Loss:4.7678
+Epoch 10, step/total_step: 185/230 80.43% Loss:3.0797
+Epoch 10, step/total_step: 190/230 82.61% Loss:4.0734
+Epoch 10, step/total_step: 195/230 84.78% Loss:3.7417
+Epoch 10, step/total_step: 200/230 86.96% Loss:3.0782
+Epoch 10, step/total_step: 205/230 89.13% Loss:2.4709
+Epoch 10, step/total_step: 210/230 91.30% Loss:2.8193
+Epoch 10, step/total_step: 215/230 93.48% Loss:1.7171
+Epoch 10, step/total_step: 220/230 95.65% Loss:2.4024
+Epoch 10, step/total_step: 225/230 97.83% Loss:0.9034
+Epoch 10, step/total_step: 230/230 100.00% Loss:0.4294
+保存模型...
+Epoch 10, Val Loss:12.7018
+Epoch 11, step/total_step: 5/230 2.17% Loss:41.5315
+Epoch 11, step/total_step: 10/230 4.35% Loss:29.1912
+Epoch 11, step/total_step: 15/230 6.52% Loss:29.8930
+Epoch 11, step/total_step: 20/230 8.70% Loss:25.0435
+Epoch 11, step/total_step: 25/230 10.87% Loss:21.1419
+Epoch 11, step/total_step: 30/230 13.04% Loss:19.8842
+Epoch 11, step/total_step: 35/230 15.22% Loss:19.2624
+Epoch 11, step/total_step: 40/230 17.39% Loss:17.8166
+Epoch 11, step/total_step: 45/230 19.57% Loss:15.3684
+Epoch 11, step/total_step: 50/230 21.74% Loss:13.5661
+Epoch 11, step/total_step: 55/230 23.91% Loss:15.3765
+Epoch 11, step/total_step: 60/230 26.09% Loss:11.0346
+Epoch 11, step/total_step: 65/230 28.26% Loss:11.7716
+Epoch 11, step/total_step: 70/230 30.43% Loss:11.9919
+Epoch 11, step/total_step: 75/230 32.61% Loss:10.1652
+Epoch 11, step/total_step: 80/230 34.78% Loss:9.2922
+Epoch 11, step/total_step: 85/230 36.96% Loss:10.2858
+Epoch 11, step/total_step: 90/230 39.13% Loss:10.3419
+Epoch 11, step/total_step: 95/230 41.30% Loss:8.5543
+Epoch 11, step/total_step: 100/230 43.48% Loss:8.3362
+Epoch 11, step/total_step: 105/230 45.65% Loss:7.4516
+Epoch 11, step/total_step: 110/230 47.83% Loss:7.6142
+Epoch 11, step/total_step: 115/230 50.00% Loss:8.2763
+Epoch 11, step/total_step: 120/230 52.17% Loss:5.8430
+Epoch 11, step/total_step: 125/230 54.35% Loss:6.1947
+Epoch 11, step/total_step: 130/230 56.52% Loss:6.6018
+Epoch 11, step/total_step: 135/230 58.70% Loss:7.2282
+Epoch 11, step/total_step: 140/230 60.87% Loss:5.8385
+Epoch 11, step/total_step: 145/230 63.04% Loss:5.1070
+Epoch 11, step/total_step: 150/230 65.22% Loss:5.3253
+Epoch 11, step/total_step: 155/230 67.39% Loss:4.2186
+Epoch 11, step/total_step: 160/230 69.57% Loss:5.1327
+Epoch 11, step/total_step: 165/230 71.74% Loss:3.4862
+Epoch 11, step/total_step: 170/230 73.91% Loss:4.3115
+Epoch 11, step/total_step: 175/230 76.09% Loss:3.7634
+Epoch 11, step/total_step: 180/230 78.26% Loss:4.3534
+Epoch 11, step/total_step: 185/230 80.43% Loss:2.7409
+Epoch 11, step/total_step: 190/230 82.61% Loss:3.6537
+Epoch 11, step/total_step: 195/230 84.78% Loss:3.4819
+Epoch 11, step/total_step: 200/230 86.96% Loss:2.8007
+Epoch 11, step/total_step: 205/230 89.13% Loss:2.2281
+Epoch 11, step/total_step: 210/230 91.30% Loss:2.5705
+Epoch 11, step/total_step: 215/230 93.48% Loss:1.5572
+Epoch 11, step/total_step: 220/230 95.65% Loss:2.2179
+Epoch 11, step/total_step: 225/230 97.83% Loss:0.8247
+Epoch 11, step/total_step: 230/230 100.00% Loss:0.4009
+保存模型...
+Epoch 11, Val Loss:11.8862
+Epoch 12, step/total_step: 5/230 2.17% Loss:36.3923
+Epoch 12, step/total_step: 10/230 4.35% Loss:25.9563
+Epoch 12, step/total_step: 15/230 6.52% Loss:27.0684
+Epoch 12, step/total_step: 20/230 8.70% Loss:22.5078
+Epoch 12, step/total_step: 25/230 10.87% Loss:18.9353
+Epoch 12, step/total_step: 30/230 13.04% Loss:17.8122
+Epoch 12, step/total_step: 35/230 15.22% Loss:17.4432
+Epoch 12, step/total_step: 40/230 17.39% Loss:16.1869
+Epoch 12, step/total_step: 45/230 19.57% Loss:14.3810
+Epoch 12, step/total_step: 50/230 21.74% Loss:12.9400
+Epoch 12, step/total_step: 55/230 23.91% Loss:14.0731
+Epoch 12, step/total_step: 60/230 26.09% Loss:9.9008
+Epoch 12, step/total_step: 65/230 28.26% Loss:10.7912
+Epoch 12, step/total_step: 70/230 30.43% Loss:10.8120
+Epoch 12, step/total_step: 75/230 32.61% Loss:9.1667
+Epoch 12, step/total_step: 80/230 34.78% Loss:8.3267
+Epoch 12, step/total_step: 85/230 36.96% Loss:9.1149
+Epoch 12, step/total_step: 90/230 39.13% Loss:9.4263
+Epoch 12, step/total_step: 95/230 41.30% Loss:7.8314
+Epoch 12, step/total_step: 100/230 43.48% Loss:7.5974
+Epoch 12, step/total_step: 105/230 45.65% Loss:6.7560
+Epoch 12, step/total_step: 110/230 47.83% Loss:6.8640
+Epoch 12, step/total_step: 115/230 50.00% Loss:7.4622
+Epoch 12, step/total_step: 120/230 52.17% Loss:5.2701
+Epoch 12, step/total_step: 125/230 54.35% Loss:5.7142
+Epoch 12, step/total_step: 130/230 56.52% Loss:5.9796
+Epoch 12, step/total_step: 135/230 58.70% Loss:6.6916
+Epoch 12, step/total_step: 140/230 60.87% Loss:5.3074
+Epoch 12, step/total_step: 145/230 63.04% Loss:4.6445
+Epoch 12, step/total_step: 150/230 65.22% Loss:4.8464
+Epoch 12, step/total_step: 155/230 67.39% Loss:3.8569
+Epoch 12, step/total_step: 160/230 69.57% Loss:4.7622
+Epoch 12, step/total_step: 165/230 71.74% Loss:3.2211
+Epoch 12, step/total_step: 170/230 73.91% Loss:3.9278
+Epoch 12, step/total_step: 175/230 76.09% Loss:3.3835
+Epoch 12, step/total_step: 180/230 78.26% Loss:3.9918
+Epoch 12, step/total_step: 185/230 80.43% Loss:2.4436
+Epoch 12, step/total_step: 190/230 82.61% Loss:3.2968
+Epoch 12, step/total_step: 195/230 84.78% Loss:3.2260
+Epoch 12, step/total_step: 200/230 86.96% Loss:2.5847
+Epoch 12, step/total_step: 205/230 89.13% Loss:2.0352
+Epoch 12, step/total_step: 210/230 91.30% Loss:2.3553
+Epoch 12, step/total_step: 215/230 93.48% Loss:1.4372
+Epoch 12, step/total_step: 220/230 95.65% Loss:2.0418
+Epoch 12, step/total_step: 225/230 97.83% Loss:0.7483
+Epoch 12, step/total_step: 230/230 100.00% Loss:0.3758
+保存模型...
+Epoch 12, Val Loss:11.5303
+Epoch 13, step/total_step: 5/230 2.17% Loss:32.8696
+Epoch 13, step/total_step: 10/230 4.35% Loss:23.1984
+Epoch 13, step/total_step: 15/230 6.52% Loss:24.6380
+Epoch 13, step/total_step: 20/230 8.70% Loss:20.8175
+Epoch 13, step/total_step: 25/230 10.87% Loss:17.8751
+Epoch 13, step/total_step: 30/230 13.04% Loss:16.8025
+Epoch 13, step/total_step: 35/230 15.22% Loss:16.0258
+Epoch 13, step/total_step: 40/230 17.39% Loss:15.2481
+Epoch 13, step/total_step: 45/230 19.57% Loss:13.1620
+Epoch 13, step/total_step: 50/230 21.74% Loss:11.8630
+Epoch 13, step/total_step: 55/230 23.91% Loss:12.7916
+Epoch 13, step/total_step: 60/230 26.09% Loss:9.3240
+Epoch 13, step/total_step: 65/230 28.26% Loss:9.7630
+Epoch 13, step/total_step: 70/230 30.43% Loss:10.0548
+Epoch 13, step/total_step: 75/230 32.61% Loss:8.5543
+Epoch 13, step/total_step: 80/230 34.78% Loss:7.6104
+Epoch 13, step/total_step: 85/230 36.96% Loss:8.3306
+Epoch 13, step/total_step: 90/230 39.13% Loss:8.7566
+Epoch 13, step/total_step: 95/230 41.30% Loss:7.0532
+Epoch 13, step/total_step: 100/230 43.48% Loss:7.0377
+Epoch 13, step/total_step: 105/230 45.65% Loss:6.1624
+Epoch 13, step/total_step: 110/230 47.83% Loss:6.3320
+Epoch 13, step/total_step: 115/230 50.00% Loss:6.8779
+Epoch 13, step/total_step: 120/230 52.17% Loss:4.9573
+Epoch 13, step/total_step: 125/230 54.35% Loss:5.2764
+Epoch 13, step/total_step: 130/230 56.52% Loss:5.6525
+Epoch 13, step/total_step: 135/230 58.70% Loss:6.1959
+Epoch 13, step/total_step: 140/230 60.87% Loss:4.8202
+Epoch 13, step/total_step: 145/230 63.04% Loss:4.2774
+Epoch 13, step/total_step: 150/230 65.22% Loss:4.5380
+Epoch 13, step/total_step: 155/230 67.39% Loss:3.5255
+Epoch 13, step/total_step: 160/230 69.57% Loss:4.3752
+Epoch 13, step/total_step: 165/230 71.74% Loss:2.9870
+Epoch 13, step/total_step: 170/230 73.91% Loss:3.5652
+Epoch 13, step/total_step: 175/230 76.09% Loss:3.0918
+Epoch 13, step/total_step: 180/230 78.26% Loss:3.7129
+Epoch 13, step/total_step: 185/230 80.43% Loss:2.2384
+Epoch 13, step/total_step: 190/230 82.61% Loss:2.9787
+Epoch 13, step/total_step: 195/230 84.78% Loss:3.0420
+Epoch 13, step/total_step: 200/230 86.96% Loss:2.4095
+Epoch 13, step/total_step: 205/230 89.13% Loss:1.9072
+Epoch 13, step/total_step: 210/230 91.30% Loss:2.1501
+Epoch 13, step/total_step: 215/230 93.48% Loss:1.2858
+Epoch 13, step/total_step: 220/230 95.65% Loss:1.9196
+Epoch 13, step/total_step: 225/230 97.83% Loss:0.6806
+Epoch 13, step/total_step: 230/230 100.00% Loss:0.3469
+保存模型...
+Epoch 13, Val Loss:11.3550
+Epoch 14, step/total_step: 5/230 2.17% Loss:30.6958
+Epoch 14, step/total_step: 10/230 4.35% Loss:21.9278
+Epoch 14, step/total_step: 15/230 6.52% Loss:23.7828
+Epoch 14, step/total_step: 20/230 8.70% Loss:19.4921
+Epoch 14, step/total_step: 25/230 10.87% Loss:16.8056
+Epoch 14, step/total_step: 30/230 13.04% Loss:15.7625
+Epoch 14, step/total_step: 35/230 15.22% Loss:15.2302
+Epoch 14, step/total_step: 40/230 17.39% Loss:14.0799
+Epoch 14, step/total_step: 45/230 19.57% Loss:12.4536
+Epoch 14, step/total_step: 50/230 21.74% Loss:11.4631
+Epoch 14, step/total_step: 55/230 23.91% Loss:11.8863
+Epoch 14, step/total_step: 60/230 26.09% Loss:8.6417
+Epoch 14, step/total_step: 65/230 28.26% Loss:9.0921
+Epoch 14, step/total_step: 70/230 30.43% Loss:9.2219
+Epoch 14, step/total_step: 75/230 32.61% Loss:7.9011
+Epoch 14, step/total_step: 80/230 34.78% Loss:7.0965
+Epoch 14, step/total_step: 85/230 36.96% Loss:7.5701
+Epoch 14, step/total_step: 90/230 39.13% Loss:8.0914
+Epoch 14, step/total_step: 95/230 41.30% Loss:6.4343
+Epoch 14, step/total_step: 100/230 43.48% Loss:6.4856
+Epoch 14, step/total_step: 105/230 45.65% Loss:5.6600
+Epoch 14, step/total_step: 110/230 47.83% Loss:5.5604
+Epoch 14, step/total_step: 115/230 50.00% Loss:6.2007
+Epoch 14, step/total_step: 120/230 52.17% Loss:4.5524
+Epoch 14, step/total_step: 125/230 54.35% Loss:4.9202
+Epoch 14, step/total_step: 130/230 56.52% Loss:5.1373
+Epoch 14, step/total_step: 135/230 58.70% Loss:5.8865
+Epoch 14, step/total_step: 140/230 60.87% Loss:4.4069
+Epoch 14, step/total_step: 145/230 63.04% Loss:4.0134
+Epoch 14, step/total_step: 150/230 65.22% Loss:4.1634
+Epoch 14, step/total_step: 155/230 67.39% Loss:3.2726
+Epoch 14, step/total_step: 160/230 69.57% Loss:4.0125
+Epoch 14, step/total_step: 165/230 71.74% Loss:2.7639
+Epoch 14, step/total_step: 170/230 73.91% Loss:3.3272
+Epoch 14, step/total_step: 175/230 76.09% Loss:2.8775
+Epoch 14, step/total_step: 180/230 78.26% Loss:3.4220
+Epoch 14, step/total_step: 185/230 80.43% Loss:2.0773
+Epoch 14, step/total_step: 190/230 82.61% Loss:2.7616
+Epoch 14, step/total_step: 195/230 84.78% Loss:2.8482
+Epoch 14, step/total_step: 200/230 86.96% Loss:2.2334
+Epoch 14, step/total_step: 205/230 89.13% Loss:1.7551
+Epoch 14, step/total_step: 210/230 91.30% Loss:1.9865
+Epoch 14, step/total_step: 215/230 93.48% Loss:1.1795
+Epoch 14, step/total_step: 220/230 95.65% Loss:1.7647
+Epoch 14, step/total_step: 225/230 97.83% Loss:0.6131
+Epoch 14, step/total_step: 230/230 100.00% Loss:0.3331
+保存模型...
+Epoch 14, Val Loss:10.8270
+Epoch 15, step/total_step: 5/230 2.17% Loss:28.3447
+Epoch 15, step/total_step: 10/230 4.35% Loss:20.5023
+Epoch 15, step/total_step: 15/230 6.52% Loss:21.3292
+Epoch 15, step/total_step: 20/230 8.70% Loss:16.9734
+Epoch 15, step/total_step: 25/230 10.87% Loss:14.5048
+Epoch 15, step/total_step: 30/230 13.04% Loss:14.3432
+Epoch 15, step/total_step: 35/230 15.22% Loss:13.8777
+Epoch 15, step/total_step: 40/230 17.39% Loss:12.9632
+Epoch 15, step/total_step: 45/230 19.57% Loss:11.6115
+Epoch 15, step/total_step: 50/230 21.74% Loss:10.6582
+Epoch 15, step/total_step: 55/230 23.91% Loss:10.8341
+Epoch 15, step/total_step: 60/230 26.09% Loss:8.0006
+Epoch 15, step/total_step: 65/230 28.26% Loss:8.3712
+Epoch 15, step/total_step: 70/230 30.43% Loss:8.6902
+Epoch 15, step/total_step: 75/230 32.61% Loss:7.3691
+Epoch 15, step/total_step: 80/230 34.78% Loss:6.5656
+Epoch 15, step/total_step: 85/230 36.96% Loss:6.9139
+Epoch 15, step/total_step: 90/230 39.13% Loss:7.4518
+Epoch 15, step/total_step: 95/230 41.30% Loss:5.8343
+Epoch 15, step/total_step: 100/230 43.48% Loss:5.9460
+Epoch 15, step/total_step: 105/230 45.65% Loss:5.1680
+Epoch 15, step/total_step: 110/230 47.83% Loss:5.2141
+Epoch 15, step/total_step: 115/230 50.00% Loss:5.7409
+Epoch 15, step/total_step: 120/230 52.17% Loss:4.2453
+Epoch 15, step/total_step: 125/230 54.35% Loss:4.4830
+Epoch 15, step/total_step: 130/230 56.52% Loss:4.7650
+Epoch 15, step/total_step: 135/230 58.70% Loss:5.4702
+Epoch 15, step/total_step: 140/230 60.87% Loss:4.1309
+Epoch 15, step/total_step: 145/230 63.04% Loss:3.6499
+Epoch 15, step/total_step: 150/230 65.22% Loss:3.9129
+Epoch 15, step/total_step: 155/230 67.39% Loss:3.0187
+Epoch 15, step/total_step: 160/230 69.57% Loss:3.7317
+Epoch 15, step/total_step: 165/230 71.74% Loss:2.5170
+Epoch 15, step/total_step: 170/230 73.91% Loss:3.0377
+Epoch 15, step/total_step: 175/230 76.09% Loss:2.6364
+Epoch 15, step/total_step: 180/230 78.26% Loss:3.2029
+Epoch 15, step/total_step: 185/230 80.43% Loss:1.8720
+Epoch 15, step/total_step: 190/230 82.61% Loss:2.4260
+Epoch 15, step/total_step: 195/230 84.78% Loss:2.6712
+Epoch 15, step/total_step: 200/230 86.96% Loss:2.0749
+Epoch 15, step/total_step: 205/230 89.13% Loss:1.6203
+Epoch 15, step/total_step: 210/230 91.30% Loss:1.8247
+Epoch 15, step/total_step: 215/230 93.48% Loss:1.1072
+Epoch 15, step/total_step: 220/230 95.65% Loss:1.6533
+Epoch 15, step/total_step: 225/230 97.83% Loss:0.5603
+Epoch 15, step/total_step: 230/230 100.00% Loss:0.3133
+保存模型...
+Epoch 15, Val Loss:10.4891
+Epoch 16, step/total_step: 5/230 2.17% Loss:24.3587
+Epoch 16, step/total_step: 10/230 4.35% Loss:17.9700
+Epoch 16, step/total_step: 15/230 6.52% Loss:20.0337
+Epoch 16, step/total_step: 20/230 8.70% Loss:15.4783
+Epoch 16, step/total_step: 25/230 10.87% Loss:13.0062
+Epoch 16, step/total_step: 30/230 13.04% Loss:12.5038
+Epoch 16, step/total_step: 35/230 15.22% Loss:12.4953
+Epoch 16, step/total_step: 40/230 17.39% Loss:11.9714
+Epoch 16, step/total_step: 45/230 19.57% Loss:10.9758
+Epoch 16, step/total_step: 50/230 21.74% Loss:9.3917
+Epoch 16, step/total_step: 55/230 23.91% Loss:10.0268
+Epoch 16, step/total_step: 60/230 26.09% Loss:7.6309
+Epoch 16, step/total_step: 65/230 28.26% Loss:7.8159
+Epoch 16, step/total_step: 70/230 30.43% Loss:8.1292
+Epoch 16, step/total_step: 75/230 32.61% Loss:6.8148
+Epoch 16, step/total_step: 80/230 34.78% Loss:6.0529
+Epoch 16, step/total_step: 85/230 36.96% Loss:6.3993
+Epoch 16, step/total_step: 90/230 39.13% Loss:6.8099
+Epoch 16, step/total_step: 95/230 41.30% Loss:5.3391
+Epoch 16, step/total_step: 100/230 43.48% Loss:5.5210
+Epoch 16, step/total_step: 105/230 45.65% Loss:4.7396
+Epoch 16, step/total_step: 110/230 47.83% Loss:4.7801
+Epoch 16, step/total_step: 115/230 50.00% Loss:5.2327
+Epoch 16, step/total_step: 120/230 52.17% Loss:3.9857
+Epoch 16, step/total_step: 125/230 54.35% Loss:4.1957
+Epoch 16, step/total_step: 130/230 56.52% Loss:4.4038
+Epoch 16, step/total_step: 135/230 58.70% Loss:5.2706
+Epoch 16, step/total_step: 140/230 60.87% Loss:3.7662
+Epoch 16, step/total_step: 145/230 63.04% Loss:3.4263
+Epoch 16, step/total_step: 150/230 65.22% Loss:3.6036
+Epoch 16, step/total_step: 155/230 67.39% Loss:2.7979
+Epoch 16, step/total_step: 160/230 69.57% Loss:3.5374
+Epoch 16, step/total_step: 165/230 71.74% Loss:2.3426
+Epoch 16, step/total_step: 170/230 73.91% Loss:2.8287
+Epoch 16, step/total_step: 175/230 76.09% Loss:2.4591
+Epoch 16, step/total_step: 180/230 78.26% Loss:2.9864
+Epoch 16, step/total_step: 185/230 80.43% Loss:1.7365
+Epoch 16, step/total_step: 190/230 82.61% Loss:2.2376
+Epoch 16, step/total_step: 195/230 84.78% Loss:2.5215
+Epoch 16, step/total_step: 200/230 86.96% Loss:1.9247
+Epoch 16, step/total_step: 205/230 89.13% Loss:1.5269
+Epoch 16, step/total_step: 210/230 91.30% Loss:1.7095
+Epoch 16, step/total_step: 215/230 93.48% Loss:1.0239
+Epoch 16, step/total_step: 220/230 95.65% Loss:1.5016
+Epoch 16, step/total_step: 225/230 97.83% Loss:0.5025
+Epoch 16, step/total_step: 230/230 100.00% Loss:0.2990
+保存模型...
+Epoch 16, Val Loss:10.2950
+Epoch 17, step/total_step: 5/230 2.17% Loss:22.0009
+Epoch 17, step/total_step: 10/230 4.35% Loss:16.8494
+Epoch 17, step/total_step: 15/230 6.52% Loss:19.1431
+Epoch 17, step/total_step: 20/230 8.70% Loss:14.5052
+Epoch 17, step/total_step: 25/230 10.87% Loss:12.2523
+Epoch 17, step/total_step: 30/230 13.04% Loss:11.6872
+Epoch 17, step/total_step: 35/230 15.22% Loss:11.5784
+Epoch 17, step/total_step: 40/230 17.39% Loss:10.7234
+Epoch 17, step/total_step: 45/230 19.57% Loss:10.1360
+Epoch 17, step/total_step: 50/230 21.74% Loss:8.4209
+Epoch 17, step/total_step: 55/230 23.91% Loss:9.1540
+Epoch 17, step/total_step: 60/230 26.09% Loss:6.8344
+Epoch 17, step/total_step: 65/230 28.26% Loss:7.4010
+Epoch 17, step/total_step: 70/230 30.43% Loss:7.7455
+Epoch 17, step/total_step: 75/230 32.61% Loss:6.1594
+Epoch 17, step/total_step: 80/230 34.78% Loss:5.7261
+Epoch 17, step/total_step: 85/230 36.96% Loss:5.9199
+Epoch 17, step/total_step: 90/230 39.13% Loss:6.2900
+Epoch 17, step/total_step: 95/230 41.30% Loss:5.0147
+Epoch 17, step/total_step: 100/230 43.48% Loss:5.2783
+Epoch 17, step/total_step: 105/230 45.65% Loss:4.3772
+Epoch 17, step/total_step: 110/230 47.83% Loss:4.4086
+Epoch 17, step/total_step: 115/230 50.00% Loss:4.8738
+Epoch 17, step/total_step: 120/230 52.17% Loss:3.7370
+Epoch 17, step/total_step: 125/230 54.35% Loss:3.9797
+Epoch 17, step/total_step: 130/230 56.52% Loss:4.1003
+Epoch 17, step/total_step: 135/230 58.70% Loss:4.9527
+Epoch 17, step/total_step: 140/230 60.87% Loss:3.5177
+Epoch 17, step/total_step: 145/230 63.04% Loss:3.0609
+Epoch 17, step/total_step: 150/230 65.22% Loss:3.3706
+Epoch 17, step/total_step: 155/230 67.39% Loss:2.6211
+Epoch 17, step/total_step: 160/230 69.57% Loss:3.2535
+Epoch 17, step/total_step: 165/230 71.74% Loss:2.1853
+Epoch 17, step/total_step: 170/230 73.91% Loss:2.5936
+Epoch 17, step/total_step: 175/230 76.09% Loss:2.2800
+Epoch 17, step/total_step: 180/230 78.26% Loss:2.7708
+Epoch 17, step/total_step: 185/230 80.43% Loss:1.6203
+Epoch 17, step/total_step: 190/230 82.61% Loss:2.0372
+Epoch 17, step/total_step: 195/230 84.78% Loss:2.4119
+Epoch 17, step/total_step: 200/230 86.96% Loss:1.7936
+Epoch 17, step/total_step: 205/230 89.13% Loss:1.4462
+Epoch 17, step/total_step: 210/230 91.30% Loss:1.6017
+Epoch 17, step/total_step: 215/230 93.48% Loss:0.9420
+Epoch 17, step/total_step: 220/230 95.65% Loss:1.4407
+Epoch 17, step/total_step: 225/230 97.83% Loss:0.4652
+Epoch 17, step/total_step: 230/230 100.00% Loss:0.2802
+保存模型...
+Epoch 17, Val Loss:10.1345
+Epoch 18, step/total_step: 5/230 2.17% Loss:21.0373
+Epoch 18, step/total_step: 10/230 4.35% Loss:15.5628
+Epoch 18, step/total_step: 15/230 6.52% Loss:17.8192
+Epoch 18, step/total_step: 20/230 8.70% Loss:14.2726
+Epoch 18, step/total_step: 25/230 10.87% Loss:11.7655
+Epoch 18, step/total_step: 30/230 13.04% Loss:11.6637
+Epoch 18, step/total_step: 35/230 15.22% Loss:11.7846
+Epoch 18, step/total_step: 40/230 17.39% Loss:10.0427
+Epoch 18, step/total_step: 45/230 19.57% Loss:9.3236
+Epoch 18, step/total_step: 50/230 21.74% Loss:7.6798
+Epoch 18, step/total_step: 55/230 23.91% Loss:8.3362
+Epoch 18, step/total_step: 60/230 26.09% Loss:6.5164
+Epoch 18, step/total_step: 65/230 28.26% Loss:7.1121
+Epoch 18, step/total_step: 70/230 30.43% Loss:7.3976
+Epoch 18, step/total_step: 75/230 32.61% Loss:5.8301
+Epoch 18, step/total_step: 80/230 34.78% Loss:5.3447
+Epoch 18, step/total_step: 85/230 36.96% Loss:5.6226
+Epoch 18, step/total_step: 90/230 39.13% Loss:5.9440
+Epoch 18, step/total_step: 95/230 41.30% Loss:4.6003
+Epoch 18, step/total_step: 100/230 43.48% Loss:4.9297
+Epoch 18, step/total_step: 105/230 45.65% Loss:4.2184
+Epoch 18, step/total_step: 110/230 47.83% Loss:4.1016
+Epoch 18, step/total_step: 115/230 50.00% Loss:4.6154
+Epoch 18, step/total_step: 120/230 52.17% Loss:3.4709
+Epoch 18, step/total_step: 125/230 54.35% Loss:3.7822
+Epoch 18, step/total_step: 130/230 56.52% Loss:3.9667
+Epoch 18, step/total_step: 135/230 58.70% Loss:4.8263
+Epoch 18, step/total_step: 140/230 60.87% Loss:3.2985
+Epoch 18, step/total_step: 145/230 63.04% Loss:2.9599
+Epoch 18, step/total_step: 150/230 65.22% Loss:3.2090
+Epoch 18, step/total_step: 155/230 67.39% Loss:2.4495
+Epoch 18, step/total_step: 160/230 69.57% Loss:3.0849
+Epoch 18, step/total_step: 165/230 71.74% Loss:2.0398
+Epoch 18, step/total_step: 170/230 73.91% Loss:2.4815
+Epoch 18, step/total_step: 175/230 76.09% Loss:2.1848
+Epoch 18, step/total_step: 180/230 78.26% Loss:2.6473
+Epoch 18, step/total_step: 185/230 80.43% Loss:1.5217
+Epoch 18, step/total_step: 190/230 82.61% Loss:1.9230
+Epoch 18, step/total_step: 195/230 84.78% Loss:2.2705
+Epoch 18, step/total_step: 200/230 86.96% Loss:1.6833
+Epoch 18, step/total_step: 205/230 89.13% Loss:1.3431
+Epoch 18, step/total_step: 210/230 91.30% Loss:1.5071
+Epoch 18, step/total_step: 215/230 93.48% Loss:0.8672
+Epoch 18, step/total_step: 220/230 95.65% Loss:1.2939
+Epoch 18, step/total_step: 225/230 97.83% Loss:0.4163
+Epoch 18, step/total_step: 230/230 100.00% Loss:0.2673
+保存模型...
+Epoch 18, Val Loss:9.8070
+Epoch 19, step/total_step: 5/230 2.17% Loss:18.4868
+Epoch 19, step/total_step: 10/230 4.35% Loss:14.2988
+Epoch 19, step/total_step: 15/230 6.52% Loss:16.6013
+Epoch 19, step/total_step: 20/230 8.70% Loss:13.4619
+Epoch 19, step/total_step: 25/230 10.87% Loss:10.7298
+Epoch 19, step/total_step: 30/230 13.04% Loss:11.1191
+Epoch 19, step/total_step: 35/230 15.22% Loss:10.7918
+Epoch 19, step/total_step: 40/230 17.39% Loss:9.8936
+Epoch 19, step/total_step: 45/230 19.57% Loss:9.0222
+Epoch 19, step/total_step: 50/230 21.74% Loss:7.2570
+Epoch 19, step/total_step: 55/230 23.91% Loss:7.9776
+Epoch 19, step/total_step: 60/230 26.09% Loss:6.0439
+Epoch 19, step/total_step: 65/230 28.26% Loss:6.4028
+Epoch 19, step/total_step: 70/230 30.43% Loss:6.7047
+Epoch 19, step/total_step: 75/230 32.61% Loss:5.4458
+Epoch 19, step/total_step: 80/230 34.78% Loss:5.0155
+Epoch 19, step/total_step: 85/230 36.96% Loss:5.2862
+Epoch 19, step/total_step: 90/230 39.13% Loss:5.5870
+Epoch 19, step/total_step: 95/230 41.30% Loss:4.5354
+Epoch 19, step/total_step: 100/230 43.48% Loss:4.6087
+Epoch 19, step/total_step: 105/230 45.65% Loss:3.8244
+Epoch 19, step/total_step: 110/230 47.83% Loss:3.7665
+Epoch 19, step/total_step: 115/230 50.00% Loss:4.3710
+Epoch 19, step/total_step: 120/230 52.17% Loss:3.1680
+Epoch 19, step/total_step: 125/230 54.35% Loss:3.6083
+Epoch 19, step/total_step: 130/230 56.52% Loss:3.7095
+Epoch 19, step/total_step: 135/230 58.70% Loss:4.5727
+Epoch 19, step/total_step: 140/230 60.87% Loss:3.0669
+Epoch 19, step/total_step: 145/230 63.04% Loss:2.7508
+Epoch 19, step/total_step: 150/230 65.22% Loss:3.0955
+Epoch 19, step/total_step: 155/230 67.39% Loss:2.2398
+Epoch 19, step/total_step: 160/230 69.57% Loss:2.9354
+Epoch 19, step/total_step: 165/230 71.74% Loss:1.9139
+Epoch 19, step/total_step: 170/230 73.91% Loss:2.2612
+Epoch 19, step/total_step: 175/230 76.09% Loss:2.0650
+Epoch 19, step/total_step: 180/230 78.26% Loss:2.4956
+Epoch 19, step/total_step: 185/230 80.43% Loss:1.4283
+Epoch 19, step/total_step: 190/230 82.61% Loss:1.7899
+Epoch 19, step/total_step: 195/230 84.78% Loss:2.1445
+Epoch 19, step/total_step: 200/230 86.96% Loss:1.5511
+Epoch 19, step/total_step: 205/230 89.13% Loss:1.2682
+Epoch 19, step/total_step: 210/230 91.30% Loss:1.3950
+Epoch 19, step/total_step: 215/230 93.48% Loss:0.8100
+Epoch 19, step/total_step: 220/230 95.65% Loss:1.2372
+Epoch 19, step/total_step: 225/230 97.83% Loss:0.3773
+Epoch 19, step/total_step: 230/230 100.00% Loss:0.2537
+Epoch 19, Val Loss:9.8802
+Epoch 20, step/total_step: 5/230 2.17% Loss:17.6559
+Epoch 20, step/total_step: 10/230 4.35% Loss:12.9863
+Epoch 20, step/total_step: 15/230 6.52% Loss:15.2894
+Epoch 20, step/total_step: 20/230 8.70% Loss:12.8566
+Epoch 20, step/total_step: 25/230 10.87% Loss:10.6040
+Epoch 20, step/total_step: 30/230 13.04% Loss:10.8566
+Epoch 20, step/total_step: 35/230 15.22% Loss:10.1831
+Epoch 20, step/total_step: 40/230 17.39% Loss:9.5446
+Epoch 20, step/total_step: 45/230 19.57% Loss:8.8063
+Epoch 20, step/total_step: 50/230 21.74% Loss:7.2957
+Epoch 20, step/total_step: 55/230 23.91% Loss:7.7080
+Epoch 20, step/total_step: 60/230 26.09% Loss:5.5948
+Epoch 20, step/total_step: 65/230 28.26% Loss:6.2373
+Epoch 20, step/total_step: 70/230 30.43% Loss:6.2932
+Epoch 20, step/total_step: 75/230 32.61% Loss:5.1005
+Epoch 20, step/total_step: 80/230 34.78% Loss:4.6886
+Epoch 20, step/total_step: 85/230 36.96% Loss:4.9791
+Epoch 20, step/total_step: 90/230 39.13% Loss:5.3870
+Epoch 20, step/total_step: 95/230 41.30% Loss:4.1823
+Epoch 20, step/total_step: 100/230 43.48% Loss:4.5737
+Epoch 20, step/total_step: 105/230 45.65% Loss:3.6943
+Epoch 20, step/total_step: 110/230 47.83% Loss:3.5990
+Epoch 20, step/total_step: 115/230 50.00% Loss:4.2170
+Epoch 20, step/total_step: 120/230 52.17% Loss:3.0181
+Epoch 20, step/total_step: 125/230 54.35% Loss:3.3548
+Epoch 20, step/total_step: 130/230 56.52% Loss:3.5024
+Epoch 20, step/total_step: 135/230 58.70% Loss:4.3542
+Epoch 20, step/total_step: 140/230 60.87% Loss:2.9744
+Epoch 20, step/total_step: 145/230 63.04% Loss:2.5349
+Epoch 20, step/total_step: 150/230 65.22% Loss:2.8353
+Epoch 20, step/total_step: 155/230 67.39% Loss:2.1354
+Epoch 20, step/total_step: 160/230 69.57% Loss:2.9548
+Epoch 20, step/total_step: 165/230 71.74% Loss:1.8270
+Epoch 20, step/total_step: 170/230 73.91% Loss:2.2089
+Epoch 20, step/total_step: 175/230 76.09% Loss:1.9272
+Epoch 20, step/total_step: 180/230 78.26% Loss:2.3330
+Epoch 20, step/total_step: 185/230 80.43% Loss:1.3396
+Epoch 20, step/total_step: 190/230 82.61% Loss:1.6633
+Epoch 20, step/total_step: 195/230 84.78% Loss:2.0590
+Epoch 20, step/total_step: 200/230 86.96% Loss:1.4614
+Epoch 20, step/total_step: 205/230 89.13% Loss:1.1665
+Epoch 20, step/total_step: 210/230 91.30% Loss:1.3531
+Epoch 20, step/total_step: 215/230 93.48% Loss:0.7435
+Epoch 20, step/total_step: 220/230 95.65% Loss:1.1419
+Epoch 20, step/total_step: 225/230 97.83% Loss:0.3430
+Epoch 20, step/total_step: 230/230 100.00% Loss:0.2412
+保存模型...
+Epoch 20, Val Loss:9.7240
+Epoch 21, step/total_step: 5/230 2.17% Loss:19.6081
+Epoch 21, step/total_step: 10/230 4.35% Loss:17.4137
+Epoch 21, step/total_step: 15/230 6.52% Loss:17.3388
+Epoch 21, step/total_step: 20/230 8.70% Loss:13.7677
+Epoch 21, step/total_step: 25/230 10.87% Loss:11.6510
+Epoch 21, step/total_step: 30/230 13.04% Loss:12.2538
+Epoch 21, step/total_step: 35/230 15.22% Loss:11.4947
+Epoch 21, step/total_step: 40/230 17.39% Loss:10.2895
+Epoch 21, step/total_step: 45/230 19.57% Loss:9.2380
+Epoch 21, step/total_step: 50/230 21.74% Loss:7.9062
+Epoch 21, step/total_step: 55/230 23.91% Loss:8.0023
+Epoch 21, step/total_step: 60/230 26.09% Loss:6.0645
+Epoch 21, step/total_step: 65/230 28.26% Loss:6.2110
+Epoch 21, step/total_step: 70/230 30.43% Loss:6.6900
+Epoch 21, step/total_step: 75/230 32.61% Loss:5.1810
+Epoch 21, step/total_step: 80/230 34.78% Loss:4.7479
+Epoch 21, step/total_step: 85/230 36.96% Loss:5.3297
+Epoch 21, step/total_step: 90/230 39.13% Loss:5.4202
+Epoch 21, step/total_step: 95/230 41.30% Loss:4.3056
+Epoch 21, step/total_step: 100/230 43.48% Loss:4.6010
+Epoch 21, step/total_step: 105/230 45.65% Loss:3.7566
+Epoch 21, step/total_step: 110/230 47.83% Loss:3.7647
+Epoch 21, step/total_step: 115/230 50.00% Loss:4.1944
+Epoch 21, step/total_step: 120/230 52.17% Loss:2.9778
+Epoch 21, step/total_step: 125/230 54.35% Loss:3.4940
+Epoch 21, step/total_step: 130/230 56.52% Loss:3.5960
+Epoch 21, step/total_step: 135/230 58.70% Loss:4.3086
+Epoch 21, step/total_step: 140/230 60.87% Loss:3.0112
+Epoch 21, step/total_step: 145/230 63.04% Loss:2.5798
+Epoch 21, step/total_step: 150/230 65.22% Loss:2.8551
+Epoch 21, step/total_step: 155/230 67.39% Loss:2.1277
+Epoch 21, step/total_step: 160/230 69.57% Loss:2.7204
+Epoch 21, step/total_step: 165/230 71.74% Loss:1.7781
+Epoch 21, step/total_step: 170/230 73.91% Loss:2.0509
+Epoch 21, step/total_step: 175/230 76.09% Loss:1.9197
+Epoch 21, step/total_step: 180/230 78.26% Loss:2.2895
+Epoch 21, step/total_step: 185/230 80.43% Loss:1.3246
+Epoch 21, step/total_step: 190/230 82.61% Loss:1.6561
+Epoch 21, step/total_step: 195/230 84.78% Loss:1.9361
+Epoch 21, step/total_step: 200/230 86.96% Loss:1.5047
+Epoch 21, step/total_step: 205/230 89.13% Loss:1.1310
+Epoch 21, step/total_step: 210/230 91.30% Loss:1.2736
+Epoch 21, step/total_step: 215/230 93.48% Loss:0.7782
+Epoch 21, step/total_step: 220/230 95.65% Loss:1.1067
+Epoch 21, step/total_step: 225/230 97.83% Loss:0.3394
+Epoch 21, step/total_step: 230/230 100.00% Loss:0.2437
+保存模型...
+Epoch 21, Val Loss:9.0219
+Epoch 22, step/total_step: 5/230 2.17% Loss:19.5658
+Epoch 22, step/total_step: 10/230 4.35% Loss:17.6112
+Epoch 22, step/total_step: 15/230 6.52% Loss:17.5177
+Epoch 22, step/total_step: 20/230 8.70% Loss:13.7337
+Epoch 22, step/total_step: 25/230 10.87% Loss:11.2070
+Epoch 22, step/total_step: 30/230 13.04% Loss:11.3228
+Epoch 22, step/total_step: 35/230 15.22% Loss:10.5884
+Epoch 22, step/total_step: 40/230 17.39% Loss:10.1617
+Epoch 22, step/total_step: 45/230 19.57% Loss:9.3770
+Epoch 22, step/total_step: 50/230 21.74% Loss:7.5584
+Epoch 22, step/total_step: 55/230 23.91% Loss:7.5652
+Epoch 22, step/total_step: 60/230 26.09% Loss:5.9237
+Epoch 22, step/total_step: 65/230 28.26% Loss:5.9702
+Epoch 22, step/total_step: 70/230 30.43% Loss:6.3306
+Epoch 22, step/total_step: 75/230 32.61% Loss:5.1960
+Epoch 22, step/total_step: 80/230 34.78% Loss:4.6642
+Epoch 22, step/total_step: 85/230 36.96% Loss:5.0786
+Epoch 22, step/total_step: 90/230 39.13% Loss:5.0799
+Epoch 22, step/total_step: 95/230 41.30% Loss:4.0707
+Epoch 22, step/total_step: 100/230 43.48% Loss:4.3747
+Epoch 22, step/total_step: 105/230 45.65% Loss:3.4115
+Epoch 22, step/total_step: 110/230 47.83% Loss:3.7323
+Epoch 22, step/total_step: 115/230 50.00% Loss:3.9226
+Epoch 22, step/total_step: 120/230 52.17% Loss:2.8284
+Epoch 22, step/total_step: 125/230 54.35% Loss:3.1089
+Epoch 22, step/total_step: 130/230 56.52% Loss:3.5277
+Epoch 22, step/total_step: 135/230 58.70% Loss:4.0586
+Epoch 22, step/total_step: 140/230 60.87% Loss:2.8260
+Epoch 22, step/total_step: 145/230 63.04% Loss:2.4159
+Epoch 22, step/total_step: 150/230 65.22% Loss:2.7505
+Epoch 22, step/total_step: 155/230 67.39% Loss:2.1094
+Epoch 22, step/total_step: 160/230 69.57% Loss:2.6191
+Epoch 22, step/total_step: 165/230 71.74% Loss:1.7228
+Epoch 22, step/total_step: 170/230 73.91% Loss:2.1440
+Epoch 22, step/total_step: 175/230 76.09% Loss:1.8592
+Epoch 22, step/total_step: 180/230 78.26% Loss:2.1871
+Epoch 22, step/total_step: 185/230 80.43% Loss:1.2639
+Epoch 22, step/total_step: 190/230 82.61% Loss:1.6045
+Epoch 22, step/total_step: 195/230 84.78% Loss:1.9155
+Epoch 22, step/total_step: 200/230 86.96% Loss:1.3513
+Epoch 22, step/total_step: 205/230 89.13% Loss:1.1509
+Epoch 22, step/total_step: 210/230 91.30% Loss:1.2828
+Epoch 22, step/total_step: 215/230 93.48% Loss:0.7228
+Epoch 22, step/total_step: 220/230 95.65% Loss:1.0082
+Epoch 22, step/total_step: 225/230 97.83% Loss:0.3174
+Epoch 22, step/total_step: 230/230 100.00% Loss:0.2285
+保存模型...
+Epoch 22, Val Loss:8.6640
+Epoch 23, step/total_step: 5/230 2.17% Loss:17.2511
+Epoch 23, step/total_step: 10/230 4.35% Loss:12.7723
+Epoch 23, step/total_step: 15/230 6.52% Loss:14.5272
+Epoch 23, step/total_step: 20/230 8.70% Loss:10.7902
+Epoch 23, step/total_step: 25/230 10.87% Loss:9.9448
+Epoch 23, step/total_step: 30/230 13.04% Loss:10.6648
+Epoch 23, step/total_step: 35/230 15.22% Loss:10.5040
+Epoch 23, step/total_step: 40/230 17.39% Loss:10.1928
+Epoch 23, step/total_step: 45/230 19.57% Loss:9.3436
+Epoch 23, step/total_step: 50/230 21.74% Loss:6.8569
+Epoch 23, step/total_step: 55/230 23.91% Loss:7.5298
+Epoch 23, step/total_step: 60/230 26.09% Loss:5.4472
+Epoch 23, step/total_step: 65/230 28.26% Loss:5.9477
+Epoch 23, step/total_step: 70/230 30.43% Loss:6.0340
+Epoch 23, step/total_step: 75/230 32.61% Loss:4.7737
+Epoch 23, step/total_step: 80/230 34.78% Loss:4.1029
+Epoch 23, step/total_step: 85/230 36.96% Loss:4.5377
+Epoch 23, step/total_step: 90/230 39.13% Loss:4.8461
+Epoch 23, step/total_step: 95/230 41.30% Loss:3.8569
+Epoch 23, step/total_step: 100/230 43.48% Loss:4.0736
+Epoch 23, step/total_step: 105/230 45.65% Loss:3.4098
+Epoch 23, step/total_step: 110/230 47.83% Loss:3.3647
+Epoch 23, step/total_step: 115/230 50.00% Loss:3.6355
+Epoch 23, step/total_step: 120/230 52.17% Loss:2.6531
+Epoch 23, step/total_step: 125/230 54.35% Loss:2.8207
+Epoch 23, step/total_step: 130/230 56.52% Loss:3.1722
+Epoch 23, step/total_step: 135/230 58.70% Loss:3.7842
+Epoch 23, step/total_step: 140/230 60.87% Loss:2.5683
+Epoch 23, step/total_step: 145/230 63.04% Loss:2.1721
+Epoch 23, step/total_step: 150/230 65.22% Loss:2.5211
+Epoch 23, step/total_step: 155/230 67.39% Loss:2.0149
+Epoch 23, step/total_step: 160/230 69.57% Loss:2.4924
+Epoch 23, step/total_step: 165/230 71.74% Loss:1.5826
+Epoch 23, step/total_step: 170/230 73.91% Loss:1.9832
+Epoch 23, step/total_step: 175/230 76.09% Loss:1.7415
+Epoch 23, step/total_step: 180/230 78.26% Loss:2.0432
+Epoch 23, step/total_step: 185/230 80.43% Loss:1.2000
+Epoch 23, step/total_step: 190/230 82.61% Loss:1.4812
+Epoch 23, step/total_step: 195/230 84.78% Loss:1.8244
+Epoch 23, step/total_step: 200/230 86.96% Loss:1.3093
+Epoch 23, step/total_step: 205/230 89.13% Loss:1.0432
+Epoch 23, step/total_step: 210/230 91.30% Loss:1.1912
+Epoch 23, step/total_step: 215/230 93.48% Loss:0.6725
+Epoch 23, step/total_step: 220/230 95.65% Loss:0.9948
+Epoch 23, step/total_step: 225/230 97.83% Loss:0.2901
+Epoch 23, step/total_step: 230/230 100.00% Loss:0.2137
+保存模型...
+Epoch 23, Val Loss:8.5653
+Epoch 24, step/total_step: 5/230 2.17% Loss:15.6450
+Epoch 24, step/total_step: 10/230 4.35% Loss:11.7131
+Epoch 24, step/total_step: 15/230 6.52% Loss:13.3679
+Epoch 24, step/total_step: 20/230 8.70% Loss:10.1887
+Epoch 24, step/total_step: 25/230 10.87% Loss:8.9044
+Epoch 24, step/total_step: 30/230 13.04% Loss:9.0156
+Epoch 24, step/total_step: 35/230 15.22% Loss:9.1808
+Epoch 24, step/total_step: 40/230 17.39% Loss:9.1583
+Epoch 24, step/total_step: 45/230 19.57% Loss:7.6126
+Epoch 24, step/total_step: 50/230 21.74% Loss:6.9110
+Epoch 24, step/total_step: 55/230 23.91% Loss:7.3227
+Epoch 24, step/total_step: 60/230 26.09% Loss:4.9963
+Epoch 24, step/total_step: 65/230 28.26% Loss:6.3666
+Epoch 24, step/total_step: 70/230 30.43% Loss:5.6421
+Epoch 24, step/total_step: 75/230 32.61% Loss:4.7526
+Epoch 24, step/total_step: 80/230 34.78% Loss:4.1459
+Epoch 24, step/total_step: 85/230 36.96% Loss:4.5913
+Epoch 24, step/total_step: 90/230 39.13% Loss:4.6939
+Epoch 24, step/total_step: 95/230 41.30% Loss:3.9061
+Epoch 24, step/total_step: 100/230 43.48% Loss:3.8841
+Epoch 24, step/total_step: 105/230 45.65% Loss:3.3151
+Epoch 24, step/total_step: 110/230 47.83% Loss:3.0768
+Epoch 24, step/total_step: 115/230 50.00% Loss:3.4472
+Epoch 24, step/total_step: 120/230 52.17% Loss:2.5236
+Epoch 24, step/total_step: 125/230 54.35% Loss:2.6846
+Epoch 24, step/total_step: 130/230 56.52% Loss:2.9104
+Epoch 24, step/total_step: 135/230 58.70% Loss:3.5810
+Epoch 24, step/total_step: 140/230 60.87% Loss:2.4483
+Epoch 24, step/total_step: 145/230 63.04% Loss:2.0667
+Epoch 24, step/total_step: 150/230 65.22% Loss:2.3660
+Epoch 24, step/total_step: 155/230 67.39% Loss:1.8330
+Epoch 24, step/total_step: 160/230 69.57% Loss:2.3630
+Epoch 24, step/total_step: 165/230 71.74% Loss:1.5047
+Epoch 24, step/total_step: 170/230 73.91% Loss:1.7991
+Epoch 24, step/total_step: 175/230 76.09% Loss:1.6685
+Epoch 24, step/total_step: 180/230 78.26% Loss:1.9091
+Epoch 24, step/total_step: 185/230 80.43% Loss:1.1090
+Epoch 24, step/total_step: 190/230 82.61% Loss:1.4033
+Epoch 24, step/total_step: 195/230 84.78% Loss:1.7022
+Epoch 24, step/total_step: 200/230 86.96% Loss:1.2143
+Epoch 24, step/total_step: 205/230 89.13% Loss:0.9612
+Epoch 24, step/total_step: 210/230 91.30% Loss:1.1302
+Epoch 24, step/total_step: 215/230 93.48% Loss:0.6449
+Epoch 24, step/total_step: 220/230 95.65% Loss:0.8916
+Epoch 24, step/total_step: 225/230 97.83% Loss:0.2835
+Epoch 24, step/total_step: 230/230 100.00% Loss:0.2066
+保存模型...
+Epoch 24, Val Loss:8.5321
+Epoch 25, step/total_step: 5/230 2.17% Loss:13.9699
+Epoch 25, step/total_step: 10/230 4.35% Loss:10.6906
+Epoch 25, step/total_step: 15/230 6.52% Loss:12.7824
+Epoch 25, step/total_step: 20/230 8.70% Loss:11.5713
+Epoch 25, step/total_step: 25/230 10.87% Loss:9.1759
+Epoch 25, step/total_step: 30/230 13.04% Loss:9.8777
+Epoch 25, step/total_step: 35/230 15.22% Loss:8.2781
+Epoch 25, step/total_step: 40/230 17.39% Loss:8.1477
+Epoch 25, step/total_step: 45/230 19.57% Loss:6.9244
+Epoch 25, step/total_step: 50/230 21.74% Loss:6.1002
+Epoch 25, step/total_step: 55/230 23.91% Loss:6.3421
+Epoch 25, step/total_step: 60/230 26.09% Loss:5.2249
+Epoch 25, step/total_step: 65/230 28.26% Loss:5.6221
+Epoch 25, step/total_step: 70/230 30.43% Loss:5.6009
+Epoch 25, step/total_step: 75/230 32.61% Loss:4.8449
+Epoch 25, step/total_step: 80/230 34.78% Loss:4.4601
+Epoch 25, step/total_step: 85/230 36.96% Loss:4.5520
+Epoch 25, step/total_step: 90/230 39.13% Loss:4.7431
+Epoch 25, step/total_step: 95/230 41.30% Loss:3.7068
+Epoch 25, step/total_step: 100/230 43.48% Loss:3.7785
+Epoch 25, step/total_step: 105/230 45.65% Loss:3.0152
+Epoch 25, step/total_step: 110/230 47.83% Loss:3.2258
+Epoch 25, step/total_step: 115/230 50.00% Loss:3.3368
+Epoch 25, step/total_step: 120/230 52.17% Loss:2.4660
+Epoch 25, step/total_step: 125/230 54.35% Loss:2.5929
+Epoch 25, step/total_step: 130/230 56.52% Loss:2.7629
+Epoch 25, step/total_step: 135/230 58.70% Loss:3.5689
+Epoch 25, step/total_step: 140/230 60.87% Loss:2.3575
+Epoch 25, step/total_step: 145/230 63.04% Loss:1.8210
+Epoch 25, step/total_step: 150/230 65.22% Loss:2.3079
+Epoch 25, step/total_step: 155/230 67.39% Loss:1.6633
+Epoch 25, step/total_step: 160/230 69.57% Loss:2.2885
+Epoch 25, step/total_step: 165/230 71.74% Loss:1.4442
+Epoch 25, step/total_step: 170/230 73.91% Loss:1.6941
+Epoch 25, step/total_step: 175/230 76.09% Loss:1.5833
+Epoch 25, step/total_step: 180/230 78.26% Loss:1.8363
+Epoch 25, step/total_step: 185/230 80.43% Loss:1.0443
+Epoch 25, step/total_step: 190/230 82.61% Loss:1.3509
+Epoch 25, step/total_step: 195/230 84.78% Loss:1.6248
+Epoch 25, step/total_step: 200/230 86.96% Loss:1.1428
+Epoch 25, step/total_step: 205/230 89.13% Loss:0.8922
+Epoch 25, step/total_step: 210/230 91.30% Loss:1.1203
+Epoch 25, step/total_step: 215/230 93.48% Loss:0.6053
+Epoch 25, step/total_step: 220/230 95.65% Loss:0.8640
+Epoch 25, step/total_step: 225/230 97.83% Loss:0.2733
+Epoch 25, step/total_step: 230/230 100.00% Loss:0.1958
+保存模型...
+Epoch 25, Val Loss:8.4725
+Epoch 26, step/total_step: 5/230 2.17% Loss:12.8152
+Epoch 26, step/total_step: 10/230 4.35% Loss:11.0190
+Epoch 26, step/total_step: 15/230 6.52% Loss:12.3687
+Epoch 26, step/total_step: 20/230 8.70% Loss:10.4609
+Epoch 26, step/total_step: 25/230 10.87% Loss:8.8344
+Epoch 26, step/total_step: 30/230 13.04% Loss:8.9329
+Epoch 26, step/total_step: 35/230 15.22% Loss:8.2520
+Epoch 26, step/total_step: 40/230 17.39% Loss:8.0390
+Epoch 26, step/total_step: 45/230 19.57% Loss:7.0591
+Epoch 26, step/total_step: 50/230 21.74% Loss:5.5724
+Epoch 26, step/total_step: 55/230 23.91% Loss:6.4226
+Epoch 26, step/total_step: 60/230 26.09% Loss:4.9744
+Epoch 26, step/total_step: 65/230 28.26% Loss:4.7971
+Epoch 26, step/total_step: 70/230 30.43% Loss:5.3807
+Epoch 26, step/total_step: 75/230 32.61% Loss:4.0641
+Epoch 26, step/total_step: 80/230 34.78% Loss:4.2323
+Epoch 26, step/total_step: 85/230 36.96% Loss:3.7921
+Epoch 26, step/total_step: 90/230 39.13% Loss:4.9265
+Epoch 26, step/total_step: 95/230 41.30% Loss:3.2448
+Epoch 26, step/total_step: 100/230 43.48% Loss:4.0014
+Epoch 26, step/total_step: 105/230 45.65% Loss:2.8311
+Epoch 26, step/total_step: 110/230 47.83% Loss:3.2676
+Epoch 26, step/total_step: 115/230 50.00% Loss:3.3384
+Epoch 26, step/total_step: 120/230 52.17% Loss:2.5470
+Epoch 26, step/total_step: 125/230 54.35% Loss:2.7841
+Epoch 26, step/total_step: 130/230 56.52% Loss:2.7176
+Epoch 26, step/total_step: 135/230 58.70% Loss:3.6691
+Epoch 26, step/total_step: 140/230 60.87% Loss:2.2975
+Epoch 26, step/total_step: 145/230 63.04% Loss:1.8400
+Epoch 26, step/total_step: 150/230 65.22% Loss:2.1965
+Epoch 26, step/total_step: 155/230 67.39% Loss:1.6638
+Epoch 26, step/total_step: 160/230 69.57% Loss:2.1843
+Epoch 26, step/total_step: 165/230 71.74% Loss:1.4061
+Epoch 26, step/total_step: 170/230 73.91% Loss:1.6315
+Epoch 26, step/total_step: 175/230 76.09% Loss:1.4779
+Epoch 26, step/total_step: 180/230 78.26% Loss:1.7646
+Epoch 26, step/total_step: 185/230 80.43% Loss:0.9833
+Epoch 26, step/total_step: 190/230 82.61% Loss:1.3081
+Epoch 26, step/total_step: 195/230 84.78% Loss:1.5806
+Epoch 26, step/total_step: 200/230 86.96% Loss:1.0871
+Epoch 26, step/total_step: 205/230 89.13% Loss:0.8525
+Epoch 26, step/total_step: 210/230 91.30% Loss:1.0763
+Epoch 26, step/total_step: 215/230 93.48% Loss:0.5918
+Epoch 26, step/total_step: 220/230 95.65% Loss:0.7601
+Epoch 26, step/total_step: 225/230 97.83% Loss:0.2482
+Epoch 26, step/total_step: 230/230 100.00% Loss:0.1967
+Epoch 26, Val Loss:8.5588
+Epoch 27, step/total_step: 5/230 2.17% Loss:11.9084
+Epoch 27, step/total_step: 10/230 4.35% Loss:9.4449
+Epoch 27, step/total_step: 15/230 6.52% Loss:11.3807
+Epoch 27, step/total_step: 20/230 8.70% Loss:10.4565
+Epoch 27, step/total_step: 25/230 10.87% Loss:8.2359
+Epoch 27, step/total_step: 30/230 13.04% Loss:9.1729
+Epoch 27, step/total_step: 35/230 15.22% Loss:9.4837
+Epoch 27, step/total_step: 40/230 17.39% Loss:6.9989
+Epoch 27, step/total_step: 45/230 19.57% Loss:8.0498
+Epoch 27, step/total_step: 50/230 21.74% Loss:5.2877
+Epoch 27, step/total_step: 55/230 23.91% Loss:6.6235
+Epoch 27, step/total_step: 60/230 26.09% Loss:5.0839
+Epoch 27, step/total_step: 65/230 28.26% Loss:4.8450
+Epoch 27, step/total_step: 70/230 30.43% Loss:5.4056
+Epoch 27, step/total_step: 75/230 32.61% Loss:3.8966
+Epoch 27, step/total_step: 80/230 34.78% Loss:4.0207
+Epoch 27, step/total_step: 85/230 36.96% Loss:3.8799
+Epoch 27, step/total_step: 90/230 39.13% Loss:4.4682
+Epoch 27, step/total_step: 95/230 41.30% Loss:3.3278
+Epoch 27, step/total_step: 100/230 43.48% Loss:3.6452
+Epoch 27, step/total_step: 105/230 45.65% Loss:3.2896
+Epoch 27, step/total_step: 110/230 47.83% Loss:2.7431
+Epoch 27, step/total_step: 115/230 50.00% Loss:3.5226
+Epoch 27, step/total_step: 120/230 52.17% Loss:2.1904
+Epoch 27, step/total_step: 125/230 54.35% Loss:2.8182
+Epoch 27, step/total_step: 130/230 56.52% Loss:3.0263
+Epoch 27, step/total_step: 135/230 58.70% Loss:3.4320
+Epoch 27, step/total_step: 140/230 60.87% Loss:2.3763
+Epoch 27, step/total_step: 145/230 63.04% Loss:1.8391
+Epoch 27, step/total_step: 150/230 65.22% Loss:2.1355
+Epoch 27, step/total_step: 155/230 67.39% Loss:1.6057
+Epoch 27, step/total_step: 160/230 69.57% Loss:2.2133
+Epoch 27, step/total_step: 165/230 71.74% Loss:1.4180
+Epoch 27, step/total_step: 170/230 73.91% Loss:1.5787
+Epoch 27, step/total_step: 175/230 76.09% Loss:1.4489
+Epoch 27, step/total_step: 180/230 78.26% Loss:1.7137
+Epoch 27, step/total_step: 185/230 80.43% Loss:0.9419
+Epoch 27, step/total_step: 190/230 82.61% Loss:1.2427
+Epoch 27, step/total_step: 195/230 84.78% Loss:1.5401
+Epoch 27, step/total_step: 200/230 86.96% Loss:1.0467
+Epoch 27, step/total_step: 205/230 89.13% Loss:0.8189
+Epoch 27, step/total_step: 210/230 91.30% Loss:1.0310
+Epoch 27, step/total_step: 215/230 93.48% Loss:0.5964
+Epoch 27, step/total_step: 220/230 95.65% Loss:0.7495
+Epoch 27, step/total_step: 225/230 97.83% Loss:0.2391
+Epoch 27, step/total_step: 230/230 100.00% Loss:0.1901
+保存模型...
+Epoch 27, Val Loss:8.3425
+Epoch 28, step/total_step: 5/230 2.17% Loss:11.4717
+Epoch 28, step/total_step: 10/230 4.35% Loss:8.9662
+Epoch 28, step/total_step: 15/230 6.52% Loss:10.6917
+Epoch 28, step/total_step: 20/230 8.70% Loss:9.6878
+Epoch 28, step/total_step: 25/230 10.87% Loss:7.3763
+Epoch 28, step/total_step: 30/230 13.04% Loss:10.0666
+Epoch 28, step/total_step: 35/230 15.22% Loss:8.6096
+Epoch 28, step/total_step: 40/230 17.39% Loss:6.9896
+Epoch 28, step/total_step: 45/230 19.57% Loss:7.6018
+Epoch 28, step/total_step: 50/230 21.74% Loss:6.0515
+Epoch 28, step/total_step: 55/230 23.91% Loss:6.0166
+Epoch 28, step/total_step: 60/230 26.09% Loss:4.2927
+Epoch 28, step/total_step: 65/230 28.26% Loss:4.3823
+Epoch 28, step/total_step: 70/230 30.43% Loss:4.4251
+Epoch 28, step/total_step: 75/230 32.61% Loss:3.9078
+Epoch 28, step/total_step: 80/230 34.78% Loss:3.4171
+Epoch 28, step/total_step: 85/230 36.96% Loss:3.5186
+Epoch 28, step/total_step: 90/230 39.13% Loss:3.8966
+Epoch 28, step/total_step: 95/230 41.30% Loss:3.1513
+Epoch 28, step/total_step: 100/230 43.48% Loss:3.3542
+Epoch 28, step/total_step: 105/230 45.65% Loss:2.7792
+Epoch 28, step/total_step: 110/230 47.83% Loss:2.4934
+Epoch 28, step/total_step: 115/230 50.00% Loss:2.9003
+Epoch 28, step/total_step: 120/230 52.17% Loss:2.1310
+Epoch 28, step/total_step: 125/230 54.35% Loss:2.4154
+Epoch 28, step/total_step: 130/230 56.52% Loss:2.6319
+Epoch 28, step/total_step: 135/230 58.70% Loss:3.2743
+Epoch 28, step/total_step: 140/230 60.87% Loss:2.1305
+Epoch 28, step/total_step: 145/230 63.04% Loss:1.8620
+Epoch 28, step/total_step: 150/230 65.22% Loss:2.1128
+Epoch 28, step/total_step: 155/230 67.39% Loss:1.5170
+Epoch 28, step/total_step: 160/230 69.57% Loss:2.1110
+Epoch 28, step/total_step: 165/230 71.74% Loss:1.3939
+Epoch 28, step/total_step: 170/230 73.91% Loss:1.4803
+Epoch 28, step/total_step: 175/230 76.09% Loss:1.3840
+Epoch 28, step/total_step: 180/230 78.26% Loss:1.6798
+Epoch 28, step/total_step: 185/230 80.43% Loss:0.9457
+Epoch 28, step/total_step: 190/230 82.61% Loss:1.2591
+Epoch 28, step/total_step: 195/230 84.78% Loss:1.4926
+Epoch 28, step/total_step: 200/230 86.96% Loss:1.0083
+Epoch 28, step/total_step: 205/230 89.13% Loss:0.7931
+Epoch 28, step/total_step: 210/230 91.30% Loss:0.9567
+Epoch 28, step/total_step: 215/230 93.48% Loss:0.5529
+Epoch 28, step/total_step: 220/230 95.65% Loss:0.6747
+Epoch 28, step/total_step: 225/230 97.83% Loss:0.2380
+Epoch 28, step/total_step: 230/230 100.00% Loss:0.1822
+保存模型...
+Epoch 28, Val Loss:8.2036
+Epoch 29, step/total_step: 5/230 2.17% Loss:11.4071
+Epoch 29, step/total_step: 10/230 4.35% Loss:9.0857
+Epoch 29, step/total_step: 15/230 6.52% Loss:10.6049
+Epoch 29, step/total_step: 20/230 8.70% Loss:8.9773
+Epoch 29, step/total_step: 25/230 10.87% Loss:6.6734
+Epoch 29, step/total_step: 30/230 13.04% Loss:8.0794
+Epoch 29, step/total_step: 35/230 15.22% Loss:7.0225
+Epoch 29, step/total_step: 40/230 17.39% Loss:6.6419
+Epoch 29, step/total_step: 45/230 19.57% Loss:5.7709
+Epoch 29, step/total_step: 50/230 21.74% Loss:5.7341
+Epoch 29, step/total_step: 55/230 23.91% Loss:5.1043
+Epoch 29, step/total_step: 60/230 26.09% Loss:3.9962
+Epoch 29, step/total_step: 65/230 28.26% Loss:4.0705
+Epoch 29, step/total_step: 70/230 30.43% Loss:4.2688
+Epoch 29, step/total_step: 75/230 32.61% Loss:3.1979
+Epoch 29, step/total_step: 80/230 34.78% Loss:2.9932
+Epoch 29, step/total_step: 85/230 36.96% Loss:3.1336
+Epoch 29, step/total_step: 90/230 39.13% Loss:3.4391
+Epoch 29, step/total_step: 95/230 41.30% Loss:2.6703
+Epoch 29, step/total_step: 100/230 43.48% Loss:3.1051
+Epoch 29, step/total_step: 105/230 45.65% Loss:2.3763
+Epoch 29, step/total_step: 110/230 47.83% Loss:2.2795
+Epoch 29, step/total_step: 115/230 50.00% Loss:2.6920
+Epoch 29, step/total_step: 120/230 52.17% Loss:1.9318
+Epoch 29, step/total_step: 125/230 54.35% Loss:2.2532
+Epoch 29, step/total_step: 130/230 56.52% Loss:2.3833
+Epoch 29, step/total_step: 135/230 58.70% Loss:3.1433
+Epoch 29, step/total_step: 140/230 60.87% Loss:1.9105
+Epoch 29, step/total_step: 145/230 63.04% Loss:1.5051
+Epoch 29, step/total_step: 150/230 65.22% Loss:1.9375
+Epoch 29, step/total_step: 155/230 67.39% Loss:1.4206
+Epoch 29, step/total_step: 160/230 69.57% Loss:1.9656
+Epoch 29, step/total_step: 165/230 71.74% Loss:1.2338
+Epoch 29, step/total_step: 170/230 73.91% Loss:1.3506
+Epoch 29, step/total_step: 175/230 76.09% Loss:1.2672
+Epoch 29, step/total_step: 180/230 78.26% Loss:1.5596
+Epoch 29, step/total_step: 185/230 80.43% Loss:0.8405
+Epoch 29, step/total_step: 190/230 82.61% Loss:1.1139
+Epoch 29, step/total_step: 195/230 84.78% Loss:1.4620
+Epoch 29, step/total_step: 200/230 86.96% Loss:0.9134
+Epoch 29, step/total_step: 205/230 89.13% Loss:0.7393
+Epoch 29, step/total_step: 210/230 91.30% Loss:0.9296
+Epoch 29, step/total_step: 215/230 93.48% Loss:0.5221
+Epoch 29, step/total_step: 220/230 95.65% Loss:0.6726
+Epoch 29, step/total_step: 225/230 97.83% Loss:0.2224
+Epoch 29, step/total_step: 230/230 100.00% Loss:0.1699
+Epoch 29, Val Loss:8.4981
+Epoch 30, step/total_step: 5/230 2.17% Loss:11.8272
+Epoch 30, step/total_step: 10/230 4.35% Loss:8.6036
+Epoch 30, step/total_step: 15/230 6.52% Loss:10.4406
+Epoch 30, step/total_step: 20/230 8.70% Loss:8.9276
+Epoch 30, step/total_step: 25/230 10.87% Loss:6.7432
+Epoch 30, step/total_step: 30/230 13.04% Loss:8.4355
+Epoch 30, step/total_step: 35/230 15.22% Loss:6.8233
+Epoch 30, step/total_step: 40/230 17.39% Loss:5.9516
+Epoch 30, step/total_step: 45/230 19.57% Loss:5.7115
+Epoch 30, step/total_step: 50/230 21.74% Loss:5.7833
+Epoch 30, step/total_step: 55/230 23.91% Loss:4.7531
+Epoch 30, step/total_step: 60/230 26.09% Loss:3.8715
+Epoch 30, step/total_step: 65/230 28.26% Loss:3.8771
+Epoch 30, step/total_step: 70/230 30.43% Loss:4.1347
+Epoch 30, step/total_step: 75/230 32.61% Loss:3.0354
+Epoch 30, step/total_step: 80/230 34.78% Loss:2.7831
+Epoch 30, step/total_step: 85/230 36.96% Loss:3.1132
+Epoch 30, step/total_step: 90/230 39.13% Loss:3.2425
+Epoch 30, step/total_step: 95/230 41.30% Loss:2.5472
+Epoch 30, step/total_step: 100/230 43.48% Loss:3.0049
+Epoch 30, step/total_step: 105/230 45.65% Loss:2.1637
+Epoch 30, step/total_step: 110/230 47.83% Loss:2.1704
+Epoch 30, step/total_step: 115/230 50.00% Loss:2.6924
+Epoch 30, step/total_step: 120/230 52.17% Loss:1.8102
+Epoch 30, step/total_step: 125/230 54.35% Loss:2.1106
+Epoch 30, step/total_step: 130/230 56.52% Loss:2.3050
+Epoch 30, step/total_step: 135/230 58.70% Loss:3.0238
+Epoch 30, step/total_step: 140/230 60.87% Loss:1.9821
+Epoch 30, step/total_step: 145/230 63.04% Loss:1.5190
+Epoch 30, step/total_step: 150/230 65.22% Loss:1.7710
+Epoch 30, step/total_step: 155/230 67.39% Loss:1.3361
+Epoch 30, step/total_step: 160/230 69.57% Loss:1.8287
+Epoch 30, step/total_step: 165/230 71.74% Loss:1.2085
+Epoch 30, step/total_step: 170/230 73.91% Loss:1.2584
+Epoch 30, step/total_step: 175/230 76.09% Loss:1.1941
+Epoch 30, step/total_step: 180/230 78.26% Loss:1.5143
+Epoch 30, step/total_step: 185/230 80.43% Loss:0.7808
+Epoch 30, step/total_step: 190/230 82.61% Loss:1.0382
+Epoch 30, step/total_step: 195/230 84.78% Loss:1.3678
+Epoch 30, step/total_step: 200/230 86.96% Loss:0.8948
+Epoch 30, step/total_step: 205/230 89.13% Loss:0.7166
+Epoch 30, step/total_step: 210/230 91.30% Loss:0.8717
+Epoch 30, step/total_step: 215/230 93.48% Loss:0.5190
+Epoch 30, step/total_step: 220/230 95.65% Loss:0.6098
+Epoch 30, step/total_step: 225/230 97.83% Loss:0.2135
+Epoch 30, step/total_step: 230/230 100.00% Loss:0.1720
+Epoch 30, Val Loss:8.2653
+训练完毕,共用时963秒.
+评估bilstm_crf模型中...
+   precision    recall  f1-score   support
+I-share     0.5867    0.3465    0.4356       127
+B-condition     0.4721    0.5336    0.5010       714
+I-data     0.8296    0.6497    0.7287      6443
+E-share     0.8310    0.6818    0.7491       440
+B-handler     0.8104    0.6272    0.7071       845
+B-collect     0.8322    0.6654    0.7395       529
+E-purpose     0.6910    0.6379    0.6634       845
+I-handler     0.6745    0.4028    0.5044       787
+B-data     0.8196    0.6491    0.7244      2331
+E-collect     0.8052    0.6843    0.7399       453
+I-collect     0.6500    0.2766    0.3881        94
+I-subjects     0.6554    0.3935    0.4918       986
+B-purpose     0.4836    0.4414    0.4615       870
+E-subjects     0.7179    0.5685    0.6346       197
+O     0.9072    0.9256    0.9163    115225
+E-data     0.8460    0.6767    0.7519      2224
+E-condition     0.4900    0.5593    0.5224       658
+I-condition     0.5271    0.6470    0.5809      5896
+E-handler     0.8187    0.6365    0.7162       674
+B-share     0.7922    0.6403    0.7082       506
+B-subjects     0.6418    0.4886    0.5548       352
+I-purpose     0.6571    0.6782    0.6675      7209
+avg/total     0.8602    0.8594    0.8580    148405
+
+Confusion Matrix:
+I-share B-condition  I-data E-share B-handler B-collect E-purpose I-handler  B-data E-collect I-collect I-subjects B-purpose E-subjects       O  E-data E-condition I-condition E-handler B-share B-subjects I-purpose 
+I-share      44       0       0      11       0       0       0       0       0       0       0       0       0       0      54       0       0       2       0      16       0       0 
+B-condition       0     381       0       0       0       0       0       0       1       0       0       0       6       0     264       0       0      60       0       0       0       2 
+I-data       0       0    4186       1       0       0       0       0      56       0       0       0       0       0    2100      30       0      36       0       1       0      33 
+E-share       4       0       1     300       0       0       0       0       0       0       0       0       0       0     126       0       1       6       0       0       0       2 
+B-handler       0       8       0       0     530       1       0       6       0       0       0       0       2       0     290       0       0       4       1       0       1       2 
+B-collect       0       0       0       0       0     352       0       0       0       0       0       0       0       0     175       0       0       2       0       0       0       0 
+E-purpose       0       0       0       0       0       0     539       0       0       0       0       0       0       0     282       2       5      10       0       0       0       7 
+I-handler       0       0       0       0       8       1       0     317       0       1       0      10       0       0     415       0       0      19       8       0       0       8 
+B-data       0       4      55       0       2       1       0       0    1513       0       0       0       7       0     733       0       0      12       0       0       0       4 
+E-collect       0       0       0       0       0       0       0       0       0     310       4       0       0       0     137       0       0       2       0       0       0       0 
+I-collect       0       0       0       0       0       4       0       0       0      18      26       0       0       0      46       0       0       0       0       0       0       0 
+I-subjects       0       0       5       0       0       0       0      31       0       0       0     388       0      21     487       0       0      19       0       0      33       2 
+B-purpose       0       5       0       0       0       0       0       0       0       0       0       0     384       0     355       0       0      10       0       0       0     116 
+E-subjects       0       0       0       0       0       0       0       0       0       0       0       5       0     112      59       2       5       2      11       0       0       1 
+O      24     362     737      49     103      64     220     105     270      54      10     171     334      22  106652     239     336    3061      74      68      62    2208 
+E-data       0       0      32       0       0       0       9       0       0       1       0       0       0       0     658    1505      12       4       1       0       0       2 
+E-condition       0       0       0       0       0       0       7       0       0       0       0       0       0       0     225       1     368      56       0       0       0       1 
+I-condition       0      43       4       0       0       0       4       0       0       0       0       0       4       0    1847       0      21    3815       0       0       0     158 
+E-handler       0       0       0       0       0       0       1      11       0       1       0       0       0       1     220       0       3       6     429       0       0       2 
+B-share       3       0       0       0       0       0       0       0       1       0       0       0       0       0     167       0       0       9       0     324       0       2 
+B-subjects       0       4       1       0      11       0       0       0       1       0       0      18       0       0     141       0       0       3       0       0     172       1 
+I-purpose       0       0      25       0       0       0       0       0       4       0       0       0      57       0    2134       0       0     100       0       0       0    4889 
+Ensemble 四个模型的结果如下：
+   precision    recall  f1-score   support
+I-share     0.5000    0.5669    0.5314       127
+B-condition     0.5784    0.4342    0.4960       714
+I-data     0.7549    0.7396    0.7472      6443
+E-share     0.7455    0.7455    0.7455       440
+B-handler     0.7157    0.5811    0.6414       845
+B-collect     0.7830    0.7297    0.7554       529
+E-purpose     0.7678    0.5751    0.6576       845
+I-handler     0.7015    0.2986    0.4189       787
+B-data     0.7311    0.6928    0.7115      2331
+E-collect     0.7536    0.6954    0.7233       453
+I-collect     0.6552    0.4043    0.5000        94
+I-subjects     0.6085    0.5375    0.5708       986
+B-purpose     0.5943    0.3805    0.4639       870
+E-subjects     0.7323    0.4721    0.5741       197
+O     0.9067    0.9322    0.9193    115225
+E-data     0.7519    0.7630    0.7574      2224
+E-condition     0.5916    0.4514    0.5121       658
+I-condition     0.6187    0.5848    0.6013      5896
+E-handler     0.7026    0.6380    0.6687       674
+B-share     0.7212    0.7055    0.7133       506
+B-subjects     0.6421    0.4943    0.5586       352
+I-purpose     0.7248    0.6446    0.6824      7209
+avg/total     0.8607    0.8656    0.8620    148405
+
+Confusion Matrix:
+I-share B-condition  I-data E-share B-handler B-collect E-purpose I-handler  B-data E-collect I-collect I-subjects B-purpose E-subjects       O  E-data E-condition I-condition E-handler B-share B-subjects I-purpose 
+I-share      72       0       0      18       0       0       0       0       0       0       0       0       0       0      32       0       0       0       0       5       0       0 
+B-condition       0     310       0       0       1       0       0       0       3       0       0       0       1       0     338       0       0      61       0       0       0       0 
+I-data       0       0    4765       0       0       0       0       0      72       0       0       1       0       0    1556      36       0       0       0       0       0      13 
+E-share       3       0       1     328       0       0       0       0       0       0       0       0       0       0     106       0       1       0       0       0       0       1 
+B-handler       0       1       0       0     491       1       0       3       0       0       0       0       0       0     342       0       0       2       1       0       3       1 
+B-collect       0       0       0       0       0     386       0       0       0       0       0       0       0       0     141       0       0       2       0       0       0       0 
+E-purpose       0       0       0       0       0       0     486       0       0       0       0       0       0       0     338       7       3       6       0       0       0       5 
+I-handler       0       0       0       0       7       1       0     235       0       1       0       9       0       0     519       0       0       6       7       0       1       1 
+B-data       0       0      85       0       0       1       0       0    1615       0       0       0       3       0     624       0       0       0       0       0       0       3 
+E-collect       0       0       0       0       0       0       0       0       0     315       9       0       0       0     127       0       0       2       0       0       0       0 
+I-collect       0       0       0       0       0       1       0       0       0      18      38       0       0       0      36       0       0       0       0       0       0       1 
+I-subjects       0       0       0       3       0       0       0       1       0       0       0     530       0       1     436       0       0       4       0       1      10       0 
+B-purpose       0       3       0       0       0       0       0       0       0       0       0       0     331       0     416       0       0       7       0       0       0     113 
+E-subjects       0       0       0       0       0       0       0       0       0       0       0      23       0      93      77       1       2       0       1       0       0       0 
+O      51     182    1376      86     185      99     140      92     505      81      10     273     199      33  107413     506     190    1874     171     128      82    1549 
+E-data       0       0      32       0       0       0       2       0       0       2       0       0       0       0     490    1697       0       0       0       0       0       1 
+E-condition       0       0       1       0       0       0       4       0       0       0       0       0       0       0     271       8     297      76       1       0       0       0 
+I-condition       0      38      25       4       1       1       1       0       6       0       1       0       2       0    2281       0       8    3448       1       4       0      75 
+E-handler       0       0       0       0       0       0       0       4       0       1       0       0       0       0     238       0       0       1     430       0       0       0 
+B-share      18       0       0       1       0       0       0       0       0       0       0       0       0       0     128       0       0       1       0     357       0       1 
+B-subjects       0       1       0       0       1       0       0       0       0       0       0      35       0       0     139       0       0       2       0       0     174       0 
+I-purpose       0       1      27       0       0       3       0       0       8       0       0       0      21       0    2417       2       1      81       0       0       1    4647 
