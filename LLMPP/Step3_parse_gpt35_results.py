@@ -45,17 +45,25 @@ def get_metrics(gt, pred, confusion_list):
     for entity_type in gt:
         for entity_name in gt[entity_type]:
             confusion_list['ground_truth'].append(label_map[entity_type])
-            if entity_type not in pred:
-                confusion_list['prediction'].append(0)
-            else:
-                PRED_MATCH = False
-                for pred_en in pred[entity_type]:
+            PRED_MATCH = False
+            #
+            for pred_type in pred:
+                if PRED_MATCH:
+                    break
+                if pred_type not in label_map:
+                    continue
+                for pred_en in pred[pred_type]:
                     if pred_en == entity_name:
-                        confusion_list['prediction'].append(label_map[entity_type])
+                        confusion_list['prediction'].append(label_map[pred_type])
                         PRED_MATCH = True
-                        break  # in case there are llm hallucination
-                if not PRED_MATCH:
-                    confusion_list['prediction'].append(0)
+                        break
+                    elif len(entity_name) > 5 or len(pred_en) > 5:
+                        if entity_name in pred_en or pred_en in entity_name:
+                            confusion_list['prediction'].append(label_map[pred_type])
+                            PRED_MATCH = True
+                            break
+            if not PRED_MATCH:
+                confusion_list['prediction'].append(0)
 
 
 if __name__ == '__main__':
@@ -82,10 +90,17 @@ if __name__ == '__main__':
     print(confusion_matrix)
 
     print("\nPer-Class Metrics:")
-    for cls, metrics in class_metrics.items():
-        print(f"Class {int2label[cls]}: {metrics}")
+    for cls, results in class_metrics.items():
+        # print(f"Class {int2label[cls]}: {metrics}")
+        print(f"{int2label[cls]},{results['Precision']},"
+              f"{results['Recall']},{results['F1']},"
+              f"{results['TP']},{results['FP']},"
+              f"{results['FN']},{results['TN']}")
 
     print("\nOverall Metrics:")
     print(overall_metrics)
-
-    print(f"{wrong_output_num} wrong output format")
+    print(f"{overall_metrics['Precision']},"
+          f"{overall_metrics['Recall']},"
+          f"{overall_metrics['F1']},"
+          f"{overall_metrics['TP']},{overall_metrics['FP']},"
+          f"{overall_metrics['FN']},{overall_metrics['TN']},")
